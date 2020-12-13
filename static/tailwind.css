@@ -2,19 +2,24 @@
 
 @layer base {
     h1 {
-        @apply text-2xl mb-4;
+        @apply text-2xl mb-2;
     }
     
     h2 {
-        @apply text-xl mb-4;
+        @apply text-xl mb-2;
     }
 
     h3 {
-        @apply text-lg mb-4;
+        @apply text-lg mb-2;
     }
 
-    p {
+    p, ul, ol {
         @apply mb-4;
+    }
+
+    ul li {
+        list-style-type: disc;
+        list-style-position: inside;
     }
 }
 

@@ -14,6 +14,10 @@
 	a span {
 		@apply pb-1 md:pb-0 text-xs md:text-base text-gray-600 md:text-gray-400 block md:inline-block lowercase;
 	}
+
+	ul li {
+		@apply list-none;
+	}
 </style>
 
 <div class="w-full md:w-1/5 bg-gray-900 md:bg-gray-900 px-2 text-center fixed bottom-0 md:pt-8 md:top-0 md:left-0 h-16 md:h-screen md:border-r-4 md:border-gray-600">
@@ -70,5 +74,7 @@
 				</a>
 			</li>
 		</ul>
+
+		<p class="text-xs text-left text-gray-600 italic">&copy; 2004-2020</p>
 	</nav>
 </div>

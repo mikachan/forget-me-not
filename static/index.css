@@ -539,23 +539,28 @@ video {
 h1 {
   font-size: 1.5rem;
   line-height: 2rem;
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
 }
 
 h2 {
   font-size: 1.25rem;
   line-height: 1.75rem;
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
 }
 
 h3 {
   font-size: 1.125rem;
   line-height: 1.75rem;
+  margin-bottom: 0.5rem;
+}
+
+p, ul, ol {
   margin-bottom: 1rem;
 }
 
-p {
-  margin-bottom: 1rem;
+ul li {
+  list-style-type: disc;
+  list-style-position: inside;
 }
 
 .container {

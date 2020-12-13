@@ -25,9 +25,13 @@
         @apply mb-4;
     }
 
+    ul, ol {
+        @apply ml-6;
+    }
+
     ul li {
         list-style-type: disc;
-        list-style-position: inside;
+        list-style-position: outside;
     }
 }
 

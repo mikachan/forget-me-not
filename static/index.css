@@ -574,9 +574,13 @@ p, ul, ol {
   margin-bottom: 1rem;
 }
 
+ul, ol {
+  margin-left: 1.5rem;
+}
+
 ul li {
   list-style-type: disc;
-  list-style-position: inside;
+  list-style-position: outside;
 }
 
 .container {

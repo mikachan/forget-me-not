@@ -39,12 +39,12 @@
 <NavMobile {segment} />
 
 <div id="main-container" class="bg-gray-400est-100">
-	<div class="flex mb-4 relative ">
+	<div class="flex relative">
 		<Nav {segment} />
 
 		<div class="w-48 p-4 hidden md:block"></div>
 
-		<main class="flex w-full h-screen relative bg-gray-100">
+		<main class="flex w-full h-full relative bg-gray-100">
 			<div class="w-full lg:w-3/4 py-8 px-4 md:px-10 lg:px-16 xl:32 mt-20">
 				<slot></slot>
 			</div>

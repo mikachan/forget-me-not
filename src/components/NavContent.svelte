@@ -15,6 +15,10 @@
 		@apply pb-1 md:pb-0 text-xs md:text-base text-gray-300 md:text-gray-400 block md:inline-block lowercase;
 	}
 
+	ul {
+		@apply ml-0;
+	}
+
 	ul li {
 		@apply list-none;
 	}

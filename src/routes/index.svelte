@@ -8,10 +8,10 @@
 
 <h1>Forget-me-not</h1>
 
-<figure>
+<!-- <figure>
 	<img alt="Success Kid" src="{successkid}">
 	<figcaption>Have fun with Sapper!</figcaption>
-</figure>
+</figure> -->
 
 <p>The site was first opened on 23rd March, 2004. I decided to make a You fan site because, at the time, there were no sites dedicated to him in English. I know on just about every Gackt site there's a section on JOB, but I have grown to love You just as much as I love Gackt. Although I probably won't get any more information than any other site, I still wanted to dedicate this to You.</p>
 

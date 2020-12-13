@@ -9,9 +9,12 @@
 
 	export let segment: string;
 </script>
+<div class="flex md:flex-row-reverse flex-wrap">
+	<main class="w-full md:w-4/5 bg-gray-100">
+		<div class="container bg-gray-100 pt-16 px-6">
+			<slot></slot>
+		</div>
+	</main>
 
-<Nav {segment}/>
-
-<main>
-	<slot></slot>
-</main>
+	<Nav {segment} />
+</div>

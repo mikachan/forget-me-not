@@ -2,7 +2,7 @@
 	<title>Forget-me-not | You fansite</title>
 </svelte:head>
 
-<p>Welcome to <strong>Forget-me-not</strong>, a fansite dedicated to the Japanese musician, You, best known for playing guitar and violin in GacktJOB.</p>
+<p>Welcome to <strong>Forget-me-not</strong>, a fansite dedicated to the Japanese musician, You, best known for being part of Gackt's band and SQF.</p>
 
 <h2>Latest Updates</h2>
 

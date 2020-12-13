@@ -65,7 +65,7 @@
 
 		<h2>Official Site</h2>
 
-		<p><a href="http://www.you-robots.com" target="new">You-robots.com</a> is You's official site. It contains a short discography and gallery, links, etc. He also has a diary <a href="http://www.you-robots.com/diary/diary.cgi">here</a>.</p>
+		<p><a href="http://www.you-robots.com" target="new">You-robots.com</a> is You's official site. It contains a short discography and gallery, links, etc. He also has an Ameblo <a href="https://ameblo.jp/yourobot" target="new">here</a> and an official Facebook page <a href="https://www.facebook.com/YOU-161091424051137/" target="new">here</a>.</p>
 
 		<p>Apart from that, he's mentioned on the <a href="http://www.kyowashokai.co.jp/caparison.html" target="new">Caparison</a> site, <a href="http://h-darts.com" target="new">h-darts.com</a> and <a href="http://www.monkey-act-web.com" target="new">Monkey-act-web</a>.</p>
 	</div>

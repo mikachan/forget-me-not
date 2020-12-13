@@ -6,8 +6,6 @@
 	<title>Forget-me-not | You (of GacktJOB) fansite</title>
 </svelte:head>
 
-<h1>Forget-me-not</h1>
-
 <p>Welcome to <strong>Forget-me-not</strong>, a fansite dedicated to the Japanese musician, You, best known for supporting Gackt.</p>
 
 <!-- <figure>

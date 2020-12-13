@@ -2,7 +2,7 @@
 	<title>Sending Fanmail</title>
 </svelte:head>
 
-<h1>Sending Fanmail</h1>
+<h2>Sending Fanmail</h2>
 
 <p>You loves to hear from his fans, so don't be shy about contacting him! You can either contact him through the post or through his website.</p>
 

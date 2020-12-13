@@ -2,6 +2,6 @@
 	<title>Other</title>
 </svelte:head>
 
-<h1>Other</h1>
+<h2>Other</h2>
 
 <p>Image gallery coming soon.</p>

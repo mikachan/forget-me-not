@@ -1,30 +1,32 @@
+<script>
+	import cake from 'images/bdaycake.jpg';
+</script>
+
 <svelte:head>
 	<title>Birthday 2003</title>
 </svelte:head>
 
-<h1>Birthday 2003</h1>
+<h2>Birthday 2003</h2>
 
-I decided, since I seem to have so much information on You's birthday 2003, why not make a seperate page for it? Yup.<br><br>
+<p>I decided, since I seem to have so much information on You's birthday 2003, why not make a seperate page for it? Yup.</p>
 
-<h3>Where, when and who?</h3><br>
+<h3>Where, when and who?</h3>
 
-Where? - It happened on Gackt's <a href="http://www.allnightnippon.com/gackt" target="new">radio show</a>... urm, in the studio.<br><br>
+<p><strong>Where?</strong> - It happened on Gackt's <a href="http://www.allnightnippon.com/gackt" target="new">radio show</a>... urm, in the studio.</p>
 
-When? - February 10th, 2003. Surprisingly.<br><br>
+<p><strong>When?</strong> - February 10th, 2003. Surprisingly.</p>
 
-Who? - All of GacktJOB and crew.<br><br>
+<p><strong>Who?</strong> - All of GacktJOB and crew.</p>
 
-<h3>What?</h3><br>
+<h3>What?</h3>
 
-Here's a translation on the radio show, sent to me by <a href="mailto:sue@REMOVETHISkluetsch.dyndns.org">Sei-chan</a>.<br>
+<p>Here's a translation on the radio show, sent to me by Sei-chan.</p>
 
-<b>Gackt</b>: ^__^ Today it’s YOU'S birthday!! That’s why we made a program especially for him, it’s dedicated to love!! So, phone us and tell us 
-directly your love-problems... You and I will answer!!<br><br>
+<b>Gackt</b>: ^__^ Today it’s YOU'S birthday!! That’s why we made a program especially for him, it’s dedicated to love!! So, phone us and tell us directly your love-problems... You and I will answer!!<br><br>
 
 *Everything went normal and calm until this last girl phoned...*<br><br>
 
-<b>Girl</b>: -__- Hi... you see, I’ve got a big problem... I went out with a boy, and he was nice and everything... but when he drank 
-he changed entirely, he got violent and uncontrollable, he pushed me and made me do things that you can’t even imagine...<br><br>
+<b>Girl</b>: -__- Hi... you see, I’ve got a big problem... I went out with a boy, and he was nice and everything... but when he drank he changed entirely, he got violent and uncontrollable, he pushed me and made me do things that you can’t even imagine...<br><br>
 
 <b>Gackt</b>: O_O That’s terrible! *everybody in the studio : O_O!*<br><br>
 
@@ -101,4 +103,6 @@ And the studio was full of people who sang for him ~ And You was still trembling
 
 The "cake" that You received is shown below. If anyone's wondering where I got this from, I snagged it off the <a href="http://www.allnightnippon.com/gackt" target="new">ANN</a> site.<br><br>
 
-<img src="http://sekai.co.uk/you/images/bdaycake.jpg" width="300" alt="cake">
+<figure>
+	<img alt="Birthday cake" class="" src="{cake}">
+</figure>

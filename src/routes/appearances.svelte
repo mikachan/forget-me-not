@@ -2,7 +2,7 @@
 	<title>Appearances</title>
 </svelte:head>
 
-<h1>Appearances</h1>
+<h2>Appearances</h2>
 
 <p>Excluding the magazine which had an article about CAINS:FEEL; You first appeared in the Shoxx May 1999 issue. Since then he's been in many different types of media.</p>
 

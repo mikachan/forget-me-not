@@ -2,7 +2,7 @@
 	<title>Trivia</title>
 </svelte:head>
 
-<h1>Trivia</h1>
+<h2>Trivia</h2>
 
 <ul>
 	<li>all throughout his <a href="http://www.you-robots.com/diary/diary.cgi" target="new">online diary</a> cute, little daikons appear behind plates, on top of his laptop, etc. in his daily pictures. He reckons he resembles the Takara and Kiddy Land character, <a href="http://www.takaratoys.co.jp/aokubidaikon/" target="new">Aokubi Daikon</a>. A daikon is a large radish. <a href="http://en.wikipedia.org/wiki/Daikon" target="new">Wikipedia</a> can tell you a lot more than me.</li>
@@ -16,7 +16,7 @@
 	<li>he sleeps like a girl... whatever that means. He often wakes up at the wrong end of the bed, too.</li>
 	<li>his left ear is pierced twice.</li>
 	<li>fans call him "Grapefruit boy" because of Gackt's Mizerable ~Unmei~ photobook, "Big Brother You" (You-ni-san), a pole (denchu) because he's tall and quiet. And of course, they also call him a robot.</li>
-	<li>he has the most beautiful smile!<img src="http://sekai.co.uk/you/info1-02.jpg" alt="*_*" width="80" align="right" /></li>
+	<li>he has the best smile!</li>
 	<li>the day before the concert on 02.07.02, You read through the whole of the manga, <a href="http://en.wikipedia.org/wiki/City_Hunter" target="new">City Hunter</a>. There are over 30 volumes! You makes a habit of reading through a whole manga series in one go.</li>
 	<li>he brought Masa to tears when he turned up at the first Spiky live.</li>
 	<li>Chacha is always trying to get his attention! It's kind of amusing, really.</li>
@@ -36,5 +36,3 @@
 	<li>Gackt has also said that talking with You cheers him up if he's feeling down.</li>
 	<li>he follows Gackt around... haha. No, Gackt makes him go wherever he goes...</li>
 </ul>
-
-<img src="http://sekai.co.uk/you/images/info1-05.jpg" alt="This is just here for your viewing pleasure" align="right" />

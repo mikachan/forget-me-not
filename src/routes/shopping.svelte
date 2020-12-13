@@ -2,7 +2,7 @@
 	<title>Shopping</title>
 </svelte:head>
 
-<h1>Shopping</h1>
+<h2>Shopping</h2>
 
 There are several places you can buy Gackt releases online. <br>
 

@@ -13,6 +13,14 @@
         @apply text-lg mb-2;
     }
 
+    a {
+        @apply underline text-green-900;
+    }
+
+    a:hover {
+        @apply no-underline;
+    }
+
     p, ul, ol {
         @apply mb-4;
     }

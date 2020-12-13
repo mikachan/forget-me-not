@@ -4,11 +4,11 @@
 
 <style>
 	a {
-		@apply block py-1 md:py-2 pl-1 align-middle text-gray-800 no-underline hover:text-pink-500 border-b-2 border-gray-800 md:border-gray-900 hover:border-pink-500;
+		@apply block py-1 md:py-2 pl-1 align-middle text-gray-800 no-underline hover:text-green-500 border-b-2 border-gray-800 md:border-gray-900 hover:border-green-500;
 	}
 
 	a.active {
-		@apply block py-1 md:py-2 pl-1 align-middle text-white no-underline hover:text-white border-b-2 border-pink-600;
+		@apply block py-1 md:py-2 pl-1 align-middle text-white no-underline hover:text-white border-b-2 border-green-600;
 	}
 
 	li span {

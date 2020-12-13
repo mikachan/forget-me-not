@@ -5,6 +5,7 @@
     import { stores } from "@sapper/app";
 	import Nav from '../components/Nav.svelte';
 	import NavMobile from '../components/NavMobile.svelte';
+	import daikon from 'images/daikon.png';
 
 	let ga_measurment_id = "UA-7281616-1";
 
@@ -20,7 +21,10 @@
 </script>
 
 <nav class="fixed w-full z-20 flex items-center justify-between flex-wrap bg-white py-4 px-2 sm:px-6 border border-gray-200">
-	<a href="/" class="no-underline flex items-center flex-no-shrink text-white mr-6">
+	<a href="." class="no-underline flex items-center flex-no-shrink text-white mr-6">
+		<figure>
+			<img alt="Daikon" class="max-h-10 pr-4" src="{daikon}">
+		</figure>
 		<h1 class="font-medium text-xl tracking-tighter text-gray-900 mb-0">Forget-me-not</h1>
 	</a>
 	<div class="block md:hidden">

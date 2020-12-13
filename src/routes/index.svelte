@@ -1,17 +1,8 @@
-<script>
-	import successkid from 'images/successkid.jpg';
-</script>
-
 <svelte:head>
 	<title>Forget-me-not | You (of GacktJOB) fansite</title>
 </svelte:head>
 
 <p>Welcome to <strong>Forget-me-not</strong>, a fansite dedicated to the Japanese musician, You, best known for supporting Gackt.</p>
-
-<!-- <figure>
-	<img alt="Success Kid" src="{successkid}">
-	<figcaption>Have fun with Sapper!</figcaption>
-</figure> -->
 
 <h2>Site History</h2>
 

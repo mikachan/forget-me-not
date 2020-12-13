@@ -4,10 +4,10 @@
 
 🌸 Live site: [you.sekai.co.uk](https://you.sekai.co.uk/)
 
-Fansite for Japanese musician, You, famous for being part of Gackt's band. The site was first opened on 23rd March 2004, built with basic HTML and CSS in trusty Notepad. Around 2009 it was rebuilt as a Wordpress site where it lived for another 5-6 years. I then unfortunately completely abdandoned the site until 2020, when it was rebuilt again (maintaining the same content) using Svelte and Sapper.
+This is a fansite for Japanese musician, YOU, best know for playing guitar and violin for Gackt, and more recently, S.Q.F. 
 
-This was one of my first popular sites, helped along by being built when fansites were a big thing. Nevertheless I was really proud of building and maintaining it, and I'm pleased to have a working version live again.
+The site was first opened on 23rd March 2004, built with basic HTML and CSS in trusty Notepad. Around 2009 it was rebuilt as a Wordpress site where it lived for another 5-6 years. I then unfortunately completely abdandoned the site until 2020, when it was rebuilt again using Svelte, Sapper and Tailwind.
 
-Still love You and Gackt as much as I did back in 2004!
+This was one of my first popular sites, helped along by being built when fansites were a big thing. Nevertheless I was really proud of building and maintaining it, and I'm pleased to have a working version live again after all this time.
 
-Built using Svelte, [Sapper](https://github.com/sveltejs/sapper), Typescript and Tailwind.
+YOU will always be my favourite robotic, multi-talented guitarist!

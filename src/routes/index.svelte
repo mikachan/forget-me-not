@@ -1,29 +1,18 @@
 <svelte:head>
-	<title>Forget-me-not | You (of GacktJOB) fansite</title>
+	<title>Forget-me-not | You fansite</title>
 </svelte:head>
 
-<p>Welcome to <strong>Forget-me-not</strong>, a fansite dedicated to the Japanese musician, You, best known for supporting Gackt.</p>
+<p>Welcome to <strong>Forget-me-not</strong>, a fansite dedicated to the Japanese musician, You, best known for playing guitar and violin in GacktJOB.</p>
+
+<h2>Latest Updates</h2>
+
+<p><strong>12.12.20</strong><br>
+Guess who's back! After over 6 years I've decided to rebuild this fansite. I've restored most of the content but not many images yet, and I'm guessing loads of the information is now incorrect or wildy out of date. But it's back and I'd forgotten how much I enjoy fangirling over You!</p>
 
 <h2>Site History</h2>
 
-<p>The site was first opened on 23rd March, 2004. I decided to make a You fan site because, at the time, there were no sites dedicated to him in English. I know on just about every Gackt site there's a section on JOB, but I have grown to love You just as much as I love Gackt. Although I probably won't get any more information than any other site, I still wanted to dedicate this to You.</p>
+<p>The site was first opened on 23rd March, 2004. I decided to make a You fan site because, at the time, there were no sites dedicated to him in English.</p>
 
-<p>I called it "Forget-me-Not" after looking through my Japanese dictionary. It was originally called "Silence and Motion" after the Final Fantasy VIII track, "Silence and Motion". I was listening to Wasurenai kara all day, and when I looked up the word "forget" in my dictionary I came across "forget-me-not".</p>
+<p>The name <em>forget-me-not</em> was chosen after looking through my Japanese dictionary. It was originally called <em>Silence and Motion</em> after the Final Fantasy VIII track of the same name. I was listening to <em>Wasurenai kara</em> all day, and when I looked up the word "forget" in my dictionary I came across "forget-me-not".</p>
 
-<h3>Special Thanks</h3>
-
-<ul>
-	<li><strong>Torabara</strong> for images, the Starlight Gig screencaps and R&R screencaps.</li>
-	<li><strong>Jirion</strong> for images.</li>
-	<li><strong>Sei-chan</strong> for information, images and lots of other random things.</li>
-	<li><strong>Akiko</strong> for R&R screencaps, icons, images, for the pronunciation of You and for plugging my site everywhere.</li>
-	<li><strong>Sari</strong> for images and information.</li>
-	<li><strong>Alexy</strong> for icons.</li>
-	<li><strong>Natalie</strong> for a recording of You's voice.</li>
-	<li><strong>Kana</strong> for R&R screencaps and being the lovely person that you are.</li>
-	<li><strong>Mitsuki</strong> for the translation of Etude.</li>
-	<li><strong>Chi</strong> for information.</li>
-	<li><strong>Lindley</strong> for screen caps.</li>
-</ul>
-
-<p>Thank you thank you thank you! Also, thank you to all the people that have signed my guestbook, emailed me and just mentioned this site to me, it means a lot.</p>
+<p><a href="/thanks">Thank you</a> to everyone who helped make this site possible.</p>

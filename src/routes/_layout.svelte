@@ -20,7 +20,7 @@
     }
 </script>
 
-<nav class="fixed w-full z-20 flex items-center justify-between flex-wrap bg-white py-4 px-2 sm:px-6 border border-gray-200">
+<nav class="fixed w-full z-20 flex items-center justify-between flex-wrap bg-white py-4 px-2 sm:px-6 border border-gray-200 shadow-md">
 	<a href="." class="no-underline flex items-center flex-no-shrink text-white mr-6">
 		<figure>
 			<img alt="Daikon" class="max-h-10 pr-4" src="{daikon}">
@@ -38,7 +38,7 @@
 
 <NavMobile {segment} />
 
-<div id="main-container" class="bg-gray-400est-100">
+<div id="main-container" class="bg-gray-400 h-100">
 	<div class="flex relative">
 		<Nav {segment} />
 

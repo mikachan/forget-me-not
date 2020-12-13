@@ -542,6 +542,11 @@ video {
   height: auto;
 }
 
+body {
+  --tw-bg-opacity: 1;
+  background-color: rgba(243, 244, 246, var(--tw-bg-opacity));
+}
+
 h1 {
   font-size: 1.5rem;
   line-height: 2rem;

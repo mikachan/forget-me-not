@@ -24,7 +24,6 @@ const onwarn = (warning, onwarn) =>
 	onwarn(warning);
 
 const preprocess = sveltePreprocess({
-	// https://github.com/kaisermann/svelte-preprocess/#user-content-options
 	sourceMap: !production,
 	postcss: {
 		plugins: [
@@ -47,7 +46,7 @@ export default {
 			svelte({
 				dev,
 				hydratable: true,
-				preprocess: preprocess,
+				preprocess: [preprocess],
 				emitCss: true,
 			}),
 			url({
@@ -106,7 +105,7 @@ export default {
 			svelte({
 				generate: 'ssr',
 				hydratable: true,
-				preprocess: preprocess,
+				preprocess: [preprocess],
 				dev,
 			}),
 			url({

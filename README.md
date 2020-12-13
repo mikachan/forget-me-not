@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d6a997b1-ec9f-4495-a864-c72b1038a8b6/deploy-status)](https://app.netlify.com/sites/sekaicouk/deploys) [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
-🌸 Live site: [you.sekai.co.uk](https://you.sekai.co.uk/)
+🤖 Live site: [you.sekai.co.uk](https://you.sekai.co.uk/)
 
 This is a fansite for Japanese musician, YOU, best know for playing guitar and violin for Gackt, and more recently, S.Q.F. 
 

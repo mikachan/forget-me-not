@@ -9,9 +9,9 @@
 
 <h2>CAINS:FEEL</h2>
 
-<p>You's second/third band was called "CAINS:FEEL". He played the guitar, and as you might already know, Gackt was the vocalist. I believe Ren, former bassist of GacktJOB, was also in this band. They were very popular in Kyoto at the time, and there's a picture of them at <a href="http://www.geocities.jp/laona_gr/media.html" target="new">this site</a>, You being the guy holding the white guitar, and the one with the messed up hair on the bottom picture.</p>
+<p>You's second/third band was called "CAINS:FEEL". He played the guitar, and as you might already know, Gackt was the vocalist. Ren, former bassist of GacktJOB, was also in this band. They were very popular in Kyoto at the time, and there's a picture of them at <a href="http://www.geocities.jp/laona_gr/media.html" target="new">this site</a>, You being the guy holding the white guitar, and the one with the messed up hair on the bottom picture.</p>
 
-<p>They formed in 1989, and disbanded in 1995. However, they made a demo tape in 1995:</p>
+<p>They formed in 1989, and disbanded in 1995. They made a demo tape in 1995:</p>
 
 <figure>
 	<img alt="CAINS:FEEL tape" class="pb-4" src="{tape}">

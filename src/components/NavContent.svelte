@@ -33,7 +33,7 @@
 		</li>
 		<li>
 			<a aria-current="{segment === 'about-you' ? 'page' : undefined}" class="{segment === 'about-you' ? 'active' : undefined}" href="about-you">
-				<span>About You</span>
+				<span>About YOU</span>
 			</a>
 		</li>
 		<li>
@@ -42,38 +42,13 @@
 			</a>
 		</li>
 		<li>
-			<a aria-current="{segment === 'cains-feel' ? 'page' : undefined}" class="{segment === 'cains-feel' ? 'active' : undefined}" href="cains-feel">
-				<span>CAINS:FEEL</span>
-			</a>
-		</li>
-		<li>
 			<a aria-current="{segment === 'appearances' ? 'page' : undefined}" class="{segment === 'appearances' ? 'active' : undefined}" href="appearances">
 				<span>Appearances</span>
 			</a>
 		</li>
 		<li>
-			<a aria-current="{segment === 'trivia' ? 'page' : undefined}" class="{segment === 'trivia' ? 'active' : undefined}" href="trivia">
-				<span>Trivia</span>
-			</a>
-		</li>
-		<li>
-			<a aria-current="{segment === 'birthday-2003' ? 'page' : undefined}" class="{segment === 'birthday-2003' ? 'active' : undefined}" href="birthday-2003">
-				<span>Birthday 2003</span>
-			</a>
-		</li>
-		<li>
-			<a aria-current="{segment === 'gackt-you' ? 'page' : undefined}" class="{segment === 'gackt-you' ? 'active' : undefined}" href="gackt-you">
-				<span>Gackt & You</span>
-			</a>
-		</li>
-		<li>
-			<a aria-current="{segment === 'sending-fanmail' ? 'page' : undefined}" class="{segment === 'sending-fanmail' ? 'active' : undefined}" href="sending-fanmail">
-				<span>Sending Fanmail</span>
-			</a>
-		</li>
-		<li>
-			<a aria-current="{segment === 'shopping' ? 'page' : undefined}" class="{segment === 'shopping' ? 'active' : undefined}" href="shopping">
-				<span>Shopping</span>
+			<a aria-current="{segment === 'where-to-buy' ? 'page' : undefined}" class="{segment === 'where-to-buy' ? 'active' : undefined}" href="where-to-buy">
+				<span>Where to Buy</span>
 			</a>
 		</li>
 	</ul>

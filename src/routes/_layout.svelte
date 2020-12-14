@@ -20,15 +20,20 @@
     }
 </script>
 
-<nav class="fixed w-full z-20 flex items-center justify-between flex-wrap bg-white py-4 px-2 sm:px-6 border border-gray-200 shadow-md">
+<style>
+	main {
+		background-image: url(bg02.png);
+		background-repeat: no-repeat;
+		background-position: bottom right;
+	}
+</style>
+
+<nav class="fixed w-full z-20 flex items-center justify-between flex-wrap bg-gray-900 py-6 px-2 sm:px-6 shadow-md">
 	<a href="." class="no-underline flex items-center flex-no-shrink text-white mr-6">
-		<figure>
-			<img alt="Daikon" class="max-h-10 pr-4" src="{daikon}">
-		</figure>
-		<h1 class="font-medium text-xl tracking-tighter text-gray-900 mb-0">Forget-me-not</h1>
+		<h1 class="font-medium text-xl tracking-tighter text-gray-300 mb-0">Forget-me-not</h1>
 	</a>
 	<div class="block md:hidden">
-		<button class="flex items-center px-3 py-2 border rounded text-gray-900 border-gray-400 hover:text-gray-600 hover:border-gray-600" on:click={openNav}>
+		<button class="flex items-center px-3 py-2 border rounded text-gray-200 border-gray-400 hover:text-gray-300 hover:border-gray-600" on:click={openNav}>
 			<svg class="fill-current h-3 w-3" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Menu</title>
 				<path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"></path>
 			</svg>
@@ -38,16 +43,19 @@
 
 <NavMobile {segment} />
 
-<div id="main-container" class="bg-gray-400 h-100">
+<div id="main-container" class="bg-gray-400 h-100 relative">
 	<div class="flex relative">
 		<Nav {segment} />
 
 		<div class="w-48 p-4 hidden md:block"></div>
 
-		<main class="flex w-full h-full relative bg-gray-100">
-			<div class="w-full lg:w-3/4 py-8 px-4 md:px-10 lg:px-16 xl:32 mt-20">
+		<main class="flex w-full h-full relative bg-gray-100 relative">
+			<div class="w-full lg:w-3/4 py-10 px-4 md:px-10 lg:px-16 xl:32 mt-20">
 				<slot></slot>
 			</div>
+			<figure>
+				<img alt="Daikon" class="max-h-20 p-4 absolute bottom-0 right-0" src="{daikon}">
+			</figure>
 		</main>
 	</div>
 </div>

@@ -9,7 +9,7 @@
 <p><strong>12.12.20</strong><br>
 Guess who's back! After over 6 years I've decided to rebuild this fansite. I've restored most of the content but not many images yet, and I'm guessing loads of the information is now incorrect or wildy out of date. But it's back and I'd forgotten how much I enjoy fangirling over You!</p>
 
-<h2>Site History</h2>
+<h3>Site History</h3>
 
 <p>The site was first opened on 23rd March, 2004. I decided to make a You fan site because, at the time, there were no sites dedicated to him in English.</p>
 

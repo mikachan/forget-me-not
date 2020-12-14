@@ -1,6 +1,6 @@
 # Forget-me-not
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d6a997b1-ec9f-4495-a864-c72b1038a8b6/deploy-status)](https://app.netlify.com/sites/sekaicouk/deploys) [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bdea2dbb-2c2d-4387-a701-1f9c703e5cb6/deploy-status)](https://app.netlify.com/sites/sekaicouk-forget-me-not/deploys) [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
 🤖 Live site: [you.sekai.co.uk](https://you.sekai.co.uk/)
 

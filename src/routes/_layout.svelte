@@ -20,14 +20,6 @@
     }
 </script>
 
-<style>
-	main {
-		background-image: url(bg02.png);
-		background-repeat: no-repeat;
-		background-position: bottom right;
-	}
-</style>
-
 <nav class="fixed w-full z-20 flex items-center justify-between flex-wrap bg-gray-900 py-6 px-2 sm:px-6 shadow-md">
 	<a href="." class="no-underline flex items-center flex-no-shrink text-white mr-6">
 		<h1 class="font-medium text-xl tracking-tighter text-gray-300 mb-0">Forget-me-not</h1>

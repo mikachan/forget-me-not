@@ -1,4 +1,5 @@
 <script lang="ts">
+    import { onMount } from 'svelte';
 	import NavContent from '../components/NavContent.svelte';
 
 	export let segment: string;
@@ -10,6 +11,12 @@
             document.getElementById("main-container").style.position = "static";
         }
     }
+
+    onMount(() => {
+        document.querySelectorAll('.overlay-content span').forEach(link => {
+            link.addEventListener('click', () => closeNav())
+        });
+    });
 </script>
 
 <div id="navMobile" class="fixed w-0 h-full z-50 overflow-x-hidden bg-gray-800 bg-opacity-95">

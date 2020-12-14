@@ -26,11 +26,7 @@ const onwarn = (warning, onwarn) =>
 const preprocess = sveltePreprocess({
 	sourceMap: !production,
 	postcss: {
-		plugins: [
-			require('tailwindcss'),
-			require('autoprefixer'),
-			require('postcss-nesting'),
-		],
+		plugins: [require('tailwindcss'), require('autoprefixer')],
 	},
 });
 
@@ -46,8 +42,8 @@ export default {
 			svelte({
 				dev,
 				hydratable: true,
-				preprocess: [preprocess],
 				emitCss: true,
+				preprocess: [preprocess],
 			}),
 			url({
 				sourceDir: path.resolve(__dirname, 'src/node_modules/images'),
@@ -105,8 +101,8 @@ export default {
 			svelte({
 				generate: 'ssr',
 				hydratable: true,
-				preprocess: [preprocess],
 				dev,
+				preprocess: [preprocess],
 			}),
 			url({
 				sourceDir: path.resolve(__dirname, 'src/node_modules/images'),

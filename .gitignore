@@ -3,3 +3,4 @@ __sapper__
 .vscode/
 .DS_Store
 src/node_modules/\@sapper
+static/index.css

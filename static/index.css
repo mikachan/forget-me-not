@@ -25828,7 +25828,6 @@ ul li {
 
 .select-all {
   -webkit-user-select: all;
-      -ms-user-select: all;
           user-select: all;
 }
 
@@ -55403,7 +55402,6 @@ ul li {
 
   .sm\:select-all {
     -webkit-user-select: all;
-        -ms-user-select: all;
             user-select: all;
   }
 
@@ -84948,7 +84946,6 @@ ul li {
 
   .md\:select-all {
     -webkit-user-select: all;
-        -ms-user-select: all;
             user-select: all;
   }
 
@@ -114493,7 +114490,6 @@ ul li {
 
   .lg\:select-all {
     -webkit-user-select: all;
-        -ms-user-select: all;
             user-select: all;
   }
 
@@ -144038,7 +144034,6 @@ ul li {
 
   .xl\:select-all {
     -webkit-user-select: all;
-        -ms-user-select: all;
             user-select: all;
   }
 
@@ -173583,7 +173578,6 @@ ul li {
 
   .\32xl\:select-all {
     -webkit-user-select: all;
-        -ms-user-select: all;
             user-select: all;
   }
 

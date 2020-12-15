@@ -6,48 +6,41 @@
 	import Nav from '../components/Nav.svelte';
 	import NavMobile from '../components/NavMobile.svelte';
 	import daikon from 'images/daikon.png';
+	import you from 'images/you05.jpg';
 
 	let ga_measurment_id = "UA-7281616-1";
 
 	export let segment: string;
-
-    function openNav() {
-        document.getElementById("navMobile").style.width = "100%";
-
-        if (document.getElementById("main-container")) {
-            document.getElementById("main-container").style.position = "fixed";
-        }
-    }
 </script>
-
-<nav class="fixed w-full z-20 flex items-center justify-between flex-wrap bg-gray-900 py-6 px-2 sm:px-6 shadow-md">
-	<a href="." class="no-underline flex items-center flex-no-shrink text-white mr-6">
-		<h1 class="font-medium text-xl tracking-tighter text-gray-300 mb-0">Forget-me-not</h1>
-	</a>
-	<div class="block md:hidden">
-		<button class="flex items-center px-3 py-2 border rounded text-gray-200 border-gray-400 hover:text-gray-300 hover:border-gray-600" on:click={openNav}>
-			<svg class="fill-current h-3 w-3" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Menu</title>
-				<path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"></path>
-			</svg>
-		</button>
-	</div>
-</nav>
 
 <NavMobile {segment} />
 
-<div id="main-container" class="bg-gray-400 h-100 relative">
-	<div class="flex relative">
+<div class="font-sans antialiased text-gray-900 leading-normal tracking-wider bg-cover" style="background-image:url('https://source.unsplash.com/1L71sPT5XKc');">
+	<div class="max-w-4xl flex items-center h-auto lg:h-screen flex-wrap mx-auto py-32 lg:my-0">
+
 		<Nav {segment} />
 
-		<div class="w-48 p-4 hidden md:block"></div>
+		<div class="w-full lg:w-3/5 rounded-lg lg:rounded-l-lg lg:rounded-r-none shadow-2xl bg-white opacity-75 mx-6 lg:mx-0 lg:h-4/6 lg:overflow-y-scroll lg:overflow-y-visible">
+			<div class="p-4 md:p-8 text-center lg:text-left">
+				<div class="block lg:hidden rounded-full shadow-xl mx-auto -mt-16 h-48 w-48 bg-cover bg-center" style="background-image: url({you})"></div>
 
-		<main class="flex w-full h-full relative bg-gray-100 relative">
-			<div class="w-full lg:w-3/4 py-10 px-4 md:px-10 lg:px-16 xl:32 mt-20">
+				<h1 class="text-3xl font-bold pt-8 lg:pt-0">Forget-me-not: a YOU fansite</h1>
+				<div class="mx-auto lg:mx-0 w-4/5 my-3 border-b-2 border-green-500 opacity-25"></div>
+				
 				<slot></slot>
+
+				<div class="pt-6">
+					<button class="bg-green-700 hover:bg-green-900 text-white font-bold py-2 px-4 rounded-full">
+						<a href="https://sekai.co.uk" class="text-white no-underline">Contact webmaster</a>
+					</button>
+				</div>
 			</div>
+		</div>
+
+		<div class="w-full lg:w-2/5">
 			<figure>
-				<img alt="Daikon" class="max-h-20 p-4 absolute bottom-0 right-0" src="{daikon}">
+				<img src="{you}" alt="You" class="rounded-none lg:rounded-lg shadow-2xl hidden lg:block" />
 			</figure>
-		</main>
+		</div>
 	</div>
 </div>

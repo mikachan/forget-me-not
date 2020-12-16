@@ -10,7 +10,7 @@
 
 <h2>About You</h2>
 <p>
-	<strong>Name:</strong> You (pronounced 'yuu'), aka You Kurosaki, YOU, 🤖<br>
+	<strong>Name:</strong> You (pronounced 'yuu'), aka 優, You Kurosaki, YOU, 🤖<br>
 	<strong>Plays:</strong> Guitar, violin<br>
 	<strong>Birthday:</strong> 10th February 1973<br>
 	<strong>Height:</strong> 186cm (or 6'2")<br>

@@ -12,14 +12,14 @@
 
 <h3>CAINS:FEEL (1989-1995)</h3>
 
-<p>You was a guitarist for a band in Kyoto when he first met Gackt. The band members were known as troublemakers as they often started fights at local venues, mainly between rival bands.</p>
+<p>You was a guitarist for a band in Kyoto when he first met Gackt. Shortly after meeting him, they became good friends and decided to start a band together.</p>
 
 <p>You can read more about <a href="/cains-feel">CAINS:FEEL here</a>.</p>
 
 <h3>GacktJOB (2000-2018)</h3>
-<p>Five years after <a href="/cains-feel/">CAINS:FEEL</a>, Gackt got in touch with You and Ren again to form GacktJOB.</p>
+<p>Five years after CAINS:FEEL, Gackt, You and Ren began GacktJOB.</p>
 
-<p>You was in JOB since the start of Gackt's solo career, first recording in LA in January 1999. He played rhythm guitar and violin.</p>
+<p>You was in JOB from the beginning of Gackt's solo career, first recording in LA in January 1999. He played rhythm guitar and violin.</p>
 
 <p>He raps with Yosh in <em>Dybbuk</em>, on Gackt's <em>Crescent</em> album. Him and Yosh take turns, and You starts. He also raps in <em>Redemption</em>, as well as appearing in the promotional video.</p>
 

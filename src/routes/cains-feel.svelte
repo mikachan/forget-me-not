@@ -1,6 +1,7 @@
 <script>
 	import hana from 'images/cains-feel/hana.png';
 	import tape from 'images/cains-feel/tape.jpg';
+	import band from 'images/cains-feel/cainsfeel.jpg';
 </script>
 
 <svelte:head>
@@ -9,7 +10,11 @@
 
 <h2>CAINS:FEEL</h2>
 
-<p>You's first successful band was called "CAINS:FEEL". He played the guitar, alongside Gackt as the vocalist. Ren, former bassist of GacktJOB, was also in this band. They were very popular in Kyoto at the time, and there's a picture of them at <a href="http://www.geocities.jp/laona_gr/media.html" target="new">this site</a>, You being the guy holding the white guitar, and the one with the messed up hair on the bottom picture.</p>
+<p>You's first successful band was called "CAINS:FEEL". He played the guitar, alongside Gackt as the vocalist. Ren, former bassist of GacktJOB, was also in this band. The band members were known as troublemakers as they often started fights at local venues, mainly between rival bands.</p>
+
+<figure>
+	<img alt="CAINS:FEEL 1995" class="pb-4 mx-auto" src="{band}">
+</figure>
 
 <p>They formed in 1989, and disbanded in 1995. They made a demo tape in 1995:</p>
 

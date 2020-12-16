@@ -42,8 +42,8 @@
 			</a>
 		</li>
 		<li>
-			<a aria-current="{segment === 'appearances' ? 'page' : undefined}" class="{segment === 'appearances' ? 'active' : undefined}" href="appearances">
-				<span>Appearances</span>
+			<a aria-current="{segment === 'discography' ? 'page' : undefined}" class="{segment === 'discography' ? 'active' : undefined}" href="discography">
+				<span>Discography</span>
 			</a>
 		</li>
 		<li>

@@ -14,6 +14,7 @@
 	<strong>Plays:</strong> Guitar, violin<br>
 	<strong>Birthday:</strong> 10th February 1973<br>
 	<strong>Height:</strong> 186cm (or 6'2")<br>
+	<strong>Blood Type:</strong> A<br>
 	<strong>From:</strong> Kyoto, Shiga Prefecture, Japan<br>
 	<strong>Guitar Model:</strong> <a href="https://www.caparisonguitars.com/" target="new">Caparison</a> and Mercury<br>
 	<strong>Hobbies:</strong> cooking, motorbikes, martial arts, snowboarding, bowling, photography, reading manga

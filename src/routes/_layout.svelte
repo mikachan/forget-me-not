@@ -2,7 +2,8 @@
 
 <script lang="ts">
 	import GoogleAnalytics from "sapper-google-analytics/GoogleAnalytics.svelte";
-    import { stores } from "@sapper/app";
+	import { stores } from "@sapper/app";
+    import { onMount } from 'svelte';
 	import Nav from '../components/Nav.svelte';
 	import NavMobile from '../components/NavMobile.svelte';
 	import bg from 'images/bg01.jpg';
@@ -16,17 +17,23 @@
 
 	let ga_measurment_id: string = "UA-7281616-1";
 	let mainImage: string = you01;
+	let mainContent;
 
 	function randomYouImage(): string {
-		const youPics: [] = [you01, you02, you03, you04, you05, you06, you07];
+		const youPics: string[] = [you01, you02, you03, you04, you05, you06, you07];
 		const randomIndex: number = Math.floor(Math.random() * youPics.length);
 		return youPics[randomIndex];
 	}
 
+	onMount(() => {
+		mainContent = document.querySelector('.main-content');
+	});
+
 	const { page } = stores();
 	page.subscribe(({ path, params, query }) => {
 		mainImage = randomYouImage();
-    });
+		if (mainContent) mainContent.scrollTop = 0;
+	});
 
 	export let segment: string;
 </script>
@@ -38,7 +45,7 @@
 
 		<Nav {segment} />
 
-		<div class="w-full lg:w-3/5 rounded-lg lg:rounded-l-lg lg:rounded-r-none shadow-2xl bg-white opacity-75 mx-6 lg:mx-0 lg:h-4/6 lg:overflow-y-scroll lg:overflow-y-visible">
+		<div class="main-content w-full lg:w-3/5 rounded-lg lg:rounded-l-lg lg:rounded-r-none shadow-2xl bg-white opacity-75 mx-6 lg:mx-0 lg:h-4/6 lg:overflow-y-scroll">
 			<div class="p-4 md:p-8">
 				<div class="block lg:hidden rounded-full shadow-xl mx-auto -mt-16 h-48 w-48 bg-cover bg-center" style="background-image: url({mainImage})"></div>
 

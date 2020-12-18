@@ -1,0 +1,63 @@
+<script>
+	import hana from 'images/cains-feel/hana.png';
+</script>
+
+<svelte:head>
+	<title>You & Gackt</title>
+</svelte:head>
+
+<h2>You & Gackt</h2>
+
+<h3>Meeting Gackt</h3>
+
+<p>Gackt has explained how him and You met several times, including in his autobiography. He's first mentioned in Section 2: Kakusei, Chapter 4: "Hatsu Bando CAIN'S FEEL".</p>
+
+<p>While You was a guitarist for a band in Kyoto, him and his band used to regularly visit a recording studio where Gackt worked as a sound technician. Gackt had seen You's band perform live at a livehouse (small venue) several times and enjoyed watching them, but he'd never made the connection between the guitarist in that band and You.</p>
+
+<p>He knew of You from when they were in the studio together (roughly every two weeks), however they didn't speak much as Gackt saw You as a troublemaker who glared at him a lot. He's found out since that the glaring was because You is short-sighted..</p>
+
+<p>One day he asked You who the guitarist of the band was, and You explained it was him. Gackt didn't believe him, going so far as arguing against it! So You took him to his house to prove he was the guitarist, and from that point they became good friends.</p>
+
+<h3>First Performance Together</h3>
+
+<figure>
+	<img alt="Gackt and You performance at Christmas" class="p-4 pt-0" width="200" align="right" src="{hana}">
+</figure>
+
+<p><a href="/cains-feel">CAINS:FEEL</a> was You's first band with Gackt, and their first public performance together was in 1993 when they performed <em>hanashitaku wa nai</em> (T-Bolan) in Kamogawa, Kyoto. Gackt's girlfriend at the time had left him and so he was alone on Christmas Day. You asked Gackt if he'd sing along to him playing guitar so he was not alone. Gackt refused, however You insisted on playing in the street to keep him company. They recreated the performance on the Happy Xmas Show in 2003, with You on the guitar and Gackt singing.</p>
+
+<iframe title="hanashitaku wa nai" src="https://www.youtube.com/embed/8v2FPRve0S4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h3>Relationship with Gackt</h3>
+
+<p>You has been by Gackt's side for over 20 years, and Gackt has explained endless times how close they are, comparing their relationship to that of a close family member or soulmate. They have an extremely sweet relationship and this is, in part, why You is such a firm fan favourite.</p>
+
+<p>Here's some random quotes from Gackt, either to You or about You. Bare in mind that these "quotes" are translations from Japanese either by myself or others, so they are of course not <em>direct</em> quotations. And as when anything is translated, the intended meaning is often lost. Having said that, most are easy to interpret!</p>
+
+<ul>
+	<li><em>"I know what you think... Because You and I are always together, live together, sleep together, you think that we're gay, don't you? Myself, I'd rather say that You is my soulmate. I prefer to say it this way."</em></li>
+	<li><em>"I first met him 10 years ago... It's been 10 years already. He rode his big motorbike just like a prince on a white horse, and riding behind, I was the princess."</em></li>
+	<li><em>"He really is... amazing."</em></li>
+	<li><em>"We ain't gay!"</em></li>
+	<li><em>"Well, isn't he cute? See that smile? No one can really blame him."</em></li>
+	<li><em>"See, this guy You... Well, he is a very cute person."</em></li>
+	<li><em>"He'll say Happy Birthday to me... maybe around 28th of July."</em></li>
+	<li><em>(To the fans, as You comes on stage:) "Oh, please! You don't have to get that excited..."</em></li>
+	<li><em>"Watch out for his charming, innocent smile, girls."</em></li>
+	<li><em>"Isn't he such a good looking guy?"</em></li>
+	<li><em>"... I'll always continue to love him."</em></li>
+	<li><em>"Even if one day in the future, you cannot see with your eyes, I will be happy to be your eyes! Also, if one day my waist cannot work, you have to be my waist!"</em></li>
+	<li><em>"And my oldest friend. My best friend, his name is You!"</em></li>
+</ul>
+
+<p>I wonder if Gackt ever says anything bad about You...</p>
+
+<ul>
+	<li><em>"Clean the damn toilet from time to time!"</em></li>
+</ul>
+
+<p>Gackt talked about You a lot on his <a href="http://allnightnippon.com/gackt" target="new">radio show</a>, and You is mentioned a lot in Gackt's <em>The Air Moon</em> document book.</p>
+
+<p>If you've seen the Mars tour DVD, you'll know that Gackt hopped off to France in the middle of the tour. He took You and Masa with him, and they went out into the city at night. Gackt found You laughing with the local people, even though he only speaks Japanese. Gackt listened into their conversation and heard You say in Japanese, <em>"AHAHAHAHA! I have no idea what the hell you're saying, you dork!"</em></p>
+
+<p>Ever wondered what the inspiration for <em>Another World</em> was? While in Hawaii, Gackt and You went for a drive. On the way it began to rain, and they both agreed it was a beautiful scene.</p>

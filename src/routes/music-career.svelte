@@ -12,7 +12,7 @@
 
 <p>You was a guitarist for a couple of different bands in Kyoto when he first started his music career. Originally, it seems that when he was younger he didn't have many ambitions for being successful outside of Kyoto, and it was Gackt who eventually persuaded him to join him in Tokyo to further his music career.</p>
 
-Read more about <a href="/you-gackt">You & Gackt here</a>.
+<p>Read more about <a href="/you-gackt">You & Gackt here</a>.</p>
 
 <h3>CAINS:FEEL (1989-1995) <a href="/cains-feel" class="text-sm">read more &rarr;</a></h3>
 

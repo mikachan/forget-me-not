@@ -9,7 +9,7 @@
 	<title>{status}</title>
 </svelte:head>
 
-<h1>{status}</h1>
+<h2>{status}</h2>
 
 <p>{error.message}</p>
 

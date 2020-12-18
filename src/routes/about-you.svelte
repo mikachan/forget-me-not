@@ -1,5 +1,4 @@
 <script>
-	import about from 'images/you-about.jpg';
 	import bracelet from 'images/bracelet.jpg';
 	import earring from 'images/earring.jpg';
 </script>
@@ -26,7 +25,7 @@
 	<strong>Fragrance</strong>: Jean Paul Gaultier Le Male<br>
 	<strong>Food</strong>: Yaki-udon (fried noodles)<br>
 	<strong>Colour</strong>: Blue<br>
-	<strong>Sport</strong>: You loves snowboarding and skiing, and goes on regular ski trips. He also taught Gackt to snowboard. He's also mentioned that he likes tennis, bowling and baseball.
+	<strong>Sport</strong>: You loves snowboarding and skiing, and goes on regular ski trips. He also taught Gackt to snowboard. He also enjoys marital arts, tennis, bowling and baseball.
 </p>
 
 <h3>Official Sites & Socials</h3>
@@ -56,7 +55,7 @@
 <h3>Trivia</h3>
 
 <ul>
-	<li>All throughout his old <a href="http://www.you-robots.com/diary/diary.cgi" target="new">online diary</a> cute, little daikons appear behind plates, on top of his laptop, etc. in his daily pictures. He reckons he resembles the Takara and Kiddy Land character, <a href="http://www.takaratoys.co.jp/aokubidaikon/" target="new">Aokubi Daikon</a>. A daikon is a large radish.</li>
+	<li>All throughout his old <a href="http://www.you-robots.com/diary/diary.cgi" target="new">online diary</a> daikon plushies appear behind plates, on top of his laptop, etc. in his daily pictures. He reckons he resembles the Takara and Kiddy Land character, Aokubi Daikon.</li>
 	<li>He's very close friends with Gackt and has lived with him on several occasions.</li>
 	<li>He has rapped on <em>Dybbuk</em>, the introduction track from Gackt's Crescent album.</li>
 	<li>He's short-sighted.</li>
@@ -67,4 +66,5 @@
 	<li>The day before a concert on 02.07.02, You read through the whole of the manga, <a href="http://en.wikipedia.org/wiki/City_Hunter" target="new">City Hunter</a>. There are over 30 volumes! You makes a habit of reading through a whole manga series in one go.</li>
 	<li>He has an older sister.</li>
 	<li>On 10th February 2018, he announced that he was going to be a father to a mini YOU.</li>
+	<li>He's learning Taekwondo.</li>
 </ul>

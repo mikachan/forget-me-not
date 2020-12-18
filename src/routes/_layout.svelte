@@ -6,7 +6,7 @@
     import { onMount } from 'svelte';
 	import Nav from '../components/Nav.svelte';
 	import NavMobile from '../components/NavMobile.svelte';
-	import bg from 'images/bg01.jpg';
+	import bg from 'images/bg02.jpg';
 	import you01 from 'images/image-rotation/you01.jpg';
 	import you02 from 'images/image-rotation/you02.jpg';
 	import you03 from 'images/image-rotation/you03.jpg';

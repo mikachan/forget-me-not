@@ -26,7 +26,7 @@
 
 <p>Their first public performance together was in 1993 when they performed <em>hanashitaku wa nai</em> (T-Bolan) in Kamogawa, Kyoto at Christmas. Gackt's girlfriend at the time had left him and so he was alone on Christmas Day. You asked Gackt if he'd sing along to him playing guitar so he was not alone. Gackt refused, however You insisted on playing in the street to keep him company. They recreated the performance on the Happy Xmas Show in 2003, with You on the guitar and Gackt singing.</p>
 
-<iframe title="hanashitaku wa nai" src="https://www.youtube.com/embed/8v2FPRve0S4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="hanashitaku wa nai" src="https://www.youtube.com/embed/8v2FPRve0S4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="mb-4"></iframe>
 
 <h3>Relationship with Gackt</h3>
 
@@ -58,6 +58,6 @@
 
 <p>Gackt talked about You a lot on his <a href="http://allnightnippon.com/gackt" target="new">radio show</a>, and You is mentioned a lot in Gackt's <em>The Air Moon</em> document book.</p>
 
-<p>If you've seen the Mars tour DVD, you'll know that Gackt hopped off to France in the middle of the tour. He took You and Masa with him, and they went out into the city at night. Gackt found You laughing with the local people, even though he only speaks Japanese. Gackt listened into their conversation and heard You say in Japanese, <em>"AHAHAHAHA! I have no idea what the hell you're saying, you dork!"</em></p>
+<p>On the Mars tour DVD, you see GacktJOB go to France in the middle of the tour. During a night out, Gackt found You laughing with the local people, even though he only speaks Japanese. Gackt listened into their conversation and heard You say in Japanese, <em>"AHAHAHAHA! I have no idea what the hell you're saying, you dork!"</em></p>
 
 <p>Ever wondered what the inspiration for <em>Another World</em> was? While in Hawaii, Gackt and You went for a drive. On the way it began to rain, and they both agreed it was a beautiful scene.</p>

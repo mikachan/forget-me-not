@@ -22,8 +22,8 @@
 
 <p>At the time, Gackt was a drummer and You was only playing guitar. They couldn't decide who should do vocals and You jokingly suggested that Gackt should do it. After a couple of arguments and proving each other wrong, Gackt agreed to be the vocalist and took singing lessons. It's fair to say that if it wasn't for You, Gackt perhaps wouldn't have even considered being a lead vocalist.</p>
 
-<h3>GacktJOB (1999-2019) <a href="/gacktjob" class="text-sm">read more &rarr;</a></h3>
-<p>During the time between CAINS:FEEL and GacktJOB, You and Gackt kept in contact over the phone. After four years, Gackt called You up to ask him to join his band as part of his solo career. You was still living in Kyoto at the time, whilst Gackt had already moved to Tokyo to start his solo career. You didn't hesitate to join him, and moved to Tokyo soon after. It was around this time that he learnt how to play violin and piano, on Gackt's recommendation.</p>
+<h3>GacktJob (1999-2019) <a href="/gacktjob" class="text-sm">read more &rarr;</a></h3>
+<p>During the time between CAINS:FEEL and GacktJob, You and Gackt kept in contact over the phone. After four years, Gackt called You up to ask him to join his band as part of his solo career. You was still living in Kyoto at the time, whilst Gackt had already moved to Tokyo to start his solo career. You didn't hesitate to join him, and moved to Tokyo soon after. It was around this time that he learnt how to play violin and piano, on Gackt's recommendation.</p>
 
 <p>You has been in JOB from the beginning of Gackt's solo career, first recording in LA in January 1999.</p>
 
@@ -31,9 +31,9 @@
 
 <p>You last performed live with Gackt in 2019 (as part of the Garden de Tobina Festival), and since 2020 Gackt has a new band at live shows. You still attends as JOB 'alumni' though!</p>
 
-<h3>YELLOW FRIED CHICKENz (2010-2012)</h3>
+<h3>Yellow Fried Chickenz (2010-2012)</h3>
 
-<p>YELLOW FRIED CHICKENz (also known as "YFC" or "YFCz") began as a project by Gackt to express "the cowardice in men's souls", or as an attempt to 'form' men's spirit (don't ask me to explain, all sounds very ~Gackt~). They released one studio album, one 'best of' album, a couple of singles, a live album from their first European tour and a couple of DVDs.</p>
+<p>Yellow Fried Chickenz (also known as "YFC" or "YFCz") began as a project by Gackt to express "the cowardice in men's souls", or as an attempt to 'form' men's spirit (don't ask me to explain, all sounds very ~Gackt~). They released one studio album, one 'best of' album, a couple of singles, a live album from their first European tour and a couple of DVDs.</p>
 
 <p>A highlight during YFC's time was their two European tours, where they performed at sold out venues in London, Paris, Barcelona, Munich, Bochum, Cologne, Amsterdam, Berlin, Budapest, Warsaw, Leipzig, Stockholm and Moscow.</p>
 

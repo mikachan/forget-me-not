@@ -24,7 +24,7 @@
 		<tr>
 			<th>Year</th>
 			<th>Title</th>
-			<th>Artist</th>
+			<th>Band</th>
 			<th>Credits</th>
 		</tr>
 	</thead>
@@ -66,10 +66,16 @@
 			<td>Guitar, violin</td>
 		</tr>
 		<tr>
+			<td>2004</td>
+			<td>The Seventh Night ~Unplugged~</td>
+			<td>Gackt</td>
+			<td>Guitar</td>
+		</tr>
+		<tr>
 			<td>2005</td>
 			<td>Love Letter</td>
 			<td>Gackt</td>
-			<td>Guitar, violin*</td>
+			<td>Guitar</td>
 		</tr>
 		<tr>
 			<td>2005</td>
@@ -84,6 +90,18 @@
 			<td>Guitar, violin</td>
 		</tr>
 		<tr>
+			<td>2010</td>
+			<td>Are You "Fried Chickenz"??</td>
+			<td>Gackt</td>
+			<td>Guitar</td>
+		</tr>
+		<tr>
+			<td>2012</td>
+			<td>Yellow Fried Chickenz I</td>
+			<td>Yellow Fried Chickenz</td>
+			<td>Guitar</td>
+		</tr>
+		<tr>
 			<td>2016</td>
 			<td>Last Moon</td>
 			<td>Gackt</td>
@@ -92,22 +110,188 @@
 	</tbody>
 </table>
 
-<h3>Visual Appearances</h3>
+<h3>Singles</h3>
+<table class="mb-4 table-auto">
+	<thead>
+		<tr>
+			<th>Year</th>
+			<th>Title</th>
+			<th>Band</th>
+			<th>Credits</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>~1994</td>
+			<td>-Lie-</td>
+			<td>CAINS:FEEL</td>
+			<td>Guitar</td>
+		</tr>
+		<tr>
+			<td>1999-2016</td>
+			<td>Titles coming soon</td>
+			<td>Gackt</td>
+			<td>Guitar, violin</td>
+		</tr>
+		<tr>
+			<td>2011</td>
+			<td>All My Love / You Are the Reason</td>
+			<td>Yellow Fried Chickenz</td>
+			<td>Guitar</td>
+		</tr>
+		<tr>
+			<td>2011</td>
+			<td>The End of the Day</td>
+			<td>Yellow Fried Chickenz</td>
+			<td>Guitar</td>
+		</tr>
+		<tr>
+			<td>2016</td>
+			<td>Winter Express</td>
+			<td>S.Q.F</td>
+			<td>Guitar</td>
+		</tr>
+		<tr>
+			<td>2017</td>
+			<td>Egoistic Game</td>
+			<td>S.Q.F</td>
+			<td>Guitar</td>
+		</tr>
+		<tr>
+			<td>2017</td>
+			<td>ETERNAL CHILD</td>
+			<td>S.Q.F</td>
+			<td>Guitar</td>
+		</tr>
+		<tr>
+			<td>2017</td>
+			<td>PARADIGM SHIFT</td>
+			<td>S.Q.F</td>
+			<td>Guitar</td>
+		</tr>
+		<tr>
+			<td>2017</td>
+			<td>iDOL</td>
+			<td>S.Q.F</td>
+			<td>Guitar</td>
+		</tr>
+	</tbody>
+</table>
 
+<h3>Live Music DVD</h3>
+<table class="mb-4 table-auto">
+	<thead>
+		<tr>
+			<th>Year</th>
+			<th>Title</th>
+			<th>Band</th>
+			<th>Credits</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>2000</td>
+			<td>Mars Sora Kara no Homonsha: Kaisō</td>
+			<td>Gackt</td>
+			<td>Guitar, violin</td>
+		</tr>
+		<tr>
+			<td>2001</td>
+			<td>Requiem et Reminiscence (Shuuen to Seijyaku)</td>
+			<td>Gackt</td>
+			<td>Guitar, violin</td>
+		</tr>
+		<tr>
+			<td>2003</td>
+			<td>Gackt Live Tour 2002 Kagen no Tsuki (Seiya no Shirabe)</td>
+			<td>Gackt</td>
+			<td>Guitar, violin</td>
+		</tr>
+		<tr>
+			<td>2003</td>
+			<td>Gackt Live Tour 2003 Jougen no Tsuki (Saishusho)</td>
+			<td>Gackt</td>
+			<td>Guitar, violin</td>
+		</tr>
+		<tr>
+			<td>2004</td>
+			<td>Gackt Live Tour 2004 The Sixth Day & Seventh Night (Final)</td>
+			<td>Gackt</td>
+			<td>Guitar, violin</td>
+		</tr>
+		<tr>
+			<td>2006</td>
+			<td>Live Tour 2005 Diabolos (Aien no Shi to Seiya no Namida)</td>
+			<td>Gackt</td>
+			<td>Guitar, violin</td>
+		</tr>
+		<tr>
+			<td>2007</td>
+			<td>Gackt Training Days 2006 Drug Party - Zepp Tokyo</td>
+			<td>Gackt</td>
+			<td>Guitar, violin</td>
+		</tr>
+		<tr>
+			<td>2010</td>
+			<td>Visualive Arena Tour 2009 Requiem Et Reminiscence II Final Chinkon To Saisei</td>
+			<td>Gackt</td>
+			<td>Guitar, violin</td>
+		</tr>
+		<tr>
+			<td>2014</td>
+			<td>Best of the Best I - 40th Birthday</td>
+			<td>Gackt</td>
+			<td>Guitar, violin</td>
+		</tr>
+		<tr>
+			<td>2014</td>
+			<td>Best of the Best I - Xtasy</td>
+			<td>Gackt</td>
+			<td>Guitar, violin</td>
+		</tr>
+		<tr>
+			<td>2014</td>
+			<td>2013 Kamui Gakuen de Semena Sai</td>
+			<td>Gackt</td>
+			<td>Guitar</td>
+		</tr>
+		<tr>
+			<td>2015</td>
+			<td>2014 Kamui Gakuen de Matomena Sai</td>
+			<td>Gackt</td>
+			<td>Guitar</td>
+		</tr>
+		<tr>
+			<td>2016</td>
+			<td>2015 Camui G School de Dashitekudasai - Minna no Omoi wo Da, Da, Dashitekudasai -</td>
+			<td>Gackt</td>
+			<td>Guitar</td>
+		</tr>
+		<tr>
+			<td>2017</td>
+			<td>Gackt Japan Tour 2016 Last Visualive Saigo no Tsuki –Last Moon–</td>
+			<td>Gackt</td>
+			<td>Guitar, violin</td>
+		</tr>
+	</tbody>
+</table>
+
+<h3>Visual Appearances</h3>
 <h4>CDs</h4>
 <ul>
-	<li>Lyric booklet that comes with Gackt's <em>MOON</em> album.</li>
-	<li>Lyric booklet that comes with Gackt's <em>The Sixth Day</em> album.</li>
-	<li>Lyric booklet that comes with Gackt's <em>The Seventh Night</em> album.</li>
+	<li>Lyric booklet that comes with Gackt's <em>Moon</em> album</li>
+	<li>Lyric booklet that comes with Gackt's <em>The Sixth Day</em> album</li>
+	<li>Lyric booklet that comes with Gackt's <em>The Seventh Night</em> album</li>
 </ul>
 
 <h4>DVDs/Videos</h4>
 <ul>
-	<li>Gackt PVs: <em>Mirror</em>, <em>ANOTHER WORLD</em>, <em>Juunigatsu no love song</em>, <em>Black Stone</em> and <em>Redemption</em>.</li>
-	<li>Gekkou</li>
-	<li><em>Life</em> video, from <em>Soyokaze</em></li>
+	<li>Gackt PVs: <em>Mirror</em>, <em>ANOTHER WORLD</em>, <em>Juunigatsu no love song</em>, <em>Black Stone</em> &amp; <em>Redemption</em></li>
+	<li>Gekkou (Gackt)</li>
+	<li><em>Life</em> video, from <em>Soyokaze</em> (Gackt)</li>
 	<li>Gackt's Platinum Boxes</li>
-	<li>You played <em>Jun</em> in <a href="http://www.moonchild-movie.com/" target="new">Moon Child</a></li>
+	<li>You played <em>Jun</em> in <a href="https://www.imdb.com/title/tt0365514/" target="_blank">Moon Child</a> (2003)</li>
+	<li>Yellow Fried Chickenz PVs: <em>All My Love</em> &amp; <em>Mata koko de Aimashou</em></li>
 </ul>
 
 <h4>Books</h4>
@@ -122,6 +306,8 @@
 <ul>
 	<li><em>Shoxx</em> May 1999</li>
 	<li>UV 100 magazine</li>
+	<li>Motto2 vol. 01</li>
+	<li>Motto2 vol. 08</li>
 </ul>
 
 <h4>Other</h4>

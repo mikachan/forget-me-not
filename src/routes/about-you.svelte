@@ -14,7 +14,7 @@
 	<strong>Birthday:</strong> 10th February 1973<br>
 	<strong>Height:</strong> 186cm (or 6'2")<br>
 	<strong>Blood Type:</strong> A<br>
-	<strong>From:</strong> Kyoto, Shiga Prefecture, Japan<br>
+	<strong>From:</strong> Kyoto, Japan<br>
 	<strong>Guitar Model:</strong> <a href="https://www.caparisonguitars.com/" target="new">Caparison</a> and Mercury<br>
 	<strong>Hobbies:</strong> cooking, motorbikes, martial arts, snowboarding, bowling, photography, reading manga
 </p>
@@ -56,15 +56,18 @@
 
 <ul>
 	<li>All throughout his old <a href="http://www.you-robots.com/diary/diary.cgi" target="new">online diary</a> daikon plushies appear behind plates, on top of his laptop, etc. in his daily pictures. He reckons he resembles the Takara and Kiddy Land character, Aokubi Daikon.</li>
+	<li>He's a big fan of Apple Macs, and is normally seen using a MacBook Pro or iMac. He has a robot-themed USB-C adapter.</li>
 	<li>He's very close friends with Gackt and has lived with him on several occasions.</li>
-	<li>He has rapped on <em>Dybbuk</em>, the introduction track from Gackt's Crescent album.</li>
 	<li>He's short-sighted.</li>
 	<li>He's right handed.</li>
 	<li>His left ear is pierced twice.</li>
+	<li>He has an older sister.</li>
 	<li>When he was younger he owned a Harley Davidson motorbike.</li>
 	<li>He's had lots of different nicknames, including "Grapefruit boy" because of Gackt's Mizerable ~Unmei~ photobook, "Big Brother You" (You-ni-san), pole (denchu) because he's tall and quiet. And of course, robot!</li>
-	<li>The day before a concert on 02.07.02, You read through the whole of the manga, <a href="http://en.wikipedia.org/wiki/City_Hunter" target="new">City Hunter</a>. There are over 30 volumes! You makes a habit of reading through a whole manga series in one go.</li>
-	<li>He has an older sister.</li>
+	<li>He read through the whole of <a href="http://en.wikipedia.org/wiki/City_Hunter" target="new">City Hunter</a> manga series before a concert on 02.07.02. There are over 30 volumes! You prefers to read through a whole manga series in one go.</li>
+	<li>He usually stands on stage left.</li>
+	<li>He is a great photographer and has had his work featured in galleries. He's also hosted his own photo exhibitions and has taken photos of Gackt for the monthly fan club magazine.</li>
+	<li>He loves tech and is generally a bit of a geek.</li>
 	<li>On 10th February 2018, he announced that he was going to be a father to a mini YOU.</li>
 	<li>He's learning Taekwondo.</li>
 </ul>

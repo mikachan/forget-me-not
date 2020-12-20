@@ -35,7 +35,7 @@
 
 <p>YELLOW FRIED CHICKENz (also known as "YFC" or "YFCz") began as a project by Gackt to express "the cowardice in men's souls", or as an attempt to 'form' men's spirit (don't ask me to explain, all sounds very ~Gackt~). They released one studio album, one 'best of' album, a couple of singles, a live album from their first European tour and a couple of DVDs.</p>
 
-<p>A highlight during YFC's time was their two European tours, where they performed at sold out venues in London, Paris, Barcelona, Munich, Bochum, Cologne, Amsterdam, Berlin, Budapest, Warszawa, Leipzig, Stockholm and Moscow.</p>
+<p>A highlight during YFC's time was their two European tours, where they performed at sold out venues in London, Paris, Barcelona, Munich, Bochum, Cologne, Amsterdam, Berlin, Budapest, Warsaw, Leipzig, Stockholm and Moscow.</p>
 
 <h3>S.Q.F (2017-present)</h3>
 

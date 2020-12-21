@@ -1,5 +1,6 @@
 <script>
 	import tape from 'images/cains-feel/tape.jpg';
+	import tape2 from 'images/cains-feel/tape-brown.jpg';
 	import band from 'images/cains-feel/cainsfeel.jpg';
 </script>
 
@@ -17,15 +18,30 @@
 	<img alt="CAINS:FEEL 1995" class="pb-4 mx-auto" src="{band}">
 </figure>
 
-<p>They made a demo tape in 1994:</p>
+<p>They made a demo tape in 1994. There were two versions: green and brown.</p>
+
+<p>Whilst they recorded a lot of songs for these demo tapes, they only chose to include the following. Other songs were adopted by Gackt later in his solo career (e.g. etude was used on <em>Love Letter</em>).</p>
+
+<h4>Green version:</h4>
 
 <figure>
 	<img alt="CAINS:FEEL 1994 demo tape open" class="p-4 pt-0" src="{tape}">
 </figure>
 
-<p>Whilst they recorded a lot of songs for the demo tape, they only chose to include the following 3. Other songs were adopted by Gackt later in his solo career (e.g. etude was used on <em>Love Letter</em>).</p>
+<ol class="list-decimal list-inside">
+	<li>～lie～ [<a href="https://youtu.be/cVe9rssPA84">youtube</a>]</li>
+	<li>MARINE BLUE no kazeni dakarete (marine blueの風に抱かれて) [<a href="https://youtu.be/A6CEeoU1KG4">youtube</a>]</li>
+	<li>etude [<a href="https://youtu.be/cvGPKVu3LPQ">youtube</a>] [<a href="downloads/etude.txt" target="new">lyric translation</a>]</li>
+</ol>
+
+<h4>Brown version:</h4>
+
+<figure>
+	<img alt="CAINS:FEEL 1994 demo tape brown rare version" class="p-4 pt-0" width="130px" src="{tape2}">
+</figure>
 
 <ol class="list-decimal list-inside">
+	<li>refrain</li>
 	<li>～lie～ [<a href="https://youtu.be/cVe9rssPA84">youtube</a>]</li>
 	<li>MARINE BLUE no kazeni dakarete (marine blueの風に抱かれて) [<a href="https://youtu.be/A6CEeoU1KG4">youtube</a>]</li>
 	<li>etude [<a href="https://youtu.be/cvGPKVu3LPQ">youtube</a>] [<a href="downloads/etude.txt" target="new">lyric translation</a>]</li>

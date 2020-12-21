@@ -15,20 +15,12 @@
 	<strong>Real Name:</strong> Yu Shimawatari<br>
 	<strong>Plays:</strong> Guitar, violin, piano, drums, shamisen<br>
 	<strong>Birthday:</strong> 10th February 1974<br>
-	<strong>Height:</strong> 186cm (or 6'2")<br>
-	<strong>Blood Type:</strong> A<br>
 	<strong>From:</strong> Kyoto, Japan<br>
-	<strong>Guitar Model:</strong> <a href="https://www.caparisonguitars.com/" target="new">Caparison</a> and Mercury<br>
-	<strong>Hobbies:</strong> cooking, motorbikes, martial arts, snowboarding, bowling, photography, reading manga
-</p>
-
-<h3>Favourites</h3>
-
-<p>
-	<strong>Fragrance</strong>: Jean Paul Gaultier Le Male<br>
-	<strong>Food</strong>: Yaki-udon (fried noodles)<br>
-	<strong>Colour</strong>: Blue<br>
-	<strong>Sport</strong>: You loves snowboarding and skiing, and goes on regular ski trips. He also taught Gackt to snowboard. He also enjoys marital arts, tennis, bowling and baseball.
+	<strong>Height:</strong> 186cm (6'2")<br>
+	<strong>Blood Type:</strong> A<br>
+	<strong>Guitar Model:</strong> <a href="https://www.caparisonguitars.com/" target="new">Caparison</a>, Mercury<br>
+	<strong>Hobbies:</strong> Cooking, motorbikes, martial arts, snowboarding, bowling, photography, reading manga<br>
+	<strong>Likes:</strong> Jean Paul Gaultier Le Male fragrance, cooking yaki udon, all things robot-themed 
 </p>
 
 <h3>Official Sites & Socials</h3>
@@ -44,7 +36,7 @@
 	<img alt="Bracelet" class="p-2 pt-0" align="right" src="{bracelet}" />
 </figure>
 
-<p>You has designed a couple of bracelets with Monkey-act-web. All You-related things could be found under the WithMAD section of the site. The last bracelet on the <a href="http://www.monkey-act-web.com/you/youpage.html" target="new">this page</a> he designed in 2003.</p>
+<p>You has designed a couple of bracelets with Monkey-act-web. All You-related things could be found under the <em>WithMAD</em> section of the site. The last bracelet on the <a href="http://www.monkey-act-web.com/you/youpage.html" target="new">this page</a> he designed in 2003.</p>
 
 <figure>
 	<img alt="Earring" class="p-2 pt-0" align="right" src="{earring}" />
@@ -54,7 +46,7 @@
 
 <p>You has made comments on the bracelets, saying they were his first collaboration with Monkey, and that it took a long time to design them.</p>
 
-<p>He's also designed other pieces of jewelery for <a href="http://h-darts.com" target="new">h-Darts</a>, including earrings, bracelets and necklaces. His latest design is a bracelet titled "Earth", which can be seen <a href="http://www.h-darts.com/original/order/image/g_you_model.jpg" target="new">here</a>, and details are <a href="http://www.h-darts.com/original/order/order.html#original" target="new">here</a>. The cost of the bracelet is about £37 or $69(US).</p>
+<p>He's also designed other pieces of jewelery for <em>h-Darts</em>, including earrings, bracelets and necklaces. His latest design is a bracelet titled "Earth", which can be seen <a href="http://www.h-darts.com/original/order/image/g_you_model.jpg" target="new">here</a>.</p>
 
 <h4>Clothing</h4>
 <p>You collaborated with Ed Hardy in 2014 on a clothing range.</p>
@@ -84,7 +76,7 @@
 	<li>He usually stands on stage left.</li>
 	<li>He is a great photographer and has had his work featured in galleries. He's also hosted his own photo exhibitions and has taken photos of Gackt for the monthly fan club magazine.</li>
 	<li>He loves tech and is generally a bit of a geek.</li>
-	<li>He married his first wife in 2004 and they were together 10 years before getting divorced in 2014. (There was drama and the press got involved, but I won't go into details here.)</li>
+	<li>He married his first wife in 2004 and they were together 10 years before getting divorced in 2014.</li>
 	<li>He married Nana Sakurai in 2014.</li>
 	<li>On 10th February 2018, he announced that he was going to be a father to a mini YOU. He frequently posts about his son on his <a href="https://ameblo.jp/yourobot" target="_blank">blog</a>.</li>
 </ul>

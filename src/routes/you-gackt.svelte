@@ -14,7 +14,7 @@
 
 <p>While You was a guitarist for a band in Kyoto, him and his band used to regularly visit a recording studio where Gackt worked as a sound technician. Gackt had seen You's band perform live at a livehouses in Kyoto several times and was fond of one of the guitarists, but he'd never made the connection between this guitarist and You.</p>
 
-<p>He knew of You from when they were in the studio together (roughly every two weeks), however they didn't speak much as Gackt thought You was quite hostile, didn't speak much and glared at him a lot.  He's found out since that the glaring was because You is short-sighted...</p>
+<p>He knew of You from when they were in the studio together (roughly every two weeks), however they didn't speak much as Gackt thought You was quite hostile, as he didn't talk a lot and glared at him.  He's found out since that the glaring was because You is short-sighted...</p>
 
 <p>One day he asked You who the guitarist he liked was, and You explained it was him. Gackt didn't believe him, going so far as arguing against it! So You took him to his house to show him photos and prove he was the guitarist, and from that point they became good friends. Gackt really liked the contrast between You's on-stage persona, expressive and dramatic, compared to his real personality, quiet and aloof.</p>
 
@@ -60,6 +60,6 @@
 
 <p>Gackt talked about You a lot on his <a href="http://allnightnippon.com/gackt" target="new">radio show</a>, and You is mentioned a lot in Gackt's <em>The Air Moon</em> document book.</p>
 
-<p>On the Mars tour DVD, you see GacktJob go to France in the middle of the tour. During a night out, Gackt found You laughing with the local people, even though he only speaks Japanese. Gackt listened into their conversation and heard You say in Japanese, <em>"AHAHAHAHA! I have no idea what the hell you're saying, you dork!"</em></p>
+<p>On the Mars tour DVD, you see GacktJob go to France in the middle of the tour. During a night out, Gackt found You laughing with the locals, even though he only speaks Japanese.</p>
 
-<p>Ever wondered what the inspiration for <em>Another World</em> was? While in Hawaii, Gackt and You went for a drive. On the way it began to rain, and they both agreed it was a beautiful scene.</p>
+<p>The inspiration for <em>ANOTHER WORLD</em> was from a holiday in Hawaii, where Gackt and You went for a drive and it began to rain, and they both agreed it was beautiful and should write a song about it.</p>

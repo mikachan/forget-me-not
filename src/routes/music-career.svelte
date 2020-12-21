@@ -13,7 +13,7 @@
 
 <p>You's best known for playing the guitar and violin, but can also play drums and piano. At live shows he usually plays rhythm guitar and sometimes violin.</p>
 
-<p>You also wrote a song for Chachamaru's album <em>Air</em>, called <em>Metamorphose</em>.</p>
+<p>You also writes music, including <em>Metamorphose</em> for Chachamaru's album <em>Air</em>; <em>white love</em> for Pokota's album <em>Lady Imagination</em>; and several songs for S.Q.F (<em>Abracadabra</em>, <em>ETERNAL CHILD</em>, <em>oblivion</em>, <em>IGNITE</em>, <em>Nirai Kanai</em>, <em>MADE IN EPITAPH</em>).</p>
 
 <h3>Pre-1989</h3>
 
@@ -45,7 +45,7 @@
 
 <p>Alongside guitar and violin, he also raps on <em>Dybbuk</em>, from Gackt's <em>Crescent</em> album, and on <em>Redemption</em> from the <em>Dirge of Cerberus: Final Fantasy VII</em> soundtrack.</p>
 
-<p>You last performed live with Gackt in 2019 at Yokohama Pacifico, and since 2020 Gackt has a new band at live shows. However, Gackt has said that You (and the other older band members, including Chacha) are still part of his family, and they could perform together again in the future. You still attends Gackt's performancesas JOB 'alumni'.</p>
+<p>You last performed live with Gackt in 2019 at Yokohama Pacifico, and since 2020 Gackt has a new band at live shows. However, Gackt has said that You (and the other older band members, including Chacha) are still part of his family, and they could perform together again in the future. You still attends Gackt's performances as JOB 'alumni'.</p>
 
 <h3>Yellow Fried Chickenz (2010-2012)</h3>
 
@@ -65,4 +65,4 @@
 
 <p>S.Q.F is a Japanese band formed in 2000 by ex-MASCHERA vocalist michi. and was originally michi.'s solo project, with ex-iLLUMINA guitarist, Nao. The name S.Q.F stands for "Spinning Q Factor."</p>
 
-<p>You has been a support band member since 2017, playing guitar at their live shows and on studio recordings.</p>
+<p>You has been a support band member since 2014, playing guitar at their live shows and on studio recordings, as well as writing some of their more recent songs.</p>

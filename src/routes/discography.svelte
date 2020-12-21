@@ -8,7 +8,7 @@
 	}
 
 	table {
-		@apply mb-4 w-full;
+		@apply mb-4 text-sm;
 	}
 
 	th {
@@ -111,6 +111,12 @@
 				<td>Guitar</td>
 			</tr>
 			<tr>
+				<td>2014</td>
+				<td>Lady Imagination</td>
+				<td>Pokota</td>
+				<td>Writer (<em>white love</em>)</td>
+			</tr>
+			<tr>
 				<td>2016</td>
 				<td>Last Moon</td>
 				<td>Gackt</td>
@@ -160,31 +166,31 @@
 				<td>2016</td>
 				<td>Winter Express</td>
 				<td>S.Q.F</td>
-				<td>Guitar</td>
+				<td>Guitar, writer</td>
 			</tr>
 			<tr>
 				<td>2017</td>
 				<td>Egoistic Game</td>
 				<td>S.Q.F</td>
-				<td>Guitar</td>
+				<td>Guitar, writer</td>
 			</tr>
 			<tr>
 				<td>2017</td>
 				<td>ETERNAL CHILD</td>
 				<td>S.Q.F</td>
-				<td>Guitar</td>
+				<td>Guitar, writer</td>
 			</tr>
 			<tr>
 				<td>2017</td>
 				<td>PARADIGM SHIFT</td>
 				<td>S.Q.F</td>
-				<td>Guitar</td>
+				<td>Guitar, writer</td>
 			</tr>
 			<tr>
 				<td>2017</td>
 				<td>iDOL</td>
 				<td>S.Q.F</td>
-				<td>Guitar</td>
+				<td>Guitar, writer</td>
 			</tr>
 		</tbody>
 	</table>

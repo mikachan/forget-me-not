@@ -14,13 +14,24 @@
 	import you05 from 'images/image-rotation/you05.jpg';
 	import you06 from 'images/image-rotation/you06.jpg';
 	import you07 from 'images/image-rotation/you07.jpg';
+	import you08 from 'images/image-rotation/you08.jpg';
+	import you09 from 'images/image-rotation/you09.jpg';
+	import you10 from 'images/image-rotation/you10.jpg';
+	import you11 from 'images/image-rotation/you11.jpg';
+	import you12 from 'images/image-rotation/you12.jpg';
+	import you13 from 'images/image-rotation/you13.jpg';
+	import you14 from 'images/image-rotation/you14.jpg';
+	import you15 from 'images/image-rotation/you15.jpg';
 
 	let ga_measurment_id: string = "UA-7281616-1";
 	let mainImage: string = you01;
 	let mainContent;
 
 	function randomYouImage(): string {
-		const youPics: string[] = [you01, you02, you03, you04, you05, you06, you07];
+		const youPics: string[] = [
+			you01, you02, you03, you04, you05, you06, you07, you08,
+			you09, you10, you11, you12, you13, you14, you15
+		];
 		const randomIndex: number = Math.floor(Math.random() * youPics.length);
 		return youPics[randomIndex];
 	}

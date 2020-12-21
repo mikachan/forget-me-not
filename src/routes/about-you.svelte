@@ -9,9 +9,10 @@
 
 <h2>About You</h2>
 <p>
-	<strong>Name:</strong> You (pronounced 'yuu'), aka 優, You Kurosaki, YOU, 🤖<br>
-	<strong>Plays:</strong> Guitar, violin<br>
-	<strong>Birthday:</strong> 10th February 1973<br>
+	<strong>Stage Name:</strong> You (pronounced 'yuu'), aka 優, You Kurosaki, YOU, 🤖<br>
+	<strong>Real Name:</strong> Yu Shimawatari<br>
+	<strong>Plays:</strong> Guitar, violin, piano, drums, shamisen<br>
+	<strong>Birthday:</strong> 10th February 1974<br>
 	<strong>Height:</strong> 186cm (or 6'2")<br>
 	<strong>Blood Type:</strong> A<br>
 	<strong>From:</strong> Kyoto, Japan<br>
@@ -65,9 +66,11 @@
 	<li>When he was younger he owned a Harley Davidson motorbike.</li>
 	<li>He's had lots of different nicknames, including "Grapefruit boy" because of Gackt's Mizerable ~Unmei~ photobook, "Big Brother You" (You-ni-san), pole (denchu) because he's tall and quiet. And of course, robot!</li>
 	<li>He read through the whole of <a href="http://en.wikipedia.org/wiki/City_Hunter" target="new">City Hunter</a> manga series before a concert on 02.07.02. There are over 30 volumes! You prefers to read through a whole manga series in one go.</li>
+	<li>He's extremely good at cooking, especially noodles.</li>
 	<li>He usually stands on stage left.</li>
 	<li>He is a great photographer and has had his work featured in galleries. He's also hosted his own photo exhibitions and has taken photos of Gackt for the monthly fan club magazine.</li>
 	<li>He loves tech and is generally a bit of a geek.</li>
+	<li>He married his first wife in 2004 and they were together 10 years before getting divorced in 2014. There was drama and the press got involved, I won't go into details here.</li>
+	<li>He married Nana Sakurai around 2014.</li>
 	<li>On 10th February 2018, he announced that he was going to be a father to a mini YOU.</li>
-	<li>He's learning Taekwondo.</li>
 </ul>

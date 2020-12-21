@@ -45,7 +45,7 @@
 
 <p>Alongside guitar and violin, he also raps on <em>Dybbuk</em>, from Gackt's <em>Crescent</em> album, and on <em>Redemption</em> from the <em>Dirge of Cerberus: Final Fantasy VII</em> soundtrack.</p>
 
-<p>You last performed live with Gackt in 2019 (as part of the Garden de Tobina Festival), and since 2020 Gackt has a new band at live shows. You still attends as JOB 'alumni' though!</p>
+<p>You last performed live with Gackt in 2019 at Yokohama Pacifico, and since 2020 Gackt has a new band at live shows. However,Gackt has said that You (and the other older band members, including Chacha) are still part of his family, and they could perform together again in the future. You still attends Gackt's performancesas JOB 'alumni'.</p>
 
 <h3>Yellow Fried Chickenz (2010-2012)</h3>
 

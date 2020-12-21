@@ -17,7 +17,7 @@
 
 <h3>Pre-1989</h3>
 
-<p>You was a guitarist for a couple of different bands in Kyoto when he first started his music career. Very early in his career, it seems he didn't have many ambitions for being successful outside of Kyoto, and it was Gackt who eventually persuaded him to join him in Tokyo to further his music career.</p>
+<p>You was a guitarist for a couple of different bands in Kyoto when he first started his music career. Very early in his career, it seems he didn't have many ambitions for being successful outside of Kyoto, and it was Gackt who eventually persuaded him to move to Tokyo to further his music career.</p>
 
 <p>Read more about <a href="/you-gackt">You & Gackt here</a>.</p>
 
@@ -45,7 +45,7 @@
 
 <p>Alongside guitar and violin, he also raps on <em>Dybbuk</em>, from Gackt's <em>Crescent</em> album, and on <em>Redemption</em> from the <em>Dirge of Cerberus: Final Fantasy VII</em> soundtrack.</p>
 
-<p>You last performed live with Gackt in 2019 at Yokohama Pacifico, and since 2020 Gackt has a new band at live shows. However,Gackt has said that You (and the other older band members, including Chacha) are still part of his family, and they could perform together again in the future. You still attends Gackt's performancesas JOB 'alumni'.</p>
+<p>You last performed live with Gackt in 2019 at Yokohama Pacifico, and since 2020 Gackt has a new band at live shows. However, Gackt has said that You (and the other older band members, including Chacha) are still part of his family, and they could perform together again in the future. You still attends Gackt's performancesas JOB 'alumni'.</p>
 
 <h3>Yellow Fried Chickenz (2010-2012)</h3>
 
@@ -57,7 +57,7 @@
 
 <p>A highlight during YFC's time was their two European tours, where they performed at sold out venues in London, Paris, Barcelona, Munich, Bochum, Cologne, Amsterdam, Berlin, Budapest, Warsaw, Leipzig, Stockholm and Moscow. This was Gackt's (and his band's) first time successfully touring outside Japan. A European tour documentary, <em>The Graffiti - Attack of The "Yellow Fried Chickenz" in Europe - "I Love You All"</em> was released on DVD in 2011.</p>
 
-<h3>S.Q.F (2015-present)</h3>
+<h3>S.Q.F (2014-present)</h3>
 
 <figure>
 	<img alt="S.Q.F" class="pb-4 mx-auto" src="{sqf}">

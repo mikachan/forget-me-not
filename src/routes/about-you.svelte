@@ -1,6 +1,8 @@
 <script>
 	import bracelet from 'images/bracelet.jpg';
 	import earring from 'images/earring.jpg';
+	import edhardy1 from 'images/edhardy01.jpg';
+	import edhardy2 from 'images/edhardy03.jpg';
 </script>
 
 <svelte:head>
@@ -33,10 +35,11 @@
 
 <p><a href="http://www.you-robots.com" target="new">You-robots.com</a> was You's official site. It contained a short discography and gallery, links, etc. He also had an old Gackt staff blog <a href="http://www.gackt-and-lovers.com/free/youblog/" target="new">here</a> and an official Facebook page <a href="https://www.facebook.com/YOU-161091424051137/" target="new">here</a>.</p>
 
-<p>He now has an Ameblo blog <a href="https://ameblo.jp/yourobot" target="new">here</a>.</p>
+<p>He now has an Ameblo blog <a href="https://ameblo.jp/yourobot" target="_blank">here</a>.</p>
 
-<h3>Jewellery Designs</h3>
+<h3>Designs</h3>
 
+<h4>Jewellery</h4>
 <figure>
 	<img alt="Bracelet" class="p-2 pt-0" align="right" src="{bracelet}" />
 </figure>
@@ -52,6 +55,17 @@
 <p>You has made comments on the bracelets, saying they were his first collaboration with Monkey, and that it took a long time to design them.</p>
 
 <p>He's also designed other pieces of jewelery for <a href="http://h-darts.com" target="new">h-Darts</a>, including earrings, bracelets and necklaces. His latest design is a bracelet titled "Earth", which can be seen <a href="http://www.h-darts.com/original/order/image/g_you_model.jpg" target="new">here</a>, and details are <a href="http://www.h-darts.com/original/order/order.html#original" target="new">here</a>. The cost of the bracelet is about £37 or $69(US).</p>
+
+<h4>Clothing</h4>
+<p>You collaborated with Ed Hardy in 2014 on a clothing range.</p>
+
+<figure>
+	<img alt="Ed Hardy x You" class="p-2 pt-0" align="right" src="{edhardy1}" />
+</figure>
+
+<figure>
+	<img alt="Ed Hardy x You" class="p-2 pt-0 mb-4" align="right" src="{edhardy2}" />
+</figure>
 
 <h3>Trivia</h3>
 
@@ -70,7 +84,7 @@
 	<li>He usually stands on stage left.</li>
 	<li>He is a great photographer and has had his work featured in galleries. He's also hosted his own photo exhibitions and has taken photos of Gackt for the monthly fan club magazine.</li>
 	<li>He loves tech and is generally a bit of a geek.</li>
-	<li>He married his first wife in 2004 and they were together 10 years before getting divorced in 2014. There was drama and the press got involved, I won't go into details here.</li>
-	<li>He married Nana Sakurai around 2014.</li>
-	<li>On 10th February 2018, he announced that he was going to be a father to a mini YOU.</li>
+	<li>He married his first wife in 2004 and they were together 10 years before getting divorced in 2014. (There was drama and the press got involved, but I won't go into details here.)</li>
+	<li>He married Nana Sakurai in 2014.</li>
+	<li>On 10th February 2018, he announced that he was going to be a father to a mini YOU. He frequently posts about his son on his <a href="https://ameblo.jp/yourobot" target="_blank">blog</a>.</li>
 </ul>

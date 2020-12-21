@@ -52,11 +52,11 @@
 <NavMobile {segment} />
 
 <div class="font-sans antialiased text-gray-900 leading-normal tracking-wider bg-cover" style="background-image:url({bg});">
-	<div class="max-w-4xl flex items-center h-auto lg:h-screen flex-wrap mx-auto py-32 lg:my-0">
+	<div class="max-w-4xl flex items-center h-auto lg:h-screen flex-wrap mx-auto py-32 px-6 lg:px-0 lg:my-0">
 
 		<Nav {segment} />
 
-		<div class="main-content w-full lg:w-3/5 rounded-lg lg:rounded-l-lg lg:rounded-r-none shadow-2xl bg-white opacity-75 mx-6 lg:mx-0 lg:h-4/6 lg:overflow-y-scroll">
+		<div class="main-content w-full lg:w-3/5 rounded-lg lg:rounded-l-lg lg:rounded-r-none shadow-2xl bg-white opacity-75 lg:mx-0 lg:h-4/6 lg:overflow-y-scroll">
 			<div class="p-4 md:p-6">
 				<div class="block lg:hidden rounded-full shadow-xl mx-auto -mt-16 h-48 w-48 bg-cover bg-center" style="background-image: url({mainImage})"></div>
 

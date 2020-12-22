@@ -19,9 +19,9 @@
 
 <p>You was a guitarist for a couple of different bands in Kyoto when he first started his music career. Very early in his career, it seems he didn't have many ambitions for being successful outside of Kyoto, and it was Gackt who eventually persuaded him to move to Tokyo to further his music career.</p>
 
-<p>Read more about <a href="/you-gackt">You & Gackt here</a>.</p>
+<p>Read more about <a href="/music-career/you-gackt">You & Gackt here</a>.</p>
 
-<h3>CAINS:FEEL (1989-1995) <a href="/cains-feel" class="text-sm">read more &rarr;</a></h3>
+<h3>CAINS:FEEL (1989-1995) <a href="/music-career/cains-feel" class="text-sm">read more &rarr;</a></h3>
 
 <figure>
 	<img alt="CAINS:FEEL" class="pb-4 mx-auto" src="{cainsFeel}">
@@ -33,7 +33,7 @@
 
 <p>At the time, Gackt was a drummer and You was playing guitar. They couldn't decide who should sing vocals and Gackt jokingly suggested that he should do it, but You just laughed. After a couple of arguments and proving each other wrong, You gave Gackt a list of songs to practice and Gackt agreed to take vocal lessons. After a week of lessons, he sung in front of You for the first time, and You's response was, "Why haven't you sung before?". It's fair to say that if it wasn't for You, Gackt perhaps wouldn't have even considered being a lead vocalist.</p>
 
-<h3>GacktJob (1999-2019) <a href="/gacktjob" class="text-sm">read more &rarr;</a></h3>
+<h3>GacktJob (1999-2019) <a href="/music-career/gacktjob" class="text-sm">read more &rarr;</a></h3>
 
 <figure>
 	<img alt="GacktJob around 2001" class="pb-4 mx-auto" src="{gacktjob}">

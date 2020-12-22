@@ -24,7 +24,7 @@
 
 <h3>Designs</h3>
 
-<p>You has collaborated with several designers, for both jewellery and clothing. <a href="/designs">Read more about his designs here.</a></p>
+<p>You has collaborated with several designers for both jewellery and clothing. <a href="/about-you/designs">Read more about his designs here.</a></p>
 
 <h3>Trivia</h3>
 

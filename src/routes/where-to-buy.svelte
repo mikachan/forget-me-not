@@ -15,6 +15,8 @@
 	<li><a href="http://www.jlist.com/" target="_blank">JList</a></li>
 </ul>
 
+<p>Both Gackt and S.Q.F are available on Spotify as well.</p>
+
 <h3>Suggested Merch for You Fans</h3>
 
 <h4>Albums</h4>

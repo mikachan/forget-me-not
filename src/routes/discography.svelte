@@ -311,12 +311,12 @@
 <p>As well as almost all of Gackt's live tour DVDs, You has appeared in the following:</p>
 
 <ul>
+	<li>You played <em>Jun</em> in <a href="https://www.imdb.com/title/tt0365514/" target="_blank">Moon Child</a> (2003)</li>
 	<li>Gackt PVs: <em>Mirror</em>, <em>ANOTHER WORLD</em>, <em>Juunigatsu no love song</em>, <em>Black Stone</em> &amp; <em>Redemption</em></li>
 	<li>Yellow Fried Chickenz PVs: <em>All My Love</em> &amp; <em>Mata koko de Aimashou</em></li>
 	<li>Gekkou (Gackt)</li>
 	<li><em>Life</em> video, from <em>Soyokaze</em> (Gackt)</li>
 	<li>Gackt's Platinum Boxes</li>
-	<li>You played <em>Jun</em> in <a href="https://www.imdb.com/title/tt0365514/" target="_blank">Moon Child</a> (2003)</li>
 </ul>
 
 <h4>CDs</h4>

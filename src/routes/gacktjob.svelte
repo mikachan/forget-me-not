@@ -9,3 +9,5 @@
 <p>They celebrated You's 30th birthday on Gackt's radio show together; I've dedicated a page to it <a href="/birthday-2003">here</a> since I had so much info about it.</p>
 
 <p><em>More info coming soon.</em></p>
+
+<p><a href="/music-career">&larr; Backt to Music Career</a></p>

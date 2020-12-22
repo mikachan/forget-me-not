@@ -63,3 +63,5 @@
 <p>On the Mars tour DVD, you see GacktJob go to France in the middle of the tour. During a night out, Gackt found You laughing with the locals, even though he only speaks Japanese.</p>
 
 <p>The inspiration for <em>ANOTHER WORLD</em> was from a holiday in Hawaii, where Gackt and You went for a drive and it began to rain, and they both agreed it was beautiful and should write a song about it.</p>
+
+<p><a href="/music-career">&larr; Backt to Music Career</a></p>

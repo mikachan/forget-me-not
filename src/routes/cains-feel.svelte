@@ -46,3 +46,5 @@
 	<li>MARINE BLUE no kazeni dakarete (marine blueの風に抱かれて) [<a href="https://youtu.be/A6CEeoU1KG4">youtube</a>]</li>
 	<li>etude [<a href="https://youtu.be/cvGPKVu3LPQ">youtube</a>] [<a href="downloads/etude.txt" target="new">lyric translation</a>]</li>
 </ol>
+
+<p><a href="/music-career">&larr; Backt to Music Career</a></p>

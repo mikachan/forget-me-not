@@ -106,3 +106,5 @@ And the studio was full of people who sang for him ~ And You was still trembling
 <figure>
 	<img alt="Birthday cake" class="" src="{cake}">
 </figure>
+
+<p><a href="/gacktjob">&larr; Backt to GacktJob</a></p>

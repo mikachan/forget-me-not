@@ -22,6 +22,7 @@
 	import you13 from 'images/image-rotation/you13.jpg';
 	import you14 from 'images/image-rotation/you14.jpg';
 	import you15 from 'images/image-rotation/you15.jpg';
+	import you16 from 'images/image-rotation/you16.jpg';
 
 	let ga_measurment_id: string = "UA-7281616-1";
 	let mainImage: string = you01;
@@ -30,7 +31,7 @@
 	function randomYouImage(): string {
 		const youPics: string[] = [
 			you01, you02, you03, you04, you05, you06, you07, you08,
-			you09, you10, you11, you12, you13, you14, you15
+			you09, you10, you11, you12, you13, you14, you15, you16
 		];
 		const randomIndex: number = Math.floor(Math.random() * youPics.length);
 		return youPics[randomIndex];

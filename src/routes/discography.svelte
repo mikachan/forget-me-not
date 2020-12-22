@@ -1,3 +1,7 @@
+<script>
+	import moonchild from 'images/you/moonchild.jpg';
+</script>
+
 <svelte:head>
 	<title>Discography</title>
 </svelte:head>
@@ -297,21 +301,29 @@
 </div>
 
 <h3>Visual Appearances</h3>
+
+<figure>
+	<img alt="You in Moon Child" class="p-2 pt-0 mb-2" align="right" src="{moonchild}" />
+</figure>
+
+<h4>DVDs/Videos</h4>
+
+<p>As well as almost all of Gackt's live tour DVDs, You has appeared in the following:</p>
+
+<ul>
+	<li>Gackt PVs: <em>Mirror</em>, <em>ANOTHER WORLD</em>, <em>Juunigatsu no love song</em>, <em>Black Stone</em> &amp; <em>Redemption</em></li>
+	<li>Yellow Fried Chickenz PVs: <em>All My Love</em> &amp; <em>Mata koko de Aimashou</em></li>
+	<li>Gekkou (Gackt)</li>
+	<li><em>Life</em> video, from <em>Soyokaze</em> (Gackt)</li>
+	<li>Gackt's Platinum Boxes</li>
+	<li>You played <em>Jun</em> in <a href="https://www.imdb.com/title/tt0365514/" target="_blank">Moon Child</a> (2003)</li>
+</ul>
+
 <h4>CDs</h4>
 <ul>
 	<li>Lyric booklet that comes with Gackt's <em>Moon</em> album</li>
 	<li>Lyric booklet that comes with Gackt's <em>The Sixth Day</em> album</li>
 	<li>Lyric booklet that comes with Gackt's <em>The Seventh Night</em> album</li>
-</ul>
-
-<h4>DVDs/Videos</h4>
-<ul>
-	<li>Gackt PVs: <em>Mirror</em>, <em>ANOTHER WORLD</em>, <em>Juunigatsu no love song</em>, <em>Black Stone</em> &amp; <em>Redemption</em></li>
-	<li>Gekkou (Gackt)</li>
-	<li><em>Life</em> video, from <em>Soyokaze</em> (Gackt)</li>
-	<li>Gackt's Platinum Boxes</li>
-	<li>You played <em>Jun</em> in <a href="https://www.imdb.com/title/tt0365514/" target="_blank">Moon Child</a> (2003)</li>
-	<li>Yellow Fried Chickenz PVs: <em>All My Love</em> &amp; <em>Mata koko de Aimashou</em></li>
 </ul>
 
 <h4>Books</h4>

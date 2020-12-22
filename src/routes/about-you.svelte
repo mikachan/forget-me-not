@@ -1,8 +1,8 @@
 <script>
-	import bracelet from 'images/bracelet.jpg';
-	import earring from 'images/earring.jpg';
-	import edhardy1 from 'images/edhardy01.jpg';
-	import edhardy2 from 'images/edhardy03.jpg';
+	import bracelet from 'images/designs/bracelet.jpg';
+	import earring from 'images/designs/earring.jpg';
+	import edhardy1 from 'images/designs/edhardy01.jpg';
+	import edhardy2 from 'images/designs/edhardy03.jpg';
 </script>
 
 <svelte:head>

@@ -1,5 +1,5 @@
 <script>
-	import cake from 'images/bdaycake.jpg';
+	import cake from 'images/you/bdaycake.jpg';
 </script>
 
 <svelte:head>
@@ -12,7 +12,7 @@
 
 <h3>Where, when and who?</h3>
 
-<p><strong>Where?</strong> - It happened on Gackt's <a href="http://www.allnightnippon.com/gackt" target="new">radio show</a>... urm, in the studio.</p>
+<p><strong>Where?</strong> - Gackt's All Night Nippon radio show</p>
 
 <p><strong>When?</strong> - February 10th, 2003. Surprisingly.</p>
 
@@ -101,7 +101,7 @@ And the studio was full of people who sang for him ~ And You was still trembling
 
 <h3>The cake</h3><br>
 
-The "cake" that You received is shown below. If anyone's wondering where I got this from, I snagged it off the <a href="http://www.allnightnippon.com/gackt" target="new">ANN</a> site.<br><br>
+<p>The "cake" that You received is shown below (snagged it off the <a href="http://www.allnightnippon.com/gackt" target="new">ANN</a> site).</p>
 
 <figure>
 	<img alt="Birthday cake" class="" src="{cake}">

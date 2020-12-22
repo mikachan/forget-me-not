@@ -19,8 +19,8 @@
 
 <h4>Albums</h4>
 <ul>
-	<li><em>Moon</em> (Gackt): You is heavily featured in the CD booklet.</li>
-	<li><em>The Seventh Night</em> (Gackt): Nice pictures of You and Gackt in the chunky booklet that comes with the CD.</li>
+	<li><em>Moon</em> (Gackt): You is heavily featured in the CD booklet</li>
+	<li><em>The Seventh Night</em> (Gackt): Nice pictures of You and Gackt in the chunky booklet that comes with the CD</li>
 </ul>
 
 <h4>Photobooks &amp; Magazines</h4>
@@ -32,4 +32,15 @@
 	<li>The Sixth Day & Seventh Night Tour Book</li>
 	<li>Gackt File 1999-2004</li>
 	<li>DIABOLOS tour book</li>
+</ul>
+
+<h4>Live Tour DVDs</h4>
+
+<p>Any of Gackt's from 2000-2019, but my personal favourites are:</p>
+
+<ul>
+	<li><em>Kagen no Tsuki (2002)</em></li>
+	<li><em>Jougen no Tsuki (Saishusho) (2003)</em></li>
+	<li><em>The Sixth Day & Seventh Night (2004)</em></li>
+	<li><em>Gackt Training Days Drug Party (2006)</em></li>
 </ul>

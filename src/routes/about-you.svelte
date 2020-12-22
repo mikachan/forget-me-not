@@ -22,11 +22,14 @@
 
 <p>Most recently, he writes in his Ameblo blog <a href="https://ameblo.jp/yourobot" target="_blank">here</a>.</p>
 
+<h3>Designs</h3>
+
+<p>You has collaborated with several designers, for both jewellery and clothing. <a href="/designs">Read more about his designs here.</a></p>
+
 <h3>Trivia</h3>
 
 <ul>
-	<li>He has collaborated with several designers, for both jewellery and clothing. <a href="/designs">Read more about his designs here.</a></li>
-	<li>Daikon plushies appear throughout his old <a href="http://www.you-robots.com/diary/diary.cgi" target="_blank">blog</a> behind plates, on top of his laptop, etc. in his daily pictures. He thinks he resembles the Takara and Kiddy Land character, Aokubi Daikon.</li>
+	<li>Daikon plushies appear throughout his old blog behind plates and on top of his laptop in his daily pictures. He thinks he resembles the Takara and Kiddy Land character, Aokubi Daikon.</li>
 	<li>He's a big fan of Apple Macs, and is normally seen using a MacBook Pro or iMac. He has a robot-themed USB-C adapter.</li>
 	<li>He's very close friends with Gackt and has lived with him on several occasions.</li>
 	<li>He's had lots of different nicknames, including "Grapefruit boy" because of Gackt's Mizerable ~Unmei~ photobook, "Big Brother You" (You-ni-san), pole (denchu) because he's tall and quiet. And of course, robot!</li>

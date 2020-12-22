@@ -3,6 +3,10 @@
 	import earring from 'images/designs/earring.jpg';
 	import edhardy1 from 'images/designs/edhardy01.jpg';
 	import edhardy2 from 'images/designs/edhardy03.jpg';
+	import hdarts01 from 'images/designs/hdarts01.jpg';
+	import hdarts02 from 'images/designs/hdarts02.jpg';
+	import hdarts03 from 'images/designs/hdarts03.jpg';
+	import hdarts04 from 'images/designs/hdarts04.jpg';
 </script>
 
 <svelte:head>
@@ -29,7 +33,19 @@
 
 <p>He's also designed other pieces of jewelery for <em>h-Darts</em>, including earrings, bracelets and necklaces. His latest design is a bracelet titled "Earth", which can be seen <a href="http://www.h-darts.com/original/order/image/g_you_model.jpg" target="new">here</a>.</p>
 
-<h3>Clothing</h3>
+<p>The best thing from the h-darts collab was this gorgeous but slightly awkward must-show-hands-and-wrists-in-all-shots photoshoot:</p>
+
+<figure>
+	<img alt="h-darts" class="p-2 pt-0 inline-block" src="{hdarts01}" />
+	<img alt="h-darts" class="p-2 pt-0 inline-block" src="{hdarts02}" />
+</figure>
+
+<figure>
+	<img alt="h-darts" class="p-2 pt-0 inline-block" src="{hdarts03}" />
+	<img alt="h-darts" class="p-2 pt-0 inline-block" src="{hdarts04}" />
+</figure>
+
+<h3 class="mt-4">Clothing</h3>
 <p>You collaborated with Ed Hardy in 2014 on a clothing range.</p>
 
 <figure>

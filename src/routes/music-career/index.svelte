@@ -11,13 +11,15 @@
 
 <h2>Music Career</h2>
 
-<p>You's best known for playing the guitar and violin, but can also play drums and piano. At live shows he usually plays rhythm guitar and sometimes violin.</p>
+<p>You's best known for playing the guitar and violin, but can also play drums and piano. At live shows he usually plays rhythm guitar, violin and sometimes backing vocals.</p>
 
 <p>You also writes music, including <em>Metamorphose</em> for Chachamaru's album <em>Air</em>; <em>white love</em> for Pokota's album <em>Lady Imagination</em>; and several songs for S.Q.F (<em>Abracadabra</em>, <em>ETERNAL CHILD</em>, <em>oblivion</em>, <em>IGNITE</em>, <em>Nirai Kanai</em>, <em>MADE IN EPITAPH</em>).</p>
 
 <h3>Pre-1989</h3>
 
 <p>You was a guitarist for a couple of different bands in Kyoto when he first started his music career. Very early in his career, it seems he didn't have many ambitions for being successful outside of Kyoto, and it was Gackt who eventually persuaded him to move to Tokyo to further his music career.</p>
+
+<p>You met Gackt whilst he was working as a guitarist for another band. Gackt was working as a sound technician in the same studio that You's band used for recordings. Eventually, they became good friends and decided to start a band together.</p>
 
 <p>Read more about <a href="/music-career/you-gackt">You & Gackt here</a>.</p>
 
@@ -29,9 +31,7 @@
 
 <p>CAINS:FEEL was a Japanese rock/goth band, formed by You and Gackt, and was their first band together.</p>
 
-<p>You met Gackt whilst he was working as a guitarist for another band. Gackt was working as a sound technician in the same studio that You's band used for recordings. Eventually, they became good friends and decided to start a band together.</p>
-
-<p>At the time, Gackt was a drummer and You was playing guitar. They couldn't decide who should sing vocals and Gackt jokingly suggested that he should do it, but You just laughed. After a couple of arguments and proving each other wrong, You gave Gackt a list of songs to practice and Gackt agreed to take vocal lessons. After a week of lessons, he sung in front of You for the first time, and You's response was, "Why haven't you sung before?". It's fair to say that if it wasn't for You, Gackt perhaps wouldn't have even considered being a lead vocalist.</p>
+<p>The majority of songs were written by Gackt and You together at You's house. Gackt used to go round in the evenings and they would stay up writing until 7am.</p>
 
 <h3>GacktJob (1999-2019) <a href="/music-career/gacktjob" class="text-sm">read more &rarr;</a></h3>
 
@@ -39,13 +39,13 @@
 	<img alt="GacktJob around 2001" class="pb-4 mx-auto" src="{gacktjob}">
 </figure>
 
-<p>During the time between CAINS:FEEL and GacktJob, You and Gackt kept in contact over the phone. After four years, Gackt called You up to ask him to join his band as part of his solo career. You was still living in Kyoto at the time, whilst Gackt had already moved to Tokyo to start his solo career. You didn't hesitate to join him, and moved to Tokyo soon after. It was around this time that he learnt how to play violin and piano, on Gackt's recommendation.</p>
+<p>During the time between CAINS:FEEL and GacktJob, You and Gackt kept in contact over the phone. You was still living in Kyoto at the time, whilst Gackt had already moved to Tokyo to start his solo career. Gackt called You up to ask him to join his band as part of his solo career, and shortly after You moved to Tokyo to join him. It was around this time that he learnt how to play violin and piano, on Gackt's recommendation.</p>
 
 <p>You has been in JOB from the beginning of Gackt's solo career, first recording in LA in January 1999.</p>
 
-<p>Alongside guitar and violin, he also raps on <em>Dybbuk</em>, from Gackt's <em>Crescent</em> album, and on <em>Redemption</em> from the <em>Dirge of Cerberus: Final Fantasy VII</em> soundtrack.</p>
+<p>Alongside guitar and violin, he also provides vocals on <em>Dybbuk</em> from the album <em>Crescent</em>, and on <em>Redemption</em> from the <em>Dirge of Cerberus: Final Fantasy VII</em> soundtrack.</p>
 
-<p>You last performed live with Gackt in 2019 at Yokohama Pacifico, and since 2020 Gackt has a new band at live shows. However, Gackt has said that You (and the other older band members, including Chacha) are still part of his family, and they could perform together again in the future. You still attends Gackt's performances as JOB 'alumni'.</p>
+<p>You last performed live with Gackt in 2019 at Yokohama Pacifico, and since 2020 Gackt has a new band at live shows. However, Gackt has said that You (and the other older band members, including Chacha) are still part of his family, and they will perform together again in the future. You still attends Gackt's performances as JOB 'alumni'.</p>
 
 <h3>Yellow Fried Chickenz (2010-2012)</h3>
 

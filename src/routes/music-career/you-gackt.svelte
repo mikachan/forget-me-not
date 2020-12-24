@@ -10,25 +10,25 @@
 
 <h3>Meeting Gackt</h3>
 
-<p>Gackt has explained how him and You met several times, including in his autobiography. He's first mentioned You in Section 2: Kakusei, Chapter 4: "Hatsu Bando CAIN'S FEEL".</p>
+<p>Gackt has explained how him and You met several times, including in his autobiography in Section 2: Kakusei, Chapter 4: "Hatsu Bando CAIN'S FEEL".</p>
 
 <p>While You was a guitarist for a band in Kyoto, him and his band used to regularly visit a recording studio where Gackt worked as a sound technician. Gackt had seen You's band perform live at a livehouses in Kyoto several times and was fond of one of the guitarists, but he'd never made the connection between this guitarist and You.</p>
 
-<p>He knew of You from when they were in the studio together (roughly every two weeks), however they didn't speak much as Gackt thought You was quite hostile, as he didn't talk a lot and glared at him.  He's found out since that the glaring was because You is short-sighted...</p>
+<p>He knew of You from when they were in the studio together (roughly every two weeks), however they didn't speak much as Gackt thought You was quite hostile, as he didn't talk a lot and glared at him. He's since found out that the glaring was because You is short-sighted...</p>
 
 <p>One day he asked You who the guitarist he liked was, and You explained it was him. Gackt didn't believe him, going so far as arguing against it! So You took him to his house to show him photos and prove he was the guitarist, and from that point they became good friends. Gackt really liked the contrast between You's on-stage persona, expressive and dramatic, compared to his real personality, quiet and aloof.</p>
 
 <p>Shortly after becoming friends, they formed <a href="/cains-feel">CAINS:FEEL</a>.</p>
 
-<h3>First Performance Together</h3>
+<h3>Early Street Performances</h3>
 
 <figure>
 	<img alt="Gackt and You performance at Christmas" class="p-4 pt-0" width="200" align="right" src="{hana}">
 </figure>
 
-<p>Their first public performance together was in 1993 when they performed <em>hanashitaku wa nai</em> (T-Bolan) in Kamogawa, Kyoto at Christmas. Gackt's girlfriend at the time had left him and so he was alone on Christmas Day. You asked Gackt if he'd sing along to him playing guitar so he was not alone. Gackt refused, however You insisted on playing in the street to keep him company. They recreated the performance on the Happy Xmas Show in 2003, with You on the guitar and Gackt singing.</p>
+<p>Back when they used to perform on the streets of Kyoto together, they played <em>hanashitaku wa nai</em> (by T-Bolan) at Christmas in Kamogawa, Kyoto. Gackt's girlfriend at the time had left him and so he was alone on Christmas Day. You asked Gackt if he'd sing along to him playing guitar so he was not alone. Gackt refused, however You insisted on playing in the street to keep him company. They recreated the performance on the Happy Xmas Show in 2003, with You on the guitar and Gackt singing.</p>
 
-<iframe title="hanashitaku wa nai" src="https://www.youtube.com/embed/8v2FPRve0S4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="mb-4"></iframe>
+<iframe title="hanashitaku wa nai" src="https://www.youtube.com/embed/8v2FPRve0S4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="mb-4 w-full"></iframe>
 
 <h3>Relationship with Gackt</h3>
 
@@ -58,10 +58,12 @@
 	<li><em>"Clean the damn toilet from time to time!"</em></li>
 </ul>
 
-<p>Gackt talked about You a lot on his <a href="http://allnightnippon.com/gackt" target="new">radio show</a>, and You is mentioned a lot in Gackt's <em>The Air Moon</em> document book.</p>
-
-<p>On the Mars tour DVD, you see GacktJob go to France in the middle of the tour. During a night out, Gackt found You laughing with the locals, even though he only speaks Japanese.</p>
-
-<p>The inspiration for <em>ANOTHER WORLD</em> was from a holiday in Hawaii, where Gackt and You went for a drive and it began to rain, and they both agreed it was beautiful and should write a song about it.</p>
+<h3>Trivia</h3>
+<ul>
+	<li>Gackt talked about You a lot on his <a href="http://allnightnippon.com/gackt" target="new">radio show</a>, and You is mentioned a lot in Gackt's <em>The Air Moon</em> document book.</li>
+	<li>Gackt also speaks a lot about You in the <em>Diablos</em> tour document.</li>
+	<li>On the Mars tour DVD, you see GacktJob go to France in the middle of the tour. During a night out, Gackt found You laughing with the locals, even though he only speaks Japanese.</li>
+	<li>The inspiration for <em>ANOTHER WORLD</em> was from a holiday in Hawaii, where Gackt and You went for a drive and it began to rain, and they both agreed it was beautiful and should write a song about it.</li>
+</ul>
 
 <p><a href="/music-career">&larr; Backt to Music Career</a></p>

@@ -150,7 +150,7 @@
 			</tr>
 			<tr>
 				<td>1999-2016</td>
-				<td>Titles coming soon</td>
+				<td><em>Titles coming soon</em></td>
 				<td>Gackt</td>
 				<td>Guitar, violin</td>
 			</tr>
@@ -252,7 +252,7 @@
 				<td>2007</td>
 				<td>Gackt Training Days 2006 Drug Party - Zepp Tokyo</td>
 				<td>Gackt</td>
-				<td>Guitar, violin</td>
+				<td>Guitar</td>
 			</tr>
 			<tr>
 				<td>2010</td>
@@ -303,7 +303,7 @@
 <h3>Visual Appearances</h3>
 
 <figure>
-	<img alt="You in Moon Child" class="p-2 pt-0 mb-2" align="right" src="{moonchild}" />
+	<img alt="You in Moon Child" class="p-2 pt-0 mb-2" src="{moonchild}" />
 </figure>
 
 <h4>DVDs/Videos</h4>
@@ -322,7 +322,6 @@
 <h4>CDs</h4>
 <ul>
 	<li>Lyric booklet that comes with Gackt's <em>Moon</em> album</li>
-	<li>Lyric booklet that comes with Gackt's <em>The Sixth Day</em> album</li>
 	<li>Lyric booklet that comes with Gackt's <em>The Seventh Night</em> album</li>
 </ul>
 

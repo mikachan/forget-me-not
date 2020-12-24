@@ -15,7 +15,7 @@
 	<li><a href="http://www.jlist.com/" target="_blank">JList</a></li>
 </ul>
 
-<p>Both Gackt and S.Q.F are available on Spotify as well.</p>
+<p>Both Gackt and S.Q.F are available on most popular music streaming services.</p>
 
 <h3>Suggested Merch for You Fans</h3>
 
@@ -42,7 +42,8 @@
 
 <ul>
 	<li><em>Kagen no Tsuki (2002)</em></li>
-	<li><em>Jougen no Tsuki (Saishusho) (2003)</em></li>
+	<li><em>Jougen no Tsuki (2003)</em></li>
 	<li><em>The Sixth Day & Seventh Night (2004)</em></li>
+	<li><em>Diablos (2005)</em></li>
 	<li><em>Gackt Training Days Drug Party (2006)</em></li>
 </ul>

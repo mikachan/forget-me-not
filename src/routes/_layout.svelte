@@ -59,7 +59,7 @@
 
 		<div class="main-content w-full lg:w-3/5 rounded-lg lg:rounded-l-lg lg:rounded-r-none shadow-2xl bg-white opacity-75 lg:mx-0 lg:h-4/6 lg:overflow-y-scroll">
 			<div class="p-4 md:p-6">
-				<div class="block lg:hidden rounded-full shadow-xl mx-auto -mt-16 h-48 w-48 bg-cover bg-center" style="background-image: url({mainImage})"></div>
+				<div class="block lg:hidden rounded-full shadow-xl mx-auto -mt-16 h-48 w-48 bg-cover bg-top" style="background-image: url({mainImage})"></div>
 
 				<h1 class="text-3xl font-bold pt-8 lg:pt-0 text-center lg:text-left">Forget-me-not: a YOU fansite</h1>
 				<div class="mx-auto lg:mx-0 w-4/5 my-3 border-b-2 border-green-500 opacity-25"></div>

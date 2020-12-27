@@ -8,9 +8,10 @@
 
 		fadeEl.classList.remove('hidden');
 
-		const isScrolledToEnd: Boolean = el.scrollWidth - el.scrollLeft == el.offsetWidth;
+		const isOverThreshold: Boolean = (el.scrollWidth - el.scrollLeft) - el.offsetWidth <= 10;
+		// const isScrolledToEnd: Boolean = el.scrollWidth - el.scrollLeft == el.offsetWidth;
 
-		if (isScrolledToEnd) fadeEl.classList.add('hidden');
+		if (isOverThreshold) fadeEl.classList.add('hidden');
 	}
 </script>
 

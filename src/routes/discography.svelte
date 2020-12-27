@@ -226,19 +226,19 @@
 			</tr>
 			<tr>
 				<td>2003</td>
-				<td>Gackt Live Tour 2002 Kagen no Tsuki (Seiya no Shirabe)</td>
+				<td>Live Tour 2002 Kagen no Tsuki (Seiya no Shirabe)</td>
 				<td>Gackt</td>
 				<td>Guitar, violin</td>
 			</tr>
 			<tr>
 				<td>2003</td>
-				<td>Gackt Live Tour 2003 Jougen no Tsuki (Saishusho)</td>
+				<td>Live Tour 2003 Jougen no Tsuki (Saishusho)</td>
 				<td>Gackt</td>
 				<td>Guitar, violin</td>
 			</tr>
 			<tr>
 				<td>2004</td>
-				<td>Gackt Live Tour 2004 The Sixth Day & Seventh Night (Final)</td>
+				<td>Live Tour 2004 The Sixth Day & Seventh Night (Final)</td>
 				<td>Gackt</td>
 				<td>Guitar, violin</td>
 			</tr>
@@ -250,13 +250,13 @@
 			</tr>
 			<tr>
 				<td>2007</td>
-				<td>Gackt Training Days 2006 Drug Party - Zepp Tokyo</td>
+				<td>Training Days 2006 Drug Party</td>
 				<td>Gackt</td>
 				<td>Guitar</td>
 			</tr>
 			<tr>
 				<td>2010</td>
-				<td>Visualive Arena Tour 2009 Requiem Et Reminiscence II Final Chinkon To Saisei</td>
+				<td>Visualive Arena Tour 2009 Requiem Et Reminiscence II</td>
 				<td>Gackt</td>
 				<td>Guitar, violin</td>
 			</tr>
@@ -286,13 +286,13 @@
 			</tr>
 			<tr>
 				<td>2016</td>
-				<td>2015 Camui G School de Dashitekudasai - Minna no Omoi wo Da, Da, Dashitekudasai -</td>
+				<td>2015 Camui G School de Dashitekudasai</td>
 				<td>Gackt</td>
 				<td>Guitar</td>
 			</tr>
 			<tr>
 				<td>2017</td>
-				<td>Gackt Japan Tour 2016 Last Visualive Saigo no Tsuki –Last Moon–</td>
+				<td>2016 Last Visualive Saigo no Tsuk</td>
 				<td>Gackt</td>
 				<td>Guitar, violin</td>
 			</tr>
@@ -308,7 +308,7 @@
 
 <h4>DVDs/Videos</h4>
 
-<p>As well as almost all of Gackt's live tour DVDs, You has appeared in the following:</p>
+<p>Alongside live tour DVDs, You has also appeared in the following:</p>
 
 <ul>
 	<li>You played <em>Jun</em> in <a href="https://www.imdb.com/title/tt0365514/" target="_blank">Moon Child</a> (2003)</li>

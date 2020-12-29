@@ -18,7 +18,7 @@
 
 <h3>Official Sites & Socials</h3>
 
-<p><a href="http://www.you-robots.com" target="_blank">You-robots.com</a> was You's official site. It contained a short discography and gallery, links, etc. He also had an old Gackt staff blog <a href="http://www.gackt-and-lovers.com/free/youblog/" target="_blank">here</a> and an official Facebook page <a href="https://www.facebook.com/YOU-161091424051137/" target="_blank">here</a>.</p>
+<p><a href="http://www.you-robots.com" target="_blank">You-robots.com</a> was You's official site. It contained a short discography and gallery, links, etc. He also had an old Gackt staff blog <a href="http://www.gackt-and-lovers.com/free/youblog/" target="_blank">here</a>, an official Facebook page <a href="https://www.facebook.com/YOU-161091424051137/" target="_blank">here</a> and a Twitter account <a href="https://twitter.com/yourobot0210" target="_blank">here</a>.</p>
 
 <p>Most recently, he writes in his Ameblo blog <a href="https://ameblo.jp/yourobot" target="_blank">here</a>.</p>
 

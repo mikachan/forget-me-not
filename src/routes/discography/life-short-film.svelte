@@ -12,7 +12,7 @@
 <iframe title="Life" class="mb-4" src="https://www.youtube.com/embed/a1hBJimcnQc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h3>Download</h3>
-<p><em>Soyokaze</em> seems pretty difficult to get hold of these days, so I've uploaded <em>Life</em> <a href="downloads/life-soyokaze.mp4">here for download</a> (~60MB).</p>
+<p><em>Soyokaze</em> seems pretty difficult to get hold of these days, so I've uploaded <em>Life</em> <a href="downloads/life-soyokaze.mp4" download>here for download</a> (~60MB).</p>
 
 <h3>Transcript &amp; Translation</h3>
 

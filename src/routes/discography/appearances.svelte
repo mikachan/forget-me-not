@@ -10,11 +10,11 @@
 
 <ul>
 	<li>You played <em>Jun</em> in <a href="https://www.imdb.com/title/tt0365514/" target="_blank">Moon Child</a> (2003)</li>
-	<li><em>Life</em> video, from <em>Soyokaze</em> VHS (Gackt). <a href="discography/life-short-film">Read more &rarr;</a></li>
+	<li><em>Life</em> short film, from Gackt's <em>Soyokaze</em> VHS (2002) <a href="discography/life-short-film">Read more &rarr;</a></li>
 	<li>Gackt PVs: <em>Mirror</em>, <em>ANOTHER WORLD</em>, <em>Juunigatsu no love song</em>, <em>Black Stone</em> &amp; <em>Redemption</em></li>
 	<li>Yellow Fried Chickenz PVs: <em>All My Love</em> &amp; <em>Mata koko de Aimashou</em></li>
-	<li>Gekkou (Gackt)</li>
-	<li>Gackt's Platinum Boxes</li>
+	<li>Gackt's <em>Gekkou</em> DVD (2003)</li>
+	<li>Gackt's Platinum Boxes (DVDs)</li>
 </ul>
 
 <h3>CDs</h3>

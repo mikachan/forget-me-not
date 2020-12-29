@@ -23,7 +23,7 @@
 
 <p>Read more about <a href="/music-career/you-gackt">You & Gackt here</a>.</p>
 
-<h3>CAINS:FEEL (1989-1995) <a href="/music-career/cains-feel" class="text-sm">read more &rarr;</a></h3>
+<h3>CAINS:FEEL (1989-1995) <a href="/music-career/cains-feel" class="text-sm">read more&nbsp;&rarr;</a></h3>
 
 <figure>
 	<img alt="CAINS:FEEL" class="pb-4 mx-auto" src="{cainsFeel}">
@@ -31,9 +31,9 @@
 
 <p>CAINS:FEEL was a Japanese rock/goth band, formed by You and Gackt, and was their first band together.</p>
 
-<p>The majority of songs were written by Gackt and You together at You's house. Gackt used to go round in the evenings and they would stay up writing until 7am.</p>
+<p>The majority of songs were written by Gackt and You together at You's house. Gackt used to go round in the afternoon and they would stay up writing until 7am.</p>
 
-<h3>GacktJob (1999-2019) <a href="/music-career/gacktjob" class="text-sm">read more &rarr;</a></h3>
+<h3>GacktJob (1999-2019) <a href="/music-career/gacktjob" class="text-sm">read more&nbsp;&rarr;</a></h3>
 
 <figure>
 	<img alt="GacktJob around 2001" class="pb-4 mx-auto" src="{gacktjob}">

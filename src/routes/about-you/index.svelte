@@ -18,9 +18,9 @@
 
 <h3>Official Sites & Socials</h3>
 
-<p><a href="http://www.you-robots.com" target="_blank">You-robots.com</a> was You's official site. It contained a short discography and gallery, links, etc. He also had an old Gackt staff blog <a href="http://www.gackt-and-lovers.com/free/youblog/" target="_blank">here</a>, an official Facebook page <a href="https://www.facebook.com/YOU-161091424051137/" target="_blank">here</a> and a Twitter account <a href="https://twitter.com/yourobot0210" target="_blank">here</a>.</p>
+<p>You has always been an avid blogger and used to have his own site at <a href="http://www.you-robots.com" target="_blank">You-robots.com</a>. It contained a short discography, a gallery, links, etc. He also had an old Gackt staff blog <a href="http://www.gackt-and-lovers.com/free/youblog/" target="_blank">here</a> and an official Facebook page <a href="https://www.facebook.com/YOU-161091424051137/" target="_blank">here</a>.</p>
 
-<p>Most recently, he writes in his Ameblo blog <a href="https://ameblo.jp/yourobot" target="_blank">here</a>.</p>
+<p>Most recently, he writes in his Ameblo blog <a href="https://ameblo.jp/yourobot" target="_blank">here</a> and occasionally updates his Twitter account <a href="https://twitter.com/yourobot0210" target="_blank">here</a>.</p>
 
 <h3>Designs <a href="/about-you/designs" class="text-sm">read more&nbsp;&rarr;</a></h3>
 
@@ -36,7 +36,7 @@
 	<li>He read through the whole of <a href="http://en.wikipedia.org/wiki/City_Hunter" target="new">City Hunter</a> manga series before a concert on 02.07.02. There are over 30 volumes! You prefers to read through a whole manga series in one go.</li>
 	<li>He's extremely good at cooking, especially noodles.</li>
 	<li>He usually stands on stage left.</li>
-	<li>He is a great photographer and has had his work featured in galleries. He's also hosted his own photo exhibitions and has taken photos of Gackt for the monthly fan club magazine.</li>
+	<li>He is a great photographer and has had his work featured in galleries. He's also hosted his own photo exhibitions, taken photos of Gackt for the monthly fan club magazine and hosted photo contests with the fans.</li>
 	<li>He loves tech and is generally a bit of a geek.</li>
 	<li>He's short-sighted.</li>
 	<li>He's right handed.</li>

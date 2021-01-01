@@ -15,15 +15,13 @@
 
 <p>You also writes music, including <em>Metamorphose</em> for Chachamaru's album <em>Air</em>; <em>white love</em> for Pokota's album <em>Lady Imagination</em>; and several songs for S.Q.F (<em>Abracadabra</em>, <em>ETERNAL CHILD</em>, <em>oblivion</em>, <em>IGNITE</em>, <em>Nirai Kanai</em>, <em>MADE IN EPITAPH</em>).</p>
 
-<h3>Pre-1989</h3>
+<h3>Pre-1993</h3>
 
-<p>You was a guitarist for a couple of different bands in Kyoto when he first started his music career. Very early in his career, it seems he didn't have many ambitions for being successful outside of Kyoto, and it was Gackt who eventually persuaded him to move to Tokyo to further his music career.</p>
-
-<p>You met Gackt whilst he was working as a guitarist for another band. Gackt was working as a sound technician in the same studio that You's band used for recordings. Eventually, they became good friends and decided to start a band together.</p>
+<p>You was a guitarist for a couple of different bands in Kyoto when he first started his music career, and he met Gackt whilst he was playing guitar for a goth/visual kei band. Gackt was working as a sound technician in the same studio that You's band used for recordings. Eventually, they became good friends and decided to start a band together.</p>
 
 <p>Read more about <a href="/music-career/you-gackt">You & Gackt here</a>.</p>
 
-<h3>CAINS:FEEL (1989-1995) <a href="/music-career/cains-feel" class="text-sm">read more&nbsp;&rarr;</a></h3>
+<h3>CAINS:FEEL (1993-1995) <a href="/music-career/cains-feel" class="text-sm">read more&nbsp;&rarr;</a></h3>
 
 <figure>
 	<img alt="CAINS:FEEL" class="pb-4 mx-auto" src="{cainsFeel}">

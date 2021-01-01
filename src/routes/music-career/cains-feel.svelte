@@ -12,7 +12,7 @@
 
 <p>You's first successful band was called CAINS:FEEL. He played the guitar, alongside Gackt as the vocalist. Ren, former bassist of GacktJob, was also in the band. The band members were known as troublemakers as they often started fights at local venues, mainly between rival bands.</p>
 
-<p>The origin of the name is from Cain and Abel, the sons of Adam and Eve from Genesis in the Old Testament. They formed in 1989, and disbanded in 1995.</p>
+<p>The origin of the name is from Cain and Abel, the sons of Adam and Eve from Genesis in the Old Testament. They formed in 1993, and disbanded in 1995.</p>
 
 <p>At first, they struggled to find a vocalist and after a year of searching, Gackt jokingly suggested that he should do it, but You just laughed. After a couple of arguments and proving each other wrong, You gave Gackt a list of songs to practice and Gackt agreed to take vocal lessons. After a week of lessons, he sung in front of You for the first time, and You's response was, "Why haven't you sung before?". It's fair to say that if it wasn't for You, Gackt perhaps wouldn't have even considered being a lead vocalist.</p>
 

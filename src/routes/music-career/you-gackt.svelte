@@ -12,11 +12,11 @@
 
 <p>Gackt has explained how him and You met several times, including in his autobiography in Section 2: Kakusei, Chapter 4: "Hatsu Bando CAIN'S FEEL".</p>
 
-<p>While You was a guitarist for a band in Kyoto, him and his band used to regularly visit a recording studio where Gackt worked as a sound technician. Gackt had seen You's band perform live at a livehouses in Kyoto several times and was fond of one of the guitarists, but he'd never made the connection between this guitarist and You.</p>
+<p>While You was a guitarist for a band in Kyoto, him and his band used to regularly visit a recording studio where Gackt worked as a sound technician. Gackt had seen You's band perform live at venues in Kyoto several times and was fond of one of the guitarists, but he'd never made the connection between this guitarist and You. This was partly because they would wear makeup on stage, which made them hard to recognise otherwise.</p>
 
-<p>He knew of You from when they were in the studio together (roughly every two weeks), however they didn't speak much as Gackt thought You was quite hostile, as he didn't talk a lot and glared at him. He's since found out that the glaring was because You is short-sighted...</p>
+<p>He knew of You from when they were in the studio together (roughly every two weeks), however they didn't speak much as Gackt thought You was quite hostile, as he didn't talk a lot and usually glared at him. He's since found out that the glaring was because You is short-sighted...</p>
 
-<p>One day he asked You who the guitarist he liked was, and You explained it was him. Gackt didn't believe him, going so far as arguing against it! So You took him to his house to show him photos and prove he was the guitarist, and from that point they became good friends. Gackt really liked the contrast between You's on-stage persona, expressive and dramatic, compared to his real personality, quiet and aloof.</p>
+<p>One day he asked You who the guitarist he liked was, and You explained it was him. Gackt didn't believe him, going so far as arguing against it! So You took him to his house to show him photos and play some songs to him, to prove he was the guitarist, and from that point they became good friends. Gackt really liked the contrast between You's on-stage persona compared to his real personality.</p>
 
 <p>Shortly after becoming friends, they formed <a href="/cains-feel">CAINS:FEEL</a>.</p>
 

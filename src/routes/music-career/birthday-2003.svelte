@@ -104,7 +104,7 @@ And the studio was full of people who sang for him ~ And You was still trembling
 <p>The "cake" that You received is shown below (snagged it off the <a href="http://www.allnightnippon.com/gackt" target="new">ANN</a> site).</p>
 
 <figure>
-	<img alt="Birthday cake" class="" src="{cake}">
+	<img alt="Birthday cake" class="mb-4" src="{cake}">
 </figure>
 
 <p><a href="/gacktjob">&larr; Backt to GacktJob</a></p>

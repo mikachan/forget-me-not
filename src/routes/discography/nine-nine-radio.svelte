@@ -49,7 +49,7 @@
 	You: A message...<br>
 	Gackt: So cute...!<br>
 	You: What are you talking about? What are you looking at?<br>
-	Gackt: Kyonkyon (from morning musume, her real name is Kyoku Koizumi)<br>
+	Gackt: Kyonkyon (Kyoku Koizumi from morning musume)<br>
 	You: What?? From when?<br>
 	Gackt: 10 years ago<br>
 	You: alalalalala...<br>
@@ -70,4 +70,6 @@
 	Gackt: Bye!
 </p>
 
-<p>Translation by <strong>emi1002</strong> ❤️</p>
+<p>Original translation by <strong>emi1002</strong> on Youtube ❤️</p>
+
+<p><a href="/discography/appearances">&larr; Back to Appearances</a></p>

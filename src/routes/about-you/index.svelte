@@ -22,7 +22,7 @@
 
 <p>Most recently, he writes in his Ameblo blog <a href="https://ameblo.jp/yourobot" target="_blank">here</a>.</p>
 
-<h3>Designs <a href="/about-you/designs" class="text-sm">read more &rarr;</a></h3>
+<h3>Designs <a href="/about-you/designs" class="text-sm">read more&nbsp;&rarr;</a></h3>
 
 <p>You has collaborated with several designers for both jewellery and clothing.</p>
 

@@ -333,3 +333,5 @@
 		</table>
 	</div>
 </div>
+
+<p><a href="/discography">&larr; Back to Discography</a></p>

@@ -56,4 +56,4 @@
 	<img alt="Ed Hardy x You" class="p-2 pt-0 mb-4" align="right" src="{edhardy2}" />
 </figure>
 
-<p><a href="/about-you">&larr; Backt to About You</a></p>
+<p><a href="/about-you">&larr; Back to About You</a></p>

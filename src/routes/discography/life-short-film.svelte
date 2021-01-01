@@ -125,3 +125,5 @@ I feel as though his existence is touching me...</p>
 <p>Although he is still unaware of mine.</p>
 
 <p>Translation by <strong>muchuu</strong>, originally on myspace and later found <a href="https://dears.livejournal.com/1817818.html" target="_blank">here</a> on LJ ❤️</p>
+
+<p><a href="/discography/appearances">&larr; Back to Appearances</a></p>

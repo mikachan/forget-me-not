@@ -67,7 +67,7 @@
 				<slot></slot>
 
 				<div class="pt-6">
-					<p class="italic text-xs text-center lg:text-left">&copy 2004-2020. <a href="https://sekai.co.uk" class="no-underline">Contact webmaster</a>.</p>
+					<p class="italic text-xs text-center lg:text-left">&copy 2004-2021. <a href="https://sekai.co.uk" class="no-underline">Contact webmaster</a>.</p>
 				</div>
 			</div>
 		</div>

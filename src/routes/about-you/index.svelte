@@ -7,7 +7,7 @@
 	<strong>Stage Name:</strong> You (pronounced 'yuu'), aka 優, You Kurosaki, YOU, 🤖<br>
 	<!-- <strong>Real Name:</strong> Yu Shimawatari<br> -->
 	<strong>Plays:</strong> Guitar, violin, piano, drums, shamisen<br>
-	<strong>Birthday:</strong> 10th February 1973<br>
+	<strong>Birthday:</strong> 10th February 1974<br>
 	<strong>From:</strong> Kyoto, Japan<br>
 	<strong>Height:</strong> 186cm (6'2")<br>
 	<strong>Blood Type:</strong> A<br>

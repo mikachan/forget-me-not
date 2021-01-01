@@ -2,17 +2,11 @@
 	<title>Forget-me-not | You fansite</title>
 </svelte:head>
 
-<p>Welcome to <strong>Forget-me-not</strong>, an English fansite dedicated to the Japanese musician, <strong>You</strong>, best known for playing guitar and violin in <a href="https://gackt.com/" target="_blank">GacktJob</a> and <a href="http://www.sqf.jp/" target="_blank">S.Q.F</a>.</p>
+<p>Welcome to <strong>Forget-me-not</strong>, an <a href="site/history">English fansite</a> dedicated to the Japanese musician, <strong>You</strong>, best known for playing guitar and violin in <a href="https://gackt.com/" target="_blank">GacktJob</a> and <a href="http://www.sqf.jp/" target="_blank">S.Q.F</a>.</p>
 
-<h2>Latest Site Updates</h2>
+<h2>Latest Site Updates <a href="site/updates" class="text-sm">read more&nbsp;&rarr;</a></h2>
 
-<p><strong>12.12.20</strong><br>
-Guess who's back! After over 6 years I've decided to rebuild this fansite. I've restored most of the content but not many images yet, and I'm guessing loads of the information is now incorrect or wildy out of date. But it's back and I'd forgotten how much I enjoy fangirling over You!</p>
-
-<h3>Site History</h3>
-
-<p>The site was first opened on 23rd March, 2004. I decided to make a You fan site because, at the time, there were no sites dedicated to him in English.</p>
-
-<p>The site was named after the Gackt song, <em>Wasurenai kara</em> (忘れないから, 'I won't forget'). It was originally called <em>Silence and Motion</em> after the Final Fantasy VIII track of the same name.</p>
-
-<p><a href="/thanks">Thank you</a> to everyone who helped make this site possible over the years.</p>
+<p>
+	<strong>01.01.21</strong><br>
+	Happy New Year! 明けましておめでとうございます !
+</p>

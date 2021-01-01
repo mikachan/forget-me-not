@@ -66,8 +66,11 @@
 				
 				<slot></slot>
 
-				<div class="pt-6">
-					<p class="italic text-xs text-center lg:text-left">&copy 2004-2021. <a href="https://sekai.co.uk" class="no-underline">Contact webmaster</a>.</p>
+				<div class="pt-4">
+					<p class="italic text-xs text-center lg:text-left">
+						&copy; 2004-2021<br>
+						<a href="https://sekai.co.uk" target="_blank" class="no-underline">Contact webmaster</a> &bullet; <a href="https://github.com/mikachan/forget-me-not" target="_blank" class="no-underline">View on GitHub</a>
+					</p>
 				</div>
 			</div>
 		</div>

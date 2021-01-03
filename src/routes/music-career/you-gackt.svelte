@@ -28,7 +28,7 @@
 
 <p>Back when they used to perform on the streets of Kyoto together, they played <em>hanashitaku wa nai</em> (by T-Bolan) at Christmas in Kamogawa, Kyoto. Gackt's girlfriend at the time had left him and so he was alone on Christmas Day. You asked Gackt if he'd sing along to him playing guitar so he was not alone. Gackt refused, however You insisted on playing in the street to keep him company. They recreated the performance on the Happy Xmas Show in 2003, with You on the guitar and Gackt singing.</p>
 
-<iframe title="hanashitaku wa nai" src="https://www.youtube.com/embed/8v2FPRve0S4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="mb-4 w-full"></iframe>
+<iframe title="hanashitaku wa nai" src="https://www.youtube.com/embed/8v2FPRve0S4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="mb-4"></iframe>
 
 <h3>Relationship with Gackt</h3>
 

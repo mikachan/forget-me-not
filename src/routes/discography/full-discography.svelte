@@ -139,7 +139,7 @@
 					<td>2012</td>
 					<td>Yellow Fried Chickenz I</td>
 					<td>Yellow Fried Chickenz</td>
-					<td>Guitar</td>
+					<td>Guitar, writer (<em>Circle</em>, <em>Mata kokode aimassho</em>, <em>Not Alone - Kimi Wa Hitori Ja Nai</em>)</td>
 				</tr>
 				<tr>
 					<td>2014</td>

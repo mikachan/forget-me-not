@@ -13,7 +13,7 @@
 
 <p>You's best known for playing the guitar and violin, but can also play drums and piano. At live shows he usually plays rhythm guitar, violin and sometimes backing vocals.</p>
 
-<p>You also writes music, including <em>Metamorphose</em> for Chachamaru's album <em>Air</em>; <em>white love</em> for Pokota's album <em>Lady Imagination</em>; and several songs for S.Q.F (<em>Abracadabra</em>, <em>ETERNAL CHILD</em>, <em>oblivion</em>, <em>IGNITE</em>, <em>Nirai Kanai</em>, <em>MADE IN EPITAPH</em>).</p>
+<p>You also writes music, including <em>Metamorphose</em> for Chachamaru's album <em>Air</em>; several songs for Yellow Fried Chickenz first album (<em>Circle</em>, <em>Mata kokode aimassho</em>, <em>Not Alone - Kimi Wa Hitori Ja Nai</em>); <em>white love</em> for Pokota's album <em>Lady Imagination</em>; and several songs for S.Q.F (<em>Abracadabra</em>, <em>ETERNAL CHILD</em>, <em>oblivion</em>, <em>IGNITE</em>, <em>Nirai Kanai</em>, <em>MADE IN EPITAPH</em>).</p>
 
 <h3>Pre-1993</h3>
 

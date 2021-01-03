@@ -45,5 +45,6 @@
 	<li><em>Jougen no Tsuki (2003)</em></li>
 	<li><em>The Sixth Day & Seventh Night (2004)</em></li>
 	<li><em>Diablos (2005)</em></li>
-	<li><em>Gackt Training Days Drug Party (2006)</em></li>
+	<li><em>Training Days Drug Party (2006)</em></li>
+	<li><em>Requiem Et Reminiscence II (2009)</em></li>
 </ul>

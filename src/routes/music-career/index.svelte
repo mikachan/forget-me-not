@@ -11,13 +11,15 @@
 
 <h2>Music Career</h2>
 
-<p>You's best known for playing the guitar and violin, but can also play drums and piano. At live shows he usually plays rhythm guitar, violin and sometimes backing vocals.</p>
+<p>You's best known for playing the guitar and violin, but also plays piano, drums and shamisen. At live shows he usually plays rhythm guitar, violin and sometimes backing vocals.</p>
 
 <p>You also writes music, including <em>Metamorphose</em> for Chachamaru's album <em>Air</em>; several songs for Yellow Fried Chickenz first album (<em>Circle</em>, <em>Mata kokode aimassho</em>, <em>Not Alone - Kimi Wa Hitori Ja Nai</em>); <em>white love</em> for Pokota's album <em>Lady Imagination</em>; and several songs for S.Q.F (<em>Abracadabra</em>, <em>ETERNAL CHILD</em>, <em>oblivion</em>, <em>IGNITE</em>, <em>Nirai Kanai</em>, <em>MADE IN EPITAPH</em>).</p>
 
 <h3>Pre-1993</h3>
 
-<p>You was a guitarist for a couple of different bands in Kyoto when he first started his music career, and he met Gackt whilst he was playing guitar for a goth/visual kei band. Gackt was working as a sound technician in the same studio that You's band used for recordings. Eventually, they became good friends and decided to start a band together.</p>
+<p>You was a guitarist and writer for a couple of different bands in Kyoto when he first started his music career. One of his more successful bands was a goth/visual kei band.</p>
+	
+<p>He met Gackt at the studio his band were using, and eventually they became good friends and decided to start a band together.</p>
 
 <p>Read more about <a href="/music-career/you-gackt">You & Gackt here</a>.</p>
 

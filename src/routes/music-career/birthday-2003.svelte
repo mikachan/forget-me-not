@@ -8,19 +8,19 @@
 
 <h2>Birthday 2003</h2>
 
-<p>I decided, since I seem to have so much information on You's birthday 2003, why not make a seperate page for it? Yup.</p>
+<p>Gackt's well known for making a big deal out of staff members' birthdays, usually involving pranks and cake. I decided, since I seem to have so much information on You's birthday from 2003, why not make a seperate page for it? Yup.</p>
 
-<h3>Where, when and who?</h3>
+<h3>Where, when, who?</h3>
 
-<p><strong>Where?</strong> - Gackt's All Night Nippon radio show</p>
+<p>
+	<strong>Where?</strong> - Gackt's All Night Nippon radio show<br>
+	<strong>When?</strong> - February 10th, 2003<br>
+	<strong>Who?</strong> - All of GacktJOB and crew
+</p>
 
-<p><strong>When?</strong> - February 10th, 2003. Surprisingly.</p>
+<h3>Translation</h3>
 
-<p><strong>Who?</strong> - All of GacktJOB and crew.</p>
-
-<h3>What?</h3>
-
-<p>Here's a translation on the radio show, sent to me by Sei-chan.</p>
+<p>Here's a translation from the radio show, sent to me by Sei-chan.</p>
 
 <b>Gackt</b>: ^__^ Today it’s YOU'S birthday!! That’s why we made a program especially for him, it’s dedicated to love!! So, phone us and tell us directly your love-problems... You and I will answer!!<br><br>
 
@@ -54,8 +54,7 @@
 <b>You</b>:  WHAAAAAAAAAAT!?? SHE’S LYING!! It’s ... it’s totally IMPOSSIBLE!!~ no no nooo!!<br><br>
 
 <b>Gackt</b> (stressed): ... we will see... what you say is enormous... you can’t phone and say this if you can’t prove 
-it... so we’ll see... right now we are enregistering a new song for our next 
-album, and nobody knows it so far... of course only the members of my band... but if it’s true what you said about You, you should know this song, don’t you?<br><br>
+it... so we’ll see... right now we are writing a new song for our next album, and nobody knows it so far... of course only the members of my band... but if it’s true what you said about You, you should know this song, don’t you?<br><br>
 
 <b>You</b>:  NO NO NO NOOOOOOOOOOO NOOOOO I REALLY don’t know her  O_O Gakuchan!! Believe meeee~~O_O she’s lying she’s 
 lying she’s LYING IT’S WRONG!! I don’t know her!! *nearly dying*<br><br>
@@ -99,12 +98,12 @@ And the studio was full of people who sang for him ~ And You was still trembling
 
 <b>You</b>: ^_^ you are very nice, thank you.... Hmmm...<br><br>
 
-<h3>The cake</h3><br>
+<h3>Cake</h3>
 
-<p>The "cake" that You received is shown below (snagged it off the <a href="http://www.allnightnippon.com/gackt" target="new">ANN</a> site).</p>
+<p>The cake that You received is shown below (snagged it off the <a href="http://www.allnightnippon.com/gackt" target="new">ANN</a> site), topped with strawberries of course!</p>
 
 <figure>
 	<img alt="Birthday cake" class="mb-4" src="{cake}">
 </figure>
 
-<p><a href="/gacktjob">&larr; Backt to GacktJob</a></p>
+<p><a href="music-career/gacktjob">&larr; Backt to GacktJob</a></p>

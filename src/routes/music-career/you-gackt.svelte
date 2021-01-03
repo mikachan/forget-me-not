@@ -60,9 +60,10 @@
 
 <h3>Trivia</h3>
 <ul>
-	<li>Gackt talked about You a lot on his <a href="http://allnightnippon.com/gackt" target="new">radio show</a>, and You is mentioned a lot in Gackt's <em>The Air Moon</em> document book.</li>
-	<li>On the Mars tour DVD, you see GacktJob go to France in the middle of the tour. During a night out, Gackt found You laughing with the locals, even though he only speaks Japanese.</li>
-	<li>The inspiration for <em>ANOTHER WORLD</em> was from a holiday in Hawaii. Gackt and You were out for a drive and it began to rain, and they both agreed it was beautiful and should write a song about it.</li>
+	<li>The catalyst for them initially becoming good friends was both of them being dumped by their girlfriends!</li>
+	<li>You and Gackt used to go for drives together for song inspiration. They also used to drive out to scenic locations (mountains, forests) and break into abandoned buildings together (to write songs, obviously.)</li>
+	<li><em>ANOTHER WORLD</em> was written after they went for a drive in the rain while on holiday in Hawaii.</li>
+	<li>Gackt talked about You a lot on his <a href="http://allnightnippon.com/gackt" target="new">radio show</a>.</li>
 </ul>
 
 <p class="text-sm">* References: Gackt's autobiography, <em>Jihaku</em>, Section 2: Kakusei, Chapter 4: <em>Hatsu Bando CAIN'S FEEL</em>; <em>Diabolos</em> tour document; various interviews with GacktJob</p>

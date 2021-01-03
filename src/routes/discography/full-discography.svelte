@@ -58,7 +58,7 @@
 				<tr>
 					<th>Year</th>
 					<th>Title</th>
-					<th>Band</th>
+					<th>Artist</th>
 					<th>Credits</th>
 				</tr>
 			</thead>
@@ -167,7 +167,7 @@
 				<tr>
 					<th>Year</th>
 					<th>Title</th>
-					<th>Band</th>
+					<th>Artist</th>
 					<th>Credits</th>
 				</tr>
 			</thead>
@@ -240,7 +240,7 @@
 				<tr>
 					<th>Year</th>
 					<th>Title</th>
-					<th>Band</th>
+					<th>Artist</th>
 					<th>Credits</th>
 				</tr>
 			</thead>
@@ -294,13 +294,37 @@
 					<td>Guitar, violin</td>
 				</tr>
 				<tr>
-					<td>2014</td>
+					<td>2011</td>
+					<td>YELLOW FRIED CHICKENz Kirameki Otokojuku - Danjo Konyoku Mizugi Matsuri</td>
+					<td>Yellow Fried Chickenz</td>
+					<td>Guitar</td>
+				</tr>
+				<tr>
+					<td>2011</td>
+					<td>The Graffiti - Attack of The "Yellow Fried Chickenz" in Europe - "I Love You All"</td>
+					<td>Yellow Fried Chickenz</td>
+					<td>Guitar</td>
+				</tr>
+				<tr>
+					<td>2012</td>
+					<td>WORLD TOUR *SHOW UR SOUL.I* Sekai Shoketsu Aikonsai at MAKUHARI 2011</td>
+					<td>Yellow Fried Chickenz</td>
+					<td>Guitar</td>
+				</tr>
+				<tr>
+					<td>2012</td>
+					<td>WORLD TOUR *SHOW UR SOUL.I* Sekai Shoketsu Aikonsai at BERLIN 2011</td>
+					<td>Yellow Fried Chickenz</td>
+					<td>Guitar</td>
+				</tr>
+				<tr>
+					<td>2013</td>
 					<td>Best of the Best I - 40th Birthday</td>
 					<td>Gackt</td>
 					<td>Guitar, violin</td>
 				</tr>
 				<tr>
-					<td>2014</td>
+					<td>2013</td>
 					<td>Best of the Best I - Xtasy</td>
 					<td>Gackt</td>
 					<td>Guitar, violin</td>
@@ -325,7 +349,7 @@
 				</tr>
 				<tr>
 					<td>2017</td>
-					<td>2016 Last Visualive Saigo no Tsuk</td>
+					<td>2016 Last Visualive Saigo no Tsuki</td>
 					<td>Gackt</td>
 					<td>Guitar, violin</td>
 				</tr>

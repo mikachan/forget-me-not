@@ -10,19 +10,44 @@
 
 <h2>CAINS:FEEL</h2>
 
-<p>You's first successful band was called CAINS:FEEL. He played the guitar, alongside Gackt as the vocalist. Ren, former bassist of GacktJob, was also in the band. The band members were known as troublemakers as they often started fights at local venues, mainly between rival bands.</p>
+<p>CAINS:FEEL was an indie Japanese visual kei (rock/goth) band formed in 1989 (although some sources say 1993). The band members were known as troublemakers as they often started fights at local venues, usually between rival bands. They mainly performed locally in Kyoto.</p>
 
-<p>The origin of the name is from Cain and Abel, the sons of Adam and Eve from Genesis in the Old Testament. They formed in 1993, and disbanded in 1995.</p>
+<p>The origin of the name is from Cain and Abel, the sons of Adam and Eve from Genesis in the Old Testament. Gackt explained in his autobiography that the 'theme' of the band was 'Where do people come from, and where are they going?'</p>
 
-<p>At first, they struggled to find a vocalist and after a year of searching, Gackt jokingly suggested that he should do it, but You just laughed. After a couple of arguments and proving each other wrong, You gave Gackt a list of songs to practice and Gackt agreed to take vocal lessons. After a week of lessons, he sung in front of You for the first time, and You's response was, "Why haven't you sung before?". It's fair to say that if it wasn't for You, Gackt perhaps wouldn't have even considered being a lead vocalist.</p>
+<p>At first, they struggled to find a vocalist and after a year of searching, Gackt jokingly suggested that he should do it, but You just laughed. After a couple of arguments and proving each other wrong, You gave Gackt a list of songs to practice and Gackt agreed to take vocal lessons. After a week of lessons, he sung in front of You for the first time, and You's response was, "Why haven't you sung before?". Maybe without You's encouragment, Gackt wouldn't have even considered being a lead vocalist...</p>
+
+<p>After Gackt had decided to be the lead vocalist, him and You recorded some demo songs to help recruit other band members.</p>
+
+<h3>Band Members</h3>
+
+<p>
+	<strong>Vocals:</strong> Gakuto (Gackt)<br>
+	<strong>Guitar:</strong> You, Nao<br>
+	<strong>Bass:</strong> Ren<br>
+	<strong>Drums:</strong> Kazu, Ichirou<br>
+	<strong>Keyboard:</strong> Reiona
+</p>
 
 <figure>
 	<img alt="CAINS:FEEL 1995" class="pb-4 mx-auto" src="{band}">
 </figure>
 
-<p>They made a demo tape in 1994. There were two versions: green and brown.</p>
+<p>They disbanded in 1995 when Gackt decided to move to Tokyo to join Malice Mizer as their vocalist. After the split, You became a studio guitarist for several different bands in Kyoto.</p>
 
-<p>Whilst they recorded a lot of songs for these demo tapes, they only chose to include the following. Other songs were adopted by Gackt later in his solo career (e.g. etude was used on <em>Love Letter</em>).</p>
+<h3>Demo Tapes</h3>
+
+<p>They made a demo tape in 1994, of which there were two versions: green and brown.</p>
+
+<p>Whilst they recorded a lot of songs for these demo tapes, they only chose to include a couple. Some of the songs were later used by Gackt in his solo career (<em>etude</em> was used on <em>Love Letter</em>, <em>refrain</em> was renamed to <em>Solitude ~regret~</em> and performed during the <a href="https://www.youtube.com/watch?v=eRvHzl6ENhk" target="_blank">Jougen no Tsuki 2003 tour</a>).</p>
+
+<h4>Credits</h4>
+
+<p>
+	<strong>Vocals:</strong> Gaku (Gackt)<br>
+	<strong>Guitar:</strong> You<br>
+	<strong>Bass:</strong> Ren<br>
+	<strong>Drums:</strong> Kazu (studio drummer)
+</p>
 
 <h4>Green version:</h4>
 

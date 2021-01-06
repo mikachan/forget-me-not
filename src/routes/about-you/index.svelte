@@ -4,7 +4,7 @@
 
 <h2>About You</h2>
 <p>
-	<strong>Stage Name:</strong> You (pronounced 'yuu'), aka 優, You Kurosaki, YOU, 🤖<br>
+	<strong>Stage Name:</strong> You (pronounced 'yuu'), aka YOU, 優, You Kurosaki, 🤖<br>
 	<!-- <strong>Real Name:</strong> Yu Shimawatari<br> -->
 	<strong>Plays:</strong> Guitar, violin, piano, drums, shamisen<br>
 	<strong>Birthday:</strong> 10th February 1974<br>
@@ -13,7 +13,7 @@
 	<strong>Blood Type:</strong> A<br>
 	<strong>Guitar Model:</strong> <a href="https://www.caparisonguitars.com/" target="new">Caparison</a>, Mercury<br>
 	<strong>Hobbies:</strong> Cooking, photography, motorbikes, martial arts, snowboarding, bowling, reading manga<br>
-	<strong>Likes:</strong> Jean Paul Gaultier Le Male fragrance, cooking yaki udon, all things robot-themed, collecting plushies
+	<strong>Likes:</strong> Jean Paul Gaultier fragrance, cooking yaki udon, all things robot-themed, collecting plushies
 </p>
 
 <h3>Official Sites & Socials</h3>
@@ -44,7 +44,6 @@
 	<li>His left ear is pierced twice.</li>
 	<li>He has an older sister.</li>
 	<li>When he was younger he owned a Harley Davidson motorbike.</li>
-	<li>He married his first wife in 2004 and they were together 10 years before getting divorced in 2014.</li>
 	<li>He married Nana Sakurai in 2014.</li>
 	<li>On 10th February 2018, he announced that he was going to be a father to a mini YOU. He frequently posts about his son on his <a href="https://ameblo.jp/yourobot" target="_blank">blog</a>.</li>
 </ul>

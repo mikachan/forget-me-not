@@ -12,13 +12,13 @@
 
 <h2>Music Career</h2>
 
-<p>You's best known for playing the guitar and violin, but also plays piano, drums and shamisen. At live shows he usually plays rhythm guitar, violin and sometimes backing vocals.</p>
+<p>You's best known for playing the guitar and violin, and can also play piano, drums and shamisen. At live shows he usually plays rhythm guitar, violin and sometimes backing vocals.</p>
 
 <p>You also writes music, including a song for Chachamaru's album <em>Air</em>; several songs for Yellow Fried Chickenz first album; a song for Pokota's album <em>Lady Imagination</em>; and several songs for S.Q.F. See his <a href="/discography/full-discography">full discography here</a>.</p>
 
 <h3>Pre-1989</h3>
 
-<p>You's first band was a cover band that he formed in high school. They used to practice in the evenings either at home or at small studios in Kyoto. Shortly after graduating he became a guitarist and writer for another band who frequently performed at small venues arouns Kyoto.</p>
+<p>You's first band was a cover band that he formed in high school. They used to practice in the evenings either at home or at small studios in Kyoto. Shortly after graduating he became a guitarist and writer for another band who frequently performed at small venues around Kyoto.</p>
 
 <p>He was also really into motorbikes when he was younger and I believe he managed a bike shop with a friend around this time.</p>
 	

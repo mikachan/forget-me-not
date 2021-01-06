@@ -20,15 +20,19 @@
 
 <p class="text-sm">* See references at the bottom.</p>
 
-<h3>Early Street Performances</h3>
+<h3>Christmas Eve Street Performance in 1993</h3>
 
 <figure>
 	<img alt="Gackt and You performance at Christmas" class="p-4 pt-0" width="200" align="right" src="{hana}">
 </figure>
 
-<p>Back when they used to perform on the streets of Kyoto together, they played <em>hanashitaku wa nai</em> (by T-Bolan) at Christmas in Kamogawa, Kyoto. Gackt's girlfriend at the time had left him and so he was alone on Christmas Day. You asked Gackt if he'd sing along to him playing guitar so he was not alone. Gackt refused, however You insisted on playing in the street to keep him company. They recreated the performance on the Happy Xmas Show in 2003, with You on the guitar and Gackt singing.</p>
+<p>Just before Christmas in 1993, Gackt was struggling to cope with a recent break-up, so much that it was affecting his sleep and he was feeling more and more depressed. You made a plan to cheer him up by asking him to sing a bunch of songs on the street with him on Christmas Eve, including <em>hanashitaku wa nai</em> by T-Bolan and <em>Gekkou</em> by B'z. At first Gackt refused, but You insisted because it would mean that he wasn't alone at Christmas and it would take his mind off what had happened. They ended up performing for just over an hour in Kamogawa, under Sanjou Ohashi bridge crossing the Kamo river.</p>
+
+<p>They recreated the performance on the Happy Xmas Show in 2003, with You on the guitar and Gackt singing.</p>
 
 <iframe title="hanashitaku wa nai" src="https://www.youtube.com/embed/8v2FPRve0S4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="mb-4"></iframe>
+
+<p>Gackt has also described this night in an interview from <em>Vicious 08.1998</em>. Ryuik has scanned and translated <a href="https://ryuik.livejournal.com/218356.html" target="_blank">the whole interview here</a> ❤️</p>
 
 <h3>Relationship with Gackt</h3>
 
@@ -42,13 +46,13 @@
 	<li><em>"He really is... amazing."</em></li>
 	<li><em>"We ain't gay!"</em></li>
 	<li><em>"Well, isn't he cute? See that smile? No one can really blame him."</em></li>
-	<li><em>"See, this guy You... Well, he is a very cute person."</em></li>
-	<li><em>"He'll say Happy Birthday to me... maybe around 28th of July."</em></li>
+	<li><em>"See, this guy You... Well, he's very cute."</em></li>
+	<li><em>"He'll say Happy Birthday to me... maybe around 28th July."</em> (Gackt's birthday is 4th July..)</li>
 	<li><em>(To the fans, as You comes on stage:) "Oh, please! You don't have to get that excited..."</em></li>
 	<li><em>"Watch out for his charming, innocent smile, girls."</em></li>
 	<li><em>"Isn't he such a good looking guy?"</em></li>
 	<li><em>"... I'll always continue to love him."</em></li>
-	<li><em>"Even if one day in the future, you cannot see with your eyes, I will be happy to be your eyes! Also, if one day my waist cannot work, you have to be my waist!"</em></li>
+	<li><em>"Even if one day in the future, you can't see with your eyes, I'll be happy to be your eyes! Also, if one day my waist doesn't work, you have to be my waist!"</em></li>
 	<li><em>"And my oldest friend. My best friend, his name is You!"</em></li>
 </ul>
 
@@ -60,10 +64,11 @@
 
 <h3>Trivia</h3>
 <ul>
-	<li>The catalyst for them initially becoming good friends was both of them being dumped by their girlfriends!</li>
-	<li>You and Gackt used to go for drives together for song inspiration. They also used to drive out to scenic locations (mountains, forests) and break into abandoned buildings together (to write songs, obviously.)</li>
+	<li>The catalyst for them initially becoming close friends was both of them being dumped by their girlfriends!</li>
+	<li>You and Gackt used to go for drives together for song inspiration. They also drove to scenic locations (mountains, forests) and would break into abandoned buildings together (to write songs, obviously.)</li>
 	<li><em>ANOTHER WORLD</em> was written after they went for a drive in the rain while on holiday in Hawaii.</li>
 	<li>Gackt talked about You a lot on his <a href="http://allnightnippon.com/gackt" target="new">radio show</a>.</li>
+	<li>In <em>The Ichiban</em> from 07.05.99, Vol.21 No.25, there was an interview with Gackt from a series called <em>Gackt Conquers the World</em>. In the Japan entry, he mentioned a recent conversation with You where Gackt was explaining how if he were to lose everything, it would be OK as long as he still had the same people with him. You's response was, "If you lost everything and went to Hell, I'd always stay with you." Gackt then went on to explain how happy that made him, and that it felt strange coming from a non-romantic relationship, but because of this it made it even more special.</li>
 </ul>
 
 <p class="text-sm">* References: Gackt's autobiography, <em>Jihaku</em>, Section 2: Kakusei, Chapter 4: <em>Hatsu Bando CAIN'S FEEL</em>; <em>Diabolos</em> tour document; various interviews with GacktJob</p>

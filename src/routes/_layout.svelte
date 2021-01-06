@@ -1,4 +1,4 @@
-{#if mode === 'production'}
+{#if mode !== 'development'}
 	<GoogleAnalytics {stores} id={ga_measurment_id} />
 {/if}
 

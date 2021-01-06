@@ -1,4 +1,6 @@
-<GoogleAnalytics {stores} id={ga_measurment_id} />
+{#if mode === 'production'}
+	<GoogleAnalytics {stores} id={ga_measurment_id} />
+{/if}
 
 <script lang="ts">
 	import GoogleAnalytics from "sapper-google-analytics/GoogleAnalytics.svelte";
@@ -24,6 +26,7 @@
 	import you15 from 'images/image-rotation/you15.jpg';
 	import you16 from 'images/image-rotation/you16.jpg';
 
+	const mode = process.env.NODE_ENV;
 	let ga_measurment_id: string = "UA-7281616-1";
 	let mainImage: string = you01;
 	let mainContent;

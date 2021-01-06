@@ -9,7 +9,7 @@
 <p>Alongside live tour DVDs, You has also appeared in the following:</p>
 
 <ul>
-	<li>You played <em>Jun</em> in <a href="https://www.imdb.com/title/tt0365514/" target="_blank">Moon Child</a> (2003)</li>
+	<li>He played <em>Jun</em> in <a href="https://www.imdb.com/title/tt0365514/" target="_blank">Moon Child</a> (2003)</li>
 	<li><em>Life</em> short film, from Gackt's <em>Soyokaze</em> VHS (2002) <a href="discography/life-short-film">Read more&nbsp;&rarr;</a></li>
 	<li>Gackt PVs: <em>Mirror</em>, <em>ANOTHER WORLD</em>, <em>Juunigatsu no love song</em>, <em>Black Stone</em> &amp; <em>Redemption</em></li>
 	<li>Yellow Fried Chickenz PVs: <em>All My Love</em> &amp; <em>Mata koko de Aimashou</em></li>
@@ -24,7 +24,7 @@
 	<li>Lyric booklet that comes with Gackt's <em>The Seventh Night</em> album</li>
 </ul>
 
-<h3>Books</h3>
+<h3>Books*</h3>
 <ul>
 	<li>Gackt's <em>Mizerable ~Unmei~</em> photobook</li>
 	<li>All of Gackt's tour document photobooks (<em>The Gift</em>, <em>Just Bring it!</em> etc)</li>
@@ -32,7 +32,7 @@
 	<li>Gackt File 1999-2004</li>
 </ul>
 
-<h3>Magazines</h3>
+<h3>Magazines*</h3>
 <ul>
 	<li><em>Shoxx</em> May 1999</li>
 	<li>UV 100 magazine</li>
@@ -48,5 +48,7 @@
 	<li>Modeling jewelery for <a href="http://h-darts.com" target="new">h-Darts</a></li>
 	<li><a href="http://www.executivemonthly.com/english/about/index.php" target="new">Executive Monthly</a> CM. He's sitting at the bar talking to a girl.</li>
 </ul>
+
+<p><em class="text-sm">* There's loads more... these lists are definitely a work in progress.</em></p>
 
 <p><a href="/discography">&larr; Back to Discography</a></p>

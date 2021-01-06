@@ -1,6 +1,6 @@
 <script>
 	import cainsFeel from 'images/cains-feel/cainsfeel03.jpeg';
-	import mmCover from 'images/you/1996-mm.jpeg';
+	import maracas from 'images/you/1996-mm.jpeg';
 	import gacktjob from 'images/gacktjob/gacktjob01.jpg';
 	import yfc from 'images/yfc/yfc01.jpg';
 	import sqf from 'images/sqf/sqf04.jpg';
@@ -36,21 +36,15 @@
 
 <p>The majority of songs were written by Gackt and You together at You's house. Gackt used to go round in the afternoon and they would stay up writing until 7am.</p>
 
-<h3>Maracas (1996)</h3>
+<h3>Maracas (1996) <a href="/music-career/maracas" class="text-sm">read more&nbsp;&rarr;</a></h3>
 
 <figure>
-	<img alt="You in Malice Mizer cover band 1996" class="pb-4 mx-auto" src="{mmCover}">
+	<img alt="You in Malice Mizer cover band 1996" class="pb-4 mx-auto" src="{maracas}">
 </figure>
 
 <p>This isn't technically a separate band as they only performed together a couple of times, but I thought it was worth including as it's pretty interesting.</p>
 
-<p>In 1996, Malice Mizer organised a series of events to celebrate their 4th anniversary, called <em>喜劇の晩餐~VISUAL ART COLLECTION VOL.1~</em>, made up of performances by cover bands each band member had put together. The first event was held on 8th November 1996 at Shibuya <em>ON AIR WEST</em>, a small venue that holds about 600 people. It was reviewed in <em>Fool's Mate 02.1997</em>, which is where the above photo is from.</p>
-
-<p>Gackt described the cover band he put together in the Malice Mizer fanclub magazine <em>Ma chérie</em> (vol. 2&3). He first called <a href="https://en.wikipedia.org/wiki/Maschera_(band)" target="_blank">Maschera</a>, another visual kei band that were active at the time, who were excited to perform with him. He then called You and invited him to perform as well, "We spent 2-3 hours on the phone discussing details, chose the songs to perform and arranged a meeting."</p>
-
-<p>The final line-up included Gackt, You, all of Maschera (Michi on vocals, Takuya on guitar, Hiro on bass, Tomo on drums) and Makoto (another old friend of Gackt's).</p>
-
-<p>Massive thank you to <a href="https://ryuik.livejournal.com/224213.html" target="_blank">Ryuik</a> for the information and scans.</p>
+<p>Maracas was a cover band put together by Gackt as part of Malice Mizer's 4th anniversary celebrations. The full line-up included Gackt, You, all of Maschera (Michi on vocals, Takuya on guitar, Hiro on bass, Tomo on drums) and Makoto (another old friend of Gackt's).</p>
 
 <h3>GacktJob (1999-2019) <a href="/music-career/gacktjob" class="text-sm">read more&nbsp;&rarr;</a></h3>
 

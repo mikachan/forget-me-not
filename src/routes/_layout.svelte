@@ -27,7 +27,7 @@
 	import you16 from 'images/image-rotation/you16.jpg';
 
 	const mode = process.env.NODE_ENV;
-	let ga_measurment_id: string = "UA-7281616-1";
+	let ga_measurment_id: string = "G-WN3BJ9W3N5";
 	let mainImage: string = you01;
 	let mainContent;
 

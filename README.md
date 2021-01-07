@@ -12,9 +12,9 @@ This is a fansite for Japanese musician, YOU, best known for playing guitar and 
 
 The site was first opened on 23rd March 2004, built with basic HTML and CSS in trusty Notepad. Around 2009 it was rebuilt as a Wordpress site where it lived for another 5-6 years. I then unfortunately completely abdandoned the site until 2020, when it was rebuilt again using Svelte, Sapper and TailwindCSS.
 
-This was one of my first popular sites, helped along by being built when fansites were a big thing. Nevertheless I was really proud of building and maintaining it, and I'm pleased to have a working version live again after all this time. Still a massive fan of You!
+This was one of my first popular sites, helped along by being built when fansites were a thing. Fansites are [now dead](flavorwire.com/453757/is-the-fan-site-dead-2) but I was really proud of building and maintaining this site, and I'm pleased to have a working version live again after all this time. Still a massive fan of You! ❤️
 
-## 🤓 Dev Details
+## 💻 Dev Details
 To run the site in development mode with a local dev server, run the following command:
 
 ``` shell

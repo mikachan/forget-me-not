@@ -4,6 +4,7 @@
 	import gacktjob from 'images/gacktjob/gacktjob01.jpg';
 	import yfc from 'images/yfc/yfc01.jpg';
 	import sqf from 'images/sqf/sqf04.jpg';
+	import luscious from 'images/luscious/luscious03.jpeg';
 </script>
 
 <svelte:head>
@@ -70,7 +71,7 @@
 
 <p>A highlight during YFC's time was their two European tours, where they performed at sold out venues in London, Paris, Barcelona, Munich, Bochum, Cologne, Amsterdam, Berlin, Budapest, Warsaw, Leipzig, Stockholm and Moscow. This was Gackt's (and his band's) first time successfully touring outside of Asia. A European tour documentary, <em>The Graffiti - Attack of The "Yellow Fried Chickenz" in Europe - "I Love You All"</em> was released on DVD in 2011.</p>
 
-<h3>S.Q.F (2014-present)</h3>
+<h3>S.Q.F (2013-2018)</h3>
 
 <figure>
 	<img alt="S.Q.F" class="pb-4 mx-auto" src="{sqf}">
@@ -78,4 +79,12 @@
 
 <p>S.Q.F is a Japanese band formed in 2000 by ex-Maschera vocalist Michi and was originally Michi's solo project, with ex-iLLUMINA guitarist, Nao. The name S.Q.F stands for "Spinning Q Factor."</p>
 
-<p>You has been a support band member since 2014, playing guitar at their live shows and on studio recordings, as well as writing some of their more recent songs.</p>
+<p>You has been a support band member since 2013, playing guitar at their live shows and on studio recordings, as well as writing some of their more recent songs.</p>
+
+<h3>Luscious (2018-present)</h3>
+
+<figure>
+	<img alt="Luscious" class="pb-4 mx-auto" src="{luscious}">
+</figure>
+
+<p>Luscious is a Japanese band formed by Chachamaru, and includes Chacha on vocals and guitar, You on guitar, Sato on bass and Baru on drums. They have performed at several events alongisde Chacha's other band, Ded Chaplin.</p>

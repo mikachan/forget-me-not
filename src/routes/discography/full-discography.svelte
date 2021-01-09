@@ -353,6 +353,36 @@
 					<td>Gackt</td>
 					<td>Guitar, violin</td>
 				</tr>
+				<tr>
+					<td>2017</td>
+					<td>OTOKO-BAN - Hyakka Ryoran vs MMQ2016 -</td>
+					<td>S.Q.F</td>
+					<td>Guitar</td>
+				</tr>
+				<tr>
+					<td>2018</td>
+					<td>MMQ2017</td>
+					<td>S.Q.F</td>
+					<td>Guitar</td>
+				</tr>
+				<tr>
+					<td>2018</td>
+					<td>Sirque Du Freak 2018 - The Resonance -</td>
+					<td>S.Q.F</td>
+					<td>Guitar</td>
+				</tr>
+				<tr>
+					<td>2018</td>
+					<td>GACKT’s -45th Birthday Concert- LAST SONGS</td>
+					<td>Gackt</td>
+					<td>Guitar</td>
+				</tr>
+				<tr>
+					<td>2020</td>
+					<td>95th Kamui ♂︎ Raku "Garden de Tobina Festival ~ 10th Anniversary..."</td>
+					<td>Gackt</td>
+					<td>Guitar</td>
+				</tr>
 			</tbody>
 		</table>
 	</div>

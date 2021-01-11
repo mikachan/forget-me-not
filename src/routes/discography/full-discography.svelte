@@ -375,7 +375,7 @@
 					<td>2018</td>
 					<td>GACKT’s -45th Birthday Concert- LAST SONGS</td>
 					<td>Gackt</td>
-					<td>Guitar</td>
+					<td>Guitar, violin</td>
 				</tr>
 				<tr>
 					<td>2020</td>

@@ -16,6 +16,7 @@
 	<li>Gackt's <em>Gekkou</em> DVD (2003)</li>
 	<li>Phone call on the radio between You and Gackt, from the <em>nine*nine</em> box set (2008) <a href="discography/nine-nine-radio">Read more&nbsp;&rarr;</a></li>
 	<li>Gackt's Platinum Boxes (DVDs)</li>
+	<li>Gackt and You gave advice on bisexual relationships on NicoNico from 2015.07.01 (Subbed video on <a href="https://youtu.be/f4Tdz24iRPI" target="_blank">Youtube from Yuzu Translations</a>. There's two other parts/sections to this video <a href="https://youtu.be/Z9W-f5qJFGc" target="_blank">here</a> and <a href="https://youtu.be/-ogP-Vc2SUA" target="_blank">here</a>.)</li>
 </ul>
 
 <h3>CDs</h3>
@@ -24,7 +25,7 @@
 	<li>Lyric booklet that comes with Gackt's <em>The Seventh Night</em> album</li>
 </ul>
 
-<h3>Books*</h3>
+<h3>Books</h3>
 <ul>
 	<li>Gackt's <em>Mizerable ~Unmei~</em> photobook</li>
 	<li>All of Gackt's tour document photobooks (<em>The Gift</em>, <em>Just Bring it!</em> etc)</li>
@@ -49,6 +50,6 @@
 	<li><a href="http://www.executivemonthly.com/english/about/index.php" target="new">Executive Monthly</a> CM. He's sitting at the bar talking to a girl.</li>
 </ul>
 
-<p><em class="text-sm">* There's loads more... these lists are definitely a work in progress.</em></p>
+<p><em class="text-sm">There's loads more... these lists are definitely a work in progress.</em></p>
 
 <p><a href="/discography">&larr; Back to Discography</a></p>

@@ -10,7 +10,7 @@
 	<strong>Birthday:</strong> 10th February 1974<br>
 	<strong>From:</strong> Kyoto, Japan<br>
 	<strong>Height:</strong> 186cm (6'2")<br>
-	<strong>Blood Type:</strong> A<br>
+	<strong><a href="https://japantoday.com/category/features/lifestyle/the-importance-of-blood-type-in-japanese-culture" target="_blank">Blood Type</a>:</strong> A<br>
 	<strong>Guitar Model:</strong> <a href="https://www.caparisonguitars.com/" target="new">Caparison</a>, Mercury<br>
 	<strong>Hobbies:</strong> Cooking, photography, motorbikes, martial arts, snowboarding, bowling, reading manga<br>
 	<strong>Likes:</strong> Jean Paul Gaultier fragrance, cooking yaki udon, all things robot-themed, collecting plushies

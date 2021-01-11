@@ -26,7 +26,7 @@
 	<img alt="Gackt and You performance at Christmas" class="p-4 pt-0" width="200" align="right" src="{hana}">
 </figure>
 
-<p>Just before Christmas in 1993, Gackt was struggling to cope with a recent break-up, so much that it was affecting his sleep and he was feeling more and more depressed. You made a plan to cheer him up by asking him to sing a bunch of songs on the street with him on Christmas Eve, including <em>hanashitaku wa nai</em> by T-Bolan and <em>Gekkou</em> by B'z. At first Gackt refused, but You insisted because it would mean that he wasn't alone at Christmas and it would take his mind off what had happened. They ended up performing for just over an hour in Kamogawa, under Sanjou Ohashi bridge crossing the Kamo river.</p>
+<p>Just before Christmas in 1993, Gackt was struggling to cope with a recent break-up, so much that it was affecting his sleep and he was feeling more and more depressed. You made a plan to cheer him up by asking him to sing a bunch of songs on the street with him on Christmas Eve, including <em>hanashitaku wa nai</em> by T-Bolan and <em>Gekkou</em> by B'z. At first Gackt refused, but You insisted because it would mean that he wasn't alone at Christmas and it would take his mind off what had happened. They ended up performing for just over an hour in Kamogawa, under Sanjo Ohashi bridge on the Kamo River.</p>
 
 <p>They recreated the performance on the Happy Xmas Show in 2003, with You on the guitar and Gackt singing.</p>
 

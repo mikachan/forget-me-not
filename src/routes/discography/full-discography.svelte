@@ -351,7 +351,7 @@
 					<td>2017</td>
 					<td>2016 Last Visualive Saigo no Tsuki</td>
 					<td>Gackt</td>
-					<td>Guitar, violin</td>
+					<td>Guitar</td>
 				</tr>
 				<tr>
 					<td>2017</td>

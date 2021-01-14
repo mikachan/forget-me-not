@@ -48,4 +48,5 @@
 	<li><em>Training Days Drug Party (2006)</em></li>
 	<li><em>Requiem Et Reminiscence II (2009)</em></li>
 	<li><em>Best of the Best - 40th birthday (2013)</em></li>
+	<li><em>Last Visualive Saigo no Tsuki (2016)</em></li>
 </ul>

@@ -6,7 +6,7 @@
 
 <h3>DVDs/Videos</h3>
 
-<p>Alongside live tour DVDs, You has also appeared in the following:</p>
+<p>Alongside <a href="discography/full-discography#live-music-dvds">live tour DVDs</a>, You has also appeared in the following:</p>
 
 <ul>
 	<li>He played <em>Jun</em> in <a href="https://www.imdb.com/title/tt0365514/" target="_blank">Moon Child</a> (2003)</li>

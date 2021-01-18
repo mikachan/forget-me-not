@@ -5,7 +5,6 @@
 <h2>About You</h2>
 <p>
 	<strong>Stage Name:</strong> You (pronounced 'yuu'), aka YOU, 優, You Kurosaki, 🤖<br>
-	<!-- <strong>Real Name:</strong> Yu Shimawatari<br> -->
 	<strong>Plays:</strong> Guitar, violin, piano, drums, shamisen<br>
 	<strong>Birthday:</strong> 10th February 1974<br>
 	<strong>From:</strong> Kyoto, Japan<br>
@@ -18,9 +17,9 @@
 
 <h3>Official Sites & Socials</h3>
 
-<p>You has always been an avid blogger and used to have his own site at <a href="http://www.you-robots.com" target="_blank">You-robots.com</a>. It contained a short discography, a gallery, links, etc. He also had an old Gackt staff blog <a href="http://www.gackt-and-lovers.com/free/youblog/" target="_blank">here</a> and an official Facebook page <a href="https://www.facebook.com/YOU-161091424051137/" target="_blank">here</a>.</p>
+<p>You has always been an avid blogger and used to have his own site at <a href="http://www.you-robots.com" target="_blank">You-robots.com</a>. It contained a short discography, a gallery, links, etc. He also had an old <a href="http://www.gackt-and-lovers.com/free/youblog/" target="_blank">Gackt staff blog</a> and an <a href="https://www.facebook.com/YOU-161091424051137/" target="_blank">official Facebook page</a>.</p>
 
-<p>Most recently, he writes in his Ameblo blog <a href="https://ameblo.jp/yourobot" target="_blank">here</a> and occasionally updates his Twitter account <a href="https://twitter.com/yourobot0210" target="_blank">here</a>.</p>
+<p>Most recently, he writes in his <a href="https://ameblo.jp/yourobot" target="_blank">Ameblo blog</a> and occasionally updates his Twitter account, <a href="https://twitter.com/yourobot0210" target="_blank">@yourobot0210</a>.</p>
 
 <h3>Designs <a href="/about-you/designs" class="text-sm">read more&nbsp;&rarr;</a></h3>
 

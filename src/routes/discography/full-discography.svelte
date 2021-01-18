@@ -49,7 +49,7 @@
 
 <h2>Full Discography</h2>
 
-<h3>Studio Albums</h3>
+<h3 id="studio-albums">Studio Albums</h3>
 <div class="table-container">
 	<div class="table-fade" bind:this={albumsFade}></div>
 	<div class="table-scroll" bind:this={albumsTable} on:scroll={() => handleGradientVisibility(albumsTable, albumsFade)}>
@@ -158,7 +158,7 @@
 	</div>
 </div>
 
-<h3>Singles</h3>
+<h3 id="singles">Singles</h3>
 <div class="table-container">
 	<div class="table-fade" bind:this={singlesFade}></div>
 	<div class="table-scroll" bind:this={singlesTable} on:scroll={() => handleGradientVisibility(singlesTable, singlesFade)}>
@@ -231,7 +231,7 @@
 	</div>
 </div>
 
-<h3>Live Music DVD</h3>
+<h3 id="live-music-dvds">Live Music DVDs</h3>
 <div class="table-container">
 	<div class="table-fade" bind:this={dvdsFade}></div>
 	<div class="table-scroll" bind:this={dvdsTable} on:scroll={() => handleGradientVisibility(dvdsTable, dvdsFade)}>

@@ -27,9 +27,6 @@
 					event_category: 'outbound',
 					event_label: href,
 					transport_type: 'beacon',
-					event_callback: function() {
-						document.location = href as unknown as Location;
-					},
 				});
 			}
 

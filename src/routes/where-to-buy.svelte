@@ -1,3 +1,7 @@
+<script lang="ts">
+	import Link from '../components/Link.svelte';
+</script>
+
 <svelte:head>
 	<title>Where to Buy</title>
 </svelte:head>
@@ -7,12 +11,12 @@
 <p>There are several places you can buy Gackt, S.Q.F etc releases online.</p>
 
 <ul>
-	<li><a href="http://www.yesasia.com/" target="_blank">YesAsia</a></li>
-	<li><a href="http://www.cdjapan.co.jp/" target="_blank">CD Japan</a></li>
-	<li><a href="http://www.amazon.co.jp/" target="_blank">Amazon Japan</a></li>
-	<li><a href="http://www.hmv.co.jp/" target="_blank">HMV Japan</a></li>
-	<li><a href="http://buyee.jp/" target="_blank">Buyee.jp</a></li>
-	<li><a href="http://www.jlist.com/" target="_blank">JList</a></li>
+	<li><Link href="http://www.yesasia.com/">YesAsia</Link></li>
+	<li><Link href="http://www.cdjapan.co.jp/">CD Japan</Link></li>
+	<li><Link href="http://www.amazon.co.jp/">Amazon Japan</Link></li>
+	<li><Link href="http://www.hmv.co.jp/">HMV Japan</Link></li>
+	<li><Link href="http://buyee.jp/">Buyee.jp</Link></li>
+	<li><Link href="http://www.jlist.com/">JList</Link></li>
 </ul>
 
 <p>Both Gackt and S.Q.F are available on most popular music streaming services.</p>

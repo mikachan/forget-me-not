@@ -1,4 +1,6 @@
 <script>
+	import Link from '../../components/Link.svelte';
+
 	import tape from 'images/cains-feel/tape.jpg';
 	import tape2 from 'images/cains-feel/tape-brown.jpg';
 	import band from 'images/cains-feel/cainsfeel.jpg';
@@ -38,7 +40,7 @@
 
 <p>They made a demo tape in 1994, of which there were two versions: green and brown.</p>
 
-<p>Whilst they recorded a lot of songs for these demo tapes, they only chose to include a couple. Some of the songs were later used by Gackt in his solo career (<em>etude</em> was used on <em>Love Letter</em>, <em>refrain</em> was renamed to <em>Solitude ~regret~</em> and performed during the <a href="https://www.youtube.com/watch?v=eRvHzl6ENhk" target="_blank">Jougen no Tsuki 2003 tour</a>).</p>
+<p>Whilst they recorded a lot of songs for these demo tapes, they only chose to include a couple. Some of the songs were later used by Gackt in his solo career (<em>etude</em> was used on <em>Love Letter</em>, <em>refrain</em> was renamed to <em>Solitude ~regret~</em> and performed during the <Link href="https://www.youtube.com/watch?v=eRvHzl6ENhk">Jougen no Tsuki 2003 tour</Link>).</p>
 
 <h4>Credits</h4>
 
@@ -56,9 +58,9 @@
 </figure>
 
 <ol class="list-decimal list-inside">
-	<li>～lie～ [<a href="https://youtu.be/cVe9rssPA84">youtube</a>]</li>
-	<li>MARINE BLUE no kazeni dakarete (marine blueの風に抱かれて) [<a href="https://youtu.be/A6CEeoU1KG4">youtube</a>]</li>
-	<li>etude [<a href="https://youtu.be/cvGPKVu3LPQ">youtube</a>] [<a href="downloads/etude.txt" target="new">lyric translation</a>]</li>
+	<li>～lie～ [<Link href="https://youtu.be/cVe9rssPA84">youtube</Link>]</li>
+	<li>MARINE BLUE no kazeni dakarete (marine blueの風に抱かれて) [<Link href="https://youtu.be/A6CEeoU1KG4">youtube</Link>]</li>
+	<li>etude [<Link href="https://youtu.be/cvGPKVu3LPQ">youtube</Link>] [<Link href="downloads/etude.txt" download="etude lyric translation">lyric translation</Link>]</li>
 </ol>
 
 <h4>Brown version:</h4>
@@ -69,9 +71,9 @@
 
 <ol class="list-decimal list-inside">
 	<li>refrain</li>
-	<li>～lie～ [<a href="https://youtu.be/cVe9rssPA84">youtube</a>]</li>
-	<li>MARINE BLUE no kazeni dakarete (marine blueの風に抱かれて) [<a href="https://youtu.be/A6CEeoU1KG4">youtube</a>]</li>
-	<li>etude [<a href="https://youtu.be/cvGPKVu3LPQ">youtube</a>] [<a href="downloads/etude.txt" target="new">lyric translation</a>]</li>
+	<li>～lie～ [<Link href="https://youtu.be/cVe9rssPA84">youtube</Link>]</li>
+	<li>MARINE BLUE no kazeni dakarete (marine blueの風に抱かれて) [<Link href="https://youtu.be/A6CEeoU1KG4">youtube</Link>]</li>
+	<li>etude [<Link href="https://youtu.be/cvGPKVu3LPQ">youtube</Link>] [<Link href="downloads/etude.txt" download="etude lyric translation">lyric translation</Link>]</li>
 </ol>
 
 <p><a href="/music-career">&larr; Backt to Music Career</a></p>

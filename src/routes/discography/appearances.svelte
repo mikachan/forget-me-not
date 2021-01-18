@@ -1,3 +1,7 @@
+<script lang="ts">
+	import Link from '../../components/Link.svelte';
+</script>
+
 <svelte:head>
 	<title>Appearances</title>
 </svelte:head>
@@ -9,14 +13,14 @@
 <p>Alongside <a href="discography/full-discography#live-music-dvds">live tour DVDs</a>, You has also appeared in the following:</p>
 
 <ul>
-	<li>He played <em>Jun</em> in <a href="https://www.imdb.com/title/tt0365514/" target="_blank">Moon Child</a> (2003)</li>
+	<li>He played <em>Jun</em> in <Link href="https://www.imdb.com/title/tt0365514/">Moon Child</Link> (2003)</li>
 	<li><em>Life</em> short film, from Gackt's <em>Soyokaze</em> VHS (2002) <a href="discography/life-short-film">Read more&nbsp;&rarr;</a></li>
 	<li>Gackt PVs: <em>Mirror</em>, <em>ANOTHER WORLD</em>, <em>Juunigatsu no love song</em>, <em>Black Stone</em> &amp; <em>Redemption</em></li>
 	<li>Yellow Fried Chickenz PVs: <em>All My Love</em> &amp; <em>Mata koko de Aimashou</em></li>
 	<li>Gackt's <em>Gekkou</em> DVD (2003)</li>
 	<li>Phone call on the radio between You and Gackt, from the <em>nine*nine</em> box set (2008) <a href="discography/nine-nine-radio">Read more&nbsp;&rarr;</a></li>
 	<li>Gackt's Platinum Boxes (DVDs)</li>
-	<li>Gackt and You gave advice on bisexual relationships on NicoNico from 2015.07.01 (Subbed video on <a href="https://youtu.be/f4Tdz24iRPI" target="_blank">Youtube from Yuzu Translations</a>. There's two other parts/sections to this video <a href="https://youtu.be/Z9W-f5qJFGc" target="_blank">here</a> and <a href="https://youtu.be/-ogP-Vc2SUA" target="_blank">here</a>.)</li>
+	<li>Gackt and You gave advice on bisexual relationships on NicoNico from 2015.07.01 (Subbed video on <Link href="https://youtu.be/f4Tdz24iRPI">Youtube from Yuzu Translations</Link>. There's two other parts/sections to this video <Link href="https://youtu.be/Z9W-f5qJFGc">here</Link> and <Link href="https://youtu.be/-ogP-Vc2SUA">here</Link>.)</li>
 </ul>
 
 <h3>CDs</h3>
@@ -46,8 +50,8 @@
 	<li>Gackt Dears fan club videos</li>
 	<li>Interviews with Gackt</li>
 	<li>Gackt's radio show</li>
-	<li>Modeling jewelery for <a href="http://h-darts.com" target="new">h-Darts</a></li>
-	<li><a href="http://www.executivemonthly.com/english/about/index.php" target="new">Executive Monthly</a> CM. He's sitting at the bar talking to a girl.</li>
+	<li>Modeling jewelery for <Link href="http://h-darts.com">h-Darts</Link></li>
+	<li><Link href="http://www.executivemonthly.com/english/about/index.php">Executive Monthly</Link> CM. He's sitting at the bar talking to a girl.</li>
 </ul>
 
 <p><em class="text-sm">There's loads more... these lists are definitely a work in progress.</em></p>

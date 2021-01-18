@@ -1,4 +1,6 @@
 <script>
+	import Link from '../../components/Link.svelte';
+
 	import hana from 'images/cains-feel/hana.png';
 </script>
 
@@ -32,7 +34,7 @@
 
 <iframe title="hanashitaku wa nai" src="https://www.youtube.com/embed/8v2FPRve0S4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="mb-4"></iframe>
 
-<p>Gackt has also described this night in an interview from <em>Vicious 08.1998</em>. Ryuik has scanned and translated <a href="https://ryuik.livejournal.com/218356.html" target="_blank">the whole interview here</a> ❤️</p>
+<p>Gackt has also described this night in an interview from <em>Vicious 08.1998</em>. Ryuik has scanned and translated <Link href="https://ryuik.livejournal.com/218356.html">the whole interview here</Link> ❤️</p>
 
 <h3>Relationship with Gackt</h3>
 
@@ -67,7 +69,7 @@
 	<li>The catalyst for them initially becoming close friends was both of them being dumped by their girlfriends!</li>
 	<li>You and Gackt used to go for drives together for song inspiration. They also drove to scenic locations (mountains, forests) and would break into abandoned buildings together (to write songs, obviously.)</li>
 	<li><em>ANOTHER WORLD</em> was written after they went for a drive in the rain while on holiday in Hawaii.</li>
-	<li>Gackt talked about You a lot on his <a href="http://allnightnippon.com/gackt" target="new">radio show</a>.</li>
+	<li>Gackt talked about You a lot on his <Link href="http://allnightnippon.com/gackt">radio show</Link>.</li>
 	<li>In <em>The Ichiban</em> from 07.05.99, Vol.21 No.25, there was an interview with Gackt from a series called <em>Gackt Conquers the World</em>. In the Japan entry, he mentioned a recent conversation with You where Gackt was explaining how if he were to lose everything, it would be OK as long as he still had the same people with him. You's response was, "If you lost everything and went to Hell, I'd always stay with you." Gackt then went on to explain how happy that made him, and that it felt strange coming from a non-romantic relationship, but because of this it made it even more special.</li>
 </ul>
 

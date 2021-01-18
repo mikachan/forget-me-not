@@ -1,4 +1,6 @@
 <script>
+	import Link from '../../components/Link.svelte';
+
 	import cake from 'images/you/bdaycake.jpg';
 </script>
 
@@ -100,7 +102,7 @@ And the studio was full of people who sang for him ~ And You was still trembling
 
 <h3>Cake</h3>
 
-<p>The cake that You received is shown below (snagged it off the <a href="http://www.allnightnippon.com/gackt" target="new">ANN</a> site), topped with strawberries of course!</p>
+<p>The cake that You received is shown below (snagged it off the <Link href="http://www.allnightnippon.com/gackt">ANN</Link> site), topped with strawberries of course!</p>
 
 <figure>
 	<img alt="Birthday cake" class="mb-4" src="{cake}">

@@ -8,6 +8,8 @@
     import { onMount } from 'svelte';
 	import Nav from '../components/Nav.svelte';
 	import NavMobile from '../components/NavMobile.svelte';
+	import Link from '../components/Link.svelte';
+
 	import bg from 'images/bg02.jpg';
 	import you01 from 'images/image-rotation/you01.jpg';
 	import you02 from 'images/image-rotation/you02.jpg';
@@ -72,7 +74,7 @@
 				<div class="pt-4">
 					<p class="italic text-xs text-center lg:text-left">
 						&copy; 2004-2021<br>
-						<a href="https://sekai.co.uk" target="_blank" class="no-underline">Contact webmaster</a> &bullet; <a href="https://github.com/mikachan/forget-me-not" target="_blank" class="no-underline">View on GitHub</a>
+						<Link href="https://sekai.co.uk" class="no-underline">Contact webmaster</Link> &bullet; <Link href="https://github.com/mikachan/forget-me-not" class="no-underline">View on GitHub</Link>
 					</p>
 				</div>
 			</div>

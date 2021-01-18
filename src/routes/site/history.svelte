@@ -1,3 +1,7 @@
+<script lang="ts">
+	import Link from '../../components/Link.svelte';
+</script>
+
 <svelte:head>
 	<title>Site History</title>
 </svelte:head>
@@ -8,8 +12,8 @@
 
 <p>The site was named after the Gackt song, <em>Wasurenai kara</em> (忘れないから, 'I won't forget'). It was originally called <em>Silence and Motion</em> after the Final Fantasy VIII track of the same name.</p>
 
-<p>You can view the site source on <a href="https://github.com/mikachan/forget-me-not" target="_blank">GitHub here</a>.</p>
+<p>You can view the site source on <Link href="https://github.com/mikachan/forget-me-not">GitHub</Link>.</p>
 
 <p><a href="site/thanks">Thank you</a> to everyone who helped make this site possible over the years.</p>
 
-<p>I'm <a href="https://sekai.co.uk" target="_blank">Sarah</a>, your average J-rock/anything-Japanese nerd from the UK.</p>
+<p>I'm <Link href="https://sekai.co.uk">Sarah</Link>, your average J-rock/anything-Japanese nerd from the UK.</p>

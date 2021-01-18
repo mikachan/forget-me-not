@@ -1,3 +1,7 @@
+<script lang="ts">
+	import Link from '../../components/Link.svelte';
+</script>
+
 <svelte:head>
 	<title>Life from Soyokaze</title>
 </svelte:head>
@@ -6,13 +10,13 @@
 
 <p><em>Life</em> is a short film from Gackt's <em>Soyokaze</em> VHS, starring Gackt and You. It was released in 2002 and is linked to the MOON story and concept.</p>
 
-<p>Gackt has mentioned in interviews that the concept for the video was inspired by the German film, <a href="https://www.imdb.com/title/tt0093191/" target="_blank"><em>Wings of Desire</em></a>, from 1987, which was shot in black and white. This features angels in the mortal world who wear long dark coats, and one angel decides to 'fall from grace' after falling in love with a human. There's an American remake called <a href="https://www.imdb.com/title/tt0120632/" target="_blank"><em>City of Angels</em></a>.</p>
+<p>Gackt has mentioned in interviews that the concept for the video was inspired by the German film, <Link href="https://www.imdb.com/title/tt0093191/"><em>Wings of Desire</em></Link>, from 1987, which was shot in black and white. This features angels in the mortal world who wear long dark coats, and one angel decides to 'fall from grace' after falling in love with a human. There's an American remake called <Link href="https://www.imdb.com/title/tt0120632/"><em>City of Angels</em></Link>.</p>
 
 <h3>Watch on Youtube</h3>
 <iframe title="Life" class="mb-4" src="https://www.youtube.com/embed/a1hBJimcnQc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h3>Download</h3>
-<p><em>Soyokaze</em> seems pretty difficult to get hold of these days, so I've uploaded <em>Life</em> <a href="downloads/life-soyokaze.mp4" download>here for download</a> (~60MB).</p>
+<p><em>Soyokaze</em> seems pretty difficult to get hold of these days, so I've uploaded <em>Life</em> <Link href="downloads/life-soyokaze.mp4" download="life soyokaze video">here for download</Link> (~60MB).</p>
 
 <h3>Transcript &amp; Translation</h3>
 
@@ -124,6 +128,6 @@ I feel as though his existence is touching me...</p>
 
 <p>Although he is still unaware of mine.</p>
 
-<p>Translation by <strong>muchuu</strong>, originally on myspace and later found <a href="https://dears.livejournal.com/1817818.html" target="_blank">here</a> on LJ ❤️</p>
+<p>Translation by <strong>muchuu</strong>, originally on myspace and later found <Link href="https://dears.livejournal.com/1817818.html">on LJ</Link> ❤️</p>
 
 <p><a href="/discography/appearances">&larr; Back to Appearances</a></p>

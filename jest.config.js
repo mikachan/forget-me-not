@@ -1,4 +1,8 @@
+const sveltePreprocess = require('svelte-preprocess');
+
 module.exports = {
+	bail: false,
+	verbose: true,
 	preset: 'ts-jest/presets/js-with-ts',
 	globals: {
 		'ts-jest': {
@@ -6,11 +10,9 @@ module.exports = {
 		},
 	},
 	transform: {
-		'^.+\\.svelte': [
-			'svelte-jester',
-			{
-				preprocess: true,
-			},
+		'^.+\\.svelte$': [
+			'jest-transform-svelte',
+			{ preprocess: sveltePreprocess() },
 		],
 		'^.+\\.(js|ts)': 'ts-jest',
 	},

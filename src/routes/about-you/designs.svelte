@@ -1,4 +1,6 @@
 <script>
+	import Link from '../../components/Link.svelte';
+	
 	import bracelet from 'images/designs/bracelet.jpg';
 	import earring from 'images/designs/earring.jpg';
 	import edhardy1 from 'images/designs/edhardy01.jpg';

@@ -9,6 +9,7 @@
 	import Nav from '../components/Nav.svelte';
 	import NavMobile from '../components/NavMobile.svelte';
 	import Link from '../components/Link.svelte';
+	import Image from "svelte-image";
 
 	import bg from 'images/bg02.jpg';
 	import you01 from 'images/image-rotation/you01.jpg';
@@ -38,8 +39,8 @@
 			you01, you02, you03, you04, you05, you06, you07, you08,
 			you09, you10, you11, you12, you13, you14, you15, you16
 		];
-		const randomIndex: number = Math.floor(Math.random() * youPics.length);
-		return youPics[randomIndex];
+		const randomNum: number = Math.floor(Math.random() * youPics.length);
+		return youPics[randomNum];
 	}
 
 	onMount(() => {
@@ -54,6 +55,14 @@
 
 	export let segment: string;
 </script>
+
+<style>	
+	@media (min-width: 1024px) {
+		.image-rotation figure {
+			height: 500px;
+		}
+	}
+</style>
 
 <NavMobile {segment} />
 
@@ -80,9 +89,9 @@
 			</div>
 		</div>
 
-		<div class="w-full lg:w-2/5">
-			<figure>
-				<img src="{mainImage}" alt="You" class="rounded-none lg:rounded-lg shadow-2xl hidden lg:block" />
+		<div class="image-rotation w-full lg:w-2/5">
+			<figure class="hidden lg:block">
+				<Image src="{mainImage}" alt="You" class="rounded-none lg:rounded-lg shadow-2xl" ratio="141%" placeholderClass="rounded-none lg:rounded-lg" />
 			</figure>
 		</div>
 	</div>

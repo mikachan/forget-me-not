@@ -66,6 +66,7 @@
     "sapper": "^0.28.0",
     "svelte": "^3.31.2",
     "svelte-check": "^1.1.28",
+    "svelte-image": "^0.2.9",
     "svelte-preprocess": "^4.6.1",
     "ts-jest": "^26.4.4",
     "tslib": "^2.1.0",

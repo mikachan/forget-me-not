@@ -1,5 +1,6 @@
 <script>
 	import Link from '../../components/Link.svelte';
+	import Image from "svelte-image";
 
 	import tape from 'images/cains-feel/tape.jpg';
 	import tape2 from 'images/cains-feel/tape-brown.jpg';
@@ -31,7 +32,7 @@
 </p>
 
 <figure>
-	<img alt="CAINS:FEEL 1995" class="pb-4 mx-auto" src="{band}">
+	<Image alt="CAINS:FEEL 1995" class="pb-4 mx-auto" src="{band}" ratio="68%" />
 </figure>
 
 <p>They disbanded in 1995 when Gackt decided to move to Tokyo to join Malice Mizer as their vocalist. After the split, You became a studio guitarist for several different bands in Kyoto.</p>
@@ -53,8 +54,8 @@
 
 <h4>Green version:</h4>
 
-<figure>
-	<img alt="CAINS:FEEL 1994 demo tape open" class="p-4 pt-0" src="{tape}">
+<figure style="width: 140px;">
+	<Image alt="CAINS:FEEL 1994 demo tape open" class="p-4 pt-0" src="{tape}" ratio="138%" />
 </figure>
 
 <ol class="list-decimal list-inside">
@@ -66,7 +67,7 @@
 <h4>Brown version:</h4>
 
 <figure>
-	<img alt="CAINS:FEEL 1994 demo tape brown rare version" class="p-4 pt-0" width="130px" src="{tape2}">
+	<Image alt="CAINS:FEEL 1994 demo tape brown rare version" class="p-4 pt-0" width="130px" src="{tape2}" ratio="60%" />
 </figure>
 
 <ol class="list-decimal list-inside">

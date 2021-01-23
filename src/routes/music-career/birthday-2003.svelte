@@ -1,5 +1,6 @@
 <script>
 	import Link from '../../components/Link.svelte';
+	import Image from "svelte-image";
 
 	import cake from 'images/you/bdaycake.jpg';
 </script>
@@ -105,7 +106,7 @@ And the studio was full of people who sang for him ~ And You was still trembling
 <p>The cake that You received is shown below (snagged it off the <Link href="http://www.allnightnippon.com/gackt">ANN</Link> site), topped with strawberries of course!</p>
 
 <figure>
-	<img alt="Birthday cake" class="mb-4" src="{cake}">
+	<Image alt="Birthday cake" class="mb-4" src="{cake}" ratio="75%" />
 </figure>
 
 <p><a href="music-career/gacktjob">&larr; Backt to GacktJob</a></p>

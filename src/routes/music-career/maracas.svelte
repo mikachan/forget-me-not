@@ -1,5 +1,6 @@
 <script>
 	import Link from '../../components/Link.svelte';
+	import Image from "svelte-image";
 
 	import maracas from 'images/you/1996-mm.jpeg';
 </script>
@@ -15,7 +16,7 @@
 <p>Gackt described the cover band he put together in the Malice Mizer fanclub magazine <em>Ma chérie</em> (vol. 2&3). He first called <Link href="https://en.wikipedia.org/wiki/Maschera_(band)">Maschera</Link>, another visual kei band that were active at the time, who were excited to perform with him. He then called You and invited him to perform as well, "We spent 2-3 hours on the phone discussing details, chose the songs to perform and arranged a meeting."</p>
 
 <figure>
-	<img alt="You in Malice Mizer cover band 1996" class="pb-4 mx-auto" src="{maracas}">
+	<Image alt="You in Malice Mizer cover band 1996" class="pb-4 mx-auto" src="{maracas}" />
 </figure>
 
 <p>The final line-up included Gackt, You, all of Maschera (Michi on vocals, Takuya on guitar, Hiro on bass, Tomo on drums) and Makoto (another old friend of Gackt's).</p>

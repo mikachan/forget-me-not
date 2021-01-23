@@ -1,6 +1,7 @@
 import babel from '@rollup/plugin-babel';
 import commonjs from '@rollup/plugin-commonjs';
 import config from 'sapper/config/rollup.js';
+import image from 'svelte-image';
 import path from 'path';
 import pkg from './package.json';
 import replace from '@rollup/plugin-replace';
@@ -28,6 +29,7 @@ const preprocess = sveltePreprocess({
 	postcss: {
 		plugins: [require('tailwindcss'), require('autoprefixer')],
 	},
+	...image(),
 });
 
 export default {

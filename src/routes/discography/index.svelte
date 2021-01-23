@@ -1,4 +1,6 @@
 <script lang="ts">
+	import Image from "svelte-image";
+
 	import moonchild from 'images/you/moonchild.jpg';
 </script>
 
@@ -17,5 +19,5 @@
 <p>You has appeared in many videos, books, magazines and interviews, especially from working with Gackt. The highlight obviously being his acting skillz in <em>Moon Child</em>:</p>
 
 <figure>
-	<img alt="You in Moon Child" class="p-2 pt-0 mx-auto mb-2" src="{moonchild}" />
+	<Image alt="You in Moon Child" class="p-2 pt-0 mx-auto mb-2" src="{moonchild}" ratio="55%" />
 </figure>

@@ -1,4 +1,6 @@
 <script>
+	import Image from "svelte-image";
+
 	import cainsFeel from 'images/cains-feel/cainsfeel03.jpeg';
 	import maracas from 'images/you/1996-mm.jpeg';
 	import gacktjob from 'images/gacktjob/gacktjob01.jpg';
@@ -30,7 +32,7 @@
 <h3>CAINS:FEEL (1989/93-1995) <a href="/music-career/cains-feel" class="text-sm">read more&nbsp;&rarr;</a></h3>
 
 <figure>
-	<img alt="CAINS:FEEL" class="pb-4 mx-auto" src="{cainsFeel}">
+	<Image alt="CAINS:FEEL" class="pb-4 mx-auto" src="{cainsFeel}" ratio="45%" />
 </figure>
 
 <p>CAINS:FEEL was an indie Japanese visual kei (rock/goth) band, formed by You and Gackt, and was their first band together.</p>
@@ -40,7 +42,7 @@
 <h3>Maracas (1996) <a href="/music-career/maracas" class="text-sm">read more&nbsp;&rarr;</a></h3>
 
 <figure>
-	<img alt="You in Malice Mizer cover band 1996" class="pb-4 mx-auto" src="{maracas}">
+	<Image alt="You in Malice Mizer cover band 1996" class="pb-4 mx-auto" src="{maracas}" />
 </figure>
 
 <p>This isn't technically a separate band as they only performed together a couple of times, but I thought it was worth including as it's pretty interesting.</p>
@@ -50,7 +52,7 @@
 <h3>GacktJob (1999-2019) <a href="/music-career/gacktjob" class="text-sm">read more&nbsp;&rarr;</a></h3>
 
 <figure>
-	<img alt="GacktJob around 2001" class="pb-4 mx-auto" src="{gacktjob}">
+	<Image alt="GacktJob around 2001" class="pb-4 mx-auto" src="{gacktjob}" ratio="45%" />
 </figure>
 
 <p>As soon as Gackt decided to go solo, he called You up to ask him to join his support band, and shortly after You moved to Tokyo to join him. It was around this time that he learnt how to play violin and piano, on Gackt's recommendation.</p>
@@ -64,7 +66,7 @@
 <h3>Yellow Fried Chickenz (2010-2012)</h3>
 
 <figure>
-	<img alt="Yellow Fried Chickenz" class="pb-4 mx-auto" src="{yfc}">
+	<Image alt="Yellow Fried Chickenz" class="pb-4 mx-auto" src="{yfc}" ratio="50%" />
 </figure>
 
 <p>Yellow Fried Chickenz (also known as "YFC" or "YFCz") began as a project by Gackt to express "the cowardice in men's souls", increase the amount of good men in the world or as an attempt to 'form'/celebrate men's spirit (don't ask me to explain, all sounds very ~Gackt~). They released one studio album, one 'best of' album, a couple of singles, a live album from their first European tour and a couple of DVDs.</p>
@@ -74,7 +76,7 @@
 <h3>S.Q.F (2013-2018)</h3>
 
 <figure>
-	<img alt="S.Q.F" class="pb-4 mx-auto" src="{sqf}">
+	<Image alt="S.Q.F" class="pb-4 mx-auto" src="{sqf}" />
 </figure>
 
 <p>S.Q.F is a Japanese band formed in 2000 by ex-Maschera vocalist Michi and was originally Michi's solo project, with ex-iLLUMINA guitarist, Nao. The name S.Q.F stands for "Spinning Q Factor."</p>
@@ -84,7 +86,7 @@
 <h3>Luscious (2018-present)</h3>
 
 <figure>
-	<img alt="Luscious" class="pb-4 mx-auto" src="{luscious}">
+	<Image alt="Luscious" class="pb-4 mx-auto" src="{luscious}" ratio="60%" />
 </figure>
 
 <p>Luscious is a Japanese band formed by Chachamaru, and includes Chacha on vocals and guitar, You on guitar, Sato on bass and Baru on drums. They have performed at several events alongisde Chacha's other band, Ded Chaplin.</p>

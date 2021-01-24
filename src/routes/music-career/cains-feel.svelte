@@ -13,13 +13,13 @@
 
 <h2>CAINS:FEEL</h2>
 
-<p>CAINS:FEEL was an indie Japanese visual kei (rock/goth) band formed in 1989 (although some sources say 1993). The band members were known as troublemakers as they often started fights at local venues, usually between rival bands. They mainly performed locally in Kyoto.</p>
+<p>CAINS:FEEL was an indie Japanese visual kei (rock/goth) band formed in 1989 (although some sources say 1993) by You and Gackt. The band members were known as troublemakers as they often started fights at local venues, usually between rival bands. They mainly performed locally in Kyoto.</p>
 
-<p>The origin of the name is from Cain and Abel, the sons of Adam and Eve from Genesis in the Old Testament. Gackt explained in his autobiography that the 'theme' of the band was 'Where do people come from, and where are they going?'</p>
+<p>The origin of the name is from Cain and Abel, the sons of Adam and Eve from Genesis in the Old Testament.</p>
 
 <p>At first, they struggled to find a vocalist and after a year of searching, Gackt jokingly suggested that he should do it, but You just laughed. After a couple of arguments and proving each other wrong, You gave Gackt a list of songs to practice and Gackt agreed to take vocal lessons. After a week of lessons, he sung in front of You for the first time, and You's response was, "Why haven't you sung before?". Maybe without You's encouragment, Gackt wouldn't have even considered being a lead vocalist...</p>
 
-<p>After Gackt had decided to be the lead vocalist, him and You recorded some demo songs to help recruit other band members.</p>
+<p>After Gackt had decided to be the lead vocalist, him and You recorded some demo songs to help recruit other band members. The majority of songs were written by Gackt and You.</p>
 
 <h3>Band Members</h3>
 

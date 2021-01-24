@@ -69,9 +69,12 @@
 <ul>
 	<li>The catalyst for them initially becoming close friends was both of them being dumped by their girlfriends!</li>
 	<li>You and Gackt used to go for drives together for song inspiration. They also drove to scenic locations (mountains, forests) and would break into abandoned buildings together (to write songs, obviously.)</li>
-	<li><em>ANOTHER WORLD</em> was written after they went for a drive in the rain while on holiday in Hawaii.</li>
+	<li><em>ANOTHER WORLD</em> was written while on holiday together in Hawaii after they went for a drive in the rain.</li>
+	<li>Gackt has said that when he is with You he can truly relax and be himself, and when they're together it's more like two people merging as one.</li>
+	<li>When asked about their relationship, You has said that he is like the ocean and Gackt is the moon. You likes to be calm and careful, and do everything at his own pace, while supporting Gackt. And Gackt is a beacon, guiding the way and inspiring him.</li>
 	<li>Gackt talked about You a lot on his <Link href="http://allnightnippon.com/gackt">radio show</Link>.</li>
 	<li>In <em>The Ichiban</em> from 07.05.99, Vol.21 No.25, there was an interview with Gackt from a series called <em>Gackt Conquers the World</em>. In the Japan entry, he mentioned a recent conversation with You where Gackt was explaining how if he were to lose everything, it would be OK as long as he still had the same people with him. You's response was, "If you lost everything and went to Hell, I'd always stay with you." Gackt then went on to explain how happy that made him, and that it felt strange coming from a non-romantic relationship, but because of this it made it even more special.</li>
+	<li>You once made Gackt a cake for his birthday that was made of kimchi and other Korean vegetables, as Gackt isn't keen on anything sweet.</li>
 </ul>
 
 <p class="text-sm">* References: Gackt's autobiography, <em>Jihaku</em>, Section 2: Kakusei, Chapter 4: <em>Hatsu Bando CAIN'S FEEL</em>; <em>Diabolos</em> tour document; various interviews with GacktJob</p>

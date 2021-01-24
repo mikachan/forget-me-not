@@ -13,7 +13,7 @@
 	<strong>Birthday:</strong> 10th February 1974<br>
 	<strong>From:</strong> Kyoto, Japan<br>
 	<strong>Height:</strong> 186cm (6'2")<br>
-	<strong><Link href="https://japantoday.com/category/features/lifestyle/the-importance-of-blood-type-in-japanese-culture">Blood Type</Link>:</strong> A<br>
+	<strong><Link href="https://www.tofugu.com/japan/japanese-blood-type/">Blood Type</Link>:</strong> A<br>
 	<strong>Guitar Model:</strong> <Link href="https://www.caparisonguitars.com/">Caparison</Link>, Mercury<br>
 	<strong>Hobbies:</strong> Cooking, photography, motorbikes, martial arts, snowboarding, bowling, reading manga<br>
 	<strong>Likes:</strong> Jean Paul Gaultier fragrance, cooking yaki udon, all things robot-themed, collecting plushies
@@ -32,7 +32,7 @@
 <h3>Trivia</h3>
 
 <ul>
-	<li>He has lots of different nicknames, including "Grapefruit boy" because of Gackt's Mizerable ~Unmei~ photobook, old man, "Big Brother You" (You-ni-san), pole (denchu) because he's tall and quiet. And of course, robot!</li>
+	<li>He has lots of different nicknames, including "Grapefruit boy" because of Gackt's Mizerable ~Unmei~ photobook, old man, "Big Brother You" (You-ni-san), pole (denchu) because he's tall and quiet. And of course, robot, because of how he moves on stage but also because of how he tends to hide his emotions.</li>
 	<li>He's extremely friendly and laid-back, and known for getting on well with everyone. For example, on a band holiday to Paris he was found laughing with the locals on a night out, despite the language barrier.</li>
 	<li>He really enjoys cooking, especially noodles, and is a bit of a foodie.</li>
 	<li>He's very close friends with <a href="music-career/you-gackt">Gackt</a> and has lived with him on several occasions.</li>

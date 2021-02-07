@@ -19,7 +19,7 @@
 
 <p>One day he asked You who the guitarist he liked was, and You explained it was him. Gackt didn't believe him, going so far as arguing against it! So You took him to his house to show him photos and videos, to prove he was the guitarist, and from that point they became good friends. Gackt really liked the contrast between You's on-stage persona compared to his real personality.</p>
 
-<p>During this visit, You also played Gackt some songs he had written, and shortly after they decided to form <a href="/cains-feel">a band</a> together.</p>
+<p>During this visit, You also played Gackt some songs he had written, and shortly after they decided to form <a href="/music-career/cains-feel">a band</a> together.</p>
 
 <p class="text-sm">* See references at the bottom.</p>
 

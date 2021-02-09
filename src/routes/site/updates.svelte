@@ -5,8 +5,13 @@
 <h2>Site Updates</h2>
 
 <p>
+	<strong>10.02.21</strong><br>
+	Happy birthday YOU! お誕生日おめでとう!
+</p>
+
+<p>
 	<strong>01.01.21</strong><br>
-	Happy New Year! 明けましておめでとうございます !
+	Happy New Year! 明けましておめでとうございます!
 </p>
 
 <hr class="mt-2 mb-4 border-b-1 border-green-400 opacity-25">

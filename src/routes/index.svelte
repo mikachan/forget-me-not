@@ -11,6 +11,6 @@
 <h2>Latest Site Updates <a href="site/updates" class="text-sm">read more&nbsp;&rarr;</a></h2>
 
 <p>
-	<strong>01.01.21</strong><br>
-	Happy New Year! 明けましておめでとうございます !
+	<strong>10.02.21</strong><br>
+	Happy birthday YOU! お誕生日おめでとう!
 </p>

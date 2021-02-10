@@ -2,6 +2,12 @@
 	<title>Site Updates</title>
 </svelte:head>
 
+<style>
+	hr {
+		@apply mt-2 mb-4 border-green-400 opacity-25;
+	}
+</style>
+
 <h2>Site Updates</h2>
 
 <p>
@@ -9,12 +15,14 @@
 	Happy birthday YOU! お誕生日おめでとう!
 </p>
 
+<hr class="border-b-1">
+
 <p>
 	<strong>01.01.21</strong><br>
 	Happy New Year! 明けましておめでとうございます!
 </p>
 
-<hr class="mt-2 mb-4 border-b-1 border-green-400 opacity-25">
+<hr class="border-b-1">
 
 <p>
 	<strong>12.12.20</strong><br>

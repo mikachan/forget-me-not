@@ -1,5 +1,6 @@
 <script>
 	import Image from "svelte-image";
+	import Link from '../../components/Link.svelte';
 
 	import cainsFeel from 'images/cains-feel/cainsfeel03.jpeg';
 	import maracas from 'images/you/1996-mm.jpeg';
@@ -81,7 +82,7 @@
 
 <p>S.Q.F is a Japanese band formed in 2000 by ex-Maschera vocalist Michi and was originally Michi's solo project, with ex-iLLUMINA guitarist, Nao. The name S.Q.F stands for "Spinning Q Factor."</p>
 
-<p>You has been a support band member since 2013, playing guitar at their live shows and on studio recordings, as well as writing some of their more recent songs.</p>
+<p>You was a support band member from 2013 to 2018, playing guitar at their live shows and on studio recordings, as well as writing some of their more recent songs.</p>
 
 <h3>Luscious (2018-present)</h3>
 
@@ -89,4 +90,6 @@
 	<Image alt="Luscious" class="pb-4 mx-auto" src="{luscious}" ratio="60%" />
 </figure>
 
-<p>Luscious is a Japanese band formed by Chachamaru, and includes Chacha on vocals and guitar, You on guitar, Sato on bass and Baru on drums. They have performed at several events alongisde Chacha's other band, Ded Chaplin.</p>
+<p>Luscious is a Japanese band formed by <Link href="https://twitter.com/CHACHAMARU_YFCz">Chachamaru (Yukihiro Fujimura)</Link>, and includes Chacha on vocals and guitar, You on guitar, <Link href="https://twitter.com/Satos_Cafe_Bar">Sato</Link> (ex. GacktJob, LiSA) on bass and <Link href="https://twitter.com/DuelJewel_val">Val</Link> (ex. GacktJob, DuelJewel) on drums. They have performed at several events alongisde Chacha's other band, Ded Chaplin.</p>
+
+<p>Chacha posts about Luscious on his Twitter account and often streams on <Link href="https://twitcasting.tv/chachamaru_yfcz">TwitCasting</Link> with the other band members.</p>

@@ -11,6 +11,6 @@
 <h2>Latest Site Updates <a href="site/updates" class="text-sm">read more&nbsp;&rarr;</a></h2>
 
 <p>
-	<strong>10.02.21</strong><br>
-	Happy birthday YOU! お誕生日おめでとう!
+	<strong>16.02.21</strong><br>
+	Ded Chaplin and Luscious are streaming two live performances on 17th and 18th February, from The Doors in Hatsudai. You can purchase tickets to watch the performances live through <Link href="https://twitcasting.tv/chachamaru_yfcz">TwitCasting</Link>, which also gives you access to watch the stream recording up to 2 weeks from the original broadcast. See <Link href="https://twitter.com/CHACHAMARU_YFCz/status/1359381600425758722">Chacha's Twitter</Link> for more info. Looking forward to it!
 </p>

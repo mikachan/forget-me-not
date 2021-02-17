@@ -53,7 +53,7 @@
 <h3>GacktJob (1999-2019) <a href="/music-career/gacktjob" class="text-sm">read more&nbsp;&rarr;</a></h3>
 
 <figure>
-	<Image alt="GacktJob around 2001" class="pb-4 mx-auto" src="{gacktjob}" ratio="45%" />
+	<Image alt="GacktJob around 2001" class="pb-4 mx-auto" src="{gacktjob}" ratio="67%" />
 </figure>
 
 <p>As soon as Gackt decided to go solo, he called You up to ask him to join his support band, and shortly after You moved to Tokyo to join him. It was around this time that he learnt how to play violin and piano, on Gackt's recommendation.</p>

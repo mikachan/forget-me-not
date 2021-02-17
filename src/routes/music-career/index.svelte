@@ -90,6 +90,6 @@
 	<Image alt="Luscious" class="pb-4 mx-auto" src="{luscious}" ratio="60%" />
 </figure>
 
-<p>Luscious is a Japanese band formed by <Link href="https://twitter.com/CHACHAMARU_YFCz">Chachamaru (Yukihiro Fujimura)</Link>, and includes Chacha on vocals and guitar, You on guitar, <Link href="https://twitter.com/Satos_Cafe_Bar">Sato</Link> (ex. GacktJob, LiSA) on bass and <Link href="https://twitter.com/DuelJewel_val">Val</Link> (ex. GacktJob, DuelJewel) on drums. They have performed at several events alongisde Chacha's other band, Ded Chaplin.</p>
+<p>Luscious is a Japanese band formed by <Link href="https://twitter.com/CHACHAMARU_YFCz">Chachamaru (Yukihiro Fujimura)</Link>, and includes Chacha on vocals and guitar, You on guitar, <Link href="https://twitter.com/Satos_Cafe_Bar">Sato</Link> (ex. GacktJob, LiSA) on bass and <Link href="https://twitter.com/DuelJewel_val">Val</Link> (ex. GacktJob, DuelJewel) on drums. They have performed at several events alongside Chacha's other band, Ded Chaplin.</p>
 
 <p>Chacha posts about Luscious on his Twitter account and often streams on <Link href="https://twitcasting.tv/chachamaru_yfcz">TwitCasting</Link> with the other band members.</p>

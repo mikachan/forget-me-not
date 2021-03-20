@@ -6,20 +6,22 @@
 
 This is a fansite for Japanese musician, YOU, best known for playing guitar and violin for Gackt and S.Q.F. 
 
-**Live site:** [you.sekai.co.uk](https://you.sekai.co.uk/) (Or [sekai.co.uk/you](https://sekai.co.uk/you))
+**Live site:** [you.sekai.co.uk](https://you.sekai.co.uk/) or [sekai.co.uk/you](https://sekai.co.uk/you)
 
-## 🤖 Site History
+## 🤖 History
 
 The site was first opened on 23rd March 2004, built with basic HTML and CSS in trusty Notepad. Around 2009 it was rebuilt as a Wordpress site where it lived for another 5-6 years. I then unfortunately completely abdandoned the site until 2020, when it was rebuilt again using Svelte, Sapper and TailwindCSS.
 
 This was one of my first popular sites, helped along by being built when fansites were a thing. Fansites are [now dead](https://flavorwire.com/453757/is-the-fan-site-dead-2) but I was really proud of building and maintaining this site, and I'm pleased to have a working version live again after all this time. Still a massive fan of You! ❤️
 
-## 💻 Dev Details
+## 💻 Development
 To run the site in development mode with a local dev server, run the following command:
 
 ``` shell
 npm start
 ```
+
+The site will be available on http://localhost:3000/.
 
 To commit, use:
 

@@ -1,12 +1,16 @@
 <script lang="ts">
 	import Link from '../../components/Link.svelte';
+
+	import { title } from "../../store";
+	export let pageTitle: string = 'About You';
+	title.set(pageTitle);
 </script>
 
 <svelte:head>
-	<title>About You</title>
+	<title>{$title}</title>
 </svelte:head>
 
-<h2>About You</h2>
+<h2>{pageTitle}</h2>
 <p>
 	<strong>Stage Name:</strong> You (pronounced 'yuu'), aka YOU, 優, You Kurosaki, 🤖<br>
 	<strong>Plays:</strong> Guitar, violin, piano, drums, shamisen<br>

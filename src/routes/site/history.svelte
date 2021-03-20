@@ -1,12 +1,16 @@
 <script lang="ts">
 	import Link from '../../components/Link.svelte';
+
+	import { title } from "../../store";
+	export let pageTitle: string = 'Site History';
+	title.set(pageTitle);
 </script>
 
 <svelte:head>
-	<title>Site History</title>
+	<title>{$title}</title>
 </svelte:head>
 
-<h2>Site History</h2>
+<h2>{pageTitle}</h2>
 
 <p>The site was first opened on 23rd March, 2004. I decided to make a You fan site because, at the time, there were no sites dedicated to him in English.</p>
 

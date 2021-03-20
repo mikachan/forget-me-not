@@ -2,13 +2,17 @@
 	import Image from "svelte-image";
 
 	import moonchild from 'images/you/moonchild.jpg';
+
+	import { title } from "../../store";
+	export let pageTitle: string = 'Discography';
+	title.set(pageTitle);
 </script>
 
 <svelte:head>
-	<title>Discography</title>
+	<title>{$title}</title>
 </svelte:head>
 
-<h2>Discography</h2>
+<h2>{pageTitle}</h2>
 
 <h3>Full Discography <a href="discography/full-discography" class="text-sm">read more&nbsp;&rarr;</a></h3>
 

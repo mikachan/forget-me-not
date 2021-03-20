@@ -1,17 +1,21 @@
-<script>
+<script lang="ts">
 	import Link from '../../components/Link.svelte';
 	import Image from "svelte-image";
 
 	import tape from 'images/cains-feel/tape.jpg';
 	import tape2 from 'images/cains-feel/tape-brown.jpg';
 	import band from 'images/cains-feel/cainsfeel.jpg';
+
+	import { title } from "../../store";
+	export let pageTitle: string = 'CAINS:FEEL';
+	title.set(pageTitle);
 </script>
 
 <svelte:head>
-	<title>CAINS:FEEL</title>
+	<title>{$title}</title>
 </svelte:head>
 
-<h2>CAINS:FEEL</h2>
+<h2>{pageTitle}</h2>
 
 <p>CAINS:FEEL was an indie Japanese visual kei (rock/goth) band formed in 1989 (although some sources say 1993) by You and Gackt. The band members were known as troublemakers as they often started fights at local venues, usually between rival bands. They mainly performed locally in Kyoto.</p>
 

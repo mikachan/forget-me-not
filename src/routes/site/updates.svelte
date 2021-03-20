@@ -1,9 +1,13 @@
 <script lang="ts">
 	import Link from '../../components/Link.svelte';
+
+	import { title } from "../../store";
+	export let pageTitle: string = 'Site Updates';
+	title.set(pageTitle);
 </script>
 
 <svelte:head>
-	<title>Site Updates</title>
+	<title>{$title}</title>
 </svelte:head>
 
 <style>
@@ -12,7 +16,7 @@
 	}
 </style>
 
-<h2>Site Updates</h2>
+<h2>{pageTitle}</h2>
 
 <p>
 	<strong>16.02.21</strong><br>

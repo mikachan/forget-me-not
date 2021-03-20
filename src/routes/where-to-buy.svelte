@@ -1,12 +1,16 @@
 <script lang="ts">
 	import Link from '../components/Link.svelte';
+
+	import { title } from "../store";
+	export let pageTitle: string = 'Where to Buy';
+	title.set(pageTitle);
 </script>
 
 <svelte:head>
-	<title>Where to Buy</title>
+	<title>{$title}</title>
 </svelte:head>
 
-<h2>Where to Buy</h2>
+<h2>{pageTitle}</h2>
 
 <p>There are several places you can buy Gackt, S.Q.F etc releases online.</p>
 

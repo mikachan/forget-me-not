@@ -1,12 +1,16 @@
 <script lang="ts">
 	import Link from '../../components/Link.svelte';
+
+	import { title } from "../../store";
+	export let pageTitle: string = 'Life from Soyokaze';
+	title.set(pageTitle);
 </script>
 
 <svelte:head>
-	<title>Life from Soyokaze</title>
+	<title>{$title}</title>
 </svelte:head>
 
-<h2>Life from Soyokaze</h2>
+<h2>{pageTitle}</h2>
 
 <p><em>Life</em> is a short film from Gackt's <em>Soyokaze</em> VHS, starring Gackt and You. It was released in 2002 and is linked to the MOON story and concept.</p>
 

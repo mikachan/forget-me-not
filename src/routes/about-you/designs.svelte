@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
 	import Link from '../../components/Link.svelte';
 	import Image from "svelte-image";
 	
@@ -10,13 +10,17 @@
 	import hdarts02 from 'images/designs/hdarts02.jpg';
 	import hdarts03 from 'images/designs/hdarts03.jpg';
 	import hdarts04 from 'images/designs/hdarts04.jpg';
+
+	import { title } from "../../store";
+	export let pageTitle: string = 'Designs';
+	title.set(pageTitle);
 </script>
 
 <svelte:head>
-	<title>Designs</title>
+	<title>{$title}</title>
 </svelte:head>
 
-<h2>Designs</h2>
+<h2>{pageTitle}</h2>
 
 <h3>Jewellery</h3>
 

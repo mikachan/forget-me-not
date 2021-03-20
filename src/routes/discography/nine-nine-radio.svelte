@@ -1,8 +1,14 @@
+<script lang="ts">
+	import { title } from "../../store";
+	export let pageTitle: string = 'Radio Phone Call from nine*nine';
+	title.set(pageTitle);
+</script>
+
 <svelte:head>
-	<title>Radio Phone Call (nine*nine)</title>
+	<title>{$title}</title>
 </svelte:head>
 
-<h2>Radio Phone Call (nine*nine)</h2>
+<h2>{pageTitle}</h2>
 
 <p>The following is from a radio broadcast that was included on a DVD in Gackt's <em>nine*nine</em> box set. The broadcast was held by Gackt and one of his staff members. They mainly talk about the beginning of Gackt's solo career in 1999, and Miyavi and Kamijo appear as guests. Later on in the show, around 3am, You calls in and has a short conversation with Gackt.</p>
 

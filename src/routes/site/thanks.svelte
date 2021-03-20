@@ -1,8 +1,14 @@
+<script lang="ts">
+	import { title } from "../../store";
+	export let pageTitle: string = 'Special Thanks';
+	title.set(pageTitle);
+</script>
+
 <svelte:head>
-	<title>Special Thanks</title>
+	<title>{$title}</title>
 </svelte:head>
 
-<h2>Special Thanks</h2>
+<h2>{pageTitle}</h2>
 
 <ul>
 	<li><strong>Torabara</strong> for images, the Starlight Gig screencaps and R&R screencaps.</li>

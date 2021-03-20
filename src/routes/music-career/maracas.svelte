@@ -1,15 +1,19 @@
-<script>
+<script lang="ts">
 	import Link from '../../components/Link.svelte';
 	import Image from "svelte-image";
 
 	import maracas from 'images/you/1996-mm.jpeg';
+
+	import { title } from "../../store";
+	export let pageTitle: string = 'Maracas';
+	title.set(pageTitle);
 </script>
 
 <svelte:head>
-	<title>Maracas</title>
+	<title>{$title}</title>
 </svelte:head>
 
-<h2>Maracas</h2>
+<h2>{pageTitle}</h2>
 
 <p>In 1996, Malice Mizer organised a series of events to celebrate their 4th anniversary, called <em>喜劇の晩餐~VISUAL ART COLLECTION VOL.1~</em>, made up of performances by cover bands each band member had put together. The first event was held on 8th November 1996 at Shibuya <em>ON AIR WEST</em>, a small venue that holds about 600 people. It was reviewed in <em>Fool's Mate 02.1997</em>, which is where the photo is from.</p>
 

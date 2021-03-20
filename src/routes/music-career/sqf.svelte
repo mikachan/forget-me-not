@@ -1,8 +1,14 @@
+<script lang="ts">
+	import { title } from "../../store";
+	export let pageTitle: string = 'S.Q.F';
+	title.set(pageTitle);
+</script>
+
 <svelte:head>
-	<title>S.Q.F</title>
+	<title>{$title}</title>
 </svelte:head>
 
-<h2>S.Q.F</h2>
+<h2>{pageTitle}</h2>
 
 <p>Coming soon.</p>
 

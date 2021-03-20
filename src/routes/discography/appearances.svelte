@@ -1,12 +1,16 @@
 <script lang="ts">
 	import Link from '../../components/Link.svelte';
+
+	import { title } from "../../store";
+	export let pageTitle: string = 'Appearances';
+	title.set(pageTitle);
 </script>
 
 <svelte:head>
-	<title>Appearances</title>
+	<title>{$title}</title>
 </svelte:head>
 
-<h2>Appearances</h2>
+<h2>{pageTitle}</h2>
 
 <h3>DVDs/Videos</h3>
 

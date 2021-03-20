@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
 	import Image from "svelte-image";
 	import Link from '../../components/Link.svelte';
 
@@ -8,13 +8,17 @@
 	import yfc from 'images/yfc/yfc01.jpg';
 	import sqf from 'images/sqf/sqf04.jpg';
 	import luscious from 'images/luscious/luscious03.jpeg';
+
+	import { title } from "../../store";
+	export let pageTitle: string = 'Music Career';
+	title.set(pageTitle);
 </script>
 
 <svelte:head>
-	<title>Music Career</title>
+	<title>{$title}</title>
 </svelte:head>
 
-<h2>Music Career</h2>
+<h2>{pageTitle}</h2>
 
 <p>You's best known for playing the guitar and violin, and can also play piano, drums and shamisen. At live shows he usually plays rhythm guitar, violin and sometimes backing vocals.</p>
 

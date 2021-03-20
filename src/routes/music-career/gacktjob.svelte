@@ -1,8 +1,14 @@
+<script lang="ts">
+	import { title } from "../../store";
+	export let pageTitle: string = 'GacktJob';
+	title.set(pageTitle);
+</script>
+
 <svelte:head>
-	<title>GacktJob</title>
+	<title>{$title}</title>
 </svelte:head>
 
-<h2>GacktJob</h2>
+<h2>{pageTitle}</h2>
 
 <p>The members of GacktJob have said that You is like a robot, with the exception of Gackt, who says he's half donkey, half horse.</p>
 

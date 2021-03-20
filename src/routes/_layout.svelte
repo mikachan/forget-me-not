@@ -75,7 +75,7 @@
 			<div class="p-4 md:p-6">
 				<div class="block lg:hidden rounded-full shadow-xl mx-auto -mt-16 h-48 w-48 bg-cover bg-top" style="background-image: url({mainImage})"></div>
 
-				<h1 class="text-3xl font-bold pt-8 lg:pt-0 text-center lg:text-left">Forget-me-not: a YOU fansite</h1>
+				<h1 class="text-3xl font-bold pt-8 lg:pt-0 text-center lg:text-left">Forget-me-not: a You fansite</h1>
 				<div class="mx-auto lg:mx-0 w-4/5 my-3 border-b-2 border-green-500 opacity-25"></div>
 				
 				<slot></slot>

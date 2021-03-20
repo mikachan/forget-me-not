@@ -1,15 +1,19 @@
-<script>
+<script lang="ts">
 	import Link from '../../components/Link.svelte';
 	import Image from "svelte-image";
 
 	import cake from 'images/you/bdaycake.jpg';
+
+	import { title } from "../../store";
+	export let pageTitle: string = 'Birthday 2003';
+	title.set(pageTitle);
 </script>
 
 <svelte:head>
-	<title>Birthday 2003</title>
+	<title>{$title}</title>
 </svelte:head>
 
-<h2>Birthday 2003</h2>
+<h2>{pageTitle}</h2>
 
 <p>Gackt's well known for making a big deal out of staff members' birthdays, usually involving pranks and cake. I decided, since I seem to have so much information on You's birthday from 2003, why not make a seperate page for it? Yup.</p>
 

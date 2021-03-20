@@ -1,15 +1,19 @@
-<script>
+<script lang="ts">
 	import Link from '../../components/Link.svelte';
 	import Image from "svelte-image";
 
 	import hana from 'images/cains-feel/hana.png';
+
+	import { title } from "../../store";
+	export let pageTitle: string = 'You & Gackt';
+	title.set(pageTitle);
 </script>
 
 <svelte:head>
-	<title>You & Gackt</title>
+	<title>{$title}</title>
 </svelte:head>
 
-<h2>You & Gackt</h2>
+<h2>{pageTitle}</h2>
 
 <h3>Meeting Gackt</h3>
 

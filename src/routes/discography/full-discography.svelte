@@ -11,10 +11,14 @@
 
 		if (isOverThreshold) fadeEl.classList.add('hidden');
 	}
+
+	import { title } from "../../store";
+	export let pageTitle: string = 'Full Discography';
+	title.set(pageTitle);
 </script>
 
 <svelte:head>
-	<title>Full Discography</title>
+	<title>{$title}</title>
 </svelte:head>
 
 <style>
@@ -47,7 +51,7 @@
 	}
 </style>
 
-<h2>Full Discography</h2>
+<h2>{pageTitle}</h2>
 
 <h3 id="studio-albums">Studio Albums</h3>
 <div class="table-container">

@@ -1,13 +1,14 @@
 /** @type {import('@sveltejs/kit').Config} */
+const pkg = require('./package.json');
+const postcssConfig = require('./postcss.config.cjs');
 const adapter = require(process.env.ADAPTER || '@sveltejs/adapter-static');
 const options = JSON.stringify(process.env.OPTIONS || '{}');
 const sveltePreprocess = require('svelte-preprocess');
 const svelteImage = require('svelte-image');
-const windiCSS = require('vite-plugin-windicss');
 
 const mode = process.env.NODE_ENV;
 const dev = mode === 'development';
-const production = !process.env.ROLLUP_WATCH;
+const production = mode === 'production';
 
 const preprocess = sveltePreprocess({
 	defaults: {
@@ -15,14 +16,19 @@ const preprocess = sveltePreprocess({
 		style: 'postcss',
 	},
 	sourceMap: !production,
-	postcss: true,
+	postcss: postcssConfig,
 	...svelteImage(),
 });
 
 module.exports = {
 	kit: {
 		adapter: { adapt: adapter(options) },
-		vite: () => ({ plugins: [windiCSS] }),
+		vite: {
+			ssr: {
+				noExternal: Object.keys(pkg.dependencies || {}),
+			},
+			plugins: [require('vite-plugin-windicss').default()],
+		},
 	},
 	preprocess: [preprocess],
 };

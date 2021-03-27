@@ -1,6 +1,7 @@
 [build]
-  publish = "__sapper__/export"
-  command = "npm run export"
+  command = "npm run build"
+  publish = "build/"
+  functions = "functions/"
 
 [[redirects]]
   from = "https://sekaicouk-forget-me-not.netlify.app/"

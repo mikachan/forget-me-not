@@ -1,12 +1,13 @@
 <script>
-	export let error;
 	export let status;
+	export let error;
 </script>
 
 <h1>{status}</h1>
 
 <p>{error.message}</p>
 
-{#if process.env.NODE_ENV === 'development'}
+<!-- TODO figure out what to do with stacktraces in prod -->
+{#if error.stack}
 	<pre>{error.stack}</pre>
 {/if}

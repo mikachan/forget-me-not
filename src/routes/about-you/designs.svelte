@@ -1,5 +1,5 @@
 <script lang="ts">
-	import Link from '../../components/Link.svelte';
+	import Link from '$lib/components/Link.svelte';
 	import Image from 'svelte-image';
 
 	import bracelet from '$lib/images/designs/bracelet.jpg';

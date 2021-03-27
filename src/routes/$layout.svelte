@@ -2,11 +2,11 @@
 	import GoogleAnalytics from 'sapper-google-analytics/GoogleAnalytics.svelte';
 	import { stores } from '$app/stores';
 	import { onMount } from 'svelte';
-	import Nav from '../components/Nav.svelte';
-	import NavMobile from '../components/NavMobile.svelte';
-	import Link from '../components/Link.svelte';
+	import Nav from '$lib/components/Nav.svelte';
+	import NavMobile from '$lib/components/NavMobile.svelte';
+	import Link from '$lib/components/Link.svelte';
 	import Image from 'svelte-image';
-	// import 'virtual:windi.css';
+	import 'virtual:windi.css';
 
 	import bg from '$lib/images/bg02.jpg';
 	import you01 from '$lib/images/image-rotation/you01.jpg';
@@ -71,6 +71,55 @@
 	@media (min-width: 1024px) {
 		.image-rotation figure {
 			height: 500px;
+		}
+	}
+
+	@layer base {
+		body {
+			@apply bg-gray-100;
+		}
+
+		h1 {
+			@apply text-2xl;
+		}
+
+		h2 {
+			@apply text-xl;
+		}
+
+		h3 {
+			@apply text-lg;
+		}
+
+		h1,
+		h2,
+		h3,
+		h4 {
+			@apply font-semibold mb-2;
+		}
+
+		a {
+			@apply underline text-green-900;
+		}
+
+		a:hover {
+			@apply no-underline;
+		}
+
+		p,
+		ul,
+		ol {
+			@apply mb-4;
+		}
+
+		ul,
+		ol {
+			@apply ml-6;
+		}
+
+		ul li {
+			list-style-type: disc;
+			list-style-position: outside;
 		}
 	}
 </style>

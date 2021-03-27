@@ -1,6 +1,6 @@
 <script lang="ts">
 	import Image from 'svelte-image';
-	import Link from '../../components/Link.svelte';
+	import Link from '$lib/components/Link.svelte';
 
 	import cainsFeel from '$lib/images/cains-feel/cainsfeel03.jpeg';
 	import maracas from '$lib/images/you/1996-mm.jpeg';

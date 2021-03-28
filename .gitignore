@@ -4,3 +4,4 @@ functions
 .vscode/
 .DS_Store
 static/index.css
+.svelte

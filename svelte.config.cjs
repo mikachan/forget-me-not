@@ -16,11 +16,13 @@ const preprocess = sveltePreprocess({
 		style: 'postcss',
 	},
 	sourceMap: !production,
-	postcss: postcssConfig,
+	// postcss: postcssConfig,
+	postcss: true,
 	...svelteImage(),
 });
 
 module.exports = {
+	preprocess: [preprocess],
 	kit: {
 		adapter: { adapt: adapter(options) },
 		vite: {
@@ -30,5 +32,4 @@ module.exports = {
 			plugins: [require('vite-plugin-windicss').default()],
 		},
 	},
-	preprocess: [preprocess],
 };

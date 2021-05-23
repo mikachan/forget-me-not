@@ -16,7 +16,7 @@ const preprocess = sveltePreprocess({
 		style: 'postcss',
 	},
 	sourceMap: !production,
-	// postcss: postcssConfig,
+	postcss: postcssConfig,
 	postcss: true,
 	...svelteImage(),
 });

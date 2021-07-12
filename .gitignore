@@ -1,7 +1,4 @@
-/node_modules
-build
-functions
-.vscode/
 .DS_Store
-static/index.css
-.svelte
+node_modules
+/.svelte-kit
+/package

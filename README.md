@@ -1,30 +1,38 @@
-# Forget-me-not
+# create-svelte
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/bdea2dbb-2c2d-4387-a701-1f9c703e5cb6/deploy-status)](https://app.netlify.com/sites/sekaicouk-forget-me-not/deploys) [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
 
-## 🎸 About
+## Creating a project
 
-This is a fansite for Japanese musician, YOU, best known for playing guitar and violin for Gackt and S.Q.F. 
+If you're seeing this, you've probably already done this step. Congrats!
 
-**Live site:** [you.sekai.co.uk](https://you.sekai.co.uk/) or [sekai.co.uk/you](https://sekai.co.uk/you)
+```bash
+# create a new project in the current directory
+npm init svelte@next
 
-## 🤖 History
-
-The site was first opened on 23rd March 2004, built with basic HTML and CSS in trusty Notepad. Around 2009 it was rebuilt as a Wordpress site where it lived for another 5-6 years. I then unfortunately completely abdandoned the site until 2020, when it was rebuilt again using SvelteKit and Tailwind CSS.
-
-This was one of my first popular sites, helped along by being built when fansites were a thing. Fansites are [now dead](https://flavorwire.com/453757/is-the-fan-site-dead-2) but I was really proud of building and maintaining this site, and I'm pleased to have a working version live again after all this time. Still a massive fan of You! ❤️
-
-## 💻 Development
-To run the site in development mode with a local dev server, run the following command:
-
-``` shell
-npm start
+# create a new project in my-app
+npm init svelte@next my-app
 ```
 
-The site will be available on http://localhost:3000/.
+> Note: the `@next` is temporary
 
-To commit, use:
+## Developing
 
-``` shell
-npm run cz
+Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+
+```bash
+npm run dev
+
+# or start the server and open the app in a new browser tab
+npm run dev -- --open
 ```
+
+## Building
+
+Before creating a production version of your app, install an [adapter](https://kit.svelte.dev/docs#adapters) for your target environment. Then:
+
+```bash
+npm run build
+```
+
+> You can preview the built app with `npm run preview`, regardless of whether you installed an adapter. This should _not_ be used to serve your app in production.

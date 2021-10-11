@@ -1,5 +1,6 @@
 <script lang="ts">
 	import Header from '$lib/header/Header.svelte';
+	import '../styles/tailwind-output.css';
 	import '../app.css';
 </script>
 
@@ -10,7 +11,7 @@
 </main>
 
 <footer>
-	<p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
+	<p class="uppercase">visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
 </footer>
 
 <style>

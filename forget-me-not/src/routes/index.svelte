@@ -1,59 +1,16 @@
-<script context="module" lang="ts">
-	export const prerender = true;
-</script>
-
 <script lang="ts">
-	import Counter from '$lib/Counter.svelte';
+	import Link from '$lib/Link.svelte';
 </script>
 
 <svelte:head>
-	<title>Home</title>
+	<title>Forget-me-not | You fansite</title>
 </svelte:head>
 
-<section>
-	<h1>
-		<div class="welcome">
-			<picture>
-				<source srcset="svelte-welcome.webp" type="image/webp" />
-				<img src="svelte-welcome.png" alt="Welcome" />
-			</picture>
-		</div>
+<p>Welcome to <strong>Forget-me-not</strong>, an <a href="site/history">English fansite</a> dedicated to the Japanese musician, <strong>You</strong>, best known for playing guitar and violin for <Link href="https://gackt.com/">Gackt</Link> and <Link href="http://www.sqf.jp/">S.Q.F</Link>.</p>
 
-		to your new<br />SvelteKit app
-	</h1>
+<h2>Latest Site Updates <a href="site/updates" class="text-sm">read more&nbsp;&rarr;</a></h2>
 
-	<h2>
-		try editing <strong>src/routes/index.svelte</strong>
-	</h2>
-
-	<Counter />
-</section>
-
-<style>
-	section {
-		display: flex;
-		flex-direction: column;
-		justify-content: center;
-		align-items: center;
-		flex: 1;
-	}
-
-	h1 {
-		width: 100%;
-	}
-
-	.welcome {
-		position: relative;
-		width: 100%;
-		height: 0;
-		padding: 0 0 calc(100% * 495 / 2048) 0;
-	}
-
-	.welcome img {
-		position: absolute;
-		width: 100%;
-		height: 100%;
-		top: 0;
-		display: block;
-	}
-</style>
+<p>
+	<strong>18.05.21</strong><br>
+	Luscious have announced they're going to be doing another live performance on June 17th! It'll be at Club Phase Takadanobaba in Tokyo, and will be streamed on <Link href="https://twitcasting.tv/chachamaru_yfcz">TwitCasting</Link> again. For full details, see <Link href="https://twitter.com/CHACHAMARU_YFCz/status/1394626299394625538">Chacha's Twitter</Link>.
+</p>

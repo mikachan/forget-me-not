@@ -1,6 +1,6 @@
 <script lang="ts">
     import { onMount } from 'svelte';
-	import NavContent from '../components/NavContent.svelte';
+	import NavContent from '$lib/NavContent.svelte';
 
 	export let segment: string;
 

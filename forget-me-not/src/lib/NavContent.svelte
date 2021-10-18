@@ -2,7 +2,7 @@
 	export let segment: string;
 </script>
 
-<style>
+<style lang="postcss">
 	a {
 		@apply block py-1 md:py-2 pl-1 align-middle text-gray-800 no-underline hover:text-green-500 border-b-2 border-gray-800 md:border-gray-900 hover:border-green-500;
 	}

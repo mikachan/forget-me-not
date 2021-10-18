@@ -1,5 +1,5 @@
 <script lang="ts">
-	import NavContent from '../components/NavContent.svelte';
+	import NavContent from '$lib/NavContent.svelte';
 
 	function openNav() {
         document.getElementById("navMobile").style.width = "100%";

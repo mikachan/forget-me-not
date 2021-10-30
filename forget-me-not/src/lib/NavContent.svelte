@@ -32,22 +32,22 @@
 			</a>
 		</li>
 		<li>
-			<a aria-current="{segment === 'about-you' ? 'page' : undefined}" class="{segment === 'about-you' ? 'active' : undefined}" href="about-you">
+			<a aria-current="{segment === 'about-you' ? 'page' : undefined}" class="{segment === 'about-you' ? 'active' : undefined}" href="/about-you">
 				<span>About YOU</span>
 			</a>
 		</li>
 		<li>
-			<a aria-current="{segment === 'music-career' ? 'page' : undefined}" class="{segment === 'music-career' ? 'active' : undefined}" href="music-career">
+			<a aria-current="{segment === 'music-career' ? 'page' : undefined}" class="{segment === 'music-career' ? 'active' : undefined}" href="/music-career">
 				<span>Music Career</span>
 			</a>
 		</li>
 		<li>
-			<a aria-current="{segment === 'discography' ? 'page' : undefined}" class="{segment === 'discography' ? 'active' : undefined}" href="discography">
+			<a aria-current="{segment === 'discography' ? 'page' : undefined}" class="{segment === 'discography' ? 'active' : undefined}" href="/discography">
 				<span>Discography</span>
 			</a>
 		</li>
 		<li>
-			<a aria-current="{segment === 'where-to-buy' ? 'page' : undefined}" class="{segment === 'where-to-buy' ? 'active' : undefined}" href="where-to-buy">
+			<a aria-current="{segment === 'where-to-buy' ? 'page' : undefined}" class="{segment === 'where-to-buy' ? 'active' : undefined}" href="/where-to-buy">
 				<span>Where to Buy</span>
 			</a>
 		</li>

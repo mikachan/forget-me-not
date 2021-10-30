@@ -16,7 +16,7 @@
 	}
 
 	ul {
-		@apply ml-0;
+		@apply ml-0 mb-0;
 	}
 
 	ul li {

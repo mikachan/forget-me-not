@@ -61,6 +61,18 @@ p {
 	line-height: 1.5;
 }
 
+p, ul {
+	margin-bottom: 1rem;
+}
+
+ul {
+	margin-left: 2rem;
+}
+
+ul li {
+	list-style-type: circle;
+}
+
 a {
 	color: var(--accent-color);
 	text-decoration: none;
@@ -71,12 +83,16 @@ a:hover {
 }
 
 h1 {
-	font-size: 2rem;
+	font-size: 1.875rem;
 	text-align: center;
 }
 
 h2 {
-	font-size: 1rem;
+	font-size: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
 }
 
 pre {

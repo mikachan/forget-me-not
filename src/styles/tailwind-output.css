@@ -640,6 +640,9 @@ video {
 	margin-top: 0.75rem;
 	margin-bottom: 0.75rem;
 }
+.ml-0 {
+	margin-left: 0px;
+}
 .mt-6 {
 	margin-top: 1.5rem;
 }
@@ -657,9 +660,6 @@ video {
 }
 .mt-2 {
 	margin-top: 0.5rem;
-}
-.ml-0 {
-	margin-left: 0px;
 }
 .block {
 	display: block;
@@ -885,14 +885,6 @@ video {
 .text-sm {
 	font-size: 0.875rem;
 	line-height: 1.25rem;
-}
-.text-2xl {
-	font-size: 1.5rem;
-	line-height: 2rem;
-}
-.text-xl {
-	font-size: 1.25rem;
-	line-height: 1.75rem;
 }
 .font-bold {
 	font-weight: 700;

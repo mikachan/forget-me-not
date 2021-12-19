@@ -1,5 +1,6 @@
 <script lang="ts">
 	import NavContent from '$lib/NavContent.svelte';
+	import { page } from '$app/stores';
 
 	function openNav() {
         document.getElementById("navMobile").style.width = "100%";
@@ -9,7 +10,7 @@
         }
     }
 
-	export let segment: string;
+	export let segment: string = $page.path;
 </script>
 
 <div class="hidden lg:block lg:w-3/5 relative top-20">

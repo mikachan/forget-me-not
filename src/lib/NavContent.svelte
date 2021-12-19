@@ -27,7 +27,7 @@
 <nav>
 	<ul>
 		<li>
-			<a aria-current="{segment === undefined ? 'page' : undefined}" class="{segment === undefined ? 'active' : undefined}" href=".">
+			<a aria-current="{segment === '/' ? 'page' : undefined}" class="{segment === '/' ? 'active' : undefined}" href=".">
 				<span>Home</span>
 			</a>
 		</li>

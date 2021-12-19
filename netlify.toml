@@ -1,0 +1,9 @@
+[build]
+  publish = "build"
+  command = "npm run build"
+
+[[redirects]]
+  from = "https://sekaicouk-forget-me-not.netlify.app/"
+  to = "https://you.sekai.co.uk"
+  status = 301
+  force = true

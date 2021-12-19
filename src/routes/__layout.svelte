@@ -1,6 +1,8 @@
 <script lang="ts">
+	import { dev } from '$app/env';
 	import { page } from '$app/stores';
     import { onMount } from 'svelte';
+	import { GoogleAnalytics } from '@beyonk/svelte-google-analytics'
 	import Nav from '$lib/Nav.svelte';
 	import NavMobile from '$lib/NavMobile.svelte';
 	import Link from '$lib/Link.svelte';
@@ -27,7 +29,6 @@
 	import you15 from '$lib/images/image-rotation/you15.jpg';
 	import you16 from '$lib/images/image-rotation/you16.jpg';
 
-	//let ga_measurment_id: string = "G-WN3BJ9W3N5";
 	let mainImage: string = you01;
 	let mainContent: HTMLElement;
 
@@ -59,6 +60,10 @@
 		}
 	}
 </style>
+
+{#if !dev}
+	<GoogleAnalytics properties={[ 'G-WN3BJ9W3N5' ]} />
+{/if}
 
 <NavMobile {segment} />
 

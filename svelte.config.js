@@ -9,8 +9,10 @@ const config = {
 		vite: {
 			optimizeDeps: {
 				include: ['blurhash'],
+				exclude: ['sharp'],
 			},
 			ssr: {
+				external: ['sharp'],
 				noExternal: ['svelte-image'],
 			},
 		},

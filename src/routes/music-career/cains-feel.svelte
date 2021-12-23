@@ -1,10 +1,10 @@
 <script lang="ts">
-	import Link from '../../components/Link.svelte';
+	import Link from '$lib/Link.svelte';
 	import Image from "svelte-image";
 
-	import tape from 'images/cains-feel/tape.jpg';
-	import tape2 from 'images/cains-feel/tape-brown.jpg';
-	import band from 'images/cains-feel/cainsfeel.jpg';
+	import tape from '$lib/images/cains-feel/tape.jpg';
+	import tape2 from '$lib/images/cains-feel/tape-brown.jpg';
+	import band from '$lib/images/cains-feel/cainsfeel.jpg';
 
 	import { title } from "../../store";
 	export let pageTitle: string = 'CAINS:FEEL';

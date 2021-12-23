@@ -21,7 +21,7 @@
 	<title>{$title}</title>
 </svelte:head>
 
-<style>
+<style lang="postcss">
 	.table-container {
 		@apply relative;
 	}

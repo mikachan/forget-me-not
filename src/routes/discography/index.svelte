@@ -1,7 +1,7 @@
 <script lang="ts">
 	import Image from "svelte-image";
 
-	import moonchild from 'images/you/moonchild.jpg';
+	import moonchild from '$lib/images/you/moonchild.jpg';
 
 	import { title } from "../../store";
 	export let pageTitle: string = 'Discography';

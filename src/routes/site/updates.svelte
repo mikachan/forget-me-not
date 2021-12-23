@@ -1,5 +1,5 @@
 <script lang="ts">
-	import Link from '../../components/Link.svelte';
+	import Link from '$lib/Link.svelte';
 
 	import { title } from "../../store";
 	export let pageTitle: string = 'Site Updates';
@@ -10,7 +10,7 @@
 	<title>{$title}</title>
 </svelte:head>
 
-<style>
+<style lang="postcss">
 	hr {
 		@apply mt-2 mb-4 border-green-400 opacity-25;
 	}

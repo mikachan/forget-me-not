@@ -1,15 +1,15 @@
 <script lang="ts">
-	import Link from '../../components/Link.svelte';
+	import Link from '$lib/Link.svelte';
 	import Image from "svelte-image";
 	
-	import bracelet from 'images/designs/bracelet.jpg';
-	import earring from 'images/designs/earring.jpg';
-	import edhardy1 from 'images/designs/edhardy01.jpg';
-	import edhardy2 from 'images/designs/edhardy03.jpg';
-	import hdarts01 from 'images/designs/hdarts01.jpg';
-	import hdarts02 from 'images/designs/hdarts02.jpg';
-	import hdarts03 from 'images/designs/hdarts03.jpg';
-	import hdarts04 from 'images/designs/hdarts04.jpg';
+	import bracelet from '$lib/images/designs/bracelet.jpg';
+	import earring from '$lib/images/designs/earring.jpg';
+	import edhardy1 from '$lib/images/designs/edhardy01.jpg';
+	import edhardy2 from '$lib/images/designs/edhardy03.jpg';
+	import hdarts01 from '$lib/images/designs/hdarts01.jpg';
+	import hdarts02 from '$lib/images/designs/hdarts02.jpg';
+	import hdarts03 from '$lib/images/designs/hdarts03.jpg';
+	import hdarts04 from '$lib/images/designs/hdarts04.jpg';
 
 	import { title } from "../../store";
 	export let pageTitle: string = 'Designs';

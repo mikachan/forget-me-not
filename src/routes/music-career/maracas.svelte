@@ -1,8 +1,8 @@
 <script lang="ts">
-	import Link from '../../components/Link.svelte';
+	import Link from '$lib/Link.svelte';
 	import Image from "svelte-image";
 
-	import maracas from 'images/you/1996-mm.jpeg';
+	import maracas from '$lib/images/you/1996-mm.jpeg';
 
 	import { title } from "../../store";
 	export let pageTitle: string = 'Maracas';

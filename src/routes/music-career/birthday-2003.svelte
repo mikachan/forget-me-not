@@ -1,8 +1,8 @@
 <script lang="ts">
-	import Link from '../../components/Link.svelte';
+	import Link from '$lib/Link.svelte';
 	import Image from "svelte-image";
 
-	import cake from 'images/you/bdaycake.jpg';
+	import cake from '$lib/images/you/bdaycake.jpg';
 
 	import { title } from "../../store";
 	export let pageTitle: string = 'Birthday 2003';
@@ -113,4 +113,4 @@ And the studio was full of people who sang for him ~ And You was still trembling
 	<Image alt="Birthday cake" class="mb-4" src="{cake}" ratio="75%" />
 </figure>
 
-<p><a href="music-career/gacktjob">&larr; Backt to GacktJob</a></p>
+<p><a href="/music-career/gacktjob">&larr; Backt to GacktJob</a></p>

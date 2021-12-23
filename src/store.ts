@@ -10,7 +10,7 @@ function createTitle() {
 		},
 		clear: () => {
 			set('Forget-me-not: a You fansite');
-		},
+		}
 	};
 }
 

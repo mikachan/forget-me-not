@@ -1,5 +1,5 @@
 <script lang="ts">
-	import Link from '../../components/Link.svelte';
+	import Link from '$lib/Link.svelte';
 
 	import { title } from "../../store";
 	export let pageTitle: string = 'Site History';

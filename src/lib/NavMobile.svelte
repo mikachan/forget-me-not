@@ -2,8 +2,6 @@
     import { onMount } from 'svelte';
 	import NavContent from '$lib/NavContent.svelte';
 
-	export let segment: string;
-
     function closeNav() {
         document.getElementById("navMobile").style.width = "0%";
 
@@ -25,6 +23,6 @@
     </div>
 
     <div class="overlay-content mt-6 px-6">
-		<NavContent {segment} />
+		<NavContent />
 	</div>
 </div>

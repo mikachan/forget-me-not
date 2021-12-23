@@ -1,5 +1,5 @@
 <script lang="ts">
-	export let segment: string;
+	import { page } from '$app/stores';
 </script>
 
 <style lang="postcss">
@@ -27,27 +27,27 @@
 <nav>
 	<ul>
 		<li>
-			<a aria-current="{segment === '/' ? 'page' : undefined}" class="{segment === '/' ? 'active' : undefined}" href=".">
+			<a aria-current="{$page.path === '/' ? 'page' : undefined}" class:active={$page.path == '/'} href=".">
 				<span>Home</span>
 			</a>
 		</li>
 		<li>
-			<a aria-current="{segment === '/about-you' ? 'page' : undefined}" class="{segment === '/about-you' ? 'active' : undefined}" href="/about-you">
+			<a aria-current="{$page.path === '/about-you' ? 'page' : undefined}" class:active={$page.path == '/about-you'} href="/about-you">
 				<span>About YOU</span>
 			</a>
 		</li>
 		<li>
-			<a aria-current="{segment === '/music-career' ? 'page' : undefined}" class="{segment === '/music-career' ? 'active' : undefined}" href="/music-career">
+			<a aria-current="{$page.path === '/music-career' ? 'page' : undefined}" class:active={$page.path == '/music-career'} href="/music-career">
 				<span>Music Career</span>
 			</a>
 		</li>
 		<li>
-			<a aria-current="{segment === '/discography' ? 'page' : undefined}" class="{segment === '/discography' ? 'active' : undefined}" href="/discography">
+			<a aria-current="{$page.path === '/discography' ? 'page' : undefined}" class:active={$page.path == '/discography'} href="/discography">
 				<span>Discography</span>
 			</a>
 		</li>
 		<li>
-			<a aria-current="{segment === '/where-to-buy' ? 'page' : undefined}" class="{segment === '/where-to-buy' ? 'active' : undefined}" href="/where-to-buy">
+			<a aria-current="{$page.path === '/where-to-buy' ? 'page' : undefined}" class:active={$page.path == '/where-to-buy'} href="/where-to-buy">
 				<span>Where to Buy</span>
 			</a>
 		</li>

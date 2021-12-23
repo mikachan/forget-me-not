@@ -43,6 +43,8 @@
 {#if disabled}
 	<span
 		{...$$restProps}
+		role="link"
+		aria-disabled="true"
 		on:click
 		on:mouseover
 		on:mouseenter

@@ -27,27 +27,27 @@
 <nav>
 	<ul>
 		<li>
-			<a aria-current="{$page.path === '/' ? 'page' : undefined}" class:active={$page.path == '/'} href=".">
+			<a aria-current="{$page.url.pathname === '/' ? 'page' : undefined}" class:active={$page.url.pathname == '/'} href=".">
 				<span>Home</span>
 			</a>
 		</li>
 		<li>
-			<a aria-current="{$page.path === '/about-you' ? 'page' : undefined}" class:active={$page.path == '/about-you'} href="/about-you">
+			<a aria-current="{$page.url.pathname === '/about-you' ? 'page' : undefined}" class:active={$page.url.pathname == '/about-you'} href="/about-you">
 				<span>About YOU</span>
 			</a>
 		</li>
 		<li>
-			<a aria-current="{$page.path === '/music-career' ? 'page' : undefined}" class:active={$page.path == '/music-career'} href="/music-career">
+			<a aria-current="{$page.url.pathname === '/music-career' ? 'page' : undefined}" class:active={$page.url.pathname == '/music-career'} href="/music-career">
 				<span>Music Career</span>
 			</a>
 		</li>
 		<li>
-			<a aria-current="{$page.path === '/discography' ? 'page' : undefined}" class:active={$page.path == '/discography'} href="/discography">
+			<a aria-current="{$page.url.pathname === '/discography' ? 'page' : undefined}" class:active={$page.url.pathname == '/discography'} href="/discography">
 				<span>Discography</span>
 			</a>
 		</li>
 		<li>
-			<a aria-current="{$page.path === '/where-to-buy' ? 'page' : undefined}" class:active={$page.path == '/where-to-buy'} href="/where-to-buy">
+			<a aria-current="{$page.url.pathname === '/where-to-buy' ? 'page' : undefined}" class:active={$page.url.pathname == '/where-to-buy'} href="/where-to-buy">
 				<span>Where to Buy</span>
 			</a>
 		</li>

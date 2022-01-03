@@ -10124,7 +10124,7 @@ var NavContent = create_ssr_component(
 var Nav = create_ssr_component(($$result, $$props, $$bindings, slots) => {
 	let $page, $$unsubscribe_page;
 	$$unsubscribe_page = subscribe(page, (value) => ($page = value));
-	let { segment = $page.path } = $$props;
+	let { segment = $page.url.pathname } = $$props;
 	if ($$props.segment === void 0 && $$bindings.segment && segment !== void 0)
 		$$bindings.segment(segment);
 	$$unsubscribe_page();

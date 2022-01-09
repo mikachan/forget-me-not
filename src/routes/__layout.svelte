@@ -45,12 +45,10 @@
 		mainContent = document.querySelector('.main-content');
 	});
 
-	page.subscribe(({ path, params, query }) => {
+	page.subscribe(({ url, params, status }) => {
 		mainImage = randomYouImage();
 		if (mainContent) mainContent.scrollTop = 0;
 	});
-
-	export let segment: string;
 </script>
 
 <style>	
@@ -65,12 +63,12 @@
 	<GoogleAnalytics properties={[ 'G-WN3BJ9W3N5' ]} />
 {/if}
 
-<NavMobile {segment} />
+<NavMobile />
 
 <div class="font-sans antialiased text-gray-900 leading-normal tracking-wider bg-cover" style="background-image:url({bg});">
 	<div class="max-w-4xl flex items-center h-auto lg:h-screen flex-wrap mx-auto py-32 px-6 lg:px-0 lg:my-0">
 
-		<Nav {segment} />
+		<Nav />
 
 		<div class="main-content w-full lg:w-3/5 rounded-lg lg:rounded-l-lg lg:rounded-r-none shadow-2xl bg-white opacity-75 lg:mx-0 lg:h-4/6 lg:overflow-y-scroll">
 			<div class="p-4 md:p-6">

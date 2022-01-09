@@ -35,7 +35,7 @@
     "concurrently": "^7.0.0",
     "eslint": "^7.32.0",
     "eslint-config-prettier": "^8.3.0",
-    "eslint-plugin-svelte3": "^3.2.1",
+    "eslint-plugin-svelte3": "^3.3.0",
     "jest": "^27.4.7",
     "postcss-cli": "^9.1.0",
     "postcss-load-config": "^3.1.1",

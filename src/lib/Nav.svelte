@@ -10,7 +10,7 @@
     }
 </script>
 
-<div class="hidden lg:block lg:w-3/5 relative top-20">
+<div class="hidden lg:block lg:w-3/5 relative top-16">
 	<NavContent />
 </div>
 

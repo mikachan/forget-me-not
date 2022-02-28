@@ -66,7 +66,7 @@
 <NavMobile />
 
 <div class="font-sans antialiased text-gray-900 leading-normal tracking-wider bg-cover" style="background-image:url({bg});">
-	<div class="max-w-4xl flex items-center h-auto lg:h-screen flex-wrap mx-auto py-32 px-6 lg:px-0 lg:my-0">
+	<div class="max-w-4xl flex items-center h-auto lg:h-screen flex-wrap mx-auto py-24 px-6 lg:px-0 lg:my-0">
 
 		<Nav />
 

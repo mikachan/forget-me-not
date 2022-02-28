@@ -453,6 +453,9 @@ Ensure the default browser behavior of the `hidden` attribute.
 .right-0 {
   right: 0px;
 }
+.top-16 {
+  top: 4rem;
+}
 .z-40 {
   z-index: 40;
 }
@@ -670,6 +673,10 @@ Ensure the default browser behavior of the `hidden` attribute.
 .px-4 {
   padding-left: 1rem;
   padding-right: 1rem;
+}
+.py-24 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
 }
 .pl-1 {
   padding-left: 0.25rem;

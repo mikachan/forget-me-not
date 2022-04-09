@@ -28,6 +28,6 @@ __export(exports, {
   module: () => module2
 });
 var module2 = __toModule(require("../entries/pages/music-career/maracas.svelte.js"));
-const entry = "pages/music-career/maracas.svelte-ed382e5b.js";
-const js = ["pages/music-career/maracas.svelte-ed382e5b.js", "chunks/vendor-7f64b496.js", "chunks/Link-24953a84.js", "chunks/1996-mm-a4a68d6c.js", "chunks/store-fc47e88b.js"];
+const entry = "pages/music-career/maracas.svelte-2308ad80.js";
+const js = ["pages/music-career/maracas.svelte-2308ad80.js", "chunks/vendor-5060e924.js", "chunks/Link-9bb3160f.js", "chunks/1996-mm-a4a68d6c.js", "chunks/store-0576a730.js"];
 const css = ["assets/vendor-53181f56.css"];

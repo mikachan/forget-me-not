@@ -24,20 +24,20 @@ var __toModule = (module2) => {
 __export(exports, {
   default: () => Sqf
 });
-var import_index_430bc4f2 = __toModule(require("../../../chunks/index-430bc4f2.js"));
-var import_store_b286f9a0 = __toModule(require("../../../chunks/store-b286f9a0.js"));
-var import_index_365aa037 = __toModule(require("../../../chunks/index-365aa037.js"));
-const Sqf = (0, import_index_430bc4f2.c)(($$result, $$props, $$bindings, slots) => {
+var import_index_9861661c = __toModule(require("../../../chunks/index-9861661c.js"));
+var import_store_76ccc05c = __toModule(require("../../../chunks/store-76ccc05c.js"));
+var import_index_041375b7 = __toModule(require("../../../chunks/index-041375b7.js"));
+const Sqf = (0, import_index_9861661c.c)(($$result, $$props, $$bindings, slots) => {
   let $title, $$unsubscribe_title;
-  $$unsubscribe_title = (0, import_index_430bc4f2.a)(import_store_b286f9a0.t, (value) => $title = value);
+  $$unsubscribe_title = (0, import_index_9861661c.a)(import_store_76ccc05c.t, (value) => $title = value);
   let { pageTitle = "S.Q.F" } = $$props;
-  import_store_b286f9a0.t.set(pageTitle);
+  import_store_76ccc05c.t.set(pageTitle);
   if ($$props.pageTitle === void 0 && $$bindings.pageTitle && pageTitle !== void 0)
     $$bindings.pageTitle(pageTitle);
   $$unsubscribe_title();
-  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_430bc4f2.e)($title)}</title>`, ""}`, ""}
+  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_9861661c.e)($title)}</title>`, ""}`, ""}
 
-<h2>${(0, import_index_430bc4f2.e)(pageTitle)}</h2>
+<h2>${(0, import_index_9861661c.e)(pageTitle)}</h2>
 
 <p>Coming soon.</p>
 

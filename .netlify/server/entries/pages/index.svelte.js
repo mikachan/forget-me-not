@@ -24,20 +24,36 @@ var __toModule = (module2) => {
 __export(exports, {
   default: () => Routes
 });
-var import_index_430bc4f2 = __toModule(require("../../chunks/index-430bc4f2.js"));
-var import_Link_0d4e9abf = __toModule(require("../../chunks/Link-0d4e9abf.js"));
-const Routes = (0, import_index_430bc4f2.c)(($$result, $$props, $$bindings, slots) => {
+var import_index_9861661c = __toModule(require("../../chunks/index-9861661c.js"));
+var import_Link_d40f893b = __toModule(require("../../chunks/Link-d40f893b.js"));
+const Routes = (0, import_index_9861661c.c)(($$result, $$props, $$bindings, slots) => {
   return `${$$result.head += `${$$result.title = `<title>Forget-me-not | You fansite</title>`, ""}`, ""}
 
-<p>Welcome to <strong>Forget-me-not</strong>, an <a href="${"site/history"}">English fansite</a> dedicated to the Japanese musician, <strong>You</strong>, best known for playing guitar and violin for ${(0, import_index_430bc4f2.v)(import_Link_0d4e9abf.L, "Link").$$render($$result, { href: "https://gackt.com/" }, {}, { default: () => `Gackt` })} and ${(0, import_index_430bc4f2.v)(import_Link_0d4e9abf.L, "Link").$$render($$result, { href: "http://www.sqf.jp/" }, {}, { default: () => `S.Q.F` })}.</p>
+<p>Welcome to <strong>Forget-me-not</strong>, an <a href="${"site/history"}">English fansite</a> dedicated to the Japanese musician, <strong>You</strong>, best known for playing guitar and violin for ${(0, import_index_9861661c.v)(import_Link_d40f893b.L, "Link").$$render($$result, { href: "https://gackt.com/" }, {}, {
+    default: () => {
+      return `Gackt`;
+    }
+  })} and ${(0, import_index_9861661c.v)(import_Link_d40f893b.L, "Link").$$render($$result, { href: "http://www.sqf.jp/" }, {}, {
+    default: () => {
+      return `S.Q.F`;
+    }
+  })}.</p>
 
 <h2>Latest Site Updates <a href="${"site/updates"}" class="${"text-sm"}">read more\xA0\u2192</a></h2>
 
 <p><strong>18.05.21</strong><br>
-	Luscious have announced they&#39;re going to be doing another live performance on June 17th! It&#39;ll be at Club Phase Takadanobaba in Tokyo, and will be streamed on ${(0, import_index_430bc4f2.v)(import_Link_0d4e9abf.L, "Link").$$render($$result, {
+	Luscious have announced they&#39;re going to be doing another live performance on June 17th! It&#39;ll be at Club Phase Takadanobaba in Tokyo, and will be streamed on ${(0, import_index_9861661c.v)(import_Link_d40f893b.L, "Link").$$render($$result, {
     href: "https://twitcasting.tv/chachamaru_yfcz"
-  }, {}, { default: () => `TwitCasting` })} again. For full details, see ${(0, import_index_430bc4f2.v)(import_Link_0d4e9abf.L, "Link").$$render($$result, {
+  }, {}, {
+    default: () => {
+      return `TwitCasting`;
+    }
+  })} again. For full details, see ${(0, import_index_9861661c.v)(import_Link_d40f893b.L, "Link").$$render($$result, {
     href: "https://twitter.com/CHACHAMARU_YFCz/status/1394626299394625538"
-  }, {}, { default: () => `Chacha&#39;s Twitter` })}.
+  }, {}, {
+    default: () => {
+      return `Chacha&#39;s Twitter`;
+    }
+  })}.
 </p>`;
 });

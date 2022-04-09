@@ -24,30 +24,54 @@ var __toModule = (module2) => {
 __export(exports, {
   default: () => Where_to_buy
 });
-var import_index_430bc4f2 = __toModule(require("../../chunks/index-430bc4f2.js"));
-var import_Link_0d4e9abf = __toModule(require("../../chunks/Link-0d4e9abf.js"));
-var import_store_b286f9a0 = __toModule(require("../../chunks/store-b286f9a0.js"));
-var import_index_365aa037 = __toModule(require("../../chunks/index-365aa037.js"));
-const Where_to_buy = (0, import_index_430bc4f2.c)(($$result, $$props, $$bindings, slots) => {
+var import_index_9861661c = __toModule(require("../../chunks/index-9861661c.js"));
+var import_Link_d40f893b = __toModule(require("../../chunks/Link-d40f893b.js"));
+var import_store_76ccc05c = __toModule(require("../../chunks/store-76ccc05c.js"));
+var import_index_041375b7 = __toModule(require("../../chunks/index-041375b7.js"));
+const Where_to_buy = (0, import_index_9861661c.c)(($$result, $$props, $$bindings, slots) => {
   let $title, $$unsubscribe_title;
-  $$unsubscribe_title = (0, import_index_430bc4f2.a)(import_store_b286f9a0.t, (value) => $title = value);
+  $$unsubscribe_title = (0, import_index_9861661c.a)(import_store_76ccc05c.t, (value) => $title = value);
   let { pageTitle = "Where to Buy" } = $$props;
-  import_store_b286f9a0.t.set(pageTitle);
+  import_store_76ccc05c.t.set(pageTitle);
   if ($$props.pageTitle === void 0 && $$bindings.pageTitle && pageTitle !== void 0)
     $$bindings.pageTitle(pageTitle);
   $$unsubscribe_title();
-  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_430bc4f2.e)($title)}</title>`, ""}`, ""}
+  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_9861661c.e)($title)}</title>`, ""}`, ""}
 
-<h2>${(0, import_index_430bc4f2.e)(pageTitle)}</h2>
+<h2>${(0, import_index_9861661c.e)(pageTitle)}</h2>
 
 <p>There are several places you can buy Gackt, S.Q.F etc releases online.</p>
 
-<ul><li>${(0, import_index_430bc4f2.v)(import_Link_0d4e9abf.L, "Link").$$render($$result, { href: "http://www.yesasia.com/" }, {}, { default: () => `YesAsia` })}</li>
-	<li>${(0, import_index_430bc4f2.v)(import_Link_0d4e9abf.L, "Link").$$render($$result, { href: "http://www.cdjapan.co.jp/" }, {}, { default: () => `CD Japan` })}</li>
-	<li>${(0, import_index_430bc4f2.v)(import_Link_0d4e9abf.L, "Link").$$render($$result, { href: "http://www.amazon.co.jp/" }, {}, { default: () => `Amazon Japan` })}</li>
-	<li>${(0, import_index_430bc4f2.v)(import_Link_0d4e9abf.L, "Link").$$render($$result, { href: "http://www.hmv.co.jp/" }, {}, { default: () => `HMV Japan` })}</li>
-	<li>${(0, import_index_430bc4f2.v)(import_Link_0d4e9abf.L, "Link").$$render($$result, { href: "http://buyee.jp/" }, {}, { default: () => `Buyee.jp` })}</li>
-	<li>${(0, import_index_430bc4f2.v)(import_Link_0d4e9abf.L, "Link").$$render($$result, { href: "http://www.jlist.com/" }, {}, { default: () => `JList` })}</li></ul>
+<ul><li>${(0, import_index_9861661c.v)(import_Link_d40f893b.L, "Link").$$render($$result, { href: "http://www.yesasia.com/" }, {}, {
+    default: () => {
+      return `YesAsia`;
+    }
+  })}</li>
+	<li>${(0, import_index_9861661c.v)(import_Link_d40f893b.L, "Link").$$render($$result, { href: "http://www.cdjapan.co.jp/" }, {}, {
+    default: () => {
+      return `CD Japan`;
+    }
+  })}</li>
+	<li>${(0, import_index_9861661c.v)(import_Link_d40f893b.L, "Link").$$render($$result, { href: "http://www.amazon.co.jp/" }, {}, {
+    default: () => {
+      return `Amazon Japan`;
+    }
+  })}</li>
+	<li>${(0, import_index_9861661c.v)(import_Link_d40f893b.L, "Link").$$render($$result, { href: "http://www.hmv.co.jp/" }, {}, {
+    default: () => {
+      return `HMV Japan`;
+    }
+  })}</li>
+	<li>${(0, import_index_9861661c.v)(import_Link_d40f893b.L, "Link").$$render($$result, { href: "http://buyee.jp/" }, {}, {
+    default: () => {
+      return `Buyee.jp`;
+    }
+  })}</li>
+	<li>${(0, import_index_9861661c.v)(import_Link_d40f893b.L, "Link").$$render($$result, { href: "http://www.jlist.com/" }, {}, {
+    default: () => {
+      return `JList`;
+    }
+  })}</li></ul>
 
 <p>Both Gackt and S.Q.F are available on most popular music streaming services.</p>
 

@@ -24,40 +24,50 @@ var __toModule = (module2) => {
 __export(exports, {
   default: () => Life_short_film
 });
-var import_index_430bc4f2 = __toModule(require("../../../chunks/index-430bc4f2.js"));
-var import_Link_0d4e9abf = __toModule(require("../../../chunks/Link-0d4e9abf.js"));
-var import_store_b286f9a0 = __toModule(require("../../../chunks/store-b286f9a0.js"));
-var import_index_365aa037 = __toModule(require("../../../chunks/index-365aa037.js"));
-const Life_short_film = (0, import_index_430bc4f2.c)(($$result, $$props, $$bindings, slots) => {
+var import_index_9861661c = __toModule(require("../../../chunks/index-9861661c.js"));
+var import_Link_d40f893b = __toModule(require("../../../chunks/Link-d40f893b.js"));
+var import_store_76ccc05c = __toModule(require("../../../chunks/store-76ccc05c.js"));
+var import_index_041375b7 = __toModule(require("../../../chunks/index-041375b7.js"));
+const Life_short_film = (0, import_index_9861661c.c)(($$result, $$props, $$bindings, slots) => {
   let $title, $$unsubscribe_title;
-  $$unsubscribe_title = (0, import_index_430bc4f2.a)(import_store_b286f9a0.t, (value) => $title = value);
+  $$unsubscribe_title = (0, import_index_9861661c.a)(import_store_76ccc05c.t, (value) => $title = value);
   let { pageTitle = "Life from Soyokaze" } = $$props;
-  import_store_b286f9a0.t.set(pageTitle);
+  import_store_76ccc05c.t.set(pageTitle);
   if ($$props.pageTitle === void 0 && $$bindings.pageTitle && pageTitle !== void 0)
     $$bindings.pageTitle(pageTitle);
   $$unsubscribe_title();
-  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_430bc4f2.e)($title)}</title>`, ""}`, ""}
+  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_9861661c.e)($title)}</title>`, ""}`, ""}
 
-<h2>${(0, import_index_430bc4f2.e)(pageTitle)}</h2>
+<h2>${(0, import_index_9861661c.e)(pageTitle)}</h2>
 
 <p><em>Life</em> is a short film from Gackt&#39;s <em>Soyokaze</em> VHS, starring Gackt and You. It was released in 2002 and is linked to the MOON story and concept.</p>
 
-<p>Gackt has mentioned in interviews that the concept for the video was inspired by the German film, ${(0, import_index_430bc4f2.v)(import_Link_0d4e9abf.L, "Link").$$render($$result, {
+<p>Gackt has mentioned in interviews that the concept for the video was inspired by the German film, ${(0, import_index_9861661c.v)(import_Link_d40f893b.L, "Link").$$render($$result, {
     href: "https://www.imdb.com/title/tt0093191/"
   }, {}, {
-    default: () => `<em>Wings of Desire</em>`
-  })}, from 1987, which was shot in black and white. This features angels in the mortal world who wear long dark coats, and one angel decides to &#39;fall from grace&#39; after falling in love with a human. There&#39;s an American remake called ${(0, import_index_430bc4f2.v)(import_Link_0d4e9abf.L, "Link").$$render($$result, {
+    default: () => {
+      return `<em>Wings of Desire</em>`;
+    }
+  })}, from 1987, which was shot in black and white. This features angels in the mortal world who wear long dark coats, and one angel decides to &#39;fall from grace&#39; after falling in love with a human. There&#39;s an American remake called ${(0, import_index_9861661c.v)(import_Link_d40f893b.L, "Link").$$render($$result, {
     href: "https://www.imdb.com/title/tt0120632/"
-  }, {}, { default: () => `<em>City of Angels</em>` })}.</p>
+  }, {}, {
+    default: () => {
+      return `<em>City of Angels</em>`;
+    }
+  })}.</p>
 
 <h3>Watch on Youtube</h3>
 <iframe title="${"Life"}" class="${"mb-4"}" src="${"https://www.youtube.com/embed/a1hBJimcnQc"}" frameborder="${"0"}" allow="${"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"}" allowfullscreen></iframe>
 
 <h3>Download</h3>
-<p><em>Soyokaze</em> seems pretty difficult to get hold of these days, so I&#39;ve uploaded <em>Life</em> ${(0, import_index_430bc4f2.v)(import_Link_0d4e9abf.L, "Link").$$render($$result, {
+<p><em>Soyokaze</em> seems pretty difficult to get hold of these days, so I&#39;ve uploaded <em>Life</em> ${(0, import_index_9861661c.v)(import_Link_d40f893b.L, "Link").$$render($$result, {
     href: "downloads/life-soyokaze.mp4",
     download: "life soyokaze video"
-  }, {}, { default: () => `here for download` })} (~60MB).</p>
+  }, {}, {
+    default: () => {
+      return `here for download`;
+    }
+  })} (~60MB).</p>
 
 <h3>Transcript &amp; Translation</h3>
 
@@ -169,9 +179,13 @@ I feel as though his existence is touching me...</p>
 
 <p>Although he is still unaware of mine.</p>
 
-<p>Translation by <strong>muchuu</strong>, originally on myspace and later found ${(0, import_index_430bc4f2.v)(import_Link_0d4e9abf.L, "Link").$$render($$result, {
+<p>Translation by <strong>muchuu</strong>, originally on myspace and later found ${(0, import_index_9861661c.v)(import_Link_d40f893b.L, "Link").$$render($$result, {
     href: "https://dears.livejournal.com/1817818.html"
-  }, {}, { default: () => `on LJ` })} \u2764\uFE0F</p>
+  }, {}, {
+    default: () => {
+      return `on LJ`;
+    }
+  })} \u2764\uFE0F</p>
 
 <p><a href="${"/discography/appearances"}">\u2190 Back to Appearances</a></p>`;
 });

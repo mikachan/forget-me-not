@@ -2,10 +2,10 @@ const { init } = require('../handler.js');
 
 exports.handler = init({
 	appDir: "_app",
-	assets: new Set(["_redirects","favicon.png","robots.txt"]),
+	assets: new Set(["_redirects","downloads/etude.txt","downloads/life-soyokaze.mp4","favicon.png","robots.txt"]),
 	_: {
-		mime: {".png":"image/png",".txt":"text/plain"},
-		entry: {"file":"start-f5bdc4e3.js","js":["start-f5bdc4e3.js","chunks/vendor-7f64b496.js"],"css":["assets/start-c446e5f0.css","assets/vendor-53181f56.css"]},
+		mime: {".txt":"text/plain",".mp4":"video/mp4",".png":"image/png"},
+		entry: {"file":"start-e8b3eb41.js","js":["start-e8b3eb41.js","chunks/vendor-5060e924.js"],"css":["assets/start-c446e5f0.css","assets/vendor-53181f56.css"]},
 		nodes: [
 			() => Promise.resolve().then(() => require('../server/nodes/0.js')),
 			() => Promise.resolve().then(() => require('../server/nodes/1.js')),

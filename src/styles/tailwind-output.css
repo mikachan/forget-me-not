@@ -435,8 +435,8 @@ Ensure the default browser behavior of the `hidden` attribute.
 .relative {
   position: relative;
 }
-.top-20 {
-  top: 5rem;
+.top-16 {
+  top: 4rem;
 }
 .top-4 {
   top: 1rem;
@@ -452,9 +452,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 }
 .right-0 {
   right: 0px;
-}
-.top-16 {
-  top: 4rem;
 }
 .z-40 {
   z-index: 40;
@@ -666,17 +663,13 @@ Ensure the default browser behavior of the `hidden` attribute.
   padding-left: 1.5rem;
   padding-right: 1.5rem;
 }
-.py-32 {
-  padding-top: 8rem;
-  padding-bottom: 8rem;
+.py-24 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
 }
 .px-4 {
   padding-left: 1rem;
   padding-right: 1rem;
-}
-.py-24 {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
 }
 .pl-1 {
   padding-left: 0.25rem;

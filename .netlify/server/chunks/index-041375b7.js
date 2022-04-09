@@ -24,13 +24,13 @@ var __toModule = (module2) => {
 __export(exports, {
   w: () => writable
 });
-var import_index_430bc4f2 = __toModule(require("./index-430bc4f2.js"));
+var import_index_9861661c = __toModule(require("./index-9861661c.js"));
 const subscriber_queue = [];
-function writable(value, start = import_index_430bc4f2.n) {
+function writable(value, start = import_index_9861661c.n) {
   let stop;
   const subscribers = new Set();
   function set(new_value) {
-    if ((0, import_index_430bc4f2.k)(value, new_value)) {
+    if ((0, import_index_9861661c.k)(value, new_value)) {
       value = new_value;
       if (stop) {
         const run_queue = !subscriber_queue.length;
@@ -50,11 +50,11 @@ function writable(value, start = import_index_430bc4f2.n) {
   function update(fn) {
     set(fn(value));
   }
-  function subscribe(run, invalidate = import_index_430bc4f2.n) {
+  function subscribe(run, invalidate = import_index_9861661c.n) {
     const subscriber = [run, invalidate];
     subscribers.add(subscriber);
     if (subscribers.size === 1) {
-      stop = start(set) || import_index_430bc4f2.n;
+      stop = start(set) || import_index_9861661c.n;
     }
     run(value);
     return () => {

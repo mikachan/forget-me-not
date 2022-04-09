@@ -42,7 +42,7 @@ __export(exports, {
   App: () => App,
   override: () => override
 });
-var import_index_430bc4f2 = __toModule(require("./chunks/index-430bc4f2.js"));
+var import_index_9861661c = __toModule(require("./chunks/index-9861661c.js"));
 var import_cookie = __toModule(require("cookie"));
 var import_uuid = __toModule(require("@lukeed/uuid"));
 var __accessCheck = (obj, member, msg) => {
@@ -1385,14 +1385,14 @@ const css = {
   code: "#svelte-announcer.svelte-9z6sc{position:absolute;left:0;top:0;clip:rect(0 0 0 0);-webkit-clip-path:inset(50%);clip-path:inset(50%);overflow:hidden;white-space:nowrap;width:1px;height:1px}",
   map: null
 };
-const Root = (0, import_index_430bc4f2.c)(($$result, $$props, $$bindings, slots) => {
+const Root = (0, import_index_9861661c.c)(($$result, $$props, $$bindings, slots) => {
   let { stores } = $$props;
   let { page } = $$props;
   let { components } = $$props;
   let { props_0 = null } = $$props;
   let { props_1 = null } = $$props;
   let { props_2 = null } = $$props;
-  (0, import_index_430bc4f2.s)("__svelte__", stores);
+  (0, import_index_9861661c.s)("__svelte__", stores);
   afterUpdate(stores.page.notify);
   if ($$props.stores === void 0 && $$bindings.stores && stores !== void 0)
     $$bindings.stores(stores);
@@ -1413,11 +1413,15 @@ const Root = (0, import_index_430bc4f2.c)(($$result, $$props, $$bindings, slots)
   return `
 
 
-${components[1] ? `${(0, import_index_430bc4f2.v)(components[0] || import_index_430bc4f2.m, "svelte:component").$$render($$result, Object.assign(props_0 || {}), {}, {
-    default: () => `${components[2] ? `${(0, import_index_430bc4f2.v)(components[1] || import_index_430bc4f2.m, "svelte:component").$$render($$result, Object.assign(props_1 || {}), {}, {
-      default: () => `${(0, import_index_430bc4f2.v)(components[2] || import_index_430bc4f2.m, "svelte:component").$$render($$result, Object.assign(props_2 || {}), {}, {})}`
-    })}` : `${(0, import_index_430bc4f2.v)(components[1] || import_index_430bc4f2.m, "svelte:component").$$render($$result, Object.assign(props_1 || {}), {}, {})}`}`
-  })}` : `${(0, import_index_430bc4f2.v)(components[0] || import_index_430bc4f2.m, "svelte:component").$$render($$result, Object.assign(props_0 || {}), {}, {})}`}
+${components[1] ? `${(0, import_index_9861661c.v)(components[0] || import_index_9861661c.m, "svelte:component").$$render($$result, Object.assign(props_0 || {}), {}, {
+    default: () => {
+      return `${components[2] ? `${(0, import_index_9861661c.v)(components[1] || import_index_9861661c.m, "svelte:component").$$render($$result, Object.assign(props_1 || {}), {}, {
+        default: () => {
+          return `${(0, import_index_9861661c.v)(components[2] || import_index_9861661c.m, "svelte:component").$$render($$result, Object.assign(props_2 || {}), {}, {})}`;
+        }
+      })}` : `${(0, import_index_9861661c.v)(components[1] || import_index_9861661c.m, "svelte:component").$$render($$result, Object.assign(props_1 || {}), {}, {})}`}`;
+    }
+  })}` : `${(0, import_index_9861661c.v)(components[0] || import_index_9861661c.m, "svelte:component").$$render($$result, Object.assign(props_0 || {}), {}, {})}`}
 
 ${``}`;
 });

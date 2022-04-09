@@ -24,46 +24,62 @@ var __toModule = (module2) => {
 __export(exports, {
   default: () => Updates
 });
-var import_index_430bc4f2 = __toModule(require("../../../chunks/index-430bc4f2.js"));
-var import_Link_0d4e9abf = __toModule(require("../../../chunks/Link-0d4e9abf.js"));
-var import_store_b286f9a0 = __toModule(require("../../../chunks/store-b286f9a0.js"));
-var import_index_365aa037 = __toModule(require("../../../chunks/index-365aa037.js"));
+var import_index_9861661c = __toModule(require("../../../chunks/index-9861661c.js"));
+var import_Link_d40f893b = __toModule(require("../../../chunks/Link-d40f893b.js"));
+var import_store_76ccc05c = __toModule(require("../../../chunks/store-76ccc05c.js"));
+var import_index_041375b7 = __toModule(require("../../../chunks/index-041375b7.js"));
 var updates_svelte_svelte_type_style_lang = "";
 const css = {
   code: "hr.svelte-1thul10{margin-top:0.5rem;margin-bottom:1rem;--tw-border-opacity:1;border-color:rgb(74 222 128 / var(--tw-border-opacity));opacity:0.25\n}",
   map: null
 };
-const Updates = (0, import_index_430bc4f2.c)(($$result, $$props, $$bindings, slots) => {
+const Updates = (0, import_index_9861661c.c)(($$result, $$props, $$bindings, slots) => {
   let $title, $$unsubscribe_title;
-  $$unsubscribe_title = (0, import_index_430bc4f2.a)(import_store_b286f9a0.t, (value) => $title = value);
+  $$unsubscribe_title = (0, import_index_9861661c.a)(import_store_76ccc05c.t, (value) => $title = value);
   let { pageTitle = "Site Updates" } = $$props;
-  import_store_b286f9a0.t.set(pageTitle);
+  import_store_76ccc05c.t.set(pageTitle);
   if ($$props.pageTitle === void 0 && $$bindings.pageTitle && pageTitle !== void 0)
     $$bindings.pageTitle(pageTitle);
   $$result.css.add(css);
   $$unsubscribe_title();
-  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_430bc4f2.e)($title)}</title>`, ""}`, ""}
+  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_9861661c.e)($title)}</title>`, ""}`, ""}
 
 
 
-<h2>${(0, import_index_430bc4f2.e)(pageTitle)}</h2>
+<h2>${(0, import_index_9861661c.e)(pageTitle)}</h2>
 
 <p><strong>18.05.21</strong><br>
-	Luscious have announced they&#39;re going to be doing another live performance on June 17th! It&#39;ll be at Club Phase Takadanobaba in Tokyo, and will be streamed on ${(0, import_index_430bc4f2.v)(import_Link_0d4e9abf.L, "Link").$$render($$result, {
+	Luscious have announced they&#39;re going to be doing another live performance on June 17th! It&#39;ll be at Club Phase Takadanobaba in Tokyo, and will be streamed on ${(0, import_index_9861661c.v)(import_Link_d40f893b.L, "Link").$$render($$result, {
     href: "https://twitcasting.tv/chachamaru_yfcz"
-  }, {}, { default: () => `TwitCasting` })} again. For full details, see ${(0, import_index_430bc4f2.v)(import_Link_0d4e9abf.L, "Link").$$render($$result, {
+  }, {}, {
+    default: () => {
+      return `TwitCasting`;
+    }
+  })} again. For full details, see ${(0, import_index_9861661c.v)(import_Link_d40f893b.L, "Link").$$render($$result, {
     href: "https://twitter.com/CHACHAMARU_YFCz/status/1394626299394625538"
-  }, {}, { default: () => `Chacha&#39;s Twitter` })}.
+  }, {}, {
+    default: () => {
+      return `Chacha&#39;s Twitter`;
+    }
+  })}.
 </p>
 
 <hr class="${"border-b-1 svelte-1thul10"}">
 
 <p><strong>16.02.21</strong><br>
-	Ded Chaplin and Luscious are streaming two live performances on 17th and 18th February, from The Doors in Hatsudai. You can purchase tickets to watch the performances live through ${(0, import_index_430bc4f2.v)(import_Link_0d4e9abf.L, "Link").$$render($$result, {
+	Ded Chaplin and Luscious are streaming two live performances on 17th and 18th February, from The Doors in Hatsudai. You can purchase tickets to watch the performances live through ${(0, import_index_9861661c.v)(import_Link_d40f893b.L, "Link").$$render($$result, {
     href: "https://twitcasting.tv/chachamaru_yfcz"
-  }, {}, { default: () => `TwitCasting` })}, which also gives you access to watch the stream recording up to 2 weeks from the original broadcast. See ${(0, import_index_430bc4f2.v)(import_Link_0d4e9abf.L, "Link").$$render($$result, {
+  }, {}, {
+    default: () => {
+      return `TwitCasting`;
+    }
+  })}, which also gives you access to watch the stream recording up to 2 weeks from the original broadcast. See ${(0, import_index_9861661c.v)(import_Link_d40f893b.L, "Link").$$render($$result, {
     href: "https://twitter.com/CHACHAMARU_YFCz/status/1359381600425758722"
-  }, {}, { default: () => `Chacha&#39;s Twitter` })} for more info. Looking forward to it!
+  }, {}, {
+    default: () => {
+      return `Chacha&#39;s Twitter`;
+    }
+  })} for more info. Looking forward to it!
 </p>
 
 <hr class="${"border-b-1 svelte-1thul10"}">

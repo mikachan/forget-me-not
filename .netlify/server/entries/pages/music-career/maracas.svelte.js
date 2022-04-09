@@ -24,32 +24,36 @@ var __toModule = (module2) => {
 __export(exports, {
   default: () => Maracas
 });
-var import_index_430bc4f2 = __toModule(require("../../../chunks/index-430bc4f2.js"));
-var import_Link_0d4e9abf = __toModule(require("../../../chunks/Link-0d4e9abf.js"));
-var import_Image_097dc189 = __toModule(require("../../../chunks/Image-097dc189.js"));
+var import_index_9861661c = __toModule(require("../../../chunks/index-9861661c.js"));
+var import_Link_d40f893b = __toModule(require("../../../chunks/Link-d40f893b.js"));
+var import_Image_4b6807c1 = __toModule(require("../../../chunks/Image-4b6807c1.js"));
 var import_mm_a4a68d6c = __toModule(require("../../../chunks/1996-mm-a4a68d6c.js"));
-var import_store_b286f9a0 = __toModule(require("../../../chunks/store-b286f9a0.js"));
+var import_store_76ccc05c = __toModule(require("../../../chunks/store-76ccc05c.js"));
 var import_blurhash = __toModule(require("blurhash"));
-var import_index_365aa037 = __toModule(require("../../../chunks/index-365aa037.js"));
-const Maracas = (0, import_index_430bc4f2.c)(($$result, $$props, $$bindings, slots) => {
+var import_index_041375b7 = __toModule(require("../../../chunks/index-041375b7.js"));
+const Maracas = (0, import_index_9861661c.c)(($$result, $$props, $$bindings, slots) => {
   let $title, $$unsubscribe_title;
-  $$unsubscribe_title = (0, import_index_430bc4f2.a)(import_store_b286f9a0.t, (value) => $title = value);
+  $$unsubscribe_title = (0, import_index_9861661c.a)(import_store_76ccc05c.t, (value) => $title = value);
   let { pageTitle = "Maracas" } = $$props;
-  import_store_b286f9a0.t.set(pageTitle);
+  import_store_76ccc05c.t.set(pageTitle);
   if ($$props.pageTitle === void 0 && $$bindings.pageTitle && pageTitle !== void 0)
     $$bindings.pageTitle(pageTitle);
   $$unsubscribe_title();
-  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_430bc4f2.e)($title)}</title>`, ""}`, ""}
+  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_9861661c.e)($title)}</title>`, ""}`, ""}
 
-<h2>${(0, import_index_430bc4f2.e)(pageTitle)}</h2>
+<h2>${(0, import_index_9861661c.e)(pageTitle)}</h2>
 
 <p>In 1996, Malice Mizer organised a series of events to celebrate their 4th anniversary, called <em>\u559C\u5287\u306E\u6669\u9910~VISUAL ART COLLECTION VOL.1~</em>, made up of performances by cover bands each band member had put together. The first event was held on 8th November 1996 at Shibuya <em>ON AIR WEST</em>, a small venue that holds about 600 people. It was reviewed in <em>Fool&#39;s Mate 02.1997</em>, which is where the photo is from.</p>
 
-<p>Gackt described the cover band he put together in the Malice Mizer fanclub magazine <em>Ma ch\xE9rie</em> (vol. 2&amp;3). He first called ${(0, import_index_430bc4f2.v)(import_Link_0d4e9abf.L, "Link").$$render($$result, {
+<p>Gackt described the cover band he put together in the Malice Mizer fanclub magazine <em>Ma ch\xE9rie</em> (vol. 2&amp;3). He first called ${(0, import_index_9861661c.v)(import_Link_d40f893b.L, "Link").$$render($$result, {
     href: "https://en.wikipedia.org/wiki/Maschera_(band)"
-  }, {}, { default: () => `Maschera` })}, another visual kei band that were active at the time, who were excited to perform with him. He then called You and invited him to perform as well, &quot;We spent 2-3 hours on the phone discussing details, chose the songs to perform and arranged a meeting.&quot;</p>
+  }, {}, {
+    default: () => {
+      return `Maschera`;
+    }
+  })}, another visual kei band that were active at the time, who were excited to perform with him. He then called You and invited him to perform as well, &quot;We spent 2-3 hours on the phone discussing details, chose the songs to perform and arranged a meeting.&quot;</p>
 
-<figure>${(0, import_index_430bc4f2.v)(import_Image_097dc189.I, "Image").$$render($$result, {
+<figure>${(0, import_index_9861661c.v)(import_Image_4b6807c1.I, "Image").$$render($$result, {
     alt: "You in Malice Mizer cover band 1996",
     class: "pb-4 mx-auto",
     src: import_mm_a4a68d6c.m
@@ -57,9 +61,13 @@ const Maracas = (0, import_index_430bc4f2.c)(($$result, $$props, $$bindings, slo
 
 <p>The final line-up included Gackt, You, all of Maschera (Michi on vocals, Takuya on guitar, Hiro on bass, Tomo on drums) and Makoto (another old friend of Gackt&#39;s).</p>
 
-<p>Massive thank you to ${(0, import_index_430bc4f2.v)(import_Link_0d4e9abf.L, "Link").$$render($$result, {
+<p>Massive thank you to ${(0, import_index_9861661c.v)(import_Link_d40f893b.L, "Link").$$render($$result, {
     href: "https://ryuik.livejournal.com/224213.html"
-  }, {}, { default: () => `Ryuik` })} for the information and photo.</p>
+  }, {}, {
+    default: () => {
+      return `Ryuik`;
+    }
+  })} for the information and photo.</p>
 
 <p><a href="${"/music-career"}">\u2190 Backt to Music Career</a></p>`;
 });

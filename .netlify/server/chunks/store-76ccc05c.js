@@ -24,9 +24,9 @@ var __toModule = (module2) => {
 __export(exports, {
   t: () => title
 });
-var import_index_365aa037 = __toModule(require("./index-365aa037.js"));
+var import_index_041375b7 = __toModule(require("./index-041375b7.js"));
 function createTitle() {
-  const { subscribe, set, update } = (0, import_index_365aa037.w)("");
+  const { subscribe, set, update } = (0, import_index_041375b7.w)("");
   return {
     subscribe,
     set: (value) => {

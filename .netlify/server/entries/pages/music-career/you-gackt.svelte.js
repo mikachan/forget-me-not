@@ -24,24 +24,24 @@ var __toModule = (module2) => {
 __export(exports, {
   default: () => You_gackt
 });
-var import_index_430bc4f2 = __toModule(require("../../../chunks/index-430bc4f2.js"));
-var import_Link_0d4e9abf = __toModule(require("../../../chunks/Link-0d4e9abf.js"));
-var import_Image_097dc189 = __toModule(require("../../../chunks/Image-097dc189.js"));
-var import_store_b286f9a0 = __toModule(require("../../../chunks/store-b286f9a0.js"));
+var import_index_9861661c = __toModule(require("../../../chunks/index-9861661c.js"));
+var import_Link_d40f893b = __toModule(require("../../../chunks/Link-d40f893b.js"));
+var import_Image_4b6807c1 = __toModule(require("../../../chunks/Image-4b6807c1.js"));
+var import_store_76ccc05c = __toModule(require("../../../chunks/store-76ccc05c.js"));
 var import_blurhash = __toModule(require("blurhash"));
-var import_index_365aa037 = __toModule(require("../../../chunks/index-365aa037.js"));
+var import_index_041375b7 = __toModule(require("../../../chunks/index-041375b7.js"));
 var hana = "/_app/assets/hana-776a226e.png";
-const You_gackt = (0, import_index_430bc4f2.c)(($$result, $$props, $$bindings, slots) => {
+const You_gackt = (0, import_index_9861661c.c)(($$result, $$props, $$bindings, slots) => {
   let $title, $$unsubscribe_title;
-  $$unsubscribe_title = (0, import_index_430bc4f2.a)(import_store_b286f9a0.t, (value) => $title = value);
+  $$unsubscribe_title = (0, import_index_9861661c.a)(import_store_76ccc05c.t, (value) => $title = value);
   let { pageTitle = "You & Gackt" } = $$props;
-  import_store_b286f9a0.t.set(pageTitle);
+  import_store_76ccc05c.t.set(pageTitle);
   if ($$props.pageTitle === void 0 && $$bindings.pageTitle && pageTitle !== void 0)
     $$bindings.pageTitle(pageTitle);
   $$unsubscribe_title();
-  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_430bc4f2.e)($title)}</title>`, ""}`, ""}
+  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_9861661c.e)($title)}</title>`, ""}`, ""}
 
-<h2>${(0, import_index_430bc4f2.e)(pageTitle)}</h2>
+<h2>${(0, import_index_9861661c.e)(pageTitle)}</h2>
 
 <h3>Meeting Gackt</h3>
 
@@ -57,7 +57,7 @@ const You_gackt = (0, import_index_430bc4f2.c)(($$result, $$props, $$bindings, s
 
 <h3>Christmas Eve Street Performance in 1993</h3>
 
-<figure>${(0, import_index_430bc4f2.v)(import_Image_097dc189.I, "Image").$$render($$result, {
+<figure>${(0, import_index_9861661c.v)(import_Image_4b6807c1.I, "Image").$$render($$result, {
     alt: "Gackt and You performance at Christmas",
     class: "p-4 pt-0",
     width: "200",
@@ -72,10 +72,12 @@ const You_gackt = (0, import_index_430bc4f2.c)(($$result, $$props, $$bindings, s
 
 <iframe title="${"hanashitaku wa nai"}" src="${"https://www.youtube.com/embed/8v2FPRve0S4"}" frameborder="${"0"}" allow="${"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"}" allowfullscreen class="${"mb-4"}"></iframe>
 
-<p>Gackt has also described this night in an interview from <em>Vicious 08.1998</em>. Ryuik has scanned and translated ${(0, import_index_430bc4f2.v)(import_Link_0d4e9abf.L, "Link").$$render($$result, {
+<p>Gackt has also described this night in an interview from <em>Vicious 08.1998</em>. Ryuik has scanned and translated ${(0, import_index_9861661c.v)(import_Link_d40f893b.L, "Link").$$render($$result, {
     href: "https://ryuik.livejournal.com/218356.html"
   }, {}, {
-    default: () => `the whole interview here`
+    default: () => {
+      return `the whole interview here`;
+    }
   })} \u2764\uFE0F</p>
 
 <h3>Relationship with Gackt</h3>
@@ -108,7 +110,11 @@ const You_gackt = (0, import_index_430bc4f2.c)(($$result, $$props, $$bindings, s
 	<li><em>ANOTHER WORLD</em> was written while on holiday together in Hawaii after they went for a drive in the rain.</li>
 	<li>Gackt has said that when he is with You he can truly relax and be himself, and when they&#39;re together it&#39;s more like two people merging as one.</li>
 	<li>When asked about their relationship, You has said that he is like the ocean and Gackt is the moon. You likes to be calm and careful, and do everything at his own pace, while supporting Gackt. And Gackt is a beacon, guiding the way and inspiring him.</li>
-	<li>Gackt talked about You a lot on his ${(0, import_index_430bc4f2.v)(import_Link_0d4e9abf.L, "Link").$$render($$result, { href: "http://allnightnippon.com/gackt" }, {}, { default: () => `radio show` })}.</li>
+	<li>Gackt talked about You a lot on his ${(0, import_index_9861661c.v)(import_Link_d40f893b.L, "Link").$$render($$result, { href: "http://allnightnippon.com/gackt" }, {}, {
+    default: () => {
+      return `radio show`;
+    }
+  })}.</li>
 	<li>In <em>The Ichiban</em> from 07.05.99, Vol.21 No.25, there was an interview with Gackt from a series called <em>Gackt Conquers the World</em>. In the Japan entry, he mentioned a recent conversation with You where Gackt was explaining how if he were to lose everything, it would be OK as long as he still had the same people with him. You&#39;s response was, &quot;If you lost everything and went to Hell, I&#39;d always stay with you.&quot; Gackt then went on to explain how happy that made him, and that it felt strange coming from a non-romantic relationship, but because of this it made it even more special.</li>
 	<li>You once made Gackt a cake for his birthday that was made of kimchi and other Korean vegetables, as Gackt isn&#39;t keen on anything sweet.</li></ul>
 

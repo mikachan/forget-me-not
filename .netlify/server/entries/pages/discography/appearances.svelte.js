@@ -24,38 +24,52 @@ var __toModule = (module2) => {
 __export(exports, {
   default: () => Appearances
 });
-var import_index_430bc4f2 = __toModule(require("../../../chunks/index-430bc4f2.js"));
-var import_Link_0d4e9abf = __toModule(require("../../../chunks/Link-0d4e9abf.js"));
-var import_store_b286f9a0 = __toModule(require("../../../chunks/store-b286f9a0.js"));
-var import_index_365aa037 = __toModule(require("../../../chunks/index-365aa037.js"));
-const Appearances = (0, import_index_430bc4f2.c)(($$result, $$props, $$bindings, slots) => {
+var import_index_9861661c = __toModule(require("../../../chunks/index-9861661c.js"));
+var import_Link_d40f893b = __toModule(require("../../../chunks/Link-d40f893b.js"));
+var import_store_76ccc05c = __toModule(require("../../../chunks/store-76ccc05c.js"));
+var import_index_041375b7 = __toModule(require("../../../chunks/index-041375b7.js"));
+const Appearances = (0, import_index_9861661c.c)(($$result, $$props, $$bindings, slots) => {
   let $title, $$unsubscribe_title;
-  $$unsubscribe_title = (0, import_index_430bc4f2.a)(import_store_b286f9a0.t, (value) => $title = value);
+  $$unsubscribe_title = (0, import_index_9861661c.a)(import_store_76ccc05c.t, (value) => $title = value);
   let { pageTitle = "Appearances" } = $$props;
-  import_store_b286f9a0.t.set(pageTitle);
+  import_store_76ccc05c.t.set(pageTitle);
   if ($$props.pageTitle === void 0 && $$bindings.pageTitle && pageTitle !== void 0)
     $$bindings.pageTitle(pageTitle);
   $$unsubscribe_title();
-  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_430bc4f2.e)($title)}</title>`, ""}`, ""}
+  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_9861661c.e)($title)}</title>`, ""}`, ""}
 
-<h2>${(0, import_index_430bc4f2.e)(pageTitle)}</h2>
+<h2>${(0, import_index_9861661c.e)(pageTitle)}</h2>
 
 <h3>DVDs/Videos</h3>
 
 <p>Alongside <a href="${"discography/full-discography#live-music-dvds"}">live tour DVDs</a>, You has also appeared in the following:</p>
 
-<ul><li>He played <em>Jun</em> in ${(0, import_index_430bc4f2.v)(import_Link_0d4e9abf.L, "Link").$$render($$result, {
+<ul><li>He played <em>Jun</em> in ${(0, import_index_9861661c.v)(import_Link_d40f893b.L, "Link").$$render($$result, {
     href: "https://www.imdb.com/title/tt0365514/"
-  }, {}, { default: () => `Moon Child` })} (2003)</li>
+  }, {}, {
+    default: () => {
+      return `Moon Child`;
+    }
+  })} (2003)</li>
 	<li><em>Life</em> short film, from Gackt&#39;s <em>Soyokaze</em> VHS (2002) <a href="${"discography/life-short-film"}">Read more\xA0\u2192</a></li>
 	<li>Gackt PVs: <em>Mirror</em>, <em>ANOTHER WORLD</em>, <em>Juunigatsu no love song</em>, <em>Black Stone</em> &amp; <em>Redemption</em></li>
 	<li>Yellow Fried Chickenz PVs: <em>All My Love</em> &amp; <em>Mata koko de Aimashou</em></li>
 	<li>Gackt&#39;s <em>Gekkou</em> DVD (2003)</li>
 	<li>Phone call on the radio between You and Gackt, from the <em>nine*nine</em> box set (2008) <a href="${"discography/nine-nine-radio"}">Read more\xA0\u2192</a></li>
 	<li>Gackt&#39;s Platinum Boxes (DVDs)</li>
-	<li>Gackt and You gave advice on bisexual relationships on NicoNico from 2015.07.01 (Subbed video on ${(0, import_index_430bc4f2.v)(import_Link_0d4e9abf.L, "Link").$$render($$result, { href: "https://youtu.be/f4Tdz24iRPI" }, {}, {
-    default: () => `Youtube from Yuzu Translations`
-  })}. There&#39;s two other parts/sections to this video ${(0, import_index_430bc4f2.v)(import_Link_0d4e9abf.L, "Link").$$render($$result, { href: "https://youtu.be/Z9W-f5qJFGc" }, {}, { default: () => `here` })} and ${(0, import_index_430bc4f2.v)(import_Link_0d4e9abf.L, "Link").$$render($$result, { href: "https://youtu.be/-ogP-Vc2SUA" }, {}, { default: () => `here` })}.)</li></ul>
+	<li>Gackt and You gave advice on bisexual relationships on NicoNico from 2015.07.01 (Subbed video on ${(0, import_index_9861661c.v)(import_Link_d40f893b.L, "Link").$$render($$result, { href: "https://youtu.be/f4Tdz24iRPI" }, {}, {
+    default: () => {
+      return `Youtube from Yuzu Translations`;
+    }
+  })}. There&#39;s two other parts/sections to this video ${(0, import_index_9861661c.v)(import_Link_d40f893b.L, "Link").$$render($$result, { href: "https://youtu.be/Z9W-f5qJFGc" }, {}, {
+    default: () => {
+      return `here`;
+    }
+  })} and ${(0, import_index_9861661c.v)(import_Link_d40f893b.L, "Link").$$render($$result, { href: "https://youtu.be/-ogP-Vc2SUA" }, {}, {
+    default: () => {
+      return `here`;
+    }
+  })}.)</li></ul>
 
 <h3>CDs</h3>
 <ul><li>Lyric booklet that comes with Gackt&#39;s <em>Moon</em> album</li>
@@ -77,10 +91,18 @@ const Appearances = (0, import_index_430bc4f2.c)(($$result, $$props, $$bindings,
 <ul><li>Gackt Dears fan club videos</li>
 	<li>Interviews with Gackt</li>
 	<li>Gackt&#39;s radio show</li>
-	<li>Modeling jewelery for ${(0, import_index_430bc4f2.v)(import_Link_0d4e9abf.L, "Link").$$render($$result, { href: "http://h-darts.com" }, {}, { default: () => `h-Darts` })}</li>
-	<li>${(0, import_index_430bc4f2.v)(import_Link_0d4e9abf.L, "Link").$$render($$result, {
+	<li>Modeling jewelery for ${(0, import_index_9861661c.v)(import_Link_d40f893b.L, "Link").$$render($$result, { href: "http://h-darts.com" }, {}, {
+    default: () => {
+      return `h-Darts`;
+    }
+  })}</li>
+	<li>${(0, import_index_9861661c.v)(import_Link_d40f893b.L, "Link").$$render($$result, {
     href: "http://www.executivemonthly.com/english/about/index.php"
-  }, {}, { default: () => `Executive Monthly` })} CM. He&#39;s sitting at the bar talking to a girl.</li></ul>
+  }, {}, {
+    default: () => {
+      return `Executive Monthly`;
+    }
+  })} CM. He&#39;s sitting at the bar talking to a girl.</li></ul>
 
 <p><em class="${"text-sm"}">There&#39;s loads more... these lists are definitely a work in progress.</em></p>
 

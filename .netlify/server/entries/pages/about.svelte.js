@@ -27,7 +27,7 @@ __export(exports, {
   prerender: () => prerender,
   router: () => router
 });
-var import_index_430bc4f2 = __toModule(require("../../chunks/index-430bc4f2.js"));
+var import_index_9861661c = __toModule(require("../../chunks/index-9861661c.js"));
 const browser = false;
 const dev = false;
 var about_svelte_svelte_type_style_lang = "";
@@ -38,7 +38,7 @@ const css = {
 const hydrate = dev;
 const router = browser;
 const prerender = true;
-const About = (0, import_index_430bc4f2.c)(($$result, $$props, $$bindings, slots) => {
+const About = (0, import_index_9861661c.c)(($$result, $$props, $$bindings, slots) => {
   $$result.css.add(css);
   return `${$$result.head += `${$$result.title = `<title>About</title>`, ""}`, ""}
 

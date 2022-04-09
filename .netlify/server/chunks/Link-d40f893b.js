@@ -24,9 +24,9 @@ var __toModule = (module2) => {
 __export(exports, {
   L: () => Link
 });
-var import_index_430bc4f2 = __toModule(require("./index-430bc4f2.js"));
-const Link = (0, import_index_430bc4f2.c)(($$result, $$props, $$bindings, slots) => {
-  let $$restProps = (0, import_index_430bc4f2.d)($$props, ["href", "disabled", "outbound", "target", "rel", "download"]);
+var import_index_9861661c = __toModule(require("./index-9861661c.js"));
+const Link = (0, import_index_9861661c.c)(($$result, $$props, $$bindings, slots) => {
+  let $$restProps = (0, import_index_9861661c.d)($$props, ["href", "disabled", "outbound", "target", "rel", "download"]);
   let { href = "javascript:void(0);" } = $$props;
   let { disabled = false } = $$props;
   let { outbound = void 0 } = $$props;
@@ -60,13 +60,13 @@ const Link = (0, import_index_430bc4f2.c)(($$result, $$props, $$bindings, slots)
         rel = "noopener noreferrer";
     }
   }
-  return `${disabled ? `<span${(0, import_index_430bc4f2.f)([(0, import_index_430bc4f2.h)($$restProps), { role: "link" }, { "aria-disabled": "true" }])}>${slots.default ? slots.default({}) : ``}</span>` : `<a${(0, import_index_430bc4f2.f)([
-    (0, import_index_430bc4f2.h)($$restProps),
-    { href: (0, import_index_430bc4f2.i)(href) },
-    { target: (0, import_index_430bc4f2.i)(target) },
-    { rel: (0, import_index_430bc4f2.i)(rel) },
+  return `${disabled ? `<span${(0, import_index_9861661c.f)([(0, import_index_9861661c.h)($$restProps), { role: "link" }, { "aria-disabled": "true" }], {})}>${slots.default ? slots.default({}) : ``}</span>` : `<a${(0, import_index_9861661c.f)([
+    (0, import_index_9861661c.h)($$restProps),
+    { href: (0, import_index_9861661c.i)(href) },
+    { target: (0, import_index_9861661c.i)(target) },
+    { rel: (0, import_index_9861661c.i)(rel) },
     {
-      download: (0, import_index_430bc4f2.i)(download)
+      download: (0, import_index_9861661c.i)(download)
     }
-  ])}>${slots.default ? slots.default({}) : ``}</a>`}`;
+  ], {})}>${slots.default ? slots.default({}) : ``}</a>`}`;
 });

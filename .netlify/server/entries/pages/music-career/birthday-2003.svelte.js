@@ -24,24 +24,24 @@ var __toModule = (module2) => {
 __export(exports, {
   default: () => Birthday_2003
 });
-var import_index_430bc4f2 = __toModule(require("../../../chunks/index-430bc4f2.js"));
-var import_Link_0d4e9abf = __toModule(require("../../../chunks/Link-0d4e9abf.js"));
-var import_Image_097dc189 = __toModule(require("../../../chunks/Image-097dc189.js"));
-var import_store_b286f9a0 = __toModule(require("../../../chunks/store-b286f9a0.js"));
+var import_index_9861661c = __toModule(require("../../../chunks/index-9861661c.js"));
+var import_Link_d40f893b = __toModule(require("../../../chunks/Link-d40f893b.js"));
+var import_Image_4b6807c1 = __toModule(require("../../../chunks/Image-4b6807c1.js"));
+var import_store_76ccc05c = __toModule(require("../../../chunks/store-76ccc05c.js"));
 var import_blurhash = __toModule(require("blurhash"));
-var import_index_365aa037 = __toModule(require("../../../chunks/index-365aa037.js"));
+var import_index_041375b7 = __toModule(require("../../../chunks/index-041375b7.js"));
 var cake = "/_app/assets/bdaycake-cc22d69f.jpg";
-const Birthday_2003 = (0, import_index_430bc4f2.c)(($$result, $$props, $$bindings, slots) => {
+const Birthday_2003 = (0, import_index_9861661c.c)(($$result, $$props, $$bindings, slots) => {
   let $title, $$unsubscribe_title;
-  $$unsubscribe_title = (0, import_index_430bc4f2.a)(import_store_b286f9a0.t, (value) => $title = value);
+  $$unsubscribe_title = (0, import_index_9861661c.a)(import_store_76ccc05c.t, (value) => $title = value);
   let { pageTitle = "Birthday 2003" } = $$props;
-  import_store_b286f9a0.t.set(pageTitle);
+  import_store_76ccc05c.t.set(pageTitle);
   if ($$props.pageTitle === void 0 && $$bindings.pageTitle && pageTitle !== void 0)
     $$bindings.pageTitle(pageTitle);
   $$unsubscribe_title();
-  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_430bc4f2.e)($title)}</title>`, ""}`, ""}
+  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_9861661c.e)($title)}</title>`, ""}`, ""}
 
-<h2>${(0, import_index_430bc4f2.e)(pageTitle)}</h2>
+<h2>${(0, import_index_9861661c.e)(pageTitle)}</h2>
 
 <p>Gackt&#39;s well known for making a big deal out of staff members&#39; birthdays, usually involving pranks and cake. I decided, since I seem to have so much information on You&#39;s birthday from 2003, why not make a seperate page for it? Yup.</p>
 
@@ -134,11 +134,15 @@ And the studio was full of people who sang for him ~ And You was still trembling
 
 <h3>Cake</h3>
 
-<p>The cake that You received is shown below (snagged it off the ${(0, import_index_430bc4f2.v)(import_Link_0d4e9abf.L, "Link").$$render($$result, {
+<p>The cake that You received is shown below (snagged it off the ${(0, import_index_9861661c.v)(import_Link_d40f893b.L, "Link").$$render($$result, {
     href: "http://www.allnightnippon.com/gackt"
-  }, {}, { default: () => `ANN` })} site), topped with strawberries of course!</p>
+  }, {}, {
+    default: () => {
+      return `ANN`;
+    }
+  })} site), topped with strawberries of course!</p>
 
-<figure>${(0, import_index_430bc4f2.v)(import_Image_097dc189.I, "Image").$$render($$result, {
+<figure>${(0, import_index_9861661c.v)(import_Image_4b6807c1.I, "Image").$$render($$result, {
     alt: "Birthday cake",
     class: "mb-4",
     src: cake,

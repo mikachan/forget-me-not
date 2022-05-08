@@ -28,7 +28,7 @@ const manifest = {
   assets: /* @__PURE__ */ new Set(["_redirects", "downloads/etude.txt", "downloads/life-soyokaze.mp4", "favicon.png", "robots.txt"]),
   mimeTypes: { ".txt": "text/plain", ".mp4": "video/mp4", ".png": "image/png" },
   _: {
-    entry: { "file": "start-545e6fb9.js", "js": ["start-545e6fb9.js", "chunks/index-981bb7d4.js", "chunks/index-9ae8fc66.js"], "css": [] },
+    entry: { "file": "start-566137cb.js", "js": ["start-566137cb.js", "chunks/index-981bb7d4.js", "chunks/index-9ae8fc66.js"], "css": [] },
     nodes: [
       () => Promise.resolve().then(() => __toESM(require("./nodes/0.js"))),
       () => Promise.resolve().then(() => __toESM(require("./nodes/1.js"))),

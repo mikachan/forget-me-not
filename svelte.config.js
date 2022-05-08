@@ -4,8 +4,15 @@ import svelteImage from 'svelte-image';
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
+	// Consult https://github.com/sveltejs/svelte-preprocess
+	// for more information about preprocessors
+	preprocess: [
+		preprocess({
+			postcss: true,
+			...svelteImage(),
+		}),
+	],
 	kit: {
-		// hydrate the <div id="svelte"> element in src/app.html
 		adapter: adapter(),
 		vite: {
 			optimizeDeps: {
@@ -18,14 +25,6 @@ const config = {
 			},
 		},
 	},
-	// Consult https://github.com/sveltejs/svelte-preprocess
-	// for more information about preprocessors
-	preprocess: [
-		preprocess({
-			postcss: true,
-			...svelteImage(),
-		}),
-	],
 };
 
 export default config;

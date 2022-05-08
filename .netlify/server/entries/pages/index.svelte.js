@@ -17,11 +17,13 @@ var __copyProps = (to, from, except, desc) => {
 var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: true }), mod);
 var stdin_exports = {};
 __export(stdin_exports, {
-  default: () => Routes
+  default: () => Routes,
+  prerender: () => prerender
 });
 module.exports = __toCommonJS(stdin_exports);
 var import_index_ff5e144f = require("../../chunks/index-ff5e144f.js");
 var import_Link_e6a7895e = require("../../chunks/Link-e6a7895e.js");
+const prerender = true;
 const Routes = (0, import_index_ff5e144f.c)(($$result, $$props, $$bindings, slots) => {
   return `${$$result.head += `${$$result.title = `<title>Forget-me-not | You fansite</title>`, ""}`, ""}
 

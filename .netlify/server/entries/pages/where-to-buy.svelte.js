@@ -17,20 +17,21 @@ var __copyProps = (to, from, except, desc) => {
 var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: true }), mod);
 var stdin_exports = {};
 __export(stdin_exports, {
-  default: () => Where_to_buy
+  default: () => Where_to_buy,
+  pageTitle: () => pageTitle,
+  prerender: () => prerender
 });
 module.exports = __toCommonJS(stdin_exports);
 var import_index_ff5e144f = require("../../chunks/index-ff5e144f.js");
-var import_Link_e6a7895e = require("../../chunks/Link-e6a7895e.js");
 var import_store_699a49f6 = require("../../chunks/store-699a49f6.js");
+var import_Link_e6a7895e = require("../../chunks/Link-e6a7895e.js");
 var import_index_2061cac5 = require("../../chunks/index-2061cac5.js");
+const prerender = true;
+let pageTitle = "Where to Buy";
+import_store_699a49f6.t.set(pageTitle);
 const Where_to_buy = (0, import_index_ff5e144f.c)(($$result, $$props, $$bindings, slots) => {
   let $title, $$unsubscribe_title;
   $$unsubscribe_title = (0, import_index_ff5e144f.a)(import_store_699a49f6.t, (value) => $title = value);
-  let { pageTitle = "Where to Buy" } = $$props;
-  import_store_699a49f6.t.set(pageTitle);
-  if ($$props.pageTitle === void 0 && $$bindings.pageTitle && pageTitle !== void 0)
-    $$bindings.pageTitle(pageTitle);
   $$unsubscribe_title();
   return `${$$result.head += `${$$result.title = `<title>${(0, import_index_ff5e144f.e)($title)}</title>`, ""}`, ""}
 

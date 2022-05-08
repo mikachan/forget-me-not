@@ -1,4 +1,6 @@
-<script lang="ts">
+<script context="module" lang="ts">
+	export const prerender = true;
+	
 	let albumsTable: HTMLElement, albumsFade: HTMLElement, singlesTable: HTMLElement, singlesFade: HTMLElement, dvdsTable: HTMLElement, dvdsFade: HTMLElement;
 
 	function handleGradientVisibility(el: HTMLElement, fadeEl: HTMLElement) {

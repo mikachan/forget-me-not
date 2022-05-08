@@ -20,20 +20,20 @@ __export(stdin_exports, {
   default: () => Sqf
 });
 module.exports = __toCommonJS(stdin_exports);
-var import_index_ff5e144f = require("../../../chunks/index-ff5e144f.js");
-var import_store_699a49f6 = require("../../../chunks/store-699a49f6.js");
-var import_index_2061cac5 = require("../../../chunks/index-2061cac5.js");
-const Sqf = (0, import_index_ff5e144f.c)(($$result, $$props, $$bindings, slots) => {
+var import_index_511eca88 = require("../../../chunks/index-511eca88.js");
+var import_store_57e59034 = require("../../../chunks/store-57e59034.js");
+var import_index_cea261f0 = require("../../../chunks/index-cea261f0.js");
+const Sqf = (0, import_index_511eca88.c)(($$result, $$props, $$bindings, slots) => {
   let $title, $$unsubscribe_title;
-  $$unsubscribe_title = (0, import_index_ff5e144f.a)(import_store_699a49f6.t, (value) => $title = value);
+  $$unsubscribe_title = (0, import_index_511eca88.a)(import_store_57e59034.t, (value) => $title = value);
   let { pageTitle = "S.Q.F" } = $$props;
-  import_store_699a49f6.t.set(pageTitle);
+  import_store_57e59034.t.set(pageTitle);
   if ($$props.pageTitle === void 0 && $$bindings.pageTitle && pageTitle !== void 0)
     $$bindings.pageTitle(pageTitle);
   $$unsubscribe_title();
-  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_ff5e144f.e)($title)}</title>`, ""}`, ""}
+  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_511eca88.e)($title)}</title>`, ""}`, ""}
 
-<h2>${(0, import_index_ff5e144f.e)(pageTitle)}</h2>
+<h2>${(0, import_index_511eca88.e)(pageTitle)}</h2>
 
 <p>Coming soon.</p>
 

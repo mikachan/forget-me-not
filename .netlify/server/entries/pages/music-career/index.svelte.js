@@ -17,32 +17,33 @@ var __copyProps = (to, from, except, desc) => {
 var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: true }), mod);
 var stdin_exports = {};
 __export(stdin_exports, {
-  default: () => Music_career
+  default: () => Music_career,
+  pageTitle: () => pageTitle,
+  prerender: () => prerender
 });
 module.exports = __toCommonJS(stdin_exports);
-var import_index_ff5e144f = require("../../../chunks/index-ff5e144f.js");
-var import_Image_1e7f5f8d = require("../../../chunks/Image-1e7f5f8d.js");
-var import_Link_e6a7895e = require("../../../chunks/Link-e6a7895e.js");
+var import_index_511eca88 = require("../../../chunks/index-511eca88.js");
+var import_store_57e59034 = require("../../../chunks/store-57e59034.js");
 var import_mm_a4a68d6c = require("../../../chunks/1996-mm-a4a68d6c.js");
-var import_store_699a49f6 = require("../../../chunks/store-699a49f6.js");
+var import_Link_1d5c49d4 = require("../../../chunks/Link-1d5c49d4.js");
+var import_Image_892957b2 = require("../../../chunks/Image-892957b2.js");
+var import_index_cea261f0 = require("../../../chunks/index-cea261f0.js");
 var import_blurhash = require("blurhash");
-var import_index_2061cac5 = require("../../../chunks/index-2061cac5.js");
-var cainsFeel = "/_app/assets/cainsfeel03-43c603bc.jpeg";
-var gacktjob = "/_app/assets/gacktjob01-2581c105.jpg";
-var yfc = "/_app/assets/yfc01-1ad66621.jpg";
-var sqf = "/_app/assets/sqf04-bbd987eb.jpg";
 var luscious = "/_app/assets/luscious03-42261a8b.jpeg";
-const Music_career = (0, import_index_ff5e144f.c)(($$result, $$props, $$bindings, slots) => {
+var sqf = "/_app/assets/sqf04-bbd987eb.jpg";
+var yfc = "/_app/assets/yfc01-1ad66621.jpg";
+var gacktjob = "/_app/assets/gacktjob01-2581c105.jpg";
+var cainsFeel = "/_app/assets/cainsfeel03-43c603bc.jpeg";
+const prerender = true;
+let pageTitle = "Music Career";
+import_store_57e59034.t.set(pageTitle);
+const Music_career = (0, import_index_511eca88.c)(($$result, $$props, $$bindings, slots) => {
   let $title, $$unsubscribe_title;
-  $$unsubscribe_title = (0, import_index_ff5e144f.a)(import_store_699a49f6.t, (value) => $title = value);
-  let { pageTitle = "Music Career" } = $$props;
-  import_store_699a49f6.t.set(pageTitle);
-  if ($$props.pageTitle === void 0 && $$bindings.pageTitle && pageTitle !== void 0)
-    $$bindings.pageTitle(pageTitle);
+  $$unsubscribe_title = (0, import_index_511eca88.a)(import_store_57e59034.t, (value) => $title = value);
   $$unsubscribe_title();
-  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_ff5e144f.e)($title)}</title>`, ""}`, ""}
+  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_511eca88.e)($title)}</title>`, ""}`, ""}
 
-<h2>${(0, import_index_ff5e144f.e)(pageTitle)}</h2>
+<h2>${(0, import_index_511eca88.e)(pageTitle)}</h2>
 
 <p>You&#39;s best known for playing the guitar and violin, and can also play piano, drums and shamisen. At live shows he usually plays rhythm guitar, violin and sometimes backing vocals.</p>
 
@@ -60,7 +61,7 @@ const Music_career = (0, import_index_ff5e144f.c)(($$result, $$props, $$bindings
 
 <h3>CAINS:FEEL (1989/93-1995) <a href="${"/music-career/cains-feel"}" class="${"text-sm"}">read more\xA0\u2192</a></h3>
 
-<figure>${(0, import_index_ff5e144f.v)(import_Image_1e7f5f8d.I, "Image").$$render($$result, {
+<figure>${(0, import_index_511eca88.v)(import_Image_892957b2.I, "Image").$$render($$result, {
     alt: "CAINS:FEEL",
     class: "pb-4 mx-auto",
     src: cainsFeel,
@@ -73,7 +74,7 @@ const Music_career = (0, import_index_ff5e144f.c)(($$result, $$props, $$bindings
 
 <h3>Maracas (1996) <a href="${"/music-career/maracas"}" class="${"text-sm"}">read more\xA0\u2192</a></h3>
 
-<figure>${(0, import_index_ff5e144f.v)(import_Image_1e7f5f8d.I, "Image").$$render($$result, {
+<figure>${(0, import_index_511eca88.v)(import_Image_892957b2.I, "Image").$$render($$result, {
     alt: "You in Malice Mizer cover band 1996",
     class: "pb-4 mx-auto",
     src: import_mm_a4a68d6c.m
@@ -85,7 +86,7 @@ const Music_career = (0, import_index_ff5e144f.c)(($$result, $$props, $$bindings
 
 <h3>GacktJob (1999-2019) <a href="${"/music-career/gacktjob"}" class="${"text-sm"}">read more\xA0\u2192</a></h3>
 
-<figure>${(0, import_index_ff5e144f.v)(import_Image_1e7f5f8d.I, "Image").$$render($$result, {
+<figure>${(0, import_index_511eca88.v)(import_Image_892957b2.I, "Image").$$render($$result, {
     alt: "GacktJob around 2001",
     class: "pb-4 mx-auto",
     src: gacktjob,
@@ -102,7 +103,7 @@ const Music_career = (0, import_index_ff5e144f.c)(($$result, $$props, $$bindings
 
 <h3>Yellow Fried Chickenz (2010-2012)</h3>
 
-<figure>${(0, import_index_ff5e144f.v)(import_Image_1e7f5f8d.I, "Image").$$render($$result, {
+<figure>${(0, import_index_511eca88.v)(import_Image_892957b2.I, "Image").$$render($$result, {
     alt: "Yellow Fried Chickenz",
     class: "pb-4 mx-auto",
     src: yfc,
@@ -115,7 +116,7 @@ const Music_career = (0, import_index_ff5e144f.c)(($$result, $$props, $$bindings
 
 <h3>S.Q.F (2013-2018)</h3>
 
-<figure>${(0, import_index_ff5e144f.v)(import_Image_1e7f5f8d.I, "Image").$$render($$result, {
+<figure>${(0, import_index_511eca88.v)(import_Image_892957b2.I, "Image").$$render($$result, {
     alt: "S.Q.F",
     class: "pb-4 mx-auto",
     src: sqf
@@ -127,26 +128,26 @@ const Music_career = (0, import_index_ff5e144f.c)(($$result, $$props, $$bindings
 
 <h3>Luscious (2018-present)</h3>
 
-<figure>${(0, import_index_ff5e144f.v)(import_Image_1e7f5f8d.I, "Image").$$render($$result, {
+<figure>${(0, import_index_511eca88.v)(import_Image_892957b2.I, "Image").$$render($$result, {
     alt: "Luscious",
     class: "pb-4 mx-auto",
     src: luscious,
     ratio: "60%"
   }, {}, {})}</figure>
 
-<p>Luscious is a Japanese band formed by ${(0, import_index_ff5e144f.v)(import_Link_e6a7895e.L, "Link").$$render($$result, {
+<p>Luscious is a Japanese band formed by ${(0, import_index_511eca88.v)(import_Link_1d5c49d4.L, "Link").$$render($$result, {
     href: "https://twitter.com/CHACHAMARU_YFCz"
   }, {}, {
     default: () => {
       return `Chachamaru (Yukihiro Fujimura)`;
     }
-  })}, and includes Chacha on vocals and guitar, You on guitar, ${(0, import_index_ff5e144f.v)(import_Link_e6a7895e.L, "Link").$$render($$result, {
+  })}, and includes Chacha on vocals and guitar, You on guitar, ${(0, import_index_511eca88.v)(import_Link_1d5c49d4.L, "Link").$$render($$result, {
     href: "https://twitter.com/Satos_Cafe_Bar"
   }, {}, {
     default: () => {
       return `Sato`;
     }
-  })} (ex. GacktJob, LiSA) on bass and ${(0, import_index_ff5e144f.v)(import_Link_e6a7895e.L, "Link").$$render($$result, {
+  })} (ex. GacktJob, LiSA) on bass and ${(0, import_index_511eca88.v)(import_Link_1d5c49d4.L, "Link").$$render($$result, {
     href: "https://twitter.com/DuelJewel_val"
   }, {}, {
     default: () => {
@@ -154,7 +155,7 @@ const Music_career = (0, import_index_ff5e144f.c)(($$result, $$props, $$bindings
     }
   })} (ex. GacktJob, DuelJewel) on drums. They have performed at several events alongside Chacha&#39;s other band, Ded Chaplin.</p>
 
-<p>Chacha posts about Luscious on his Twitter account and often streams on ${(0, import_index_ff5e144f.v)(import_Link_e6a7895e.L, "Link").$$render($$result, {
+<p>Chacha posts about Luscious on his Twitter account and often streams on ${(0, import_index_511eca88.v)(import_Link_1d5c49d4.L, "Link").$$render($$result, {
     href: "https://twitcasting.tv/chachamaru_yfcz"
   }, {}, {
     default: () => {

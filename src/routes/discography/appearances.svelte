@@ -16,15 +16,15 @@
 
 <h3>DVDs/Videos</h3>
 
-<p>Alongside <a href="discography/full-discography#live-music-dvds">live tour DVDs</a>, You has also appeared in the following:</p>
+<p>Alongside <a href="/discography/full-discography#live-music-dvds">live tour DVDs</a>, You has also appeared in the following:</p>
 
 <ul>
 	<li>He played <em>Jun</em> in <Link href="https://www.imdb.com/title/tt0365514/">Moon Child</Link> (2003)</li>
-	<li><em>Life</em> short film, from Gackt's <em>Soyokaze</em> VHS (2002) <a href="discography/life-short-film">Read more&nbsp;&rarr;</a></li>
+	<li><em>Life</em> short film, from Gackt's <em>Soyokaze</em> VHS (2002) <a href="/discography/life-short-film">Read more&nbsp;&rarr;</a></li>
 	<li>Gackt PVs: <em>Mirror</em>, <em>ANOTHER WORLD</em>, <em>Juunigatsu no love song</em>, <em>Black Stone</em> &amp; <em>Redemption</em></li>
 	<li>Yellow Fried Chickenz PVs: <em>All My Love</em> &amp; <em>Mata koko de Aimashou</em></li>
 	<li>Gackt's <em>Gekkou</em> DVD (2003)</li>
-	<li>Phone call on the radio between You and Gackt, from the <em>nine*nine</em> box set (2008) <a href="discography/nine-nine-radio">Read more&nbsp;&rarr;</a></li>
+	<li>Phone call on the radio between You and Gackt, from the <em>nine*nine</em> box set (2008) <a href="/discography/nine-nine-radio">Read more&nbsp;&rarr;</a></li>
 	<li>Gackt's Platinum Boxes (DVDs)</li>
 	<li>Gackt and You gave advice on bisexual relationships on NicoNico from 2015.07.01 (Subbed video on <Link href="https://youtu.be/f4Tdz24iRPI">Youtube from Yuzu Translations</Link>. There's two other parts/sections to this video <Link href="https://youtu.be/Z9W-f5qJFGc">here</Link> and <Link href="https://youtu.be/-ogP-Vc2SUA">here</Link>.)</li>
 </ul>

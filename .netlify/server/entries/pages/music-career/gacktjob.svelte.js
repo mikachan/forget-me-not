@@ -17,23 +17,24 @@ var __copyProps = (to, from, except, desc) => {
 var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: true }), mod);
 var stdin_exports = {};
 __export(stdin_exports, {
-  default: () => Gacktjob
+  default: () => Gacktjob,
+  pageTitle: () => pageTitle,
+  prerender: () => prerender
 });
 module.exports = __toCommonJS(stdin_exports);
-var import_index_ff5e144f = require("../../../chunks/index-ff5e144f.js");
-var import_store_699a49f6 = require("../../../chunks/store-699a49f6.js");
-var import_index_2061cac5 = require("../../../chunks/index-2061cac5.js");
-const Gacktjob = (0, import_index_ff5e144f.c)(($$result, $$props, $$bindings, slots) => {
+var import_index_511eca88 = require("../../../chunks/index-511eca88.js");
+var import_store_57e59034 = require("../../../chunks/store-57e59034.js");
+var import_index_cea261f0 = require("../../../chunks/index-cea261f0.js");
+const prerender = true;
+let pageTitle = "GacktJob";
+import_store_57e59034.t.set(pageTitle);
+const Gacktjob = (0, import_index_511eca88.c)(($$result, $$props, $$bindings, slots) => {
   let $title, $$unsubscribe_title;
-  $$unsubscribe_title = (0, import_index_ff5e144f.a)(import_store_699a49f6.t, (value) => $title = value);
-  let { pageTitle = "GacktJob" } = $$props;
-  import_store_699a49f6.t.set(pageTitle);
-  if ($$props.pageTitle === void 0 && $$bindings.pageTitle && pageTitle !== void 0)
-    $$bindings.pageTitle(pageTitle);
+  $$unsubscribe_title = (0, import_index_511eca88.a)(import_store_57e59034.t, (value) => $title = value);
   $$unsubscribe_title();
-  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_ff5e144f.e)($title)}</title>`, ""}`, ""}
+  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_511eca88.e)($title)}</title>`, ""}`, ""}
 
-<h2>${(0, import_index_ff5e144f.e)(pageTitle)}</h2>
+<h2>${(0, import_index_511eca88.e)(pageTitle)}</h2>
 
 <p>The members of GacktJob have said that You is like a robot, with the exception of Gackt, who says he&#39;s half donkey, half horse.</p>
 

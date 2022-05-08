@@ -17,36 +17,37 @@ var __copyProps = (to, from, except, desc) => {
 var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: true }), mod);
 var stdin_exports = {};
 __export(stdin_exports, {
-  default: () => Full_discography
+  default: () => Full_discography,
+  pageTitle: () => pageTitle,
+  prerender: () => prerender
 });
 module.exports = __toCommonJS(stdin_exports);
-var import_index_ff5e144f = require("../../../chunks/index-ff5e144f.js");
-var import_store_699a49f6 = require("../../../chunks/store-699a49f6.js");
-var import_index_2061cac5 = require("../../../chunks/index-2061cac5.js");
+var import_index_511eca88 = require("../../../chunks/index-511eca88.js");
+var import_store_57e59034 = require("../../../chunks/store-57e59034.js");
+var import_index_cea261f0 = require("../../../chunks/index-cea261f0.js");
 var fullDiscography_svelte_svelte_type_style_lang = "";
 const css = {
   code: ".table-container.svelte-14x1pov.svelte-14x1pov{position:relative\n}.table-scroll.svelte-14x1pov.svelte-14x1pov{width:100%;overflow-x:auto;padding-right:5rem\n}.table-fade.svelte-14x1pov.svelte-14x1pov{position:absolute;top:0px;bottom:0px;right:0px;z-index:50;width:5rem;background-image:linear-gradient(to right, var(--tw-gradient-stops));--tw-gradient-from:transparent;--tw-gradient-stops:var(--tw-gradient-from), var(--tw-gradient-to, rgb(0 0 0 / 0));--tw-gradient-to:#fff\n}@media(min-width: 768px){.table-fade.svelte-14x1pov.svelte-14x1pov{display:none\n    }}table.svelte-14x1pov.svelte-14x1pov{margin-bottom:1rem;font-size:0.875rem;line-height:1.25rem\n}th.svelte-14x1pov.svelte-14x1pov{--tw-bg-opacity:1;background-color:rgb(220 252 231 / var(--tw-bg-opacity))\n}th.svelte-14x1pov.svelte-14x1pov,td.svelte-14x1pov.svelte-14x1pov{border-width:1px;--tw-border-opacity:1;border-color:rgb(34 197 94 / var(--tw-border-opacity));padding-left:1rem;padding-right:1rem;padding-top:0.5rem;padding-bottom:0.5rem\n}td.svelte-14x1pov em.svelte-14x1pov{font-size:0.75rem;line-height:1rem\n}",
   map: null
 };
-const Full_discography = (0, import_index_ff5e144f.c)(($$result, $$props, $$bindings, slots) => {
+const prerender = true;
+let albumsTable, albumsFade, singlesTable, singlesFade, dvdsTable, dvdsFade;
+let pageTitle = "Full Discography";
+import_store_57e59034.t.set(pageTitle);
+const Full_discography = (0, import_index_511eca88.c)(($$result, $$props, $$bindings, slots) => {
   let $title, $$unsubscribe_title;
-  $$unsubscribe_title = (0, import_index_ff5e144f.a)(import_store_699a49f6.t, (value) => $title = value);
-  let albumsTable, albumsFade, singlesTable, singlesFade, dvdsTable, dvdsFade;
-  let { pageTitle = "Full Discography" } = $$props;
-  import_store_699a49f6.t.set(pageTitle);
-  if ($$props.pageTitle === void 0 && $$bindings.pageTitle && pageTitle !== void 0)
-    $$bindings.pageTitle(pageTitle);
+  $$unsubscribe_title = (0, import_index_511eca88.a)(import_store_57e59034.t, (value) => $title = value);
   $$result.css.add(css);
   $$unsubscribe_title();
-  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_ff5e144f.e)($title)}</title>`, ""}`, ""}
+  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_511eca88.e)($title)}</title>`, ""}`, ""}
 
 
 
-<h2>${(0, import_index_ff5e144f.e)(pageTitle)}</h2>
+<h2>${(0, import_index_511eca88.e)(pageTitle)}</h2>
 
 <h3 id="${"studio-albums"}">Studio Albums</h3>
-<div class="${"table-container svelte-14x1pov"}"><div class="${"table-fade svelte-14x1pov"}"${(0, import_index_ff5e144f.b)("this", albumsFade, 0)}></div>
-	<div class="${"table-scroll svelte-14x1pov"}"${(0, import_index_ff5e144f.b)("this", albumsTable, 0)}><table class="${"svelte-14x1pov"}"><thead><tr><th class="${"svelte-14x1pov"}">Year</th>
+<div class="${"table-container svelte-14x1pov"}"><div class="${"table-fade svelte-14x1pov"}"${(0, import_index_511eca88.b)("this", albumsFade, 0)}></div>
+	<div class="${"table-scroll svelte-14x1pov"}"${(0, import_index_511eca88.b)("this", albumsTable, 0)}><table class="${"svelte-14x1pov"}"><thead><tr><th class="${"svelte-14x1pov"}">Year</th>
 					<th class="${"svelte-14x1pov"}">Title</th>
 					<th class="${"svelte-14x1pov"}">Artist</th>
 					<th class="${"svelte-14x1pov"}">Credits</th></tr></thead>
@@ -112,8 +113,8 @@ const Full_discography = (0, import_index_ff5e144f.c)(($$result, $$props, $$bind
 					<td class="${"svelte-14x1pov"}">Guitar, violin,<br>arrangement, programming</td></tr></tbody></table></div></div>
 
 <h3 id="${"singles"}">Singles</h3>
-<div class="${"table-container svelte-14x1pov"}"><div class="${"table-fade svelte-14x1pov"}"${(0, import_index_ff5e144f.b)("this", singlesFade, 0)}></div>
-	<div class="${"table-scroll svelte-14x1pov"}"${(0, import_index_ff5e144f.b)("this", singlesTable, 0)}><table class="${"svelte-14x1pov"}"><thead><tr><th class="${"svelte-14x1pov"}">Year</th>
+<div class="${"table-container svelte-14x1pov"}"><div class="${"table-fade svelte-14x1pov"}"${(0, import_index_511eca88.b)("this", singlesFade, 0)}></div>
+	<div class="${"table-scroll svelte-14x1pov"}"${(0, import_index_511eca88.b)("this", singlesTable, 0)}><table class="${"svelte-14x1pov"}"><thead><tr><th class="${"svelte-14x1pov"}">Year</th>
 					<th class="${"svelte-14x1pov"}">Title</th>
 					<th class="${"svelte-14x1pov"}">Artist</th>
 					<th class="${"svelte-14x1pov"}">Credits</th></tr></thead>
@@ -155,8 +156,8 @@ const Full_discography = (0, import_index_ff5e144f.c)(($$result, $$props, $$bind
 					<td class="${"svelte-14x1pov"}">Guitar, writer</td></tr></tbody></table></div></div>
 
 <h3 id="${"live-music-dvds"}">Live Music DVDs</h3>
-<div class="${"table-container svelte-14x1pov"}"><div class="${"table-fade svelte-14x1pov"}"${(0, import_index_ff5e144f.b)("this", dvdsFade, 0)}></div>
-	<div class="${"table-scroll svelte-14x1pov"}"${(0, import_index_ff5e144f.b)("this", dvdsTable, 0)}><table class="${"svelte-14x1pov"}"><thead><tr><th class="${"svelte-14x1pov"}">Year</th>
+<div class="${"table-container svelte-14x1pov"}"><div class="${"table-fade svelte-14x1pov"}"${(0, import_index_511eca88.b)("this", dvdsFade, 0)}></div>
+	<div class="${"table-scroll svelte-14x1pov"}"${(0, import_index_511eca88.b)("this", dvdsTable, 0)}><table class="${"svelte-14x1pov"}"><thead><tr><th class="${"svelte-14x1pov"}">Year</th>
 					<th class="${"svelte-14x1pov"}">Title</th>
 					<th class="${"svelte-14x1pov"}">Artist</th>
 					<th class="${"svelte-14x1pov"}">Credits</th></tr></thead>

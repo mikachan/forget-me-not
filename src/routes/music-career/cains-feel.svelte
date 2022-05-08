@@ -67,7 +67,7 @@
 <ol class="list-decimal list-inside">
 	<li>～lie～ [<Link href="https://youtu.be/cVe9rssPA84">youtube</Link>]</li>
 	<li>MARINE BLUE no kazeni dakarete (marine blueの風に抱かれて) [<Link href="https://youtu.be/A6CEeoU1KG4">youtube</Link>]</li>
-	<li>etude [<Link href="https://youtu.be/cvGPKVu3LPQ">youtube</Link>] [<Link href="downloads/etude.txt" download="etude lyric translation">lyric translation</Link>]</li>
+	<li>etude [<Link href="https://youtu.be/cvGPKVu3LPQ">youtube</Link>] [<Link href="/downloads/etude.txt" download="etude lyric translation">lyric translation</Link>]</li>
 </ol>
 
 <h4>Brown version:</h4>
@@ -80,7 +80,7 @@
 	<li>refrain</li>
 	<li>～lie～ [<Link href="https://youtu.be/cVe9rssPA84">youtube</Link>]</li>
 	<li>MARINE BLUE no kazeni dakarete (marine blueの風に抱かれて) [<Link href="https://youtu.be/A6CEeoU1KG4">youtube</Link>]</li>
-	<li>etude [<Link href="https://youtu.be/cvGPKVu3LPQ">youtube</Link>] [<Link href="downloads/etude.txt" download="etude lyric translation">lyric translation</Link>]</li>
+	<li>etude [<Link href="https://youtu.be/cvGPKVu3LPQ">youtube</Link>] [<Link href="/downloads/etude.txt" download="etude lyric translation">lyric translation</Link>]</li>
 </ol>
 
 <p><a href="/music-career">&larr; Backt to Music Career</a></p>

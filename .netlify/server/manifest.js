@@ -28,31 +28,29 @@ const manifest = {
   assets: /* @__PURE__ */ new Set(["_redirects", "downloads/etude.txt", "downloads/life-soyokaze.mp4", "favicon.png", "robots.txt"]),
   mimeTypes: { ".txt": "text/plain", ".mp4": "video/mp4", ".png": "image/png" },
   _: {
-    entry: { "file": "start-566137cb.js", "js": ["start-566137cb.js", "chunks/index-981bb7d4.js", "chunks/index-9ae8fc66.js"], "css": [] },
+    entry: { "file": "start-fa5584ab.js", "js": ["start-fa5584ab.js", "chunks/index-ec6d3f23.js", "chunks/index-aca68f77.js"], "css": [] },
     nodes: [
       () => Promise.resolve().then(() => __toESM(require("./nodes/0.js"))),
       () => Promise.resolve().then(() => __toESM(require("./nodes/1.js"))),
-      () => Promise.resolve().then(() => __toESM(require("./nodes/10.js"))),
-      () => Promise.resolve().then(() => __toESM(require("./nodes/3.js"))),
-      () => Promise.resolve().then(() => __toESM(require("./nodes/4.js"))),
-      () => Promise.resolve().then(() => __toESM(require("./nodes/7.js"))),
-      () => Promise.resolve().then(() => __toESM(require("./nodes/14.js"))),
-      () => Promise.resolve().then(() => __toESM(require("./nodes/21.js"))),
-      () => Promise.resolve().then(() => __toESM(require("./nodes/22.js"))),
-      () => Promise.resolve().then(() => __toESM(require("./nodes/2.js"))),
-      () => Promise.resolve().then(() => __toESM(require("./nodes/5.js"))),
-      () => Promise.resolve().then(() => __toESM(require("./nodes/6.js"))),
-      () => Promise.resolve().then(() => __toESM(require("./nodes/8.js"))),
       () => Promise.resolve().then(() => __toESM(require("./nodes/9.js"))),
+      () => Promise.resolve().then(() => __toESM(require("./nodes/3.js"))),
+      () => Promise.resolve().then(() => __toESM(require("./nodes/6.js"))),
+      () => Promise.resolve().then(() => __toESM(require("./nodes/13.js"))),
+      () => Promise.resolve().then(() => __toESM(require("./nodes/20.js"))),
+      () => Promise.resolve().then(() => __toESM(require("./nodes/2.js"))),
+      () => Promise.resolve().then(() => __toESM(require("./nodes/4.js"))),
+      () => Promise.resolve().then(() => __toESM(require("./nodes/5.js"))),
+      () => Promise.resolve().then(() => __toESM(require("./nodes/7.js"))),
+      () => Promise.resolve().then(() => __toESM(require("./nodes/8.js"))),
+      () => Promise.resolve().then(() => __toESM(require("./nodes/10.js"))),
       () => Promise.resolve().then(() => __toESM(require("./nodes/11.js"))),
       () => Promise.resolve().then(() => __toESM(require("./nodes/12.js"))),
-      () => Promise.resolve().then(() => __toESM(require("./nodes/13.js"))),
+      () => Promise.resolve().then(() => __toESM(require("./nodes/14.js"))),
       () => Promise.resolve().then(() => __toESM(require("./nodes/15.js"))),
       () => Promise.resolve().then(() => __toESM(require("./nodes/16.js"))),
       () => Promise.resolve().then(() => __toESM(require("./nodes/17.js"))),
       () => Promise.resolve().then(() => __toESM(require("./nodes/18.js"))),
-      () => Promise.resolve().then(() => __toESM(require("./nodes/19.js"))),
-      () => Promise.resolve().then(() => __toESM(require("./nodes/20.js")))
+      () => Promise.resolve().then(() => __toESM(require("./nodes/19.js")))
     ],
     routes: [
       {
@@ -67,14 +65,6 @@ const manifest = {
         b: [1]
       },
       {
-        type: "endpoint",
-        id: "todos.json",
-        pattern: /^\/todos\.json$/,
-        names: [],
-        types: [],
-        load: () => Promise.resolve().then(() => __toESM(require("./entries/endpoints/todos/index.json.ts.js")))
-      },
-      {
         type: "page",
         id: "about-you",
         pattern: /^\/about-you\/?$/,
@@ -87,24 +77,13 @@ const manifest = {
       },
       {
         type: "page",
-        id: "about",
-        pattern: /^\/about\/?$/,
-        names: [],
-        types: [],
-        path: "/about",
-        shadow: null,
-        a: [0, 4],
-        b: [1]
-      },
-      {
-        type: "page",
         id: "discography",
         pattern: /^\/discography\/?$/,
         names: [],
         types: [],
         path: "/discography",
         shadow: null,
-        a: [0, 5],
+        a: [0, 4],
         b: [1]
       },
       {
@@ -115,18 +94,7 @@ const manifest = {
         types: [],
         path: "/music-career",
         shadow: null,
-        a: [0, 6],
-        b: [1]
-      },
-      {
-        type: "page",
-        id: "todos",
-        pattern: /^\/todos\/?$/,
-        names: [],
-        types: [],
-        path: "/todos",
-        shadow: null,
-        a: [0, 7],
+        a: [0, 5],
         b: [1]
       },
       {
@@ -137,7 +105,7 @@ const manifest = {
         types: [],
         path: "/where-to-buy",
         shadow: null,
-        a: [0, 8],
+        a: [0, 6],
         b: [1]
       },
       {
@@ -148,7 +116,7 @@ const manifest = {
         types: [],
         path: "/about-you/designs",
         shadow: null,
-        a: [0, 9],
+        a: [0, 7],
         b: [1]
       },
       {
@@ -159,7 +127,7 @@ const manifest = {
         types: [],
         path: "/discography/appearances",
         shadow: null,
-        a: [0, 10],
+        a: [0, 8],
         b: [1]
       },
       {
@@ -170,7 +138,7 @@ const manifest = {
         types: [],
         path: "/discography/full-discography",
         shadow: null,
-        a: [0, 11],
+        a: [0, 9],
         b: [1]
       },
       {
@@ -181,7 +149,7 @@ const manifest = {
         types: [],
         path: "/discography/life-short-film",
         shadow: null,
-        a: [0, 12],
+        a: [0, 10],
         b: [1]
       },
       {
@@ -192,7 +160,7 @@ const manifest = {
         types: [],
         path: "/discography/nine-nine-radio",
         shadow: null,
-        a: [0, 13],
+        a: [0, 11],
         b: [1]
       },
       {
@@ -203,7 +171,7 @@ const manifest = {
         types: [],
         path: "/music-career/birthday-2003",
         shadow: null,
-        a: [0, 14],
+        a: [0, 12],
         b: [1]
       },
       {
@@ -214,7 +182,7 @@ const manifest = {
         types: [],
         path: "/music-career/cains-feel",
         shadow: null,
-        a: [0, 15],
+        a: [0, 13],
         b: [1]
       },
       {
@@ -225,7 +193,7 @@ const manifest = {
         types: [],
         path: "/music-career/gacktjob",
         shadow: null,
-        a: [0, 16],
+        a: [0, 14],
         b: [1]
       },
       {
@@ -236,7 +204,7 @@ const manifest = {
         types: [],
         path: "/music-career/maracas",
         shadow: null,
-        a: [0, 17],
+        a: [0, 15],
         b: [1]
       },
       {
@@ -247,7 +215,7 @@ const manifest = {
         types: [],
         path: "/music-career/sqf",
         shadow: null,
-        a: [0, 18],
+        a: [0, 16],
         b: [1]
       },
       {
@@ -258,7 +226,7 @@ const manifest = {
         types: [],
         path: "/music-career/you-gackt",
         shadow: null,
-        a: [0, 19],
+        a: [0, 17],
         b: [1]
       },
       {
@@ -269,7 +237,7 @@ const manifest = {
         types: [],
         path: "/site/history",
         shadow: null,
-        a: [0, 20],
+        a: [0, 18],
         b: [1]
       },
       {
@@ -280,7 +248,7 @@ const manifest = {
         types: [],
         path: "/site/thanks",
         shadow: null,
-        a: [0, 21],
+        a: [0, 19],
         b: [1]
       },
       {
@@ -291,16 +259,8 @@ const manifest = {
         types: [],
         path: "/site/updates",
         shadow: null,
-        a: [0, 22],
+        a: [0, 20],
         b: [1]
-      },
-      {
-        type: "endpoint",
-        id: "todos/[uid].json",
-        pattern: /^\/todos\/([^/]+?)\.json$/,
-        names: ["uid"],
-        types: [null],
-        load: () => Promise.resolve().then(() => __toESM(require("./entries/endpoints/todos/_uid_.json.ts.js")))
       }
     ],
     matchers: async () => {

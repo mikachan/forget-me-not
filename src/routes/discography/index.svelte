@@ -16,11 +16,11 @@
 
 <h2>{pageTitle}</h2>
 
-<h3>Full Discography <a href="discography/full-discography" class="text-sm">read more&nbsp;&rarr;</a></h3>
+<h3>Full Discography <a href="/discography/full-discography" class="text-sm">read more&nbsp;&rarr;</a></h3>
 
 <p>View You's full discography including release dates, artist collaborations and credits.</p>
 
-<h3>Appearances <a href="discography/appearances" class="text-sm">read more&nbsp;&rarr;</a></h3>
+<h3>Appearances <a href="/discography/appearances" class="text-sm">read more&nbsp;&rarr;</a></h3>
 
 <p>You has appeared in many videos, books, magazines and interviews, especially from working with Gackt. The highlight obviously being his acting skillz in <em>Moon Child</em>:</p>
 

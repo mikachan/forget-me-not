@@ -17,29 +17,30 @@ var __copyProps = (to, from, except, desc) => {
 var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: true }), mod);
 var stdin_exports = {};
 __export(stdin_exports, {
-  default: () => Cains_feel
+  default: () => Cains_feel,
+  pageTitle: () => pageTitle,
+  prerender: () => prerender
 });
 module.exports = __toCommonJS(stdin_exports);
-var import_index_ff5e144f = require("../../../chunks/index-ff5e144f.js");
-var import_Link_e6a7895e = require("../../../chunks/Link-e6a7895e.js");
-var import_Image_1e7f5f8d = require("../../../chunks/Image-1e7f5f8d.js");
-var import_store_699a49f6 = require("../../../chunks/store-699a49f6.js");
+var import_index_511eca88 = require("../../../chunks/index-511eca88.js");
+var import_store_57e59034 = require("../../../chunks/store-57e59034.js");
+var import_Image_892957b2 = require("../../../chunks/Image-892957b2.js");
+var import_Link_1d5c49d4 = require("../../../chunks/Link-1d5c49d4.js");
+var import_index_cea261f0 = require("../../../chunks/index-cea261f0.js");
 var import_blurhash = require("blurhash");
-var import_index_2061cac5 = require("../../../chunks/index-2061cac5.js");
-var tape = "/_app/assets/tape-2eb60c80.jpg";
-var tape2 = "/_app/assets/tape-brown-4cc21d54.jpg";
 var band = "/_app/assets/cainsfeel-97d557e4.jpg";
-const Cains_feel = (0, import_index_ff5e144f.c)(($$result, $$props, $$bindings, slots) => {
+var tape2 = "/_app/assets/tape-brown-4cc21d54.jpg";
+var tape = "/_app/assets/tape-2eb60c80.jpg";
+const prerender = true;
+let pageTitle = "CAINS:FEEL";
+import_store_57e59034.t.set(pageTitle);
+const Cains_feel = (0, import_index_511eca88.c)(($$result, $$props, $$bindings, slots) => {
   let $title, $$unsubscribe_title;
-  $$unsubscribe_title = (0, import_index_ff5e144f.a)(import_store_699a49f6.t, (value) => $title = value);
-  let { pageTitle = "CAINS:FEEL" } = $$props;
-  import_store_699a49f6.t.set(pageTitle);
-  if ($$props.pageTitle === void 0 && $$bindings.pageTitle && pageTitle !== void 0)
-    $$bindings.pageTitle(pageTitle);
+  $$unsubscribe_title = (0, import_index_511eca88.a)(import_store_57e59034.t, (value) => $title = value);
   $$unsubscribe_title();
-  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_ff5e144f.e)($title)}</title>`, ""}`, ""}
+  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_511eca88.e)($title)}</title>`, ""}`, ""}
 
-<h2>${(0, import_index_ff5e144f.e)(pageTitle)}</h2>
+<h2>${(0, import_index_511eca88.e)(pageTitle)}</h2>
 
 <p>CAINS:FEEL was an indie Japanese visual kei (rock/goth) band formed in 1989 (although some sources say 1993) by You and Gackt. The band members were known as troublemakers as they often started fights at local venues, usually between rival bands. They mainly performed locally in Kyoto.</p>
 
@@ -58,7 +59,7 @@ const Cains_feel = (0, import_index_ff5e144f.c)(($$result, $$props, $$bindings, 
 	<strong>Keyboard:</strong> Reiona
 </p>
 
-<figure>${(0, import_index_ff5e144f.v)(import_Image_1e7f5f8d.I, "Image").$$render($$result, {
+<figure>${(0, import_index_511eca88.v)(import_Image_892957b2.I, "Image").$$render($$result, {
     alt: "CAINS:FEEL 1995",
     class: "pb-4 mx-auto",
     src: band,
@@ -71,7 +72,7 @@ const Cains_feel = (0, import_index_ff5e144f.c)(($$result, $$props, $$bindings, 
 
 <p>They made a demo tape in 1994, of which there were two versions: green and brown.</p>
 
-<p>Whilst they recorded a lot of songs for these demo tapes, they only chose to include a couple. Some of the songs were later used by Gackt in his solo career (<em>etude</em> was used on <em>Love Letter</em>, <em>refrain</em> was renamed to <em>Solitude ~regret~</em> and performed during the ${(0, import_index_ff5e144f.v)(import_Link_e6a7895e.L, "Link").$$render($$result, {
+<p>Whilst they recorded a lot of songs for these demo tapes, they only chose to include a couple. Some of the songs were later used by Gackt in his solo career (<em>etude</em> was used on <em>Love Letter</em>, <em>refrain</em> was renamed to <em>Solitude ~regret~</em> and performed during the ${(0, import_index_511eca88.v)(import_Link_1d5c49d4.L, "Link").$$render($$result, {
     href: "https://www.youtube.com/watch?v=eRvHzl6ENhk"
   }, {}, {
     default: () => {
@@ -89,29 +90,29 @@ const Cains_feel = (0, import_index_ff5e144f.c)(($$result, $$props, $$bindings, 
 
 <h4>Green version:</h4>
 
-<figure style="${"width: 140px;"}">${(0, import_index_ff5e144f.v)(import_Image_1e7f5f8d.I, "Image").$$render($$result, {
+<figure style="${"width: 140px;"}">${(0, import_index_511eca88.v)(import_Image_892957b2.I, "Image").$$render($$result, {
     alt: "CAINS:FEEL 1994 demo tape open",
     class: "p-4 pt-0",
     src: tape,
     ratio: "138%"
   }, {}, {})}</figure>
 
-<ol class="${"list-decimal list-inside"}"><li>\uFF5Elie\uFF5E [${(0, import_index_ff5e144f.v)(import_Link_e6a7895e.L, "Link").$$render($$result, { href: "https://youtu.be/cVe9rssPA84" }, {}, {
+<ol class="${"list-decimal list-inside"}"><li>\uFF5Elie\uFF5E [${(0, import_index_511eca88.v)(import_Link_1d5c49d4.L, "Link").$$render($$result, { href: "https://youtu.be/cVe9rssPA84" }, {}, {
     default: () => {
       return `youtube`;
     }
   })}]</li>
-	<li>MARINE BLUE no kazeni dakarete (marine blue\u306E\u98A8\u306B\u62B1\u304B\u308C\u3066) [${(0, import_index_ff5e144f.v)(import_Link_e6a7895e.L, "Link").$$render($$result, { href: "https://youtu.be/A6CEeoU1KG4" }, {}, {
+	<li>MARINE BLUE no kazeni dakarete (marine blue\u306E\u98A8\u306B\u62B1\u304B\u308C\u3066) [${(0, import_index_511eca88.v)(import_Link_1d5c49d4.L, "Link").$$render($$result, { href: "https://youtu.be/A6CEeoU1KG4" }, {}, {
     default: () => {
       return `youtube`;
     }
   })}]</li>
-	<li>etude [${(0, import_index_ff5e144f.v)(import_Link_e6a7895e.L, "Link").$$render($$result, { href: "https://youtu.be/cvGPKVu3LPQ" }, {}, {
+	<li>etude [${(0, import_index_511eca88.v)(import_Link_1d5c49d4.L, "Link").$$render($$result, { href: "https://youtu.be/cvGPKVu3LPQ" }, {}, {
     default: () => {
       return `youtube`;
     }
-  })}] [${(0, import_index_ff5e144f.v)(import_Link_e6a7895e.L, "Link").$$render($$result, {
-    href: "downloads/etude.txt",
+  })}] [${(0, import_index_511eca88.v)(import_Link_1d5c49d4.L, "Link").$$render($$result, {
+    href: "/downloads/etude.txt",
     download: "etude lyric translation"
   }, {}, {
     default: () => {
@@ -121,7 +122,7 @@ const Cains_feel = (0, import_index_ff5e144f.c)(($$result, $$props, $$bindings, 
 
 <h4>Brown version:</h4>
 
-<figure>${(0, import_index_ff5e144f.v)(import_Image_1e7f5f8d.I, "Image").$$render($$result, {
+<figure>${(0, import_index_511eca88.v)(import_Image_892957b2.I, "Image").$$render($$result, {
     alt: "CAINS:FEEL 1994 demo tape brown rare version",
     class: "p-4 pt-0",
     width: "130px",
@@ -130,22 +131,22 @@ const Cains_feel = (0, import_index_ff5e144f.c)(($$result, $$props, $$bindings, 
   }, {}, {})}</figure>
 
 <ol class="${"list-decimal list-inside"}"><li>refrain</li>
-	<li>\uFF5Elie\uFF5E [${(0, import_index_ff5e144f.v)(import_Link_e6a7895e.L, "Link").$$render($$result, { href: "https://youtu.be/cVe9rssPA84" }, {}, {
+	<li>\uFF5Elie\uFF5E [${(0, import_index_511eca88.v)(import_Link_1d5c49d4.L, "Link").$$render($$result, { href: "https://youtu.be/cVe9rssPA84" }, {}, {
     default: () => {
       return `youtube`;
     }
   })}]</li>
-	<li>MARINE BLUE no kazeni dakarete (marine blue\u306E\u98A8\u306B\u62B1\u304B\u308C\u3066) [${(0, import_index_ff5e144f.v)(import_Link_e6a7895e.L, "Link").$$render($$result, { href: "https://youtu.be/A6CEeoU1KG4" }, {}, {
+	<li>MARINE BLUE no kazeni dakarete (marine blue\u306E\u98A8\u306B\u62B1\u304B\u308C\u3066) [${(0, import_index_511eca88.v)(import_Link_1d5c49d4.L, "Link").$$render($$result, { href: "https://youtu.be/A6CEeoU1KG4" }, {}, {
     default: () => {
       return `youtube`;
     }
   })}]</li>
-	<li>etude [${(0, import_index_ff5e144f.v)(import_Link_e6a7895e.L, "Link").$$render($$result, { href: "https://youtu.be/cvGPKVu3LPQ" }, {}, {
+	<li>etude [${(0, import_index_511eca88.v)(import_Link_1d5c49d4.L, "Link").$$render($$result, { href: "https://youtu.be/cvGPKVu3LPQ" }, {}, {
     default: () => {
       return `youtube`;
     }
-  })}] [${(0, import_index_ff5e144f.v)(import_Link_e6a7895e.L, "Link").$$render($$result, {
-    href: "downloads/etude.txt",
+  })}] [${(0, import_index_511eca88.v)(import_Link_1d5c49d4.L, "Link").$$render($$result, {
+    href: "/downloads/etude.txt",
     download: "etude lyric translation"
   }, {}, {
     default: () => {

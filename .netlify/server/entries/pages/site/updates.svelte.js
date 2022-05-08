@@ -20,38 +20,38 @@ __export(stdin_exports, {
   default: () => Updates
 });
 module.exports = __toCommonJS(stdin_exports);
-var import_index_ff5e144f = require("../../../chunks/index-ff5e144f.js");
-var import_Link_e6a7895e = require("../../../chunks/Link-e6a7895e.js");
-var import_store_699a49f6 = require("../../../chunks/store-699a49f6.js");
-var import_index_2061cac5 = require("../../../chunks/index-2061cac5.js");
+var import_index_511eca88 = require("../../../chunks/index-511eca88.js");
+var import_Link_1d5c49d4 = require("../../../chunks/Link-1d5c49d4.js");
+var import_store_57e59034 = require("../../../chunks/store-57e59034.js");
+var import_index_cea261f0 = require("../../../chunks/index-cea261f0.js");
 var updates_svelte_svelte_type_style_lang = "";
 const css = {
   code: "hr.svelte-1thul10{margin-top:0.5rem;margin-bottom:1rem;--tw-border-opacity:1;border-color:rgb(74 222 128 / var(--tw-border-opacity));opacity:0.25\n}",
   map: null
 };
-const Updates = (0, import_index_ff5e144f.c)(($$result, $$props, $$bindings, slots) => {
+const Updates = (0, import_index_511eca88.c)(($$result, $$props, $$bindings, slots) => {
   let $title, $$unsubscribe_title;
-  $$unsubscribe_title = (0, import_index_ff5e144f.a)(import_store_699a49f6.t, (value) => $title = value);
+  $$unsubscribe_title = (0, import_index_511eca88.a)(import_store_57e59034.t, (value) => $title = value);
   let { pageTitle = "Site Updates" } = $$props;
-  import_store_699a49f6.t.set(pageTitle);
+  import_store_57e59034.t.set(pageTitle);
   if ($$props.pageTitle === void 0 && $$bindings.pageTitle && pageTitle !== void 0)
     $$bindings.pageTitle(pageTitle);
   $$result.css.add(css);
   $$unsubscribe_title();
-  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_ff5e144f.e)($title)}</title>`, ""}`, ""}
+  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_511eca88.e)($title)}</title>`, ""}`, ""}
 
 
 
-<h2>${(0, import_index_ff5e144f.e)(pageTitle)}</h2>
+<h2>${(0, import_index_511eca88.e)(pageTitle)}</h2>
 
 <p><strong>18.05.21</strong><br>
-	Luscious have announced they&#39;re going to be doing another live performance on June 17th! It&#39;ll be at Club Phase Takadanobaba in Tokyo, and will be streamed on ${(0, import_index_ff5e144f.v)(import_Link_e6a7895e.L, "Link").$$render($$result, {
+	Luscious have announced they&#39;re going to be doing another live performance on June 17th! It&#39;ll be at Club Phase Takadanobaba in Tokyo, and will be streamed on ${(0, import_index_511eca88.v)(import_Link_1d5c49d4.L, "Link").$$render($$result, {
     href: "https://twitcasting.tv/chachamaru_yfcz"
   }, {}, {
     default: () => {
       return `TwitCasting`;
     }
-  })} again. For full details, see ${(0, import_index_ff5e144f.v)(import_Link_e6a7895e.L, "Link").$$render($$result, {
+  })} again. For full details, see ${(0, import_index_511eca88.v)(import_Link_1d5c49d4.L, "Link").$$render($$result, {
     href: "https://twitter.com/CHACHAMARU_YFCz/status/1394626299394625538"
   }, {}, {
     default: () => {
@@ -63,13 +63,13 @@ const Updates = (0, import_index_ff5e144f.c)(($$result, $$props, $$bindings, slo
 <hr class="${"border-b-1 svelte-1thul10"}">
 
 <p><strong>16.02.21</strong><br>
-	Ded Chaplin and Luscious are streaming two live performances on 17th and 18th February, from The Doors in Hatsudai. You can purchase tickets to watch the performances live through ${(0, import_index_ff5e144f.v)(import_Link_e6a7895e.L, "Link").$$render($$result, {
+	Ded Chaplin and Luscious are streaming two live performances on 17th and 18th February, from The Doors in Hatsudai. You can purchase tickets to watch the performances live through ${(0, import_index_511eca88.v)(import_Link_1d5c49d4.L, "Link").$$render($$result, {
     href: "https://twitcasting.tv/chachamaru_yfcz"
   }, {}, {
     default: () => {
       return `TwitCasting`;
     }
-  })}, which also gives you access to watch the stream recording up to 2 weeks from the original broadcast. See ${(0, import_index_ff5e144f.v)(import_Link_e6a7895e.L, "Link").$$render($$result, {
+  })}, which also gives you access to watch the stream recording up to 2 weeks from the original broadcast. See ${(0, import_index_511eca88.v)(import_Link_1d5c49d4.L, "Link").$$render($$result, {
     href: "https://twitter.com/CHACHAMARU_YFCz/status/1359381600425758722"
   }, {}, {
     default: () => {

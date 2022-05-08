@@ -17,27 +17,28 @@ var __copyProps = (to, from, except, desc) => {
 var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: true }), mod);
 var stdin_exports = {};
 __export(stdin_exports, {
-  default: () => You_gackt
+  default: () => You_gackt,
+  pageTitle: () => pageTitle,
+  prerender: () => prerender
 });
 module.exports = __toCommonJS(stdin_exports);
-var import_index_ff5e144f = require("../../../chunks/index-ff5e144f.js");
-var import_Link_e6a7895e = require("../../../chunks/Link-e6a7895e.js");
-var import_Image_1e7f5f8d = require("../../../chunks/Image-1e7f5f8d.js");
-var import_store_699a49f6 = require("../../../chunks/store-699a49f6.js");
+var import_index_511eca88 = require("../../../chunks/index-511eca88.js");
+var import_store_57e59034 = require("../../../chunks/store-57e59034.js");
+var import_Image_892957b2 = require("../../../chunks/Image-892957b2.js");
+var import_Link_1d5c49d4 = require("../../../chunks/Link-1d5c49d4.js");
+var import_index_cea261f0 = require("../../../chunks/index-cea261f0.js");
 var import_blurhash = require("blurhash");
-var import_index_2061cac5 = require("../../../chunks/index-2061cac5.js");
 var hana = "/_app/assets/hana-776a226e.png";
-const You_gackt = (0, import_index_ff5e144f.c)(($$result, $$props, $$bindings, slots) => {
+const prerender = true;
+let pageTitle = "You & Gackt";
+import_store_57e59034.t.set(pageTitle);
+const You_gackt = (0, import_index_511eca88.c)(($$result, $$props, $$bindings, slots) => {
   let $title, $$unsubscribe_title;
-  $$unsubscribe_title = (0, import_index_ff5e144f.a)(import_store_699a49f6.t, (value) => $title = value);
-  let { pageTitle = "You & Gackt" } = $$props;
-  import_store_699a49f6.t.set(pageTitle);
-  if ($$props.pageTitle === void 0 && $$bindings.pageTitle && pageTitle !== void 0)
-    $$bindings.pageTitle(pageTitle);
+  $$unsubscribe_title = (0, import_index_511eca88.a)(import_store_57e59034.t, (value) => $title = value);
   $$unsubscribe_title();
-  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_ff5e144f.e)($title)}</title>`, ""}`, ""}
+  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_511eca88.e)($title)}</title>`, ""}`, ""}
 
-<h2>${(0, import_index_ff5e144f.e)(pageTitle)}</h2>
+<h2>${(0, import_index_511eca88.e)(pageTitle)}</h2>
 
 <h3>Meeting Gackt</h3>
 
@@ -53,7 +54,7 @@ const You_gackt = (0, import_index_ff5e144f.c)(($$result, $$props, $$bindings, s
 
 <h3>Christmas Eve Street Performance in 1993</h3>
 
-<figure>${(0, import_index_ff5e144f.v)(import_Image_1e7f5f8d.I, "Image").$$render($$result, {
+<figure>${(0, import_index_511eca88.v)(import_Image_892957b2.I, "Image").$$render($$result, {
     alt: "Gackt and You performance at Christmas",
     class: "p-4 pt-0",
     width: "200",
@@ -68,7 +69,7 @@ const You_gackt = (0, import_index_ff5e144f.c)(($$result, $$props, $$bindings, s
 
 <iframe title="${"hanashitaku wa nai"}" src="${"https://www.youtube.com/embed/8v2FPRve0S4"}" frameborder="${"0"}" allow="${"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"}" allowfullscreen class="${"mb-4"}"></iframe>
 
-<p>Gackt has also described this night in an interview from <em>Vicious 08.1998</em>. Ryuik has scanned and translated ${(0, import_index_ff5e144f.v)(import_Link_e6a7895e.L, "Link").$$render($$result, {
+<p>Gackt has also described this night in an interview from <em>Vicious 08.1998</em>. Ryuik has scanned and translated ${(0, import_index_511eca88.v)(import_Link_1d5c49d4.L, "Link").$$render($$result, {
     href: "https://ryuik.livejournal.com/218356.html"
   }, {}, {
     default: () => {
@@ -106,7 +107,7 @@ const You_gackt = (0, import_index_ff5e144f.c)(($$result, $$props, $$bindings, s
 	<li><em>ANOTHER WORLD</em> was written while on holiday together in Hawaii after they went for a drive in the rain.</li>
 	<li>Gackt has said that when he is with You he can truly relax and be himself, and when they&#39;re together it&#39;s more like two people merging as one.</li>
 	<li>When asked about their relationship, You has said that he is like the ocean and Gackt is the moon. You likes to be calm and careful, and do everything at his own pace, while supporting Gackt. And Gackt is a beacon, guiding the way and inspiring him.</li>
-	<li>Gackt talked about You a lot on his ${(0, import_index_ff5e144f.v)(import_Link_e6a7895e.L, "Link").$$render($$result, { href: "http://allnightnippon.com/gackt" }, {}, {
+	<li>Gackt talked about You a lot on his ${(0, import_index_511eca88.v)(import_Link_1d5c49d4.L, "Link").$$render($$result, { href: "http://allnightnippon.com/gackt" }, {}, {
     default: () => {
       return `radio show`;
     }

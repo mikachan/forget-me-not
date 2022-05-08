@@ -17,51 +17,52 @@ var __copyProps = (to, from, except, desc) => {
 var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: true }), mod);
 var stdin_exports = {};
 __export(stdin_exports, {
-  default: () => Appearances
+  default: () => Appearances,
+  pageTitle: () => pageTitle,
+  prerender: () => prerender
 });
 module.exports = __toCommonJS(stdin_exports);
-var import_index_ff5e144f = require("../../../chunks/index-ff5e144f.js");
-var import_Link_e6a7895e = require("../../../chunks/Link-e6a7895e.js");
-var import_store_699a49f6 = require("../../../chunks/store-699a49f6.js");
-var import_index_2061cac5 = require("../../../chunks/index-2061cac5.js");
-const Appearances = (0, import_index_ff5e144f.c)(($$result, $$props, $$bindings, slots) => {
+var import_index_511eca88 = require("../../../chunks/index-511eca88.js");
+var import_store_57e59034 = require("../../../chunks/store-57e59034.js");
+var import_Link_1d5c49d4 = require("../../../chunks/Link-1d5c49d4.js");
+var import_index_cea261f0 = require("../../../chunks/index-cea261f0.js");
+const prerender = true;
+let pageTitle = "Appearances";
+import_store_57e59034.t.set(pageTitle);
+const Appearances = (0, import_index_511eca88.c)(($$result, $$props, $$bindings, slots) => {
   let $title, $$unsubscribe_title;
-  $$unsubscribe_title = (0, import_index_ff5e144f.a)(import_store_699a49f6.t, (value) => $title = value);
-  let { pageTitle = "Appearances" } = $$props;
-  import_store_699a49f6.t.set(pageTitle);
-  if ($$props.pageTitle === void 0 && $$bindings.pageTitle && pageTitle !== void 0)
-    $$bindings.pageTitle(pageTitle);
+  $$unsubscribe_title = (0, import_index_511eca88.a)(import_store_57e59034.t, (value) => $title = value);
   $$unsubscribe_title();
-  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_ff5e144f.e)($title)}</title>`, ""}`, ""}
+  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_511eca88.e)($title)}</title>`, ""}`, ""}
 
-<h2>${(0, import_index_ff5e144f.e)(pageTitle)}</h2>
+<h2>${(0, import_index_511eca88.e)(pageTitle)}</h2>
 
 <h3>DVDs/Videos</h3>
 
-<p>Alongside <a href="${"discography/full-discography#live-music-dvds"}">live tour DVDs</a>, You has also appeared in the following:</p>
+<p>Alongside <a href="${"/discography/full-discography#live-music-dvds"}">live tour DVDs</a>, You has also appeared in the following:</p>
 
-<ul><li>He played <em>Jun</em> in ${(0, import_index_ff5e144f.v)(import_Link_e6a7895e.L, "Link").$$render($$result, {
+<ul><li>He played <em>Jun</em> in ${(0, import_index_511eca88.v)(import_Link_1d5c49d4.L, "Link").$$render($$result, {
     href: "https://www.imdb.com/title/tt0365514/"
   }, {}, {
     default: () => {
       return `Moon Child`;
     }
   })} (2003)</li>
-	<li><em>Life</em> short film, from Gackt&#39;s <em>Soyokaze</em> VHS (2002) <a href="${"discography/life-short-film"}">Read more\xA0\u2192</a></li>
+	<li><em>Life</em> short film, from Gackt&#39;s <em>Soyokaze</em> VHS (2002) <a href="${"/discography/life-short-film"}">Read more\xA0\u2192</a></li>
 	<li>Gackt PVs: <em>Mirror</em>, <em>ANOTHER WORLD</em>, <em>Juunigatsu no love song</em>, <em>Black Stone</em> &amp; <em>Redemption</em></li>
 	<li>Yellow Fried Chickenz PVs: <em>All My Love</em> &amp; <em>Mata koko de Aimashou</em></li>
 	<li>Gackt&#39;s <em>Gekkou</em> DVD (2003)</li>
-	<li>Phone call on the radio between You and Gackt, from the <em>nine*nine</em> box set (2008) <a href="${"discography/nine-nine-radio"}">Read more\xA0\u2192</a></li>
+	<li>Phone call on the radio between You and Gackt, from the <em>nine*nine</em> box set (2008) <a href="${"/discography/nine-nine-radio"}">Read more\xA0\u2192</a></li>
 	<li>Gackt&#39;s Platinum Boxes (DVDs)</li>
-	<li>Gackt and You gave advice on bisexual relationships on NicoNico from 2015.07.01 (Subbed video on ${(0, import_index_ff5e144f.v)(import_Link_e6a7895e.L, "Link").$$render($$result, { href: "https://youtu.be/f4Tdz24iRPI" }, {}, {
+	<li>Gackt and You gave advice on bisexual relationships on NicoNico from 2015.07.01 (Subbed video on ${(0, import_index_511eca88.v)(import_Link_1d5c49d4.L, "Link").$$render($$result, { href: "https://youtu.be/f4Tdz24iRPI" }, {}, {
     default: () => {
       return `Youtube from Yuzu Translations`;
     }
-  })}. There&#39;s two other parts/sections to this video ${(0, import_index_ff5e144f.v)(import_Link_e6a7895e.L, "Link").$$render($$result, { href: "https://youtu.be/Z9W-f5qJFGc" }, {}, {
+  })}. There&#39;s two other parts/sections to this video ${(0, import_index_511eca88.v)(import_Link_1d5c49d4.L, "Link").$$render($$result, { href: "https://youtu.be/Z9W-f5qJFGc" }, {}, {
     default: () => {
       return `here`;
     }
-  })} and ${(0, import_index_ff5e144f.v)(import_Link_e6a7895e.L, "Link").$$render($$result, { href: "https://youtu.be/-ogP-Vc2SUA" }, {}, {
+  })} and ${(0, import_index_511eca88.v)(import_Link_1d5c49d4.L, "Link").$$render($$result, { href: "https://youtu.be/-ogP-Vc2SUA" }, {}, {
     default: () => {
       return `here`;
     }
@@ -87,12 +88,12 @@ const Appearances = (0, import_index_ff5e144f.c)(($$result, $$props, $$bindings,
 <ul><li>Gackt Dears fan club videos</li>
 	<li>Interviews with Gackt</li>
 	<li>Gackt&#39;s radio show</li>
-	<li>Modeling jewelery for ${(0, import_index_ff5e144f.v)(import_Link_e6a7895e.L, "Link").$$render($$result, { href: "http://h-darts.com" }, {}, {
+	<li>Modeling jewelery for ${(0, import_index_511eca88.v)(import_Link_1d5c49d4.L, "Link").$$render($$result, { href: "http://h-darts.com" }, {}, {
     default: () => {
       return `h-Darts`;
     }
   })}</li>
-	<li>${(0, import_index_ff5e144f.v)(import_Link_e6a7895e.L, "Link").$$render($$result, {
+	<li>${(0, import_index_511eca88.v)(import_Link_1d5c49d4.L, "Link").$$render($$result, {
     href: "http://www.executivemonthly.com/english/about/index.php"
   }, {}, {
     default: () => {

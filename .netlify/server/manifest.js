@@ -29,7 +29,7 @@ const manifest = {
   assets: new Set(["_redirects", "downloads/etude.txt", "downloads/life-soyokaze.mp4", "favicon.png", "robots.txt"]),
   _: {
     mime: { ".txt": "text/plain", ".mp4": "video/mp4", ".png": "image/png" },
-    entry: { "file": "start-e8b3eb41.js", "js": ["start-e8b3eb41.js", "chunks/vendor-5060e924.js"], "css": ["assets/start-c446e5f0.css", "assets/vendor-53181f56.css"] },
+    entry: { "file": "start-6acdcbca.js", "js": ["start-6acdcbca.js", "chunks/vendor-5060e924.js"], "css": ["assets/start-c446e5f0.css", "assets/vendor-53181f56.css"] },
     nodes: [
       () => Promise.resolve().then(() => __toModule(require("./nodes/0.js"))),
       () => Promise.resolve().then(() => __toModule(require("./nodes/1.js"))),

@@ -1,56 +1,52 @@
-var __create = Object.create;
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
 var __getOwnPropNames = Object.getOwnPropertyNames;
-var __getProtoOf = Object.getPrototypeOf;
 var __hasOwnProp = Object.prototype.hasOwnProperty;
-var __markAsModule = (target) => __defProp(target, "__esModule", { value: true });
 var __export = (target, all) => {
-  __markAsModule(target);
   for (var name in all)
     __defProp(target, name, { get: all[name], enumerable: true });
 };
-var __reExport = (target, module2, desc) => {
-  if (module2 && typeof module2 === "object" || typeof module2 === "function") {
-    for (let key of __getOwnPropNames(module2))
-      if (!__hasOwnProp.call(target, key) && key !== "default")
-        __defProp(target, key, { get: () => module2[key], enumerable: !(desc = __getOwnPropDesc(module2, key)) || desc.enumerable });
+var __copyProps = (to, from, except, desc) => {
+  if (from && typeof from === "object" || typeof from === "function") {
+    for (let key of __getOwnPropNames(from))
+      if (!__hasOwnProp.call(to, key) && key !== except)
+        __defProp(to, key, { get: () => from[key], enumerable: !(desc = __getOwnPropDesc(from, key)) || desc.enumerable });
   }
-  return target;
+  return to;
 };
-var __toModule = (module2) => {
-  return __reExport(__markAsModule(__defProp(module2 != null ? __create(__getProtoOf(module2)) : {}, "default", module2 && module2.__esModule && "default" in module2 ? { get: () => module2.default, enumerable: true } : { value: module2, enumerable: true })), module2);
-};
-__export(exports, {
+var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: true }), mod);
+var stdin_exports = {};
+__export(stdin_exports, {
   default: () => Full_discography
 });
-var import_index_9861661c = __toModule(require("../../../chunks/index-9861661c.js"));
-var import_store_76ccc05c = __toModule(require("../../../chunks/store-76ccc05c.js"));
-var import_index_041375b7 = __toModule(require("../../../chunks/index-041375b7.js"));
+module.exports = __toCommonJS(stdin_exports);
+var import_index_ff5e144f = require("../../../chunks/index-ff5e144f.js");
+var import_store_699a49f6 = require("../../../chunks/store-699a49f6.js");
+var import_index_2061cac5 = require("../../../chunks/index-2061cac5.js");
 var fullDiscography_svelte_svelte_type_style_lang = "";
 const css = {
   code: ".table-container.svelte-14x1pov.svelte-14x1pov{position:relative\n}.table-scroll.svelte-14x1pov.svelte-14x1pov{width:100%;overflow-x:auto;padding-right:5rem\n}.table-fade.svelte-14x1pov.svelte-14x1pov{position:absolute;top:0px;bottom:0px;right:0px;z-index:50;width:5rem;background-image:linear-gradient(to right, var(--tw-gradient-stops));--tw-gradient-from:transparent;--tw-gradient-stops:var(--tw-gradient-from), var(--tw-gradient-to, rgb(0 0 0 / 0));--tw-gradient-to:#fff\n}@media(min-width: 768px){.table-fade.svelte-14x1pov.svelte-14x1pov{display:none\n    }}table.svelte-14x1pov.svelte-14x1pov{margin-bottom:1rem;font-size:0.875rem;line-height:1.25rem\n}th.svelte-14x1pov.svelte-14x1pov{--tw-bg-opacity:1;background-color:rgb(220 252 231 / var(--tw-bg-opacity))\n}th.svelte-14x1pov.svelte-14x1pov,td.svelte-14x1pov.svelte-14x1pov{border-width:1px;--tw-border-opacity:1;border-color:rgb(34 197 94 / var(--tw-border-opacity));padding-left:1rem;padding-right:1rem;padding-top:0.5rem;padding-bottom:0.5rem\n}td.svelte-14x1pov em.svelte-14x1pov{font-size:0.75rem;line-height:1rem\n}",
   map: null
 };
-const Full_discography = (0, import_index_9861661c.c)(($$result, $$props, $$bindings, slots) => {
+const Full_discography = (0, import_index_ff5e144f.c)(($$result, $$props, $$bindings, slots) => {
   let $title, $$unsubscribe_title;
-  $$unsubscribe_title = (0, import_index_9861661c.a)(import_store_76ccc05c.t, (value) => $title = value);
+  $$unsubscribe_title = (0, import_index_ff5e144f.a)(import_store_699a49f6.t, (value) => $title = value);
   let albumsTable, albumsFade, singlesTable, singlesFade, dvdsTable, dvdsFade;
   let { pageTitle = "Full Discography" } = $$props;
-  import_store_76ccc05c.t.set(pageTitle);
+  import_store_699a49f6.t.set(pageTitle);
   if ($$props.pageTitle === void 0 && $$bindings.pageTitle && pageTitle !== void 0)
     $$bindings.pageTitle(pageTitle);
   $$result.css.add(css);
   $$unsubscribe_title();
-  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_9861661c.e)($title)}</title>`, ""}`, ""}
+  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_ff5e144f.e)($title)}</title>`, ""}`, ""}
 
 
 
-<h2>${(0, import_index_9861661c.e)(pageTitle)}</h2>
+<h2>${(0, import_index_ff5e144f.e)(pageTitle)}</h2>
 
 <h3 id="${"studio-albums"}">Studio Albums</h3>
-<div class="${"table-container svelte-14x1pov"}"><div class="${"table-fade svelte-14x1pov"}"${(0, import_index_9861661c.b)("this", albumsFade, 0)}></div>
-	<div class="${"table-scroll svelte-14x1pov"}"${(0, import_index_9861661c.b)("this", albumsTable, 0)}><table class="${"svelte-14x1pov"}"><thead><tr><th class="${"svelte-14x1pov"}">Year</th>
+<div class="${"table-container svelte-14x1pov"}"><div class="${"table-fade svelte-14x1pov"}"${(0, import_index_ff5e144f.b)("this", albumsFade, 0)}></div>
+	<div class="${"table-scroll svelte-14x1pov"}"${(0, import_index_ff5e144f.b)("this", albumsTable, 0)}><table class="${"svelte-14x1pov"}"><thead><tr><th class="${"svelte-14x1pov"}">Year</th>
 					<th class="${"svelte-14x1pov"}">Title</th>
 					<th class="${"svelte-14x1pov"}">Artist</th>
 					<th class="${"svelte-14x1pov"}">Credits</th></tr></thead>
@@ -116,8 +112,8 @@ const Full_discography = (0, import_index_9861661c.c)(($$result, $$props, $$bind
 					<td class="${"svelte-14x1pov"}">Guitar, violin,<br>arrangement, programming</td></tr></tbody></table></div></div>
 
 <h3 id="${"singles"}">Singles</h3>
-<div class="${"table-container svelte-14x1pov"}"><div class="${"table-fade svelte-14x1pov"}"${(0, import_index_9861661c.b)("this", singlesFade, 0)}></div>
-	<div class="${"table-scroll svelte-14x1pov"}"${(0, import_index_9861661c.b)("this", singlesTable, 0)}><table class="${"svelte-14x1pov"}"><thead><tr><th class="${"svelte-14x1pov"}">Year</th>
+<div class="${"table-container svelte-14x1pov"}"><div class="${"table-fade svelte-14x1pov"}"${(0, import_index_ff5e144f.b)("this", singlesFade, 0)}></div>
+	<div class="${"table-scroll svelte-14x1pov"}"${(0, import_index_ff5e144f.b)("this", singlesTable, 0)}><table class="${"svelte-14x1pov"}"><thead><tr><th class="${"svelte-14x1pov"}">Year</th>
 					<th class="${"svelte-14x1pov"}">Title</th>
 					<th class="${"svelte-14x1pov"}">Artist</th>
 					<th class="${"svelte-14x1pov"}">Credits</th></tr></thead>
@@ -159,8 +155,8 @@ const Full_discography = (0, import_index_9861661c.c)(($$result, $$props, $$bind
 					<td class="${"svelte-14x1pov"}">Guitar, writer</td></tr></tbody></table></div></div>
 
 <h3 id="${"live-music-dvds"}">Live Music DVDs</h3>
-<div class="${"table-container svelte-14x1pov"}"><div class="${"table-fade svelte-14x1pov"}"${(0, import_index_9861661c.b)("this", dvdsFade, 0)}></div>
-	<div class="${"table-scroll svelte-14x1pov"}"${(0, import_index_9861661c.b)("this", dvdsTable, 0)}><table class="${"svelte-14x1pov"}"><thead><tr><th class="${"svelte-14x1pov"}">Year</th>
+<div class="${"table-container svelte-14x1pov"}"><div class="${"table-fade svelte-14x1pov"}"${(0, import_index_ff5e144f.b)("this", dvdsFade, 0)}></div>
+	<div class="${"table-scroll svelte-14x1pov"}"${(0, import_index_ff5e144f.b)("this", dvdsTable, 0)}><table class="${"svelte-14x1pov"}"><thead><tr><th class="${"svelte-14x1pov"}">Year</th>
 					<th class="${"svelte-14x1pov"}">Title</th>
 					<th class="${"svelte-14x1pov"}">Artist</th>
 					<th class="${"svelte-14x1pov"}">Credits</th></tr></thead>

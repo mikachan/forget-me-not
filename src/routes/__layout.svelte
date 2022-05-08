@@ -2,7 +2,7 @@
 	import { dev } from '$app/env';
 	import { page } from '$app/stores';
     import { onMount } from 'svelte';
-	import { GoogleAnalytics } from '@beyonk/svelte-google-analytics'
+	import { GoogleAnalytics } from '@beyonk/svelte-google-analytics';
 	import Nav from '$lib/Nav.svelte';
 	import NavMobile from '$lib/NavMobile.svelte';
 	import Link from '$lib/Link.svelte';

@@ -4,238 +4,307 @@ var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
 var __getOwnPropNames = Object.getOwnPropertyNames;
 var __getProtoOf = Object.getPrototypeOf;
 var __hasOwnProp = Object.prototype.hasOwnProperty;
-var __markAsModule = (target) => __defProp(target, "__esModule", { value: true });
 var __export = (target, all) => {
-  __markAsModule(target);
   for (var name in all)
     __defProp(target, name, { get: all[name], enumerable: true });
 };
-var __reExport = (target, module2, desc) => {
-  if (module2 && typeof module2 === "object" || typeof module2 === "function") {
-    for (let key of __getOwnPropNames(module2))
-      if (!__hasOwnProp.call(target, key) && key !== "default")
-        __defProp(target, key, { get: () => module2[key], enumerable: !(desc = __getOwnPropDesc(module2, key)) || desc.enumerable });
+var __copyProps = (to, from, except, desc) => {
+  if (from && typeof from === "object" || typeof from === "function") {
+    for (let key of __getOwnPropNames(from))
+      if (!__hasOwnProp.call(to, key) && key !== except)
+        __defProp(to, key, { get: () => from[key], enumerable: !(desc = __getOwnPropDesc(from, key)) || desc.enumerable });
   }
-  return target;
+  return to;
 };
-var __toModule = (module2) => {
-  return __reExport(__markAsModule(__defProp(module2 != null ? __create(__getProtoOf(module2)) : {}, "default", module2 && module2.__esModule && "default" in module2 ? { get: () => module2.default, enumerable: true } : { value: module2, enumerable: true })), module2);
-};
-__export(exports, {
+var __toESM = (mod, isNodeMode, target) => (target = mod != null ? __create(__getProtoOf(mod)) : {}, __copyProps(isNodeMode || !mod || !mod.__esModule ? __defProp(target, "default", { value: mod, enumerable: true }) : target, mod));
+var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: true }), mod);
+var stdin_exports = {};
+__export(stdin_exports, {
   manifest: () => manifest
 });
+module.exports = __toCommonJS(stdin_exports);
 const manifest = {
   appDir: "_app",
-  assets: new Set(["_redirects", "downloads/etude.txt", "downloads/life-soyokaze.mp4", "favicon.png", "robots.txt"]),
+  assets: /* @__PURE__ */ new Set(["_redirects", "downloads/etude.txt", "downloads/life-soyokaze.mp4", "favicon.png", "robots.txt"]),
+  mimeTypes: { ".txt": "text/plain", ".mp4": "video/mp4", ".png": "image/png" },
   _: {
-    mime: { ".txt": "text/plain", ".mp4": "video/mp4", ".png": "image/png" },
-    entry: { "file": "start-6acdcbca.js", "js": ["start-6acdcbca.js", "chunks/vendor-5060e924.js"], "css": ["assets/start-c446e5f0.css", "assets/vendor-53181f56.css"] },
+    entry: { "file": "start-545e6fb9.js", "js": ["start-545e6fb9.js", "chunks/index-981bb7d4.js", "chunks/index-9ae8fc66.js"], "css": [] },
     nodes: [
-      () => Promise.resolve().then(() => __toModule(require("./nodes/0.js"))),
-      () => Promise.resolve().then(() => __toModule(require("./nodes/1.js"))),
-      () => Promise.resolve().then(() => __toModule(require("./nodes/2.js"))),
-      () => Promise.resolve().then(() => __toModule(require("./nodes/3.js"))),
-      () => Promise.resolve().then(() => __toModule(require("./nodes/4.js"))),
-      () => Promise.resolve().then(() => __toModule(require("./nodes/5.js"))),
-      () => Promise.resolve().then(() => __toModule(require("./nodes/6.js"))),
-      () => Promise.resolve().then(() => __toModule(require("./nodes/7.js"))),
-      () => Promise.resolve().then(() => __toModule(require("./nodes/8.js"))),
-      () => Promise.resolve().then(() => __toModule(require("./nodes/9.js"))),
-      () => Promise.resolve().then(() => __toModule(require("./nodes/10.js"))),
-      () => Promise.resolve().then(() => __toModule(require("./nodes/11.js"))),
-      () => Promise.resolve().then(() => __toModule(require("./nodes/12.js"))),
-      () => Promise.resolve().then(() => __toModule(require("./nodes/13.js"))),
-      () => Promise.resolve().then(() => __toModule(require("./nodes/14.js"))),
-      () => Promise.resolve().then(() => __toModule(require("./nodes/15.js"))),
-      () => Promise.resolve().then(() => __toModule(require("./nodes/16.js"))),
-      () => Promise.resolve().then(() => __toModule(require("./nodes/17.js"))),
-      () => Promise.resolve().then(() => __toModule(require("./nodes/18.js"))),
-      () => Promise.resolve().then(() => __toModule(require("./nodes/19.js"))),
-      () => Promise.resolve().then(() => __toModule(require("./nodes/20.js"))),
-      () => Promise.resolve().then(() => __toModule(require("./nodes/21.js"))),
-      () => Promise.resolve().then(() => __toModule(require("./nodes/22.js")))
+      () => Promise.resolve().then(() => __toESM(require("./nodes/0.js"))),
+      () => Promise.resolve().then(() => __toESM(require("./nodes/1.js"))),
+      () => Promise.resolve().then(() => __toESM(require("./nodes/10.js"))),
+      () => Promise.resolve().then(() => __toESM(require("./nodes/3.js"))),
+      () => Promise.resolve().then(() => __toESM(require("./nodes/4.js"))),
+      () => Promise.resolve().then(() => __toESM(require("./nodes/7.js"))),
+      () => Promise.resolve().then(() => __toESM(require("./nodes/14.js"))),
+      () => Promise.resolve().then(() => __toESM(require("./nodes/21.js"))),
+      () => Promise.resolve().then(() => __toESM(require("./nodes/22.js"))),
+      () => Promise.resolve().then(() => __toESM(require("./nodes/2.js"))),
+      () => Promise.resolve().then(() => __toESM(require("./nodes/5.js"))),
+      () => Promise.resolve().then(() => __toESM(require("./nodes/6.js"))),
+      () => Promise.resolve().then(() => __toESM(require("./nodes/8.js"))),
+      () => Promise.resolve().then(() => __toESM(require("./nodes/9.js"))),
+      () => Promise.resolve().then(() => __toESM(require("./nodes/11.js"))),
+      () => Promise.resolve().then(() => __toESM(require("./nodes/12.js"))),
+      () => Promise.resolve().then(() => __toESM(require("./nodes/13.js"))),
+      () => Promise.resolve().then(() => __toESM(require("./nodes/15.js"))),
+      () => Promise.resolve().then(() => __toESM(require("./nodes/16.js"))),
+      () => Promise.resolve().then(() => __toESM(require("./nodes/17.js"))),
+      () => Promise.resolve().then(() => __toESM(require("./nodes/18.js"))),
+      () => Promise.resolve().then(() => __toESM(require("./nodes/19.js"))),
+      () => Promise.resolve().then(() => __toESM(require("./nodes/20.js")))
     ],
     routes: [
       {
         type: "page",
+        id: "",
         pattern: /^\/$/,
-        params: null,
+        names: [],
+        types: [],
         path: "/",
+        shadow: null,
         a: [0, 2],
         b: [1]
       },
       {
+        type: "endpoint",
+        id: "todos.json",
+        pattern: /^\/todos\.json$/,
+        names: [],
+        types: [],
+        load: () => Promise.resolve().then(() => __toESM(require("./entries/endpoints/todos/index.json.ts.js")))
+      },
+      {
         type: "page",
-        pattern: /^\/music-career\/?$/,
-        params: null,
-        path: "/music-career",
+        id: "about-you",
+        pattern: /^\/about-you\/?$/,
+        names: [],
+        types: [],
+        path: "/about-you",
+        shadow: null,
         a: [0, 3],
         b: [1]
       },
       {
         type: "page",
-        pattern: /^\/music-career\/birthday-2003\/?$/,
-        params: null,
-        path: "/music-career/birthday-2003",
+        id: "about",
+        pattern: /^\/about\/?$/,
+        names: [],
+        types: [],
+        path: "/about",
+        shadow: null,
         a: [0, 4],
         b: [1]
       },
       {
         type: "page",
-        pattern: /^\/music-career\/cains-feel\/?$/,
-        params: null,
-        path: "/music-career/cains-feel",
+        id: "discography",
+        pattern: /^\/discography\/?$/,
+        names: [],
+        types: [],
+        path: "/discography",
+        shadow: null,
         a: [0, 5],
         b: [1]
       },
       {
         type: "page",
-        pattern: /^\/music-career\/you-gackt\/?$/,
-        params: null,
-        path: "/music-career/you-gackt",
+        id: "music-career",
+        pattern: /^\/music-career\/?$/,
+        names: [],
+        types: [],
+        path: "/music-career",
+        shadow: null,
         a: [0, 6],
         b: [1]
       },
       {
         type: "page",
-        pattern: /^\/music-career\/gacktjob\/?$/,
-        params: null,
-        path: "/music-career/gacktjob",
+        id: "todos",
+        pattern: /^\/todos\/?$/,
+        names: [],
+        types: [],
+        path: "/todos",
+        shadow: null,
         a: [0, 7],
         b: [1]
       },
       {
         type: "page",
-        pattern: /^\/music-career\/maracas\/?$/,
-        params: null,
-        path: "/music-career/maracas",
+        id: "where-to-buy",
+        pattern: /^\/where-to-buy\/?$/,
+        names: [],
+        types: [],
+        path: "/where-to-buy",
+        shadow: null,
         a: [0, 8],
         b: [1]
       },
       {
         type: "page",
-        pattern: /^\/music-career\/sqf\/?$/,
-        params: null,
-        path: "/music-career/sqf",
+        id: "about-you/designs",
+        pattern: /^\/about-you\/designs\/?$/,
+        names: [],
+        types: [],
+        path: "/about-you/designs",
+        shadow: null,
         a: [0, 9],
         b: [1]
       },
       {
         type: "page",
-        pattern: /^\/where-to-buy\/?$/,
-        params: null,
-        path: "/where-to-buy",
+        id: "discography/appearances",
+        pattern: /^\/discography\/appearances\/?$/,
+        names: [],
+        types: [],
+        path: "/discography/appearances",
+        shadow: null,
         a: [0, 10],
         b: [1]
       },
       {
         type: "page",
-        pattern: /^\/discography\/?$/,
-        params: null,
-        path: "/discography",
+        id: "discography/full-discography",
+        pattern: /^\/discography\/full-discography\/?$/,
+        names: [],
+        types: [],
+        path: "/discography/full-discography",
+        shadow: null,
         a: [0, 11],
         b: [1]
       },
       {
         type: "page",
-        pattern: /^\/discography\/full-discography\/?$/,
-        params: null,
-        path: "/discography/full-discography",
+        id: "discography/life-short-film",
+        pattern: /^\/discography\/life-short-film\/?$/,
+        names: [],
+        types: [],
+        path: "/discography/life-short-film",
+        shadow: null,
         a: [0, 12],
         b: [1]
       },
       {
         type: "page",
-        pattern: /^\/discography\/life-short-film\/?$/,
-        params: null,
-        path: "/discography/life-short-film",
+        id: "discography/nine-nine-radio",
+        pattern: /^\/discography\/nine-nine-radio\/?$/,
+        names: [],
+        types: [],
+        path: "/discography/nine-nine-radio",
+        shadow: null,
         a: [0, 13],
         b: [1]
       },
       {
         type: "page",
-        pattern: /^\/discography\/nine-nine-radio\/?$/,
-        params: null,
-        path: "/discography/nine-nine-radio",
+        id: "music-career/birthday-2003",
+        pattern: /^\/music-career\/birthday-2003\/?$/,
+        names: [],
+        types: [],
+        path: "/music-career/birthday-2003",
+        shadow: null,
         a: [0, 14],
         b: [1]
       },
       {
         type: "page",
-        pattern: /^\/discography\/appearances\/?$/,
-        params: null,
-        path: "/discography/appearances",
+        id: "music-career/cains-feel",
+        pattern: /^\/music-career\/cains-feel\/?$/,
+        names: [],
+        types: [],
+        path: "/music-career/cains-feel",
+        shadow: null,
         a: [0, 15],
         b: [1]
       },
       {
         type: "page",
-        pattern: /^\/about-you\/?$/,
-        params: null,
-        path: "/about-you",
+        id: "music-career/gacktjob",
+        pattern: /^\/music-career\/gacktjob\/?$/,
+        names: [],
+        types: [],
+        path: "/music-career/gacktjob",
+        shadow: null,
         a: [0, 16],
         b: [1]
       },
       {
         type: "page",
-        pattern: /^\/about-you\/designs\/?$/,
-        params: null,
-        path: "/about-you/designs",
+        id: "music-career/maracas",
+        pattern: /^\/music-career\/maracas\/?$/,
+        names: [],
+        types: [],
+        path: "/music-career/maracas",
+        shadow: null,
         a: [0, 17],
         b: [1]
       },
       {
         type: "page",
-        pattern: /^\/about\/?$/,
-        params: null,
-        path: "/about",
+        id: "music-career/sqf",
+        pattern: /^\/music-career\/sqf\/?$/,
+        names: [],
+        types: [],
+        path: "/music-career/sqf",
+        shadow: null,
         a: [0, 18],
         b: [1]
       },
       {
-        type: "endpoint",
-        pattern: /^\/todos\.json$/,
-        params: null,
-        load: () => Promise.resolve().then(() => __toModule(require("./entries/endpoints/todos/index.json.ts.js")))
-      },
-      {
         type: "page",
-        pattern: /^\/todos\/?$/,
-        params: null,
-        path: "/todos",
+        id: "music-career/you-gackt",
+        pattern: /^\/music-career\/you-gackt\/?$/,
+        names: [],
+        types: [],
+        path: "/music-career/you-gackt",
+        shadow: null,
         a: [0, 19],
         b: [1]
       },
       {
-        type: "endpoint",
-        pattern: /^\/todos\/([^/]+?)\.json$/,
-        params: (m) => ({ uid: m[1] }),
-        load: () => Promise.resolve().then(() => __toModule(require("./entries/endpoints/todos/_uid_.json.ts.js")))
-      },
-      {
         type: "page",
+        id: "site/history",
         pattern: /^\/site\/history\/?$/,
-        params: null,
+        names: [],
+        types: [],
         path: "/site/history",
+        shadow: null,
         a: [0, 20],
         b: [1]
       },
       {
         type: "page",
-        pattern: /^\/site\/updates\/?$/,
-        params: null,
-        path: "/site/updates",
+        id: "site/thanks",
+        pattern: /^\/site\/thanks\/?$/,
+        names: [],
+        types: [],
+        path: "/site/thanks",
+        shadow: null,
         a: [0, 21],
         b: [1]
       },
       {
         type: "page",
-        pattern: /^\/site\/thanks\/?$/,
-        params: null,
-        path: "/site/thanks",
+        id: "site/updates",
+        pattern: /^\/site\/updates\/?$/,
+        names: [],
+        types: [],
+        path: "/site/updates",
+        shadow: null,
         a: [0, 22],
         b: [1]
+      },
+      {
+        type: "endpoint",
+        id: "todos/[uid].json",
+        pattern: /^\/todos\/([^/]+?)\.json$/,
+        names: ["uid"],
+        types: [null],
+        load: () => Promise.resolve().then(() => __toESM(require("./entries/endpoints/todos/_uid_.json.ts.js")))
       }
-    ]
+    ],
+    matchers: async () => {
+      return {};
+    }
   }
 };

@@ -1,13 +1,13 @@
 {
-  ".svelte-kit/build/app.js": {
-    "file": "app.js",
-    "src": ".svelte-kit/build/app.js",
+  ".svelte-kit/build/index.js": {
+    "file": "index.js",
+    "src": ".svelte-kit/build/index.js",
     "isEntry": true,
     "imports": [
-      "_index-9861661c.js"
+      "_index-ff5e144f.js"
     ],
-    "css": [
-      "assets/app-763808f6.css"
+    "dynamicImports": [
+      "src/hooks.ts"
     ]
   },
   "src/routes/todos/index.json.ts": {
@@ -31,10 +31,10 @@
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "imports": [
-      "_index-9861661c.js",
-      "_index-041375b7.js",
-      "_Link-d40f893b.js",
-      "_Image-4b6807c1.js"
+      "_index-ff5e144f.js",
+      "_index-2061cac5.js",
+      "_Link-e6a7895e.js",
+      "_Image-1e7f5f8d.js"
     ],
     "css": [
       "assets/entries/pages/__layout.svelte-a000e317.css"
@@ -66,202 +66,12 @@
       "assets/fira-mono-latin-400-normal-e43b3538.woff2"
     ]
   },
-  ".svelte-kit/build/components/error.svelte": {
-    "file": "entries/pages/error.svelte.js",
-    "src": ".svelte-kit/build/components/error.svelte",
+  ".svelte-kit/runtime/components/error.svelte": {
+    "file": "entries/fallbacks/error.svelte.js",
+    "src": ".svelte-kit/runtime/components/error.svelte",
     "isEntry": true,
     "imports": [
-      "_index-9861661c.js"
-    ]
-  },
-  "src/routes/index.svelte": {
-    "file": "entries/pages/index.svelte.js",
-    "src": "src/routes/index.svelte",
-    "isEntry": true,
-    "imports": [
-      "_index-9861661c.js",
-      "_Link-d40f893b.js"
-    ]
-  },
-  "src/routes/music-career/index.svelte": {
-    "file": "entries/pages/music-career/index.svelte.js",
-    "src": "src/routes/music-career/index.svelte",
-    "isEntry": true,
-    "imports": [
-      "_index-9861661c.js",
-      "_Image-4b6807c1.js",
-      "_Link-d40f893b.js",
-      "_1996-mm-a4a68d6c.js",
-      "_store-76ccc05c.js",
-      "_index-041375b7.js"
-    ],
-    "assets": [
-      "assets/cainsfeel03-43c603bc.jpeg",
-      "assets/gacktjob01-2581c105.jpg",
-      "assets/yfc01-1ad66621.jpg",
-      "assets/sqf04-bbd987eb.jpg",
-      "assets/luscious03-42261a8b.jpeg"
-    ]
-  },
-  "src/routes/music-career/birthday-2003.svelte": {
-    "file": "entries/pages/music-career/birthday-2003.svelte.js",
-    "src": "src/routes/music-career/birthday-2003.svelte",
-    "isEntry": true,
-    "imports": [
-      "_index-9861661c.js",
-      "_Link-d40f893b.js",
-      "_Image-4b6807c1.js",
-      "_store-76ccc05c.js",
-      "_index-041375b7.js"
-    ],
-    "assets": [
-      "assets/bdaycake-cc22d69f.jpg"
-    ]
-  },
-  "src/routes/music-career/cains-feel.svelte": {
-    "file": "entries/pages/music-career/cains-feel.svelte.js",
-    "src": "src/routes/music-career/cains-feel.svelte",
-    "isEntry": true,
-    "imports": [
-      "_index-9861661c.js",
-      "_Link-d40f893b.js",
-      "_Image-4b6807c1.js",
-      "_store-76ccc05c.js",
-      "_index-041375b7.js"
-    ],
-    "assets": [
-      "assets/tape-2eb60c80.jpg",
-      "assets/tape-brown-4cc21d54.jpg",
-      "assets/cainsfeel-97d557e4.jpg"
-    ]
-  },
-  "src/routes/music-career/you-gackt.svelte": {
-    "file": "entries/pages/music-career/you-gackt.svelte.js",
-    "src": "src/routes/music-career/you-gackt.svelte",
-    "isEntry": true,
-    "imports": [
-      "_index-9861661c.js",
-      "_Link-d40f893b.js",
-      "_Image-4b6807c1.js",
-      "_store-76ccc05c.js",
-      "_index-041375b7.js"
-    ],
-    "assets": [
-      "assets/hana-776a226e.png"
-    ]
-  },
-  "src/routes/music-career/gacktjob.svelte": {
-    "file": "entries/pages/music-career/gacktjob.svelte.js",
-    "src": "src/routes/music-career/gacktjob.svelte",
-    "isEntry": true,
-    "imports": [
-      "_index-9861661c.js",
-      "_store-76ccc05c.js",
-      "_index-041375b7.js"
-    ]
-  },
-  "src/routes/music-career/maracas.svelte": {
-    "file": "entries/pages/music-career/maracas.svelte.js",
-    "src": "src/routes/music-career/maracas.svelte",
-    "isEntry": true,
-    "imports": [
-      "_index-9861661c.js",
-      "_Link-d40f893b.js",
-      "_Image-4b6807c1.js",
-      "_1996-mm-a4a68d6c.js",
-      "_store-76ccc05c.js",
-      "_index-041375b7.js"
-    ]
-  },
-  "src/routes/music-career/sqf.svelte": {
-    "file": "entries/pages/music-career/sqf.svelte.js",
-    "src": "src/routes/music-career/sqf.svelte",
-    "isEntry": true,
-    "imports": [
-      "_index-9861661c.js",
-      "_store-76ccc05c.js",
-      "_index-041375b7.js"
-    ]
-  },
-  "src/routes/where-to-buy.svelte": {
-    "file": "entries/pages/where-to-buy.svelte.js",
-    "src": "src/routes/where-to-buy.svelte",
-    "isEntry": true,
-    "imports": [
-      "_index-9861661c.js",
-      "_Link-d40f893b.js",
-      "_store-76ccc05c.js",
-      "_index-041375b7.js"
-    ]
-  },
-  "src/routes/discography/index.svelte": {
-    "file": "entries/pages/discography/index.svelte.js",
-    "src": "src/routes/discography/index.svelte",
-    "isEntry": true,
-    "imports": [
-      "_index-9861661c.js",
-      "_Image-4b6807c1.js",
-      "_store-76ccc05c.js",
-      "_index-041375b7.js"
-    ],
-    "assets": [
-      "assets/moonchild-53a59bb5.jpg"
-    ]
-  },
-  "src/routes/discography/full-discography.svelte": {
-    "file": "entries/pages/discography/full-discography.svelte.js",
-    "src": "src/routes/discography/full-discography.svelte",
-    "isEntry": true,
-    "imports": [
-      "_index-9861661c.js",
-      "_store-76ccc05c.js",
-      "_index-041375b7.js"
-    ],
-    "css": [
-      "assets/entries/pages/discography/full-discography.svelte-5b76ae13.css"
-    ]
-  },
-  "src/routes/discography/life-short-film.svelte": {
-    "file": "entries/pages/discography/life-short-film.svelte.js",
-    "src": "src/routes/discography/life-short-film.svelte",
-    "isEntry": true,
-    "imports": [
-      "_index-9861661c.js",
-      "_Link-d40f893b.js",
-      "_store-76ccc05c.js",
-      "_index-041375b7.js"
-    ]
-  },
-  "src/routes/discography/nine-nine-radio.svelte": {
-    "file": "entries/pages/discography/nine-nine-radio.svelte.js",
-    "src": "src/routes/discography/nine-nine-radio.svelte",
-    "isEntry": true,
-    "imports": [
-      "_index-9861661c.js",
-      "_store-76ccc05c.js",
-      "_index-041375b7.js"
-    ]
-  },
-  "src/routes/discography/appearances.svelte": {
-    "file": "entries/pages/discography/appearances.svelte.js",
-    "src": "src/routes/discography/appearances.svelte",
-    "isEntry": true,
-    "imports": [
-      "_index-9861661c.js",
-      "_Link-d40f893b.js",
-      "_store-76ccc05c.js",
-      "_index-041375b7.js"
-    ]
-  },
-  "src/routes/about-you/index.svelte": {
-    "file": "entries/pages/about-you/index.svelte.js",
-    "src": "src/routes/about-you/index.svelte",
-    "isEntry": true,
-    "imports": [
-      "_index-9861661c.js",
-      "_Link-d40f893b.js",
-      "_store-76ccc05c.js",
-      "_index-041375b7.js"
+      "_index-ff5e144f.js"
     ]
   },
   "src/routes/about-you/designs.svelte": {
@@ -269,11 +79,11 @@
     "src": "src/routes/about-you/designs.svelte",
     "isEntry": true,
     "imports": [
-      "_index-9861661c.js",
-      "_Link-d40f893b.js",
-      "_Image-4b6807c1.js",
-      "_store-76ccc05c.js",
-      "_index-041375b7.js"
+      "_index-ff5e144f.js",
+      "_Link-e6a7895e.js",
+      "_Image-1e7f5f8d.js",
+      "_store-699a49f6.js",
+      "_index-2061cac5.js"
     ],
     "assets": [
       "assets/bracelet-f013da83.jpg",
@@ -285,26 +95,194 @@
       "assets/hdarts04-fc324f67.jpg"
     ]
   },
+  "src/routes/about-you/index.svelte": {
+    "file": "entries/pages/about-you/index.svelte.js",
+    "src": "src/routes/about-you/index.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-ff5e144f.js",
+      "_Link-e6a7895e.js",
+      "_store-699a49f6.js",
+      "_index-2061cac5.js"
+    ]
+  },
   "src/routes/about.svelte": {
     "file": "entries/pages/about.svelte.js",
     "src": "src/routes/about.svelte",
     "isEntry": true,
     "imports": [
-      "_index-9861661c.js"
+      "_index-ff5e144f.js"
     ],
     "css": [
       "assets/entries/pages/about.svelte-7b1aeeb4.css"
     ]
   },
-  "src/routes/todos/index.svelte": {
-    "file": "entries/pages/todos/index.svelte.js",
-    "src": "src/routes/todos/index.svelte",
+  "src/routes/discography/appearances.svelte": {
+    "file": "entries/pages/discography/appearances.svelte.js",
+    "src": "src/routes/discography/appearances.svelte",
     "isEntry": true,
     "imports": [
-      "_index-9861661c.js"
+      "_index-ff5e144f.js",
+      "_Link-e6a7895e.js",
+      "_store-699a49f6.js",
+      "_index-2061cac5.js"
+    ]
+  },
+  "src/routes/discography/full-discography.svelte": {
+    "file": "entries/pages/discography/full-discography.svelte.js",
+    "src": "src/routes/discography/full-discography.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-ff5e144f.js",
+      "_store-699a49f6.js",
+      "_index-2061cac5.js"
     ],
     "css": [
-      "assets/entries/pages/todos/index.svelte-2977689d.css"
+      "assets/entries/pages/discography/full-discography.svelte-5b76ae13.css"
+    ]
+  },
+  "src/routes/discography/index.svelte": {
+    "file": "entries/pages/discography/index.svelte.js",
+    "src": "src/routes/discography/index.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-ff5e144f.js",
+      "_Image-1e7f5f8d.js",
+      "_store-699a49f6.js",
+      "_index-2061cac5.js"
+    ],
+    "assets": [
+      "assets/moonchild-53a59bb5.jpg"
+    ]
+  },
+  "src/routes/discography/life-short-film.svelte": {
+    "file": "entries/pages/discography/life-short-film.svelte.js",
+    "src": "src/routes/discography/life-short-film.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-ff5e144f.js",
+      "_Link-e6a7895e.js",
+      "_store-699a49f6.js",
+      "_index-2061cac5.js"
+    ]
+  },
+  "src/routes/discography/nine-nine-radio.svelte": {
+    "file": "entries/pages/discography/nine-nine-radio.svelte.js",
+    "src": "src/routes/discography/nine-nine-radio.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-ff5e144f.js",
+      "_store-699a49f6.js",
+      "_index-2061cac5.js"
+    ]
+  },
+  "src/routes/index.svelte": {
+    "file": "entries/pages/index.svelte.js",
+    "src": "src/routes/index.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-ff5e144f.js",
+      "_Link-e6a7895e.js"
+    ]
+  },
+  "src/routes/music-career/birthday-2003.svelte": {
+    "file": "entries/pages/music-career/birthday-2003.svelte.js",
+    "src": "src/routes/music-career/birthday-2003.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-ff5e144f.js",
+      "_Link-e6a7895e.js",
+      "_Image-1e7f5f8d.js",
+      "_store-699a49f6.js",
+      "_index-2061cac5.js"
+    ],
+    "assets": [
+      "assets/bdaycake-cc22d69f.jpg"
+    ]
+  },
+  "src/routes/music-career/cains-feel.svelte": {
+    "file": "entries/pages/music-career/cains-feel.svelte.js",
+    "src": "src/routes/music-career/cains-feel.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-ff5e144f.js",
+      "_Link-e6a7895e.js",
+      "_Image-1e7f5f8d.js",
+      "_store-699a49f6.js",
+      "_index-2061cac5.js"
+    ],
+    "assets": [
+      "assets/tape-2eb60c80.jpg",
+      "assets/tape-brown-4cc21d54.jpg",
+      "assets/cainsfeel-97d557e4.jpg"
+    ]
+  },
+  "src/routes/music-career/gacktjob.svelte": {
+    "file": "entries/pages/music-career/gacktjob.svelte.js",
+    "src": "src/routes/music-career/gacktjob.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-ff5e144f.js",
+      "_store-699a49f6.js",
+      "_index-2061cac5.js"
+    ]
+  },
+  "src/routes/music-career/index.svelte": {
+    "file": "entries/pages/music-career/index.svelte.js",
+    "src": "src/routes/music-career/index.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-ff5e144f.js",
+      "_Image-1e7f5f8d.js",
+      "_Link-e6a7895e.js",
+      "_1996-mm-a4a68d6c.js",
+      "_store-699a49f6.js",
+      "_index-2061cac5.js"
+    ],
+    "assets": [
+      "assets/cainsfeel03-43c603bc.jpeg",
+      "assets/gacktjob01-2581c105.jpg",
+      "assets/yfc01-1ad66621.jpg",
+      "assets/sqf04-bbd987eb.jpg",
+      "assets/luscious03-42261a8b.jpeg"
+    ]
+  },
+  "src/routes/music-career/maracas.svelte": {
+    "file": "entries/pages/music-career/maracas.svelte.js",
+    "src": "src/routes/music-career/maracas.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-ff5e144f.js",
+      "_Link-e6a7895e.js",
+      "_Image-1e7f5f8d.js",
+      "_1996-mm-a4a68d6c.js",
+      "_store-699a49f6.js",
+      "_index-2061cac5.js"
+    ]
+  },
+  "src/routes/music-career/sqf.svelte": {
+    "file": "entries/pages/music-career/sqf.svelte.js",
+    "src": "src/routes/music-career/sqf.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-ff5e144f.js",
+      "_store-699a49f6.js",
+      "_index-2061cac5.js"
+    ]
+  },
+  "src/routes/music-career/you-gackt.svelte": {
+    "file": "entries/pages/music-career/you-gackt.svelte.js",
+    "src": "src/routes/music-career/you-gackt.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-ff5e144f.js",
+      "_Link-e6a7895e.js",
+      "_Image-1e7f5f8d.js",
+      "_store-699a49f6.js",
+      "_index-2061cac5.js"
+    ],
+    "assets": [
+      "assets/hana-776a226e.png"
     ]
   },
   "src/routes/site/history.svelte": {
@@ -312,24 +290,10 @@
     "src": "src/routes/site/history.svelte",
     "isEntry": true,
     "imports": [
-      "_index-9861661c.js",
-      "_Link-d40f893b.js",
-      "_store-76ccc05c.js",
-      "_index-041375b7.js"
-    ]
-  },
-  "src/routes/site/updates.svelte": {
-    "file": "entries/pages/site/updates.svelte.js",
-    "src": "src/routes/site/updates.svelte",
-    "isEntry": true,
-    "imports": [
-      "_index-9861661c.js",
-      "_Link-d40f893b.js",
-      "_store-76ccc05c.js",
-      "_index-041375b7.js"
-    ],
-    "css": [
-      "assets/entries/pages/site/updates.svelte-6e40053f.css"
+      "_index-ff5e144f.js",
+      "_Link-e6a7895e.js",
+      "_store-699a49f6.js",
+      "_index-2061cac5.js"
     ]
   },
   "src/routes/site/thanks.svelte": {
@@ -337,36 +301,78 @@
     "src": "src/routes/site/thanks.svelte",
     "isEntry": true,
     "imports": [
-      "_index-9861661c.js",
-      "_store-76ccc05c.js",
-      "_index-041375b7.js"
+      "_index-ff5e144f.js",
+      "_store-699a49f6.js",
+      "_index-2061cac5.js"
     ]
   },
-  "_index-9861661c.js": {
-    "file": "chunks/index-9861661c.js"
+  "src/routes/site/updates.svelte": {
+    "file": "entries/pages/site/updates.svelte.js",
+    "src": "src/routes/site/updates.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-ff5e144f.js",
+      "_Link-e6a7895e.js",
+      "_store-699a49f6.js",
+      "_index-2061cac5.js"
+    ],
+    "css": [
+      "assets/entries/pages/site/updates.svelte-6e40053f.css"
+    ]
+  },
+  "src/routes/todos/index.svelte": {
+    "file": "entries/pages/todos/index.svelte.js",
+    "src": "src/routes/todos/index.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-ff5e144f.js"
+    ],
+    "css": [
+      "assets/entries/pages/todos/index.svelte-2977689d.css"
+    ]
+  },
+  "src/routes/where-to-buy.svelte": {
+    "file": "entries/pages/where-to-buy.svelte.js",
+    "src": "src/routes/where-to-buy.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-ff5e144f.js",
+      "_Link-e6a7895e.js",
+      "_store-699a49f6.js",
+      "_index-2061cac5.js"
+    ]
+  },
+  "_index-ff5e144f.js": {
+    "file": "chunks/index-ff5e144f.js"
   },
   "__api-e66b1c82.js": {
     "file": "chunks/_api-e66b1c82.js"
   },
-  "_Link-d40f893b.js": {
-    "file": "chunks/Link-d40f893b.js",
+  "_Link-e6a7895e.js": {
+    "file": "chunks/Link-e6a7895e.js",
     "imports": [
-      "_index-9861661c.js"
+      "_index-ff5e144f.js"
     ]
   },
-  "_Image-4b6807c1.js": {
-    "file": "chunks/Image-4b6807c1.js",
+  "_Image-1e7f5f8d.js": {
+    "file": "chunks/Image-1e7f5f8d.js",
     "imports": [
-      "_index-9861661c.js"
+      "_index-ff5e144f.js"
     ],
     "css": [
       "assets/Image-3c37b05e.css"
     ]
   },
-  "_index-041375b7.js": {
-    "file": "chunks/index-041375b7.js",
+  "_index-2061cac5.js": {
+    "file": "chunks/index-2061cac5.js",
     "imports": [
-      "_index-9861661c.js"
+      "_index-ff5e144f.js"
+    ]
+  },
+  "_store-699a49f6.js": {
+    "file": "chunks/store-699a49f6.js",
+    "imports": [
+      "_index-2061cac5.js"
     ]
   },
   "_1996-mm-a4a68d6c.js": {
@@ -375,10 +381,9 @@
       "assets/1996-mm-8e4498df.jpeg"
     ]
   },
-  "_store-76ccc05c.js": {
-    "file": "chunks/store-76ccc05c.js",
-    "imports": [
-      "_index-041375b7.js"
-    ]
+  "src/hooks.ts": {
+    "file": "chunks/hooks-2518eff3.js",
+    "src": "src/hooks.ts",
+    "isDynamicEntry": true
   }
 }

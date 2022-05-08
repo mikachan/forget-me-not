@@ -20,13 +20,20 @@ var __toESM = (mod, isNodeMode, target) => (target = mod != null ? __create(__ge
 var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: true }), mod);
 var stdin_exports = {};
 __export(stdin_exports, {
-  css: () => css,
-  entry: () => entry,
-  js: () => js,
-  module: () => module2
+  handle: () => handle
 });
 module.exports = __toCommonJS(stdin_exports);
-var module2 = __toESM(require("../entries/pages/discography/appearances.svelte.js"));
-const entry = "pages/discography/appearances.svelte-ca0cc5b0.js";
-const js = ["pages/discography/appearances.svelte-ca0cc5b0.js", "chunks/index-981bb7d4.js", "chunks/Link-9a6889bf.js", "chunks/store-2d68e98e.js", "chunks/index-9ae8fc66.js"];
-const css = [];
+var import_uuid = require("@lukeed/uuid");
+var cookie = __toESM(require("cookie"));
+const handle = async ({ event, resolve }) => {
+  const cookies = cookie.parse(event.request.headers.get("cookie") || "");
+  event.locals.userid = cookies["userid"] || (0, import_uuid.v4)();
+  const response = await resolve(event);
+  if (!cookies["userid"]) {
+    response.headers.set("set-cookie", cookie.serialize("userid", event.locals.userid, {
+      path: "/",
+      httpOnly: true
+    }));
+  }
+  return response;
+};

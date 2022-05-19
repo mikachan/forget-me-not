@@ -27,7 +27,7 @@ const prerender = true;
 const Routes = (0, import_index_511eca88.c)(($$result, $$props, $$bindings, slots) => {
   return `${$$result.head += `${$$result.title = `<title>Forget-me-not | You fansite</title>`, ""}`, ""}
 
-<p>Welcome to <strong>Forget-me-not</strong>, an <a href="${"site/history"}">English fansite</a> dedicated to the Japanese musician, <strong>You</strong>, best known for playing guitar and violin for ${(0, import_index_511eca88.v)(import_Link_1d5c49d4.L, "Link").$$render($$result, { href: "https://gackt.com/" }, {}, {
+<p>Welcome to <strong>Forget-me-not</strong>, an <a href="${"/site/history"}">English fansite</a> dedicated to the Japanese musician, <strong>You</strong>, best known for playing guitar and violin for ${(0, import_index_511eca88.v)(import_Link_1d5c49d4.L, "Link").$$render($$result, { href: "https://gackt.com/" }, {}, {
     default: () => {
       return `Gackt`;
     }
@@ -37,7 +37,7 @@ const Routes = (0, import_index_511eca88.c)(($$result, $$props, $$bindings, slot
     }
   })}.</p>
 
-<h2>Latest Site Updates <a href="${"site/updates"}" class="${"text-sm"}">read more\xA0\u2192</a></h2>
+<h2>Latest Site Updates <a href="${"/site/updates"}" class="${"text-sm"}">read more\xA0\u2192</a></h2>
 
 <p><strong>18.05.21</strong><br>
 	Luscious have announced they&#39;re going to be doing another live performance on June 17th! It&#39;ll be at Club Phase Takadanobaba in Tokyo, and will be streamed on ${(0, import_index_511eca88.v)(import_Link_1d5c49d4.L, "Link").$$render($$result, {

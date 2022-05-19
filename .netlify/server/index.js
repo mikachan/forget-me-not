@@ -927,7 +927,7 @@ async function render_response({
   const init_app = `
 		import { start } from ${s(options.prefix + options.manifest._.entry.file)};
 		start({
-			target: document.querySelector('[data-hydrate="${target}"]').parentNode,
+			target: document.querySelector('[data-sveltekit-hydrate="${target}"]').parentNode,
 			paths: ${s(options.paths)},
 			session: ${try_serialize($session, (error3) => {
     throw new Error(`Failed to serialize session data: ${error3.message}`);
@@ -948,7 +948,9 @@ async function render_response({
 	`;
   const init_service_worker = `
 		if ('serviceWorker' in navigator) {
-			navigator.serviceWorker.register('${options.service_worker}');
+			addEventListener('load', () => {
+				navigator.serviceWorker.register('${options.service_worker}');
+			});
 		}
 	`;
   if (options.amp) {
@@ -992,7 +994,7 @@ ${rendered.css.code}`;
     if (page_config.router || page_config.hydrate) {
       head += Array.from(modulepreloads).map((dep) => `
 	<link rel="modulepreload" href="${options.prefix + dep}">`).join("");
-      const attributes = ['type="module"', `data-hydrate="${target}"`];
+      const attributes = ['type="module"', `data-sveltekit-hydrate="${target}"`];
       csp.add_script(init_app);
       if (csp.script_needs_nonce) {
         attributes.push(`nonce="${csp.nonce}"`);
@@ -2122,8 +2124,7 @@ async function respond(request, options, state) {
   const is_data_request = decoded.endsWith(DATA_SUFFIX);
   if (is_data_request) {
     decoded = decoded.slice(0, -DATA_SUFFIX.length) || "/";
-    const normalized = normalize_path(url.pathname.slice(0, -DATA_SUFFIX.length), options.trailing_slash);
-    url = new URL(url.origin + normalized + url.search);
+    url = new URL(url.origin + url.pathname.slice(0, -DATA_SUFFIX.length) + url.search);
   }
   if (!state.prerender || !state.prerender.fallback) {
     const matchers = await options.manifest._.matchers();
@@ -2145,6 +2146,7 @@ async function respond(request, options, state) {
       return new Response(void 0, {
         status: 301,
         headers: {
+          "x-sveltekit-normalize": "1",
           location: (normalized.startsWith("//") ? url.origin + normalized : normalized) + (url.search === "?" ? "" : url.search)
         }
       });

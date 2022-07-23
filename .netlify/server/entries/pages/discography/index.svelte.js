@@ -22,22 +22,22 @@ __export(stdin_exports, {
   prerender: () => prerender
 });
 module.exports = __toCommonJS(stdin_exports);
-var import_index_511eca88 = require("../../../chunks/index-511eca88.js");
-var import_store_57e59034 = require("../../../chunks/store-57e59034.js");
-var import_Image_892957b2 = require("../../../chunks/Image-892957b2.js");
-var import_index_cea261f0 = require("../../../chunks/index-cea261f0.js");
+var import_index_8b43e98c = require("../../../chunks/index-8b43e98c.js");
+var import_store_acd80018 = require("../../../chunks/store-acd80018.js");
+var import_Image_ce32de43 = require("../../../chunks/Image-ce32de43.js");
+var import_index_54043d18 = require("../../../chunks/index-54043d18.js");
 var import_blurhash = require("blurhash");
 var moonchild = "/_app/assets/moonchild-53a59bb5.jpg";
 const prerender = true;
 let pageTitle = "Discography";
-import_store_57e59034.t.set(pageTitle);
-const Discography = (0, import_index_511eca88.c)(($$result, $$props, $$bindings, slots) => {
+import_store_acd80018.t.set(pageTitle);
+const Discography = (0, import_index_8b43e98c.c)(($$result, $$props, $$bindings, slots) => {
   let $title, $$unsubscribe_title;
-  $$unsubscribe_title = (0, import_index_511eca88.a)(import_store_57e59034.t, (value) => $title = value);
+  $$unsubscribe_title = (0, import_index_8b43e98c.a)(import_store_acd80018.t, (value) => $title = value);
   $$unsubscribe_title();
-  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_511eca88.e)($title)}</title>`, ""}`, ""}
+  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_8b43e98c.e)($title)}</title>`, ""}`, ""}
 
-<h2>${(0, import_index_511eca88.e)(pageTitle)}</h2>
+<h2>${(0, import_index_8b43e98c.e)(pageTitle)}</h2>
 
 <h3>Full Discography <a href="${"/discography/full-discography"}" class="${"text-sm"}">read more\xA0\u2192</a></h3>
 
@@ -47,7 +47,7 @@ const Discography = (0, import_index_511eca88.c)(($$result, $$props, $$bindings,
 
 <p>You has appeared in many videos, books, magazines and interviews, especially from working with Gackt. The highlight obviously being his acting skillz in <em>Moon Child</em>:</p>
 
-<figure>${(0, import_index_511eca88.v)(import_Image_892957b2.I, "Image").$$render($$result, {
+<figure>${(0, import_index_8b43e98c.v)(import_Image_ce32de43.I, "Image").$$render($$result, {
     alt: "You in Moon Child",
     class: "p-2 pt-0 mx-auto mb-2",
     src: moonchild,

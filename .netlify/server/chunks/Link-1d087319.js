@@ -20,9 +20,9 @@ __export(stdin_exports, {
   L: () => Link
 });
 module.exports = __toCommonJS(stdin_exports);
-var import_index_511eca88 = require("./index-511eca88.js");
-const Link = (0, import_index_511eca88.c)(($$result, $$props, $$bindings, slots) => {
-  let $$restProps = (0, import_index_511eca88.d)($$props, ["href", "disabled", "outbound", "target", "rel", "download"]);
+var import_index_8b43e98c = require("./index-8b43e98c.js");
+const Link = (0, import_index_8b43e98c.c)(($$result, $$props, $$bindings, slots) => {
+  let $$restProps = (0, import_index_8b43e98c.d)($$props, ["href", "disabled", "outbound", "target", "rel", "download"]);
   let { href = "javascript:void(0);" } = $$props;
   let { disabled = false } = $$props;
   let { outbound = void 0 } = $$props;
@@ -56,13 +56,13 @@ const Link = (0, import_index_511eca88.c)(($$result, $$props, $$bindings, slots)
         rel = "noopener noreferrer";
     }
   }
-  return `${disabled ? `<span${(0, import_index_511eca88.f)([(0, import_index_511eca88.h)($$restProps), { role: "link" }, { "aria-disabled": "true" }], {})}>${slots.default ? slots.default({}) : ``}</span>` : `<a${(0, import_index_511eca88.f)([
-    (0, import_index_511eca88.h)($$restProps),
-    { href: (0, import_index_511eca88.i)(href) },
-    { target: (0, import_index_511eca88.i)(target) },
-    { rel: (0, import_index_511eca88.i)(rel) },
+  return `${disabled ? `<span${(0, import_index_8b43e98c.f)([(0, import_index_8b43e98c.h)($$restProps), { role: "link" }, { "aria-disabled": "true" }], {})}>${slots.default ? slots.default({}) : ``}</span>` : `<a${(0, import_index_8b43e98c.f)([
+    (0, import_index_8b43e98c.h)($$restProps),
+    { href: (0, import_index_8b43e98c.i)(href) },
+    { target: (0, import_index_8b43e98c.i)(target) },
+    { rel: (0, import_index_8b43e98c.i)(rel) },
     {
-      download: (0, import_index_511eca88.i)(download)
+      download: (0, import_index_8b43e98c.i)(download)
     }
   ], {})}>${slots.default ? slots.default({}) : ``}</a>`}`;
 });

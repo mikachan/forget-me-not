@@ -20,9 +20,9 @@ __export(stdin_exports, {
   t: () => title
 });
 module.exports = __toCommonJS(stdin_exports);
-var import_index_cea261f0 = require("./index-cea261f0.js");
+var import_index_54043d18 = require("./index-54043d18.js");
 function createTitle() {
-  const { subscribe, set, update } = (0, import_index_cea261f0.w)("");
+  const { subscribe, set, update } = (0, import_index_54043d18.w)("");
   return {
     subscribe,
     set: (value) => {

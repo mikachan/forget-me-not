@@ -182,18 +182,25 @@ function merge_ssr_styles(style_attribute, style_directive) {
   }
   return style_object;
 }
-const escaped = {
-  '"': "&quot;",
-  "'": "&#39;",
-  "&": "&amp;",
-  "<": "&lt;",
-  ">": "&gt;"
-};
-function escape(html) {
-  return String(html).replace(/["'&<>]/g, (match) => escaped[match]);
+const ATTR_REGEX = /[&"]/g;
+const CONTENT_REGEX = /[&<]/g;
+function escape(value, is_attr = false) {
+  const str = String(value);
+  const pattern = is_attr ? ATTR_REGEX : CONTENT_REGEX;
+  pattern.lastIndex = 0;
+  let escaped = "";
+  let last = 0;
+  while (pattern.test(str)) {
+    const i = pattern.lastIndex - 1;
+    const ch = str[i];
+    escaped += str.substring(last, i) + (ch === "&" ? "&amp;" : ch === '"' ? "&quot;" : "&lt;");
+    last = i + 1;
+  }
+  return escaped + str.substring(last);
 }
 function escape_attribute_value(value) {
-  return typeof value === "string" ? escape(value) : value;
+  const should_escape = typeof value === "string" || value && typeof value === "object";
+  return should_escape ? escape(value, true) : value;
 }
 function escape_object(obj) {
   const result = {};
@@ -251,7 +258,7 @@ function create_ssr_component(fn) {
 function add_attribute(name, value, boolean) {
   if (value == null || boolean && !value)
     return "";
-  const assignment = boolean && value === true ? "" : `="${escape_attribute_value(value.toString())}"`;
+  const assignment = boolean && value === true ? "" : `="${escape(value, true)}"`;
   return ` ${name}${assignment}`;
 }
 function style_object_to_string(style_object) {

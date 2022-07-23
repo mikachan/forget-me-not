@@ -20,31 +20,31 @@ __export(stdin_exports, {
   default: () => Life_short_film
 });
 module.exports = __toCommonJS(stdin_exports);
-var import_index_511eca88 = require("../../../chunks/index-511eca88.js");
-var import_Link_1d5c49d4 = require("../../../chunks/Link-1d5c49d4.js");
-var import_store_57e59034 = require("../../../chunks/store-57e59034.js");
-var import_index_cea261f0 = require("../../../chunks/index-cea261f0.js");
-const Life_short_film = (0, import_index_511eca88.c)(($$result, $$props, $$bindings, slots) => {
+var import_index_8b43e98c = require("../../../chunks/index-8b43e98c.js");
+var import_Link_1d087319 = require("../../../chunks/Link-1d087319.js");
+var import_store_acd80018 = require("../../../chunks/store-acd80018.js");
+var import_index_54043d18 = require("../../../chunks/index-54043d18.js");
+const Life_short_film = (0, import_index_8b43e98c.c)(($$result, $$props, $$bindings, slots) => {
   let $title, $$unsubscribe_title;
-  $$unsubscribe_title = (0, import_index_511eca88.a)(import_store_57e59034.t, (value) => $title = value);
+  $$unsubscribe_title = (0, import_index_8b43e98c.a)(import_store_acd80018.t, (value) => $title = value);
   let { pageTitle = "Life from Soyokaze" } = $$props;
-  import_store_57e59034.t.set(pageTitle);
+  import_store_acd80018.t.set(pageTitle);
   if ($$props.pageTitle === void 0 && $$bindings.pageTitle && pageTitle !== void 0)
     $$bindings.pageTitle(pageTitle);
   $$unsubscribe_title();
-  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_511eca88.e)($title)}</title>`, ""}`, ""}
+  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_8b43e98c.e)($title)}</title>`, ""}`, ""}
 
-<h2>${(0, import_index_511eca88.e)(pageTitle)}</h2>
+<h2>${(0, import_index_8b43e98c.e)(pageTitle)}</h2>
 
 <p><em>Life</em> is a short film from Gackt&#39;s <em>Soyokaze</em> VHS, starring Gackt and You. It was released in 2002 and is linked to the MOON story and concept.</p>
 
-<p>Gackt has mentioned in interviews that the concept for the video was inspired by the German film, ${(0, import_index_511eca88.v)(import_Link_1d5c49d4.L, "Link").$$render($$result, {
+<p>Gackt has mentioned in interviews that the concept for the video was inspired by the German film, ${(0, import_index_8b43e98c.v)(import_Link_1d087319.L, "Link").$$render($$result, {
     href: "https://www.imdb.com/title/tt0093191/"
   }, {}, {
     default: () => {
       return `<em>Wings of Desire</em>`;
     }
-  })}, from 1987, which was shot in black and white. This features angels in the mortal world who wear long dark coats, and one angel decides to &#39;fall from grace&#39; after falling in love with a human. There&#39;s an American remake called ${(0, import_index_511eca88.v)(import_Link_1d5c49d4.L, "Link").$$render($$result, {
+  })}, from 1987, which was shot in black and white. This features angels in the mortal world who wear long dark coats, and one angel decides to &#39;fall from grace&#39; after falling in love with a human. There&#39;s an American remake called ${(0, import_index_8b43e98c.v)(import_Link_1d087319.L, "Link").$$render($$result, {
     href: "https://www.imdb.com/title/tt0120632/"
   }, {}, {
     default: () => {
@@ -56,7 +56,7 @@ const Life_short_film = (0, import_index_511eca88.c)(($$result, $$props, $$bindi
 <iframe title="${"Life"}" class="${"mb-4"}" src="${"https://www.youtube.com/embed/a1hBJimcnQc"}" frameborder="${"0"}" allow="${"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"}" allowfullscreen></iframe>
 
 <h3>Download</h3>
-<p><em>Soyokaze</em> seems pretty difficult to get hold of these days, so I&#39;ve uploaded <em>Life</em> ${(0, import_index_511eca88.v)(import_Link_1d5c49d4.L, "Link").$$render($$result, {
+<p><em>Soyokaze</em> seems pretty difficult to get hold of these days, so I&#39;ve uploaded <em>Life</em> ${(0, import_index_8b43e98c.v)(import_Link_1d087319.L, "Link").$$render($$result, {
     href: "downloads/life-soyokaze.mp4",
     download: "life soyokaze video"
   }, {}, {
@@ -175,7 +175,7 @@ I feel as though his existence is touching me...</p>
 
 <p>Although he is still unaware of mine.</p>
 
-<p>Translation by <strong>muchuu</strong>, originally on myspace and later found ${(0, import_index_511eca88.v)(import_Link_1d5c49d4.L, "Link").$$render($$result, {
+<p>Translation by <strong>muchuu</strong>, originally on myspace and later found ${(0, import_index_8b43e98c.v)(import_Link_1d087319.L, "Link").$$render($$result, {
     href: "https://dears.livejournal.com/1817818.html"
   }, {}, {
     default: () => {

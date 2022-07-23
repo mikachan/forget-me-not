@@ -23,14 +23,14 @@ __export(stdin_exports, {
   default: () => _layout
 });
 module.exports = __toCommonJS(stdin_exports);
-var import_index_511eca88 = require("../../chunks/index-511eca88.js");
+var import_index_8b43e98c = require("../../chunks/index-8b43e98c.js");
 var import_async_script_loader = __toESM(require("@beyonk/async-script-loader"));
-var import_index_cea261f0 = require("../../chunks/index-cea261f0.js");
-var import_Link_1d5c49d4 = require("../../chunks/Link-1d5c49d4.js");
-var import_Image_892957b2 = require("../../chunks/Image-892957b2.js");
+var import_index_54043d18 = require("../../chunks/index-54043d18.js");
+var import_Link_1d087319 = require("../../chunks/Link-1d087319.js");
+var import_Image_ce32de43 = require("../../chunks/Image-ce32de43.js");
 var import_blurhash = require("blurhash");
 const getStores = () => {
-  const stores = (0, import_index_511eca88.g)("__svelte__");
+  const stores = (0, import_index_8b43e98c.g)("__svelte__");
   return {
     page: {
       subscribe: stores.page.subscribe
@@ -54,14 +54,14 @@ const page = {
     return store.subscribe(fn);
   }
 };
-const gaStore = (0, import_index_cea261f0.w)([]);
+const gaStore = (0, import_index_54043d18.w)([]);
 function test() {
   return Boolean(window.dataLayer).valueOf() && Array.isArray(window.dataLayer);
 }
 function gtag() {
   window.dataLayer.push(arguments);
 }
-const GoogleAnalytics = (0, import_index_511eca88.c)(($$result, $$props, $$bindings, slots) => {
+const GoogleAnalytics = (0, import_index_8b43e98c.c)(($$result, $$props, $$bindings, slots) => {
   let { properties } = $$props;
   let { configurations = {} } = $$props;
   let { enabled = true } = $$props;
@@ -104,26 +104,26 @@ const css$1 = {
   code: "a.svelte-1804nw2.svelte-1804nw2{display:block;border-bottom-width:2px;--tw-border-opacity:1;border-color:rgb(31 41 55 / var(--tw-border-opacity));padding-top:0.25rem;padding-bottom:0.25rem;padding-left:0.25rem;vertical-align:middle;--tw-text-opacity:1;color:rgb(31 41 55 / var(--tw-text-opacity));-webkit-text-decoration-line:none;text-decoration-line:none\n}a.svelte-1804nw2.svelte-1804nw2:hover{--tw-border-opacity:1;border-color:rgb(34 197 94 / var(--tw-border-opacity));--tw-text-opacity:1;color:rgb(34 197 94 / var(--tw-text-opacity))\n}@media(min-width: 768px){a.svelte-1804nw2.svelte-1804nw2{--tw-border-opacity:1;border-color:rgb(17 24 39 / var(--tw-border-opacity));padding-top:0.5rem;padding-bottom:0.5rem\n    }}a.active.svelte-1804nw2.svelte-1804nw2{display:block;border-bottom-width:2px;--tw-border-opacity:1;border-color:rgb(22 163 74 / var(--tw-border-opacity));padding-top:0.25rem;padding-bottom:0.25rem;padding-left:0.25rem;vertical-align:middle;--tw-text-opacity:1;color:rgb(255 255 255 / var(--tw-text-opacity));-webkit-text-decoration-line:none;text-decoration-line:none\n}a.active.svelte-1804nw2.svelte-1804nw2:hover{--tw-text-opacity:1;color:rgb(255 255 255 / var(--tw-text-opacity))\n}@media(min-width: 768px){a.active.svelte-1804nw2.svelte-1804nw2{padding-top:0.5rem;padding-bottom:0.5rem\n    }}li.svelte-1804nw2 span.svelte-1804nw2{display:block;padding-bottom:0.25rem;font-size:1.125rem;line-height:1.75rem;text-transform:lowercase;--tw-text-opacity:1;color:rgb(209 213 219 / var(--tw-text-opacity))\n}@media(min-width: 768px){li.svelte-1804nw2 span.svelte-1804nw2{--tw-text-opacity:1;color:rgb(156 163 175 / var(--tw-text-opacity))\n    }}@media(min-width: 1024px){li.svelte-1804nw2 span.svelte-1804nw2{display:inline-block;padding-bottom:0px;font-size:1rem;line-height:1.5rem\n    }}ul.svelte-1804nw2.svelte-1804nw2{margin-left:0px;margin-bottom:0px\n}ul.svelte-1804nw2 li.svelte-1804nw2{list-style-type:none\n}@media(min-width: 1024px){ul.svelte-1804nw2 li.svelte-1804nw2{display:inline-block;padding-right:0.75rem\n    }}",
   map: null
 };
-const NavContent = (0, import_index_511eca88.c)(($$result, $$props, $$bindings, slots) => {
+const NavContent = (0, import_index_8b43e98c.c)(($$result, $$props, $$bindings, slots) => {
   let $page, $$unsubscribe_page;
-  $$unsubscribe_page = (0, import_index_511eca88.a)(page, (value) => $page = value);
+  $$unsubscribe_page = (0, import_index_8b43e98c.a)(page, (value) => $page = value);
   $$result.css.add(css$1);
   $$unsubscribe_page();
-  return `<nav><ul class="${"svelte-1804nw2"}"><li class="${"svelte-1804nw2"}"><a${(0, import_index_511eca88.b)("aria-current", $page.url.pathname === "/" ? "page" : void 0, 0)} href="${"."}" class="${["svelte-1804nw2", $page.url.pathname == "/" ? "active" : ""].join(" ").trim()}"><span class="${"svelte-1804nw2"}">Home</span></a></li>
-		<li class="${"svelte-1804nw2"}"><a${(0, import_index_511eca88.b)("aria-current", $page.url.pathname === "/about-you" ? "page" : void 0, 0)} href="${"/about-you"}" class="${["svelte-1804nw2", $page.url.pathname == "/about-you" ? "active" : ""].join(" ").trim()}"><span class="${"svelte-1804nw2"}">About YOU</span></a></li>
-		<li class="${"svelte-1804nw2"}"><a${(0, import_index_511eca88.b)("aria-current", $page.url.pathname === "/music-career" ? "page" : void 0, 0)} href="${"/music-career"}" class="${["svelte-1804nw2", $page.url.pathname == "/music-career" ? "active" : ""].join(" ").trim()}"><span class="${"svelte-1804nw2"}">Music Career</span></a></li>
-		<li class="${"svelte-1804nw2"}"><a${(0, import_index_511eca88.b)("aria-current", $page.url.pathname === "/discography" ? "page" : void 0, 0)} href="${"/discography"}" class="${["svelte-1804nw2", $page.url.pathname == "/discography" ? "active" : ""].join(" ").trim()}"><span class="${"svelte-1804nw2"}">Discography</span></a></li>
-		<li class="${"svelte-1804nw2"}"><a${(0, import_index_511eca88.b)("aria-current", $page.url.pathname === "/where-to-buy" ? "page" : void 0, 0)} href="${"/where-to-buy"}" class="${["svelte-1804nw2", $page.url.pathname == "/where-to-buy" ? "active" : ""].join(" ").trim()}"><span class="${"svelte-1804nw2"}">Where to Buy</span></a></li></ul></nav>`;
+  return `<nav><ul class="${"svelte-1804nw2"}"><li class="${"svelte-1804nw2"}"><a${(0, import_index_8b43e98c.b)("aria-current", $page.url.pathname === "/" ? "page" : void 0, 0)} href="${"."}" class="${["svelte-1804nw2", $page.url.pathname == "/" ? "active" : ""].join(" ").trim()}"><span class="${"svelte-1804nw2"}">Home</span></a></li>
+		<li class="${"svelte-1804nw2"}"><a${(0, import_index_8b43e98c.b)("aria-current", $page.url.pathname === "/about-you" ? "page" : void 0, 0)} href="${"/about-you"}" class="${["svelte-1804nw2", $page.url.pathname == "/about-you" ? "active" : ""].join(" ").trim()}"><span class="${"svelte-1804nw2"}">About YOU</span></a></li>
+		<li class="${"svelte-1804nw2"}"><a${(0, import_index_8b43e98c.b)("aria-current", $page.url.pathname === "/music-career" ? "page" : void 0, 0)} href="${"/music-career"}" class="${["svelte-1804nw2", $page.url.pathname == "/music-career" ? "active" : ""].join(" ").trim()}"><span class="${"svelte-1804nw2"}">Music Career</span></a></li>
+		<li class="${"svelte-1804nw2"}"><a${(0, import_index_8b43e98c.b)("aria-current", $page.url.pathname === "/discography" ? "page" : void 0, 0)} href="${"/discography"}" class="${["svelte-1804nw2", $page.url.pathname == "/discography" ? "active" : ""].join(" ").trim()}"><span class="${"svelte-1804nw2"}">Discography</span></a></li>
+		<li class="${"svelte-1804nw2"}"><a${(0, import_index_8b43e98c.b)("aria-current", $page.url.pathname === "/where-to-buy" ? "page" : void 0, 0)} href="${"/where-to-buy"}" class="${["svelte-1804nw2", $page.url.pathname == "/where-to-buy" ? "active" : ""].join(" ").trim()}"><span class="${"svelte-1804nw2"}">Where to Buy</span></a></li></ul></nav>`;
 });
-const Nav = (0, import_index_511eca88.c)(($$result, $$props, $$bindings, slots) => {
-  return `<div class="${"hidden lg:block lg:w-3/5 relative top-16"}">${(0, import_index_511eca88.v)(NavContent, "NavContent").$$render($$result, {}, {}, {})}</div>
+const Nav = (0, import_index_8b43e98c.c)(($$result, $$props, $$bindings, slots) => {
+  return `<div class="${"hidden lg:block lg:w-3/5 relative top-16"}">${(0, import_index_8b43e98c.v)(NavContent, "NavContent").$$render($$result, {}, {}, {})}</div>
 
 <div class="${"block lg:hidden"}"><button class="${"fixed top-4 right-4 z-40 px-3 py-2 border rounded text-gray-200 bg-gray-800 border-gray-400 hover:text-gray-300 hover:border-gray-600"}"><svg class="${"fill-current h-3 w-3"}" viewBox="${"0 0 20 20"}" xmlns="${"http://www.w3.org/2000/svg"}"><title>Menu</title><path d="${"M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"}"></path></svg></button></div>`;
 });
-const NavMobile = (0, import_index_511eca88.c)(($$result, $$props, $$bindings, slots) => {
+const NavMobile = (0, import_index_8b43e98c.c)(($$result, $$props, $$bindings, slots) => {
   return `<div id="${"navMobile"}" class="${"fixed w-0 h-full z-50 overflow-x-hidden bg-gray-800 bg-opacity-95"}"><div class="${"flex flex-wrap flex-col content-end px-6 my-4"}"><button class="${"flex-1 p-0 text-white text-5xl"}">\xD7</button></div>
 
-    <div class="${"overlay-content mt-6 px-6"}">${(0, import_index_511eca88.v)(NavContent, "NavContent").$$render($$result, {}, {}, {})}</div></div>`;
+    <div class="${"overlay-content mt-6 px-6"}">${(0, import_index_8b43e98c.v)(NavContent, "NavContent").$$render($$result, {}, {}, {})}</div></div>`;
 });
 var tailwindOutput = "";
 var app = "";
@@ -149,7 +149,7 @@ const css = {
   code: "@media(min-width: 1024px){.image-rotation.svelte-1pidex7 figure.svelte-1pidex7{height:500px}}",
   map: null
 };
-const _layout = (0, import_index_511eca88.c)(($$result, $$props, $$bindings, slots) => {
+const _layout = (0, import_index_8b43e98c.c)(($$result, $$props, $$bindings, slots) => {
   let mainImage = you01;
   function randomYouImage() {
     const youPics = [
@@ -177,13 +177,13 @@ const _layout = (0, import_index_511eca88.c)(($$result, $$props, $$bindings, slo
     mainImage = randomYouImage();
   });
   $$result.css.add(css);
-  return `${`${(0, import_index_511eca88.v)(GoogleAnalytics, "GoogleAnalytics").$$render($$result, { properties: ["G-WN3BJ9W3N5"] }, {}, {})}`}
+  return `${`${(0, import_index_8b43e98c.v)(GoogleAnalytics, "GoogleAnalytics").$$render($$result, { properties: ["G-WN3BJ9W3N5"] }, {}, {})}`}
 
-${(0, import_index_511eca88.v)(NavMobile, "NavMobile").$$render($$result, {}, {}, {})}
+${(0, import_index_8b43e98c.v)(NavMobile, "NavMobile").$$render($$result, {}, {}, {})}
 
-<div class="${"font-sans antialiased text-gray-900 leading-normal tracking-wider bg-cover"}" style="${"background-image:url(" + (0, import_index_511eca88.e)(bg) + ");"}"><div class="${"max-w-4xl flex items-center h-auto lg:h-screen flex-wrap mx-auto py-24 px-6 lg:px-0 lg:my-0"}">${(0, import_index_511eca88.v)(Nav, "Nav").$$render($$result, {}, {}, {})}
+<div class="${"font-sans antialiased text-gray-900 leading-normal tracking-wider bg-cover"}" style="${"background-image:url(" + (0, import_index_8b43e98c.e)(bg, true) + ");"}"><div class="${"max-w-4xl flex items-center h-auto lg:h-screen flex-wrap mx-auto py-24 px-6 lg:px-0 lg:my-0"}">${(0, import_index_8b43e98c.v)(Nav, "Nav").$$render($$result, {}, {}, {})}
 
-		<div class="${"main-content w-full lg:w-3/5 rounded-lg lg:rounded-l-lg lg:rounded-r-none shadow-2xl bg-white opacity-75 lg:mx-0 lg:h-4/6 lg:overflow-y-scroll"}"><div class="${"p-4 md:p-6"}"><div class="${"block lg:hidden rounded-full shadow-xl mx-auto -mt-16 h-48 w-48 bg-cover bg-top"}" style="${"background-image: url(" + (0, import_index_511eca88.e)(mainImage) + ")"}"></div>
+		<div class="${"main-content w-full lg:w-3/5 rounded-lg lg:rounded-l-lg lg:rounded-r-none shadow-2xl bg-white opacity-75 lg:mx-0 lg:h-4/6 lg:overflow-y-scroll"}"><div class="${"p-4 md:p-6"}"><div class="${"block lg:hidden rounded-full shadow-xl mx-auto -mt-16 h-48 w-48 bg-cover bg-top"}" style="${"background-image: url(" + (0, import_index_8b43e98c.e)(mainImage, true) + ")"}"></div>
 
 				<h1 class="${"text-3xl font-bold pt-8 lg:pt-0 text-center lg:text-left"}">Forget-me-not: a You fansite</h1>
 				<div class="${"mx-auto lg:mx-0 w-4/5 my-3 border-b-2 border-green-500 opacity-25"}"></div>
@@ -191,14 +191,14 @@ ${(0, import_index_511eca88.v)(NavMobile, "NavMobile").$$render($$result, {}, {}
 				${slots.default ? slots.default({}) : ``}
 
 				<div class="${"pt-4"}"><p class="${"italic text-xs text-center lg:text-left"}">\xA9 2004-2021<br>
-						${(0, import_index_511eca88.v)(import_Link_1d5c49d4.L, "Link").$$render($$result, {
+						${(0, import_index_8b43e98c.v)(import_Link_1d087319.L, "Link").$$render($$result, {
     href: "https://sekai.co.uk",
     class: "no-underline"
   }, {}, {
     default: () => {
       return `Contact webmaster`;
     }
-  })} \u2022 ${(0, import_index_511eca88.v)(import_Link_1d5c49d4.L, "Link").$$render($$result, {
+  })} \u2022 ${(0, import_index_8b43e98c.v)(import_Link_1d087319.L, "Link").$$render($$result, {
     href: "https://github.com/mikachan/forget-me-not",
     class: "no-underline"
   }, {}, {
@@ -207,7 +207,7 @@ ${(0, import_index_511eca88.v)(NavMobile, "NavMobile").$$render($$result, {}, {}
     }
   })}</p></div></div></div>
 
-		<div class="${"image-rotation w-full lg:w-2/5 svelte-1pidex7"}"><figure class="${"hidden lg:block svelte-1pidex7"}">${(0, import_index_511eca88.v)(import_Image_892957b2.I, "Image").$$render($$result, {
+		<div class="${"image-rotation w-full lg:w-2/5 svelte-1pidex7"}"><figure class="${"hidden lg:block svelte-1pidex7"}">${(0, import_index_8b43e98c.v)(import_Image_ce32de43.I, "Image").$$render($$result, {
     src: mainImage,
     alt: "You",
     class: "rounded-none lg:rounded-lg shadow-2xl",

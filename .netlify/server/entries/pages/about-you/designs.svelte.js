@@ -22,11 +22,11 @@ __export(stdin_exports, {
   prerender: () => prerender
 });
 module.exports = __toCommonJS(stdin_exports);
-var import_index_511eca88 = require("../../../chunks/index-511eca88.js");
-var import_store_57e59034 = require("../../../chunks/store-57e59034.js");
-var import_Image_892957b2 = require("../../../chunks/Image-892957b2.js");
-var import_Link_1d5c49d4 = require("../../../chunks/Link-1d5c49d4.js");
-var import_index_cea261f0 = require("../../../chunks/index-cea261f0.js");
+var import_index_8b43e98c = require("../../../chunks/index-8b43e98c.js");
+var import_store_acd80018 = require("../../../chunks/store-acd80018.js");
+var import_Image_ce32de43 = require("../../../chunks/Image-ce32de43.js");
+var import_Link_1d087319 = require("../../../chunks/Link-1d087319.js");
+var import_index_54043d18 = require("../../../chunks/index-54043d18.js");
 var import_blurhash = require("blurhash");
 var hdarts04 = "/_app/assets/hdarts04-fc324f67.jpg";
 var hdarts03 = "/_app/assets/hdarts03-70510b13.jpg";
@@ -38,18 +38,18 @@ var earring = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAZABkAAD/7AARRHVja3kAAQ
 var bracelet = "/_app/assets/bracelet-f013da83.jpg";
 const prerender = true;
 let pageTitle = "Designs";
-import_store_57e59034.t.set(pageTitle);
-const Designs = (0, import_index_511eca88.c)(($$result, $$props, $$bindings, slots) => {
+import_store_acd80018.t.set(pageTitle);
+const Designs = (0, import_index_8b43e98c.c)(($$result, $$props, $$bindings, slots) => {
   let $title, $$unsubscribe_title;
-  $$unsubscribe_title = (0, import_index_511eca88.a)(import_store_57e59034.t, (value) => $title = value);
+  $$unsubscribe_title = (0, import_index_8b43e98c.a)(import_store_acd80018.t, (value) => $title = value);
   $$unsubscribe_title();
-  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_511eca88.e)($title)}</title>`, ""}`, ""}
+  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_8b43e98c.e)($title)}</title>`, ""}`, ""}
 
-<h2>${(0, import_index_511eca88.e)(pageTitle)}</h2>
+<h2>${(0, import_index_8b43e98c.e)(pageTitle)}</h2>
 
 <h3>Jewellery</h3>
 
-<figure style="${"width: 120px;"}">${(0, import_index_511eca88.v)(import_Image_892957b2.I, "Image").$$render($$result, {
+<figure style="${"width: 120px;"}">${(0, import_index_8b43e98c.v)(import_Image_ce32de43.I, "Image").$$render($$result, {
     alt: "Bracelet",
     class: "p-2 pt-0",
     align: "right",
@@ -57,7 +57,7 @@ const Designs = (0, import_index_511eca88.c)(($$result, $$props, $$bindings, slo
     ratio: "70%"
   }, {}, {})}</figure>
 
-<p>You has designed a couple of bracelets with Monkey-act-web. All You-related things could be found under the <em>WithMAD</em> section of the site. The last bracelet on the ${(0, import_index_511eca88.v)(import_Link_1d5c49d4.L, "Link").$$render($$result, {
+<p>You has designed a couple of bracelets with Monkey-act-web. All You-related things could be found under the <em>WithMAD</em> section of the site. The last bracelet on the ${(0, import_index_8b43e98c.v)(import_Link_1d087319.L, "Link").$$render($$result, {
     href: "http://www.monkey-act-web.com/you/youpage.html"
   }, {}, {
     default: () => {
@@ -65,7 +65,7 @@ const Designs = (0, import_index_511eca88.c)(($$result, $$props, $$bindings, slo
     }
   })} he designed in 2003.</p>
 
-<figure style="${"width: 100px;"}">${(0, import_index_511eca88.v)(import_Image_892957b2.I, "Image").$$render($$result, {
+<figure style="${"width: 100px;"}">${(0, import_index_8b43e98c.v)(import_Image_ce32de43.I, "Image").$$render($$result, {
     alt: "Earring",
     class: "p-2 pt-0",
     align: "right",
@@ -77,7 +77,7 @@ const Designs = (0, import_index_511eca88.c)(($$result, $$props, $$bindings, slo
 
 <p>You has made comments on the bracelets, saying they were his first collaboration with Monkey, and that it took a long time to design them.</p>
 
-<p>He&#39;s also designed other pieces of jewelery for <em>h-Darts</em>, including earrings, bracelets and necklaces. His latest design is a bracelet titled &quot;Earth&quot;, which can be seen ${(0, import_index_511eca88.v)(import_Link_1d5c49d4.L, "Link").$$render($$result, {
+<p>He&#39;s also designed other pieces of jewelery for <em>h-Darts</em>, including earrings, bracelets and necklaces. His latest design is a bracelet titled &quot;Earth&quot;, which can be seen ${(0, import_index_8b43e98c.v)(import_Link_1d087319.L, "Link").$$render($$result, {
     href: "http://www.h-darts.com/original/order/image/g_you_model.jpg"
   }, {}, {
     default: () => {
@@ -87,23 +87,23 @@ const Designs = (0, import_index_511eca88.c)(($$result, $$props, $$bindings, slo
 
 <p>The best thing from the h-darts collab was this gorgeous but slightly awkward must-show-hands-and-wrists-in-all-shots photoshoot:</p>
 
-<figure>${(0, import_index_511eca88.v)(import_Image_892957b2.I, "Image").$$render($$result, {
+<figure>${(0, import_index_8b43e98c.v)(import_Image_ce32de43.I, "Image").$$render($$result, {
     alt: "h-darts",
     class: "p-2 pt-0 inline-block",
     src: hdarts01
   }, {}, {})}
-	${(0, import_index_511eca88.v)(import_Image_892957b2.I, "Image").$$render($$result, {
+	${(0, import_index_8b43e98c.v)(import_Image_ce32de43.I, "Image").$$render($$result, {
     alt: "h-darts",
     class: "p-2 pt-0 inline-block",
     src: hdarts02
   }, {}, {})}</figure>
 
-<figure>${(0, import_index_511eca88.v)(import_Image_892957b2.I, "Image").$$render($$result, {
+<figure>${(0, import_index_8b43e98c.v)(import_Image_ce32de43.I, "Image").$$render($$result, {
     alt: "h-darts",
     class: "p-2 pt-0 inline-block",
     src: hdarts03
   }, {}, {})}
-	${(0, import_index_511eca88.v)(import_Image_892957b2.I, "Image").$$render($$result, {
+	${(0, import_index_8b43e98c.v)(import_Image_ce32de43.I, "Image").$$render($$result, {
     alt: "h-darts",
     class: "p-2 pt-0 inline-block",
     src: hdarts04
@@ -112,14 +112,14 @@ const Designs = (0, import_index_511eca88.c)(($$result, $$props, $$bindings, slo
 <h3 class="${"mt-4"}">Clothing</h3>
 <p>You collaborated with Ed Hardy in 2014 on a clothing range.</p>
 
-<figure>${(0, import_index_511eca88.v)(import_Image_892957b2.I, "Image").$$render($$result, {
+<figure>${(0, import_index_8b43e98c.v)(import_Image_ce32de43.I, "Image").$$render($$result, {
     alt: "Ed Hardy x You",
     class: "p-2 pt-0",
     align: "right",
     src: edhardy1
   }, {}, {})}</figure>
 
-<figure>${(0, import_index_511eca88.v)(import_Image_892957b2.I, "Image").$$render($$result, {
+<figure>${(0, import_index_8b43e98c.v)(import_Image_ce32de43.I, "Image").$$render($$result, {
     alt: "Ed Hardy x You",
     class: "p-2 pt-0 mb-4",
     align: "right",

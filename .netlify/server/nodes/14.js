@@ -27,6 +27,6 @@ __export(stdin_exports, {
 });
 module.exports = __toCommonJS(stdin_exports);
 var module2 = __toESM(require("../entries/pages/music-career/maracas.svelte.js"));
-const entry = "pages/music-career/maracas.svelte-b3636dd3.js";
-const js = ["pages/music-career/maracas.svelte-b3636dd3.js", "chunks/index-ec6d3f23.js", "chunks/Link-5d7c1ad5.js", "chunks/Image-ec20a66e.js", "chunks/1996-mm-a4a68d6c.js", "chunks/store-d74e2412.js", "chunks/index-aca68f77.js"];
+const entry = "pages/music-career/maracas.svelte-8dbd22a3.js";
+const js = ["pages/music-career/maracas.svelte-8dbd22a3.js", "chunks/index-41fb9353.js", "chunks/Link-87d41ffc.js", "chunks/Image-85fa9df4.js", "chunks/1996-mm-a4a68d6c.js", "chunks/store-6f6c4999.js", "chunks/index-6363980c.js"];
 const css = ["assets/Image-0b925577.css"];

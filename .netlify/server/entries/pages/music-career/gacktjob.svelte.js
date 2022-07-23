@@ -22,19 +22,19 @@ __export(stdin_exports, {
   prerender: () => prerender
 });
 module.exports = __toCommonJS(stdin_exports);
-var import_index_511eca88 = require("../../../chunks/index-511eca88.js");
-var import_store_57e59034 = require("../../../chunks/store-57e59034.js");
-var import_index_cea261f0 = require("../../../chunks/index-cea261f0.js");
+var import_index_8b43e98c = require("../../../chunks/index-8b43e98c.js");
+var import_store_acd80018 = require("../../../chunks/store-acd80018.js");
+var import_index_54043d18 = require("../../../chunks/index-54043d18.js");
 const prerender = true;
 let pageTitle = "GacktJob";
-import_store_57e59034.t.set(pageTitle);
-const Gacktjob = (0, import_index_511eca88.c)(($$result, $$props, $$bindings, slots) => {
+import_store_acd80018.t.set(pageTitle);
+const Gacktjob = (0, import_index_8b43e98c.c)(($$result, $$props, $$bindings, slots) => {
   let $title, $$unsubscribe_title;
-  $$unsubscribe_title = (0, import_index_511eca88.a)(import_store_57e59034.t, (value) => $title = value);
+  $$unsubscribe_title = (0, import_index_8b43e98c.a)(import_store_acd80018.t, (value) => $title = value);
   $$unsubscribe_title();
-  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_511eca88.e)($title)}</title>`, ""}`, ""}
+  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_8b43e98c.e)($title)}</title>`, ""}`, ""}
 
-<h2>${(0, import_index_511eca88.e)(pageTitle)}</h2>
+<h2>${(0, import_index_8b43e98c.e)(pageTitle)}</h2>
 
 <p>The members of GacktJob have said that You is like a robot, with the exception of Gackt, who says he&#39;s half donkey, half horse.</p>
 

@@ -13,7 +13,10 @@ const config = {
 		}),
 	],
 	kit: {
-		adapter: adapter(),
+		adapter: adapter({
+			edge: false,
+			split: true,
+		}),
 	},
 };
 

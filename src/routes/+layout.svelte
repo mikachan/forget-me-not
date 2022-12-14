@@ -1,6 +1,7 @@
 <script lang="ts">
-	export const ssr = false;
-	
+	export const trailingSlash = 'always';
+	export const prerender = true;
+
 	import { dev } from '$app/environment';
 	import { page } from '$app/stores';
     import { onMount } from 'svelte';

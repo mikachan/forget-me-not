@@ -1,4 +1,5 @@
 <script context="module" lang="ts">
+	export const trailingSlash = 'always';
 	export const prerender = true;
 
 	import Link from '$lib/Link.svelte';

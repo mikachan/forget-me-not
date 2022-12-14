@@ -1,6 +1,5 @@
 import { c as create_ssr_component, v as validate_component } from "../../chunks/index.js";
 import { L as Link } from "../../chunks/Link.js";
-const trailingSlash = "always";
 const prerender = true;
 const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   return `${$$result.head += `<!-- HEAD_svelte-u51uix_START -->${$$result.title = `<title>Forget-me-not | You fansite</title>`, ""}<!-- HEAD_svelte-u51uix_END -->`, ""}
@@ -27,6 +26,5 @@ const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
 });
 export {
   Page as default,
-  prerender,
-  trailingSlash
+  prerender
 };

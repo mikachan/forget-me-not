@@ -116,7 +116,6 @@ const css = {
   map: null
 };
 const Layout = create_ssr_component(($$result, $$props, $$bindings, slots) => {
-  const trailingSlash = "always";
   const prerender = true;
   let mainImage = you01;
   function randomYouImage() {
@@ -144,8 +143,6 @@ const Layout = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   page.subscribe(({ url, params, status }) => {
     mainImage = randomYouImage();
   });
-  if ($$props.trailingSlash === void 0 && $$bindings.trailingSlash && trailingSlash !== void 0)
-    $$bindings.trailingSlash(trailingSlash);
   if ($$props.prerender === void 0 && $$bindings.prerender && prerender !== void 0)
     $$bindings.prerender(prerender);
   $$result.css.add(css);

@@ -24,7 +24,7 @@
     "@beyonk/async-script-loader": "^2.3.0",
     "@beyonk/svelte-google-analytics": "^2.6.4",
     "@sinonjs/fake-timers": "^10.0.0",
-    "@sveltejs/adapter-netlify": "^1.0.0",
+    "@sveltejs/adapter-netlify": "^1.0.0-next.88",
     "@sveltejs/adapter-static": "^1.0.0",
     "@sveltejs/kit": "^1.0.0",
     "@testing-library/jest-dom": "^5.16.5",

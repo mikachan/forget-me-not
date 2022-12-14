@@ -22,23 +22,23 @@ __export(stdin_exports, {
   prerender: () => prerender
 });
 module.exports = __toCommonJS(stdin_exports);
-var import_index_8b43e98c = require("../../../chunks/index-8b43e98c.js");
-var import_store_acd80018 = require("../../../chunks/store-acd80018.js");
-var import_Image_ce32de43 = require("../../../chunks/Image-ce32de43.js");
-var import_Link_1d087319 = require("../../../chunks/Link-1d087319.js");
-var import_index_54043d18 = require("../../../chunks/index-54043d18.js");
+var import_index_db852415 = require("../../../chunks/index-db852415.js");
+var import_store_e0ef4c58 = require("../../../chunks/store-e0ef4c58.js");
+var import_Image_573146f4 = require("../../../chunks/Image-573146f4.js");
+var import_Link_a57e5296 = require("../../../chunks/Link-a57e5296.js");
+var import_index_652f602f = require("../../../chunks/index-652f602f.js");
 var import_blurhash = require("blurhash");
 var hana = "/_app/assets/hana-776a226e.png";
 const prerender = true;
 let pageTitle = "You & Gackt";
-import_store_acd80018.t.set(pageTitle);
-const You_gackt = (0, import_index_8b43e98c.c)(($$result, $$props, $$bindings, slots) => {
+import_store_e0ef4c58.t.set(pageTitle);
+const You_gackt = (0, import_index_db852415.c)(($$result, $$props, $$bindings, slots) => {
   let $title, $$unsubscribe_title;
-  $$unsubscribe_title = (0, import_index_8b43e98c.a)(import_store_acd80018.t, (value) => $title = value);
+  $$unsubscribe_title = (0, import_index_db852415.a)(import_store_e0ef4c58.t, (value) => $title = value);
   $$unsubscribe_title();
-  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_8b43e98c.e)($title)}</title>`, ""}`, ""}
+  return `${$$result.head += `<!-- HEAD_svelte-1igowiq_START -->${$$result.title = `<title>${(0, import_index_db852415.e)($title)}</title>`, ""}<!-- HEAD_svelte-1igowiq_END -->`, ""}
 
-<h2>${(0, import_index_8b43e98c.e)(pageTitle)}</h2>
+<h2>${(0, import_index_db852415.e)(pageTitle)}</h2>
 
 <h3>Meeting Gackt</h3>
 
@@ -54,7 +54,7 @@ const You_gackt = (0, import_index_8b43e98c.c)(($$result, $$props, $$bindings, s
 
 <h3>Christmas Eve Street Performance in 1993</h3>
 
-<figure>${(0, import_index_8b43e98c.v)(import_Image_ce32de43.I, "Image").$$render($$result, {
+<figure>${(0, import_index_db852415.v)(import_Image_573146f4.I, "Image").$$render($$result, {
     alt: "Gackt and You performance at Christmas",
     class: "p-4 pt-0",
     width: "200",
@@ -69,7 +69,7 @@ const You_gackt = (0, import_index_8b43e98c.c)(($$result, $$props, $$bindings, s
 
 <iframe title="${"hanashitaku wa nai"}" src="${"https://www.youtube.com/embed/8v2FPRve0S4"}" frameborder="${"0"}" allow="${"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"}" allowfullscreen class="${"mb-4"}"></iframe>
 
-<p>Gackt has also described this night in an interview from <em>Vicious 08.1998</em>. Ryuik has scanned and translated ${(0, import_index_8b43e98c.v)(import_Link_1d087319.L, "Link").$$render($$result, {
+<p>Gackt has also described this night in an interview from <em>Vicious 08.1998</em>. Ryuik has scanned and translated ${(0, import_index_db852415.v)(import_Link_a57e5296.L, "Link").$$render($$result, {
     href: "https://ryuik.livejournal.com/218356.html"
   }, {}, {
     default: () => {
@@ -107,7 +107,7 @@ const You_gackt = (0, import_index_8b43e98c.c)(($$result, $$props, $$bindings, s
 	<li><em>ANOTHER WORLD</em> was written while on holiday together in Hawaii after they went for a drive in the rain.</li>
 	<li>Gackt has said that when he is with You he can truly relax and be himself, and when they&#39;re together it&#39;s more like two people merging as one.</li>
 	<li>When asked about their relationship, You has said that he is like the ocean and Gackt is the moon. You likes to be calm and careful, and do everything at his own pace, while supporting Gackt. And Gackt is a beacon, guiding the way and inspiring him.</li>
-	<li>Gackt talked about You a lot on his ${(0, import_index_8b43e98c.v)(import_Link_1d087319.L, "Link").$$render($$result, { href: "http://allnightnippon.com/gackt" }, {}, {
+	<li>Gackt talked about You a lot on his ${(0, import_index_db852415.v)(import_Link_a57e5296.L, "Link").$$render($$result, { href: "http://allnightnippon.com/gackt" }, {}, {
     default: () => {
       return `radio show`;
     }

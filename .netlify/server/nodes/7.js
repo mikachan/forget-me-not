@@ -27,6 +27,6 @@ __export(stdin_exports, {
 });
 module.exports = __toCommonJS(stdin_exports);
 var module2 = __toESM(require("../entries/pages/discography/life-short-film.svelte.js"));
-const entry = "pages/discography/life-short-film.svelte-d948c7b6.js";
-const js = ["pages/discography/life-short-film.svelte-d948c7b6.js", "chunks/index-41fb9353.js", "chunks/Link-87d41ffc.js", "chunks/store-6f6c4999.js", "chunks/index-6363980c.js"];
+const entry = "pages/discography/life-short-film.svelte-85917809.js";
+const js = ["pages/discography/life-short-film.svelte-85917809.js", "chunks/index-6f6aa9b1.js", "chunks/Link-65e611be.js", "chunks/store-b0fb4fd9.js", "chunks/index-2a41a2b9.js"];
 const css = [];

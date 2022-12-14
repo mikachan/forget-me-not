@@ -4,7 +4,7 @@
     "src": ".svelte-kit/build/index.js",
     "isEntry": true,
     "imports": [
-      "_index-8b43e98c.js"
+      "_index-db852415.js"
     ],
     "dynamicImports": [
       "src/hooks.ts"
@@ -15,13 +15,13 @@
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "imports": [
-      "_index-8b43e98c.js",
-      "_index-54043d18.js",
-      "_Link-1d087319.js",
-      "_Image-ce32de43.js"
+      "_index-db852415.js",
+      "_index-652f602f.js",
+      "_Link-a57e5296.js",
+      "_Image-573146f4.js"
     ],
     "css": [
-      "assets/entries/pages/__layout.svelte-6a774062.css"
+      "assets/entries/pages/__layout.svelte-a8b53388.css"
     ],
     "assets": [
       "assets/bg02-83df7930.jpg",
@@ -55,7 +55,7 @@
     "src": ".svelte-kit/runtime/components/error.svelte",
     "isEntry": true,
     "imports": [
-      "_index-8b43e98c.js"
+      "_index-db852415.js"
     ]
   },
   "src/routes/about-you/designs.svelte": {
@@ -63,11 +63,11 @@
     "src": "src/routes/about-you/designs.svelte",
     "isEntry": true,
     "imports": [
-      "_index-8b43e98c.js",
-      "_store-acd80018.js",
-      "_Image-ce32de43.js",
-      "_Link-1d087319.js",
-      "_index-54043d18.js"
+      "_index-db852415.js",
+      "_store-e0ef4c58.js",
+      "_Image-573146f4.js",
+      "_Link-a57e5296.js",
+      "_index-652f602f.js"
     ],
     "assets": [
       "assets/hdarts04-fc324f67.jpg",
@@ -84,10 +84,10 @@
     "src": "src/routes/about-you/index.svelte",
     "isEntry": true,
     "imports": [
-      "_index-8b43e98c.js",
-      "_store-acd80018.js",
-      "_Link-1d087319.js",
-      "_index-54043d18.js"
+      "_index-db852415.js",
+      "_store-e0ef4c58.js",
+      "_Link-a57e5296.js",
+      "_index-652f602f.js"
     ]
   },
   "src/routes/discography/appearances.svelte": {
@@ -95,10 +95,10 @@
     "src": "src/routes/discography/appearances.svelte",
     "isEntry": true,
     "imports": [
-      "_index-8b43e98c.js",
-      "_store-acd80018.js",
-      "_Link-1d087319.js",
-      "_index-54043d18.js"
+      "_index-db852415.js",
+      "_store-e0ef4c58.js",
+      "_Link-a57e5296.js",
+      "_index-652f602f.js"
     ]
   },
   "src/routes/discography/full-discography.svelte": {
@@ -106,12 +106,12 @@
     "src": "src/routes/discography/full-discography.svelte",
     "isEntry": true,
     "imports": [
-      "_index-8b43e98c.js",
-      "_store-acd80018.js",
-      "_index-54043d18.js"
+      "_index-db852415.js",
+      "_store-e0ef4c58.js",
+      "_index-652f602f.js"
     ],
     "css": [
-      "assets/entries/pages/discography/full-discography.svelte-919555ed.css"
+      "assets/entries/pages/discography/full-discography.svelte-4c9f0c8c.css"
     ]
   },
   "src/routes/discography/index.svelte": {
@@ -119,10 +119,10 @@
     "src": "src/routes/discography/index.svelte",
     "isEntry": true,
     "imports": [
-      "_index-8b43e98c.js",
-      "_store-acd80018.js",
-      "_Image-ce32de43.js",
-      "_index-54043d18.js"
+      "_index-db852415.js",
+      "_store-e0ef4c58.js",
+      "_Image-573146f4.js",
+      "_index-652f602f.js"
     ],
     "assets": [
       "assets/moonchild-53a59bb5.jpg"
@@ -133,10 +133,10 @@
     "src": "src/routes/discography/life-short-film.svelte",
     "isEntry": true,
     "imports": [
-      "_index-8b43e98c.js",
-      "_Link-1d087319.js",
-      "_store-acd80018.js",
-      "_index-54043d18.js"
+      "_index-db852415.js",
+      "_Link-a57e5296.js",
+      "_store-e0ef4c58.js",
+      "_index-652f602f.js"
     ]
   },
   "src/routes/discography/nine-nine-radio.svelte": {
@@ -144,9 +144,9 @@
     "src": "src/routes/discography/nine-nine-radio.svelte",
     "isEntry": true,
     "imports": [
-      "_index-8b43e98c.js",
-      "_store-acd80018.js",
-      "_index-54043d18.js"
+      "_index-db852415.js",
+      "_store-e0ef4c58.js",
+      "_index-652f602f.js"
     ]
   },
   "src/routes/index.svelte": {
@@ -154,8 +154,8 @@
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "imports": [
-      "_index-8b43e98c.js",
-      "_Link-1d087319.js"
+      "_index-db852415.js",
+      "_Link-a57e5296.js"
     ]
   },
   "src/routes/music-career/birthday-2003.svelte": {
@@ -163,11 +163,11 @@
     "src": "src/routes/music-career/birthday-2003.svelte",
     "isEntry": true,
     "imports": [
-      "_index-8b43e98c.js",
-      "_Link-1d087319.js",
-      "_Image-ce32de43.js",
-      "_store-acd80018.js",
-      "_index-54043d18.js"
+      "_index-db852415.js",
+      "_Link-a57e5296.js",
+      "_Image-573146f4.js",
+      "_store-e0ef4c58.js",
+      "_index-652f602f.js"
     ],
     "assets": [
       "assets/bdaycake-cc22d69f.jpg"
@@ -178,11 +178,11 @@
     "src": "src/routes/music-career/cains-feel.svelte",
     "isEntry": true,
     "imports": [
-      "_index-8b43e98c.js",
-      "_store-acd80018.js",
-      "_Image-ce32de43.js",
-      "_Link-1d087319.js",
-      "_index-54043d18.js"
+      "_index-db852415.js",
+      "_store-e0ef4c58.js",
+      "_Image-573146f4.js",
+      "_Link-a57e5296.js",
+      "_index-652f602f.js"
     ],
     "assets": [
       "assets/cainsfeel-97d557e4.jpg",
@@ -195,9 +195,9 @@
     "src": "src/routes/music-career/gacktjob.svelte",
     "isEntry": true,
     "imports": [
-      "_index-8b43e98c.js",
-      "_store-acd80018.js",
-      "_index-54043d18.js"
+      "_index-db852415.js",
+      "_store-e0ef4c58.js",
+      "_index-652f602f.js"
     ]
   },
   "src/routes/music-career/index.svelte": {
@@ -205,12 +205,12 @@
     "src": "src/routes/music-career/index.svelte",
     "isEntry": true,
     "imports": [
-      "_index-8b43e98c.js",
-      "_store-acd80018.js",
+      "_index-db852415.js",
+      "_store-e0ef4c58.js",
       "_1996-mm-a4a68d6c.js",
-      "_Link-1d087319.js",
-      "_Image-ce32de43.js",
-      "_index-54043d18.js"
+      "_Link-a57e5296.js",
+      "_Image-573146f4.js",
+      "_index-652f602f.js"
     ],
     "assets": [
       "assets/luscious03-42261a8b.jpeg",
@@ -225,12 +225,12 @@
     "src": "src/routes/music-career/maracas.svelte",
     "isEntry": true,
     "imports": [
-      "_index-8b43e98c.js",
-      "_Link-1d087319.js",
-      "_Image-ce32de43.js",
+      "_index-db852415.js",
+      "_Link-a57e5296.js",
+      "_Image-573146f4.js",
       "_1996-mm-a4a68d6c.js",
-      "_store-acd80018.js",
-      "_index-54043d18.js"
+      "_store-e0ef4c58.js",
+      "_index-652f602f.js"
     ]
   },
   "src/routes/music-career/sqf.svelte": {
@@ -238,9 +238,9 @@
     "src": "src/routes/music-career/sqf.svelte",
     "isEntry": true,
     "imports": [
-      "_index-8b43e98c.js",
-      "_store-acd80018.js",
-      "_index-54043d18.js"
+      "_index-db852415.js",
+      "_store-e0ef4c58.js",
+      "_index-652f602f.js"
     ]
   },
   "src/routes/music-career/you-gackt.svelte": {
@@ -248,11 +248,11 @@
     "src": "src/routes/music-career/you-gackt.svelte",
     "isEntry": true,
     "imports": [
-      "_index-8b43e98c.js",
-      "_store-acd80018.js",
-      "_Image-ce32de43.js",
-      "_Link-1d087319.js",
-      "_index-54043d18.js"
+      "_index-db852415.js",
+      "_store-e0ef4c58.js",
+      "_Image-573146f4.js",
+      "_Link-a57e5296.js",
+      "_index-652f602f.js"
     ],
     "assets": [
       "assets/hana-776a226e.png"
@@ -263,10 +263,10 @@
     "src": "src/routes/site/history.svelte",
     "isEntry": true,
     "imports": [
-      "_index-8b43e98c.js",
-      "_Link-1d087319.js",
-      "_store-acd80018.js",
-      "_index-54043d18.js"
+      "_index-db852415.js",
+      "_Link-a57e5296.js",
+      "_store-e0ef4c58.js",
+      "_index-652f602f.js"
     ]
   },
   "src/routes/site/thanks.svelte": {
@@ -274,9 +274,9 @@
     "src": "src/routes/site/thanks.svelte",
     "isEntry": true,
     "imports": [
-      "_index-8b43e98c.js",
-      "_store-acd80018.js",
-      "_index-54043d18.js"
+      "_index-db852415.js",
+      "_store-e0ef4c58.js",
+      "_index-652f602f.js"
     ]
   },
   "src/routes/site/updates.svelte": {
@@ -284,10 +284,10 @@
     "src": "src/routes/site/updates.svelte",
     "isEntry": true,
     "imports": [
-      "_index-8b43e98c.js",
-      "_Link-1d087319.js",
-      "_store-acd80018.js",
-      "_index-54043d18.js"
+      "_index-db852415.js",
+      "_Link-a57e5296.js",
+      "_store-e0ef4c58.js",
+      "_index-652f602f.js"
     ],
     "css": [
       "assets/entries/pages/site/updates.svelte-6e40053f.css"
@@ -298,40 +298,40 @@
     "src": "src/routes/where-to-buy.svelte",
     "isEntry": true,
     "imports": [
-      "_index-8b43e98c.js",
-      "_store-acd80018.js",
-      "_Link-1d087319.js",
-      "_index-54043d18.js"
+      "_index-db852415.js",
+      "_store-e0ef4c58.js",
+      "_Link-a57e5296.js",
+      "_index-652f602f.js"
     ]
   },
-  "_index-8b43e98c.js": {
-    "file": "chunks/index-8b43e98c.js"
+  "_index-db852415.js": {
+    "file": "chunks/index-db852415.js"
   },
-  "_Link-1d087319.js": {
-    "file": "chunks/Link-1d087319.js",
+  "_Link-a57e5296.js": {
+    "file": "chunks/Link-a57e5296.js",
     "imports": [
-      "_index-8b43e98c.js"
+      "_index-db852415.js"
     ]
   },
-  "_Image-ce32de43.js": {
-    "file": "chunks/Image-ce32de43.js",
+  "_Image-573146f4.js": {
+    "file": "chunks/Image-573146f4.js",
     "imports": [
-      "_index-8b43e98c.js"
+      "_index-db852415.js"
     ],
     "css": [
       "assets/Image-3c37b05e.css"
     ]
   },
-  "_index-54043d18.js": {
-    "file": "chunks/index-54043d18.js",
+  "_index-652f602f.js": {
+    "file": "chunks/index-652f602f.js",
     "imports": [
-      "_index-8b43e98c.js"
+      "_index-db852415.js"
     ]
   },
-  "_store-acd80018.js": {
-    "file": "chunks/store-acd80018.js",
+  "_store-e0ef4c58.js": {
+    "file": "chunks/store-e0ef4c58.js",
     "imports": [
-      "_index-54043d18.js"
+      "_index-652f602f.js"
     ]
   },
   "_1996-mm-a4a68d6c.js": {

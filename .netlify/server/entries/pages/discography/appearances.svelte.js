@@ -22,26 +22,26 @@ __export(stdin_exports, {
   prerender: () => prerender
 });
 module.exports = __toCommonJS(stdin_exports);
-var import_index_8b43e98c = require("../../../chunks/index-8b43e98c.js");
-var import_store_acd80018 = require("../../../chunks/store-acd80018.js");
-var import_Link_1d087319 = require("../../../chunks/Link-1d087319.js");
-var import_index_54043d18 = require("../../../chunks/index-54043d18.js");
+var import_index_db852415 = require("../../../chunks/index-db852415.js");
+var import_store_e0ef4c58 = require("../../../chunks/store-e0ef4c58.js");
+var import_Link_a57e5296 = require("../../../chunks/Link-a57e5296.js");
+var import_index_652f602f = require("../../../chunks/index-652f602f.js");
 const prerender = true;
 let pageTitle = "Appearances";
-import_store_acd80018.t.set(pageTitle);
-const Appearances = (0, import_index_8b43e98c.c)(($$result, $$props, $$bindings, slots) => {
+import_store_e0ef4c58.t.set(pageTitle);
+const Appearances = (0, import_index_db852415.c)(($$result, $$props, $$bindings, slots) => {
   let $title, $$unsubscribe_title;
-  $$unsubscribe_title = (0, import_index_8b43e98c.a)(import_store_acd80018.t, (value) => $title = value);
+  $$unsubscribe_title = (0, import_index_db852415.a)(import_store_e0ef4c58.t, (value) => $title = value);
   $$unsubscribe_title();
-  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_8b43e98c.e)($title)}</title>`, ""}`, ""}
+  return `${$$result.head += `<!-- HEAD_svelte-1igowiq_START -->${$$result.title = `<title>${(0, import_index_db852415.e)($title)}</title>`, ""}<!-- HEAD_svelte-1igowiq_END -->`, ""}
 
-<h2>${(0, import_index_8b43e98c.e)(pageTitle)}</h2>
+<h2>${(0, import_index_db852415.e)(pageTitle)}</h2>
 
 <h3>DVDs/Videos</h3>
 
 <p>Alongside <a href="${"/discography/full-discography#live-music-dvds"}">live tour DVDs</a>, You has also appeared in the following:</p>
 
-<ul><li>He played <em>Jun</em> in ${(0, import_index_8b43e98c.v)(import_Link_1d087319.L, "Link").$$render($$result, {
+<ul><li>He played <em>Jun</em> in ${(0, import_index_db852415.v)(import_Link_a57e5296.L, "Link").$$render($$result, {
     href: "https://www.imdb.com/title/tt0365514/"
   }, {}, {
     default: () => {
@@ -54,15 +54,15 @@ const Appearances = (0, import_index_8b43e98c.c)(($$result, $$props, $$bindings,
 	<li>Gackt&#39;s <em>Gekkou</em> DVD (2003)</li>
 	<li>Phone call on the radio between You and Gackt, from the <em>nine*nine</em> box set (2008) <a href="${"/discography/nine-nine-radio"}">Read more\xA0\u2192</a></li>
 	<li>Gackt&#39;s Platinum Boxes (DVDs)</li>
-	<li>Gackt and You gave advice on bisexual relationships on NicoNico from 2015.07.01 (Subbed video on ${(0, import_index_8b43e98c.v)(import_Link_1d087319.L, "Link").$$render($$result, { href: "https://youtu.be/f4Tdz24iRPI" }, {}, {
+	<li>Gackt and You gave advice on bisexual relationships on NicoNico from 2015.07.01 (Subbed video on ${(0, import_index_db852415.v)(import_Link_a57e5296.L, "Link").$$render($$result, { href: "https://youtu.be/f4Tdz24iRPI" }, {}, {
     default: () => {
       return `Youtube from Yuzu Translations`;
     }
-  })}. There&#39;s two other parts/sections to this video ${(0, import_index_8b43e98c.v)(import_Link_1d087319.L, "Link").$$render($$result, { href: "https://youtu.be/Z9W-f5qJFGc" }, {}, {
+  })}. There&#39;s two other parts/sections to this video ${(0, import_index_db852415.v)(import_Link_a57e5296.L, "Link").$$render($$result, { href: "https://youtu.be/Z9W-f5qJFGc" }, {}, {
     default: () => {
       return `here`;
     }
-  })} and ${(0, import_index_8b43e98c.v)(import_Link_1d087319.L, "Link").$$render($$result, { href: "https://youtu.be/-ogP-Vc2SUA" }, {}, {
+  })} and ${(0, import_index_db852415.v)(import_Link_a57e5296.L, "Link").$$render($$result, { href: "https://youtu.be/-ogP-Vc2SUA" }, {}, {
     default: () => {
       return `here`;
     }
@@ -88,12 +88,12 @@ const Appearances = (0, import_index_8b43e98c.c)(($$result, $$props, $$bindings,
 <ul><li>Gackt Dears fan club videos</li>
 	<li>Interviews with Gackt</li>
 	<li>Gackt&#39;s radio show</li>
-	<li>Modeling jewelery for ${(0, import_index_8b43e98c.v)(import_Link_1d087319.L, "Link").$$render($$result, { href: "http://h-darts.com" }, {}, {
+	<li>Modeling jewelery for ${(0, import_index_db852415.v)(import_Link_a57e5296.L, "Link").$$render($$result, { href: "http://h-darts.com" }, {}, {
     default: () => {
       return `h-Darts`;
     }
   })}</li>
-	<li>${(0, import_index_8b43e98c.v)(import_Link_1d087319.L, "Link").$$render($$result, {
+	<li>${(0, import_index_db852415.v)(import_Link_a57e5296.L, "Link").$$render($$result, {
     href: "http://www.executivemonthly.com/english/about/index.php"
   }, {}, {
     default: () => {

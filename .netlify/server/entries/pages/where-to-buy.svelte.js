@@ -22,49 +22,49 @@ __export(stdin_exports, {
   prerender: () => prerender
 });
 module.exports = __toCommonJS(stdin_exports);
-var import_index_8b43e98c = require("../../chunks/index-8b43e98c.js");
-var import_store_acd80018 = require("../../chunks/store-acd80018.js");
-var import_Link_1d087319 = require("../../chunks/Link-1d087319.js");
-var import_index_54043d18 = require("../../chunks/index-54043d18.js");
+var import_index_db852415 = require("../../chunks/index-db852415.js");
+var import_store_e0ef4c58 = require("../../chunks/store-e0ef4c58.js");
+var import_Link_a57e5296 = require("../../chunks/Link-a57e5296.js");
+var import_index_652f602f = require("../../chunks/index-652f602f.js");
 const prerender = true;
 let pageTitle = "Where to Buy";
-import_store_acd80018.t.set(pageTitle);
-const Where_to_buy = (0, import_index_8b43e98c.c)(($$result, $$props, $$bindings, slots) => {
+import_store_e0ef4c58.t.set(pageTitle);
+const Where_to_buy = (0, import_index_db852415.c)(($$result, $$props, $$bindings, slots) => {
   let $title, $$unsubscribe_title;
-  $$unsubscribe_title = (0, import_index_8b43e98c.a)(import_store_acd80018.t, (value) => $title = value);
+  $$unsubscribe_title = (0, import_index_db852415.a)(import_store_e0ef4c58.t, (value) => $title = value);
   $$unsubscribe_title();
-  return `${$$result.head += `${$$result.title = `<title>${(0, import_index_8b43e98c.e)($title)}</title>`, ""}`, ""}
+  return `${$$result.head += `<!-- HEAD_svelte-1igowiq_START -->${$$result.title = `<title>${(0, import_index_db852415.e)($title)}</title>`, ""}<!-- HEAD_svelte-1igowiq_END -->`, ""}
 
-<h2>${(0, import_index_8b43e98c.e)(pageTitle)}</h2>
+<h2>${(0, import_index_db852415.e)(pageTitle)}</h2>
 
 <p>There are several places you can buy Gackt, S.Q.F etc releases online.</p>
 
-<ul><li>${(0, import_index_8b43e98c.v)(import_Link_1d087319.L, "Link").$$render($$result, { href: "http://www.yesasia.com/" }, {}, {
+<ul><li>${(0, import_index_db852415.v)(import_Link_a57e5296.L, "Link").$$render($$result, { href: "http://www.yesasia.com/" }, {}, {
     default: () => {
       return `YesAsia`;
     }
   })}</li>
-	<li>${(0, import_index_8b43e98c.v)(import_Link_1d087319.L, "Link").$$render($$result, { href: "http://www.cdjapan.co.jp/" }, {}, {
+	<li>${(0, import_index_db852415.v)(import_Link_a57e5296.L, "Link").$$render($$result, { href: "http://www.cdjapan.co.jp/" }, {}, {
     default: () => {
       return `CD Japan`;
     }
   })}</li>
-	<li>${(0, import_index_8b43e98c.v)(import_Link_1d087319.L, "Link").$$render($$result, { href: "http://www.amazon.co.jp/" }, {}, {
+	<li>${(0, import_index_db852415.v)(import_Link_a57e5296.L, "Link").$$render($$result, { href: "http://www.amazon.co.jp/" }, {}, {
     default: () => {
       return `Amazon Japan`;
     }
   })}</li>
-	<li>${(0, import_index_8b43e98c.v)(import_Link_1d087319.L, "Link").$$render($$result, { href: "http://www.hmv.co.jp/" }, {}, {
+	<li>${(0, import_index_db852415.v)(import_Link_a57e5296.L, "Link").$$render($$result, { href: "http://www.hmv.co.jp/" }, {}, {
     default: () => {
       return `HMV Japan`;
     }
   })}</li>
-	<li>${(0, import_index_8b43e98c.v)(import_Link_1d087319.L, "Link").$$render($$result, { href: "http://buyee.jp/" }, {}, {
+	<li>${(0, import_index_db852415.v)(import_Link_a57e5296.L, "Link").$$render($$result, { href: "http://buyee.jp/" }, {}, {
     default: () => {
       return `Buyee.jp`;
     }
   })}</li>
-	<li>${(0, import_index_8b43e98c.v)(import_Link_1d087319.L, "Link").$$render($$result, { href: "http://www.jlist.com/" }, {}, {
+	<li>${(0, import_index_db852415.v)(import_Link_a57e5296.L, "Link").$$render($$result, { href: "http://www.jlist.com/" }, {}, {
     default: () => {
       return `JList`;
     }

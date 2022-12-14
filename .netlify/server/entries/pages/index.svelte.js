@@ -39,19 +39,7 @@ const Routes = (0, import_index_db852415.c)(($$result, $$props, $$bindings, slot
 
 <h2>Latest Site Updates <a href="${"/site/updates"}" class="${"text-sm"}">read more\xA0\u2192</a></h2>
 
-<p><strong>18.05.21</strong><br>
-	Luscious have announced they&#39;re going to be doing another live performance on June 17th! It&#39;ll be at Club Phase Takadanobaba in Tokyo, and will be streamed on ${(0, import_index_db852415.v)(import_Link_a57e5296.L, "Link").$$render($$result, {
-    href: "https://twitcasting.tv/chachamaru_yfcz"
-  }, {}, {
-    default: () => {
-      return `TwitCasting`;
-    }
-  })} again. For full details, see ${(0, import_index_db852415.v)(import_Link_a57e5296.L, "Link").$$render($$result, {
-    href: "https://twitter.com/CHACHAMARU_YFCz/status/1394626299394625538"
-  }, {}, {
-    default: () => {
-      return `Chacha&#39;s Twitter`;
-    }
-  })}.
+<p><strong>14.12.22</strong><br>
+	I&#39;ve updated the site.
 </p>`;
 });

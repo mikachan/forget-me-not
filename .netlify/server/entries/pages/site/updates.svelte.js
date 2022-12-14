@@ -62,6 +62,24 @@ const Updates = (0, import_index_db852415.c)(($$result, $$props, $$bindings, slo
 
 <hr class="${"border-b-1 svelte-1thul10"}">
 
+<p><strong>18.05.21</strong><br>
+	Luscious have announced they&#39;re going to be doing another live performance on June 17th! It&#39;ll be at Club Phase Takadanobaba in Tokyo, and will be streamed on ${(0, import_index_db852415.v)(import_Link_a57e5296.L, "Link").$$render($$result, {
+    href: "https://twitcasting.tv/chachamaru_yfcz"
+  }, {}, {
+    default: () => {
+      return `TwitCasting`;
+    }
+  })} again. For full details, see ${(0, import_index_db852415.v)(import_Link_a57e5296.L, "Link").$$render($$result, {
+    href: "https://twitter.com/CHACHAMARU_YFCz/status/1394626299394625538"
+  }, {}, {
+    default: () => {
+      return `Chacha&#39;s Twitter`;
+    }
+  })}.
+</p>
+
+<hr class="${"border-b-1 svelte-1thul10"}">
+
 <p><strong>16.02.21</strong><br>
 	Ded Chaplin and Luscious are streaming two live performances on 17th and 18th February, from The Doors in Hatsudai. You can purchase tickets to watch the performances live through ${(0, import_index_db852415.v)(import_Link_a57e5296.L, "Link").$$render($$result, {
     href: "https://twitcasting.tv/chachamaru_yfcz"

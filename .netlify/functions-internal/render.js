@@ -5,7 +5,7 @@ exports.handler = init({
 	assets: new Set(["_redirects","downloads/etude.txt","downloads/life-soyokaze.mp4","favicon.png","robots.txt"]),
 	mimeTypes: {".txt":"text/plain",".mp4":"video/mp4",".png":"image/png"},
 	_: {
-		entry: {"file":"start-92743e37.js","js":["start-92743e37.js","chunks/index-6f6aa9b1.js","chunks/index-2a41a2b9.js"],"css":[]},
+		entry: {"file":"start-775545aa.js","js":["start-775545aa.js","chunks/index-6f6aa9b1.js","chunks/index-2a41a2b9.js"],"css":[]},
 		nodes: [
 			() => Promise.resolve().then(() => require('../server/nodes/0.js')),
 			() => Promise.resolve().then(() => require('../server/nodes/1.js')),

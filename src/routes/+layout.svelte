@@ -1,5 +1,4 @@
 <script lang="ts">
-	export const trailingSlash = 'always';
 	export const prerender = true;
 
 	import { dev } from '$app/environment';

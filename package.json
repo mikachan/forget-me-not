@@ -53,6 +53,7 @@
   "dependencies": {
     "@fontsource/fira-mono": "^4.5.10",
     "@lukeed/uuid": "^2.0.0",
+    "@sveltejs/adapter-auto": "^1.0.0",
     "@testing-library/svelte": "^3.2.2",
     "@types/jest": "^29.2.4",
     "cookie": "^0.5.0",

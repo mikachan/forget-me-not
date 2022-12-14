@@ -1,4 +1,6 @@
 <script lang="ts">
+	export const ssr = false;
+	
 	import { dev } from '$app/environment';
 	import { page } from '$app/stores';
     import { onMount } from 'svelte';

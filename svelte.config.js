@@ -1,4 +1,4 @@
-import preprocess from 'svelte-preprocess';
+import { vitePreprocess } from '@sveltejs/kit/vite';
 import adapter from '@sveltejs/adapter-netlify';
 import svelteImage from 'svelte-image';
 
@@ -7,23 +7,13 @@ const config = {
 	// Consult https://github.com/sveltejs/svelte-preprocess
 	// for more information about preprocessors
 	preprocess: [
-		preprocess({
+		vitePreprocess({
 			postcss: true,
 			...svelteImage(),
 		}),
 	],
 	kit: {
 		adapter: adapter(),
-		vite: {
-			optimizeDeps: {
-				include: ['blurhash'],
-				exclude: ['sharp'],
-			},
-			ssr: {
-				external: ['sharp'],
-				noExternal: ['svelte-image'],
-			},
-		},
 	},
 };
 

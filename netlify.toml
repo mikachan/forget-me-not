@@ -2,3 +2,9 @@
   command = "npm run build"
   publish = "build"
   functions = "functions"
+
+[[redirects]]
+  from = "https://sekai.co.uk/you"
+  to = "https://you.sekai.co.uk"
+  status = 301
+  force = true

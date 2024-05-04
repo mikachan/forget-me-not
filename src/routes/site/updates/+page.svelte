@@ -19,8 +19,8 @@
 <h2>{pageTitle}</h2>
 
 <p>
-	<strong>18.05.21</strong><br>
-	Luscious have announced they're going to be doing another live performance on June 17th! It'll be at Club Phase Takadanobaba in Tokyo, and will be streamed on <Link href="https://twitcasting.tv/chachamaru_yfcz">TwitCasting</Link> again. For full details, see <Link href="https://twitter.com/CHACHAMARU_YFCz/status/1394626299394625538">Chacha's Twitter</Link>.
+	<strong>14.12.22</strong><br>
+	Updated the site to use <Link href="https://kit.svelte.dev/">SvelteKit 1.0.0</Link> 🎉.
 </p>
 
 <hr class="border-b-1">

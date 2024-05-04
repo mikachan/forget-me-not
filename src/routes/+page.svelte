@@ -13,6 +13,6 @@
 <h2>Latest Site Updates <a href="/site/updates" class="text-sm">read more&nbsp;&rarr;</a></h2>
 
 <p>
-	<strong>14.12.22</strong><br>
-	Updated the site to use <Link href="https://kit.svelte.dev/">SvelteKit 1.0.0</Link> 🎉.
+	<strong>04.05.24</strong><br>
+	You will be performing at Gackt's birthday celebrations on July 4, 2024. For more information and ticket sales, see <Link href="https://ch.nicovideo.jp/gackt/blomaga/ar2194220">ch.nicovideo.jp</Link>.
 </p>

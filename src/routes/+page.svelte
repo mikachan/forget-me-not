@@ -13,6 +13,6 @@
 <h2>Latest Site Updates <a href="/site/updates" class="text-sm">read more&nbsp;&rarr;</a></h2>
 
 <p>
-	<strong>04.05.24</strong><br>
-	You will be performing at Gackt's birthday celebrations on July 4, 2024. For more information and ticket sales, see <Link href="https://ch.nicovideo.jp/gackt/blomaga/ar2194220">ch.nicovideo.jp</Link>.
+	<strong>10.07.24</strong><br>
+	You unfortunately had to cancel his appearance at Gackt's birthday celebrations on July 4, 2024. You posted a full update on <Link href="https://gackt.com/contents/763853">gackt.com</Link>.
 </p>

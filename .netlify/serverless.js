@@ -1,24 +1,9 @@
 import './shims.js';
 import { Server } from './server/index.js';
-import 'assert';
-import 'net';
-import 'http';
-import 'stream';
-import 'buffer';
-import 'util';
-import 'querystring';
-import 'stream/web';
-import 'worker_threads';
-import 'perf_hooks';
-import 'util/types';
-import 'url';
-import 'string_decoder';
-import 'events';
-import 'tls';
-import 'async_hooks';
-import 'console';
-import 'zlib';
-import 'crypto';
+import { createReadStream } from 'node:fs';
+import { Readable } from 'node:stream';
+import 'node:buffer';
+import 'node:crypto';
 
 var setCookie = {exports: {}};
 
@@ -111,24 +96,30 @@ function parse(input, options) {
     }
   }
 
-  if (input.headers && input.headers["set-cookie"]) {
-    // fast-path for node.js (which automatically normalizes header names to lower-case
-    input = input.headers["set-cookie"];
-  } else if (input.headers) {
-    // slow-path for other environments - see #25
-    var sch =
-      input.headers[
-        Object.keys(input.headers).find(function (key) {
-          return key.toLowerCase() === "set-cookie";
-        })
-      ];
-    // warn if called on a request-like object with a cookie header rather than a set-cookie header - see #34, 36
-    if (!sch && input.headers.cookie && !options.silent) {
-      console.warn(
-        "Warning: set-cookie-parser appears to have been called on a request object. It is designed to parse Set-Cookie headers from responses, not Cookie headers from requests. Set the option {silent: true} to suppress this warning."
-      );
+  if (input.headers) {
+    if (typeof input.headers.getSetCookie === "function") {
+      // for fetch responses - they combine headers of the same type in the headers array,
+      // but getSetCookie returns an uncombined array
+      input = input.headers.getSetCookie();
+    } else if (input.headers["set-cookie"]) {
+      // fast-path for node.js (which automatically normalizes header names to lower-case
+      input = input.headers["set-cookie"];
+    } else {
+      // slow-path for other environments - see #25
+      var sch =
+        input.headers[
+          Object.keys(input.headers).find(function (key) {
+            return key.toLowerCase() === "set-cookie";
+          })
+        ];
+      // warn if called on a request-like object with a cookie header rather than a set-cookie header - see #34, 36
+      if (!sch && input.headers.cookie && !options.silent) {
+        console.warn(
+          "Warning: set-cookie-parser appears to have been called on a request object. It is designed to parse Set-Cookie headers from responses, not Cookie headers from requests. Set the option {silent: true} to suppress this warning."
+        );
+      }
+      input = sch;
     }
-    input = sch;
   }
   if (!Array.isArray(input)) {
     input = [input];
@@ -258,7 +249,8 @@ function split_headers(headers) {
 
 	headers.forEach((value, key) => {
 		if (key === 'set-cookie') {
-			m[key] = splitCookiesString_1(value);
+			if (!m[key]) m[key] = [];
+			m[key].push(...splitCookiesString_1(value));
 		} else {
 			h[key] = value;
 		}
@@ -271,6 +263,16 @@ function split_headers(headers) {
 }
 
 /**
+ * Converts a file on disk to a readable stream
+ * @param {string} file
+ * @returns {ReadableStream}
+ * @since 2.4.0
+ */
+function createReadableStream(file) {
+	return /** @type {ReadableStream} */ (Readable.toWeb(createReadStream(file)));
+}
+
+/**
  * @param {import('@sveltejs/kit').SSRManifest} manifest
  * @returns {import('@netlify/functions').Handler}
  */
@@ -278,7 +280,8 @@ function init(manifest) {
 	const server = new Server(manifest);
 
 	let init_promise = server.init({
-		env: process.env
+		env: process.env,
+		read: (file) => createReadableStream(`.netlify/server/${file}`)
 	});
 
 	return async (event, context) => {

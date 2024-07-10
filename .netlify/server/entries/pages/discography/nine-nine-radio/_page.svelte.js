@@ -1,25 +1,13 @@
-import { c as create_ssr_component, b as subscribe, e as escape } from "../../../../chunks/index.js";
+import { c as create_ssr_component, a as subscribe, e as escape } from "../../../../chunks/ssr.js";
 import { t as title } from "../../../../chunks/store.js";
 const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   let $title, $$unsubscribe_title;
   $$unsubscribe_title = subscribe(title, (value) => $title = value);
   let { pageTitle = "Radio Phone Call from nine*nine" } = $$props;
   title.set(pageTitle);
-  if ($$props.pageTitle === void 0 && $$bindings.pageTitle && pageTitle !== void 0)
-    $$bindings.pageTitle(pageTitle);
+  if ($$props.pageTitle === void 0 && $$bindings.pageTitle && pageTitle !== void 0) $$bindings.pageTitle(pageTitle);
   $$unsubscribe_title();
-  return `${$$result.head += `<!-- HEAD_svelte-1igowiq_START -->${$$result.title = `<title>${escape($title)}</title>`, ""}<!-- HEAD_svelte-1igowiq_END -->`, ""}
-
-<h2>${escape(pageTitle)}</h2>
-
-<p>The following is from a radio broadcast that was included on a DVD in Gackt&#39;s <em>nine*nine</em> box set. The broadcast was held by Gackt and one of his staff members. They mainly talk about the beginning of Gackt&#39;s solo career in 1999, and Miyavi and Kamijo appear as guests. Later on in the show, around 3am, You calls in and has a short conversation with Gackt.</p>
-
-<h3>Watch on Youtube</h3>
-<iframe title="${"Life"}" class="${"mb-4"}" src="${"https://www.youtube.com/embed/d1HitQ9jTxY"}" frameborder="${"0"}" allow="${"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"}" allowfullscreen></iframe>
-
-<h3>Transcript &amp; Translation</h3>
-
-<p>You: Morimori (&#39;Hello&#39; in Kansai dialect)<br>
+  return `${$$result.head += `<!-- HEAD_svelte-1igowiq_START -->${$$result.title = `<title>${escape($title)}</title>`, ""}<!-- HEAD_svelte-1igowiq_END -->`, ""} <h2>${escape(pageTitle)}</h2> <p data-svelte-h="svelte-7xjdqm">The following is from a radio broadcast that was included on a DVD in Gackt&#39;s <em>nine*nine</em> box set. The broadcast was held by Gackt and one of his staff members. They mainly talk about the beginning of Gackt&#39;s solo career in 1999, and Miyavi and Kamijo appear as guests. Later on in the show, around 3am, You calls in and has a short conversation with Gackt.</p> <h3 data-svelte-h="svelte-dkzxh1">Watch on Youtube</h3> <iframe title="Life" class="mb-4" src="https://www.youtube.com/embed/d1HitQ9jTxY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <h3 data-svelte-h="svelte-1lcdwcs">Transcript &amp; Translation</h3> <p data-svelte-h="svelte-1fjky5a">You: Morimori (&#39;Hello&#39; in Kansai dialect)<br>
 	Gackt: You&#39;re not motivated huh?<br>
 	You: Yeahh, I&#39;m tireddd...<br>
 	Gackt: You&#39;re just on the phone, I&#39;m in the studio recording right now!<br>
@@ -74,12 +62,7 @@ const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
 	You: hahahaha really?!<br>
 	Gackt: Thanks<br>
 	You: No probs, bye bye<br>
-	Gackt: Bye!
-</p>
-
-<p>Original translation by <strong>emi1002</strong> on Youtube ❤️</p>
-
-<p><a href="${"/discography/appearances"}">← Back to Appearances</a></p>`;
+	Gackt: Bye!</p> <p data-svelte-h="svelte-11uz51x">Original translation by <strong>emi1002</strong> on Youtube ❤️</p> <p data-svelte-h="svelte-1l8is2a"><a href="/discography/appearances">← Back to Appearances</a></p>`;
 });
 export {
   Page as default

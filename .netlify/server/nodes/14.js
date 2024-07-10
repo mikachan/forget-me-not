@@ -1,8 +1,8 @@
 
 
 export const index = 14;
-export const component = async () => (await import('../entries/pages/music-career/maracas/_page.svelte.js')).default;
-export const file = '_app/immutable/components/pages/music-career/maracas/_page.svelte-fbd78d23.js';
-export const imports = ["_app/immutable/components/pages/music-career/maracas/_page.svelte-fbd78d23.js","_app/immutable/chunks/index-b9e6f8c5.js","_app/immutable/chunks/Link-f70f17d9.js","_app/immutable/chunks/Image-58742509.js","_app/immutable/chunks/1996-mm-f4d5cd01.js","_app/immutable/chunks/store-8df43366.js","_app/immutable/chunks/index-07cc4148.js"];
-export const stylesheets = ["_app/immutable/assets/Image-6ff1c4f2.css"];
+let component_cache;
+export const component = async () => component_cache ??= (await import('../entries/pages/music-career/maracas/_page.svelte.js')).default;
+export const imports = ["_app/immutable/nodes/14.DbgQGDZQ.js","_app/immutable/chunks/scheduler.Bo3Zsy8n.js","_app/immutable/chunks/index.BzCFKv-5.js","_app/immutable/chunks/Link.DQ7OeXZP.js","_app/immutable/chunks/Image.DaX1tWsV.js","_app/immutable/chunks/1996-mm.DEtI_Lra.js","_app/immutable/chunks/store.DlPclBXN.js","_app/immutable/chunks/index.Dj-1nGQs.js"];
+export const stylesheets = ["_app/immutable/assets/Image.Dt0nRtnj.css"];
 export const fonts = [];

@@ -53,7 +53,7 @@
 	});
 </script>
 
-<style>	
+<style>
 	@media (min-width: 1024px) {
 		.image-rotation figure {
 			height: 500px;
@@ -78,12 +78,12 @@
 
 				<h1 class="text-3xl font-bold pt-8 lg:pt-0 text-center lg:text-left">Forget-me-not: a You fansite</h1>
 				<div class="mx-auto lg:mx-0 w-4/5 my-3 border-b-2 border-green-500 opacity-25"></div>
-				
+
 				<slot></slot>
 
 				<div class="pt-4">
 					<p class="italic text-xs text-center lg:text-left">
-						&copy; 2004-2023<br>
+						&copy; 2004-2024<br>
 						<Link href="https://sekai.co.uk" class="no-underline">Contact webmaster</Link> &bullet; <Link href="https://github.com/mikachan/forget-me-not" class="no-underline">View on GitHub</Link>
 					</p>
 				</div>

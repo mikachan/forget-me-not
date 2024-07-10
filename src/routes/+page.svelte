@@ -8,7 +8,7 @@
 	<title>Forget-me-not | You fansite</title>
 </svelte:head>
 
-<p>Welcome to <strong>Forget-me-not</strong>, an <a href="/site/history">English fansite</a> dedicated to the Japanese musician, <strong>You</strong>, best known for playing guitar and violin for <Link href="https://gackt.com/">Gackt</Link> and <Link href="http://www.sqf.jp/">S.Q.F</Link>.</p>
+<p>Welcome to <strong>Forget-me-not</strong>, an <a href="/site/history">English fansite</a> dedicated to the Japanese musician, <strong>You</strong>, best known for songwriting and playing guitar and violin for <Link href="https://gackt.com/">Gackt</Link> and <Link href="http://www.sqf.jp/">S.Q.F</Link>.</p>
 
 <h2>Latest Site Updates <a href="/site/updates" class="text-sm">read more&nbsp;&rarr;</a></h2>
 

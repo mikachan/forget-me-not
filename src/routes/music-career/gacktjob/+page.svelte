@@ -1,6 +1,4 @@
 <script context="module" lang="ts">
-	export const prerender = true;
-	
 	import { title } from "../../../store";
 	export let pageTitle: string = 'GacktJob';
 	title.set(pageTitle);

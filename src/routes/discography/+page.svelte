@@ -1,6 +1,4 @@
 <script context="module" lang="ts">
-	export const prerender = true;
-	
 	import Image from "svelte-image";
 
 	import moonchild from '$lib/images/you/moonchild.jpg';

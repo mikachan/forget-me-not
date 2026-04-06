@@ -1,6 +1,9 @@
+import { createRequire } from 'node:module';
 import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
 import adapter from '@sveltejs/adapter-netlify';
-import svelteImage from 'svelte-image';
+
+const require = createRequire(import.meta.url);
+const svelteImage = require('svelte-image');
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
@@ -17,6 +20,14 @@ const config = {
 			edge: false,
 			split: true,
 		}),
+		prerender: {
+			handleHttpError: ({ status, message }) => {
+				if (status === 404) {
+					return;
+				}
+				throw new Error(message);
+			},
+		},
 	},
 };
 

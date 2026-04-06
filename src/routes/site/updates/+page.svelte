@@ -11,6 +11,8 @@
 </svelte:head>
 
 <style lang="postcss">
+	@reference "tailwindcss";
+
 	hr {
 		@apply mt-2 mb-4 border-green-400 opacity-25;
 	}

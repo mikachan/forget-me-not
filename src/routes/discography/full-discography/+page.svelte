@@ -1,6 +1,4 @@
 <script context="module" lang="ts">
-	export const prerender = true;
-	
 	let albumsTable: HTMLElement, albumsFade: HTMLElement, singlesTable: HTMLElement, singlesFade: HTMLElement, dvdsTable: HTMLElement, dvdsFade: HTMLElement;
 
 	function handleGradientVisibility(el: HTMLElement, fadeEl: HTMLElement) {
@@ -24,6 +22,8 @@
 </svelte:head>
 
 <style lang="postcss">
+	@reference "tailwindcss";
+
 	.table-container {
 		@apply relative;
 	}

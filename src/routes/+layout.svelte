@@ -1,7 +1,5 @@
 <script lang="ts">
-	export const prerender = true;
-
-	import { dev } from '$app/environment';
+	import { browser, dev } from '$app/environment';
 	import { page } from '$app/stores';
     import { onMount } from 'svelte';
 	import { GoogleAnalytics } from '@beyonk/svelte-google-analytics';
@@ -61,7 +59,7 @@
 	}
 </style>
 
-{#if !dev}
+{#if browser && !dev}
 	<GoogleAnalytics properties={[ 'G-WN3BJ9W3N5' ]} />
 {/if}
 

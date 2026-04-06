@@ -18,6 +18,6 @@
 
 <p>You can view the site source on <Link href="https://github.com/mikachan/forget-me-not">GitHub</Link>.</p>
 
-<p><a href="site/thanks">Thank you</a> to everyone who helped make this site possible over the years.</p>
+<p><a href="/site/thanks">Thank you</a> to everyone who helped make this site possible over the years.</p>
 
 <p>I'm <Link href="https://sekai.co.uk">Sarah</Link>, your average J-rock/anything-Japanese nerd from the UK.</p>

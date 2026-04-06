@@ -29,7 +29,7 @@
 <nav>
 	<ul>
 		<li>
-			<a aria-current="{$page.url.pathname === '/' ? 'page' : undefined}" class:active={$page.url.pathname == '/'} href=".">
+			<a aria-current="{$page.url.pathname === '/' ? 'page' : undefined}" class:active={$page.url.pathname == '/'} href="/">
 				<span>Home</span>
 			</a>
 		</li>

@@ -29,3 +29,14 @@ To commit, use:
 ```shell
 npm run cz
 ```
+
+## No-JS Baseline
+
+The site is prerendered and should remain usable without client-side JavaScript. Keep navigation as normal anchors, keep the mobile menu functional with native HTML controls, and make sure images render as real `img` elements in the generated HTML.
+
+Useful checks:
+
+```shell
+npm run build
+rg "<img|<details|<a " build --glob '*.html'
+```

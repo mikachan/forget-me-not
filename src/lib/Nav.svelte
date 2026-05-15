@@ -1,12 +1,21 @@
 <script lang="ts">
+	import { afterNavigate } from '$app/navigation';
 	import NavContent from '$lib/NavContent.svelte';
+
+	let mobileNav: HTMLDetailsElement | undefined;
+
+	afterNavigate(() => {
+		if (mobileNav) {
+			mobileNav.open = false;
+		}
+	});
 </script>
 
 <div class="hidden lg:block lg:w-3/5 relative top-16">
 	<NavContent />
 </div>
 
-<details class="block lg:hidden">
+<details bind:this={mobileNav} class="block lg:hidden">
 	<summary aria-label="Menu">
 		<span class="menu-icon">
 			<svg

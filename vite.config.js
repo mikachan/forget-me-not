@@ -11,9 +11,15 @@ const config = {
 	resolve: {
 		alias: {
 			// Package `main` points at the CJS preprocessor; resolve the component for app imports.
-			'svelte-image': path.resolve(__dirname, 'node_modules/svelte-image/src/Image.svelte'),
+			'svelte-image': path.resolve(
+				__dirname,
+				'node_modules/svelte-image/src/Image.svelte'
+			),
 			// Prebuilt `dist` is legacy Svelte 3; compile source for Svelte 5 / SSR.
-			'svelte-waypoint': path.resolve(__dirname, 'node_modules/svelte-waypoint/src/Waypoint.svelte'),
+			'svelte-waypoint': path.resolve(
+				__dirname,
+				'node_modules/svelte-waypoint/src/Waypoint.svelte'
+			),
 		},
 	},
 	optimizeDeps: {

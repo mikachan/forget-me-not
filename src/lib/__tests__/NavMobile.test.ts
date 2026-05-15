@@ -1,5 +1,3 @@
-import '@testing-library/jest-dom/extend-expect';
-
 import NavMobile from '../NavMobile.svelte';
 import { render } from '@testing-library/svelte';
 

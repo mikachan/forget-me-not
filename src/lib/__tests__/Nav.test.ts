@@ -1,5 +1,3 @@
-import '@testing-library/jest-dom/extend-expect';
-
 import Nav from '../Nav.svelte';
 import { render } from '@testing-library/svelte';
 

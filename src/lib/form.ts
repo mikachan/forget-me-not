@@ -8,7 +8,11 @@ export function enhance(
 		result,
 	}: {
 		pending?: (data: FormData, form: HTMLFormElement) => void;
-		error?: (res: Response, error: Error, form: HTMLFormElement) => void;
+		error?: (
+			res: Response | null,
+			error: unknown,
+			form: HTMLFormElement
+		) => void;
 		result: (res: Response, form: HTMLFormElement) => void;
 	}
 ) {

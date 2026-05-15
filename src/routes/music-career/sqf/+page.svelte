@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { title } from "../../../store";
+	import { title } from '../../../store';
 	export let pageTitle: string = 'S.Q.F';
 	title.set(pageTitle);
 </script>
@@ -12,4 +12,4 @@
 
 <p>Coming soon.</p>
 
-<p><a href="/music-career">&larr; Backt to Music Career</a></p>
+<p><a href="/music-career">&larr; Back to Music Career</a></p>

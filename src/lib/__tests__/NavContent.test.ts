@@ -20,6 +20,8 @@ test('sets aria-current and active class when home is not the current page', () 
 	const currentMenuItem = document.querySelector('[aria-current="page"]');
 
 	expect(currentMenuItem).toBeInTheDocument();
+	if (!currentMenuItem) throw new Error('Expected current menu item');
+
 	expect(currentMenuItem.innerHTML).toContain('About YOU');
 	expect(currentMenuItem).toHaveClass('active');
 });

@@ -7,14 +7,26 @@
 	export let ratio = '100%';
 	export let width: string | number | null = null;
 	export let height: string | number | null = null;
+	export let align: 'left' | 'right' | undefined = undefined;
 	export let lazy = true;
 	export let wrapperClass = '';
 
 	let className = '';
 	export { className as class };
+
+	const formatLength = (value: string | number) =>
+		typeof value === 'number' || /^\d+$/.test(value) ? `${value}px` : value;
+
+	$: wrapperStyle = [
+		'min-height: 100px',
+		`width: ${align && width ? formatLength(width) : '100%'}`,
+		align ? `float: ${align}` : ''
+	]
+		.filter(Boolean)
+		.join('; ');
 </script>
 
-<div class={wrapperClass} style="min-height: 100px; width: 100%;">
+<div class={wrapperClass} style={wrapperStyle}>
 	<div style="position: relative; overflow: hidden; width: 100%;">
 		<div style="width: 100%; padding-bottom: {ratio};"></div>
 		<picture>

@@ -5,7 +5,7 @@ function createTitle() {
 
 	return {
 		subscribe,
-		set: (value) => {
+		set: (value: string) => {
 			set(`${value} • Forget-me-not: a You fansite`);
 		},
 		clear: () => {

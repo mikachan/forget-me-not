@@ -81,7 +81,7 @@
 
 				<div class="pt-4">
 					<p class="italic text-xs text-center lg:text-left">
-						&copy; 2004-2024<br>
+						&copy; 2004-2026<br>
 						<Link href="https://sekai.co.uk" class="no-underline">Contact webmaster</Link> &bullet; <Link href="https://github.com/mikachan/forget-me-not" class="no-underline">View on GitHub</Link>
 					</p>
 				</div>

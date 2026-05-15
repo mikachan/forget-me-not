@@ -1,4 +1,6 @@
 <script lang="ts">
+	import Link from '$lib/Link.svelte';
+
 	import { title } from "../../../store";
 	export let pageTitle: string = 'Radio Phone Call from nine*nine';
 	title.set(pageTitle);
@@ -14,6 +16,7 @@
 
 <h3>Watch on Youtube</h3>
 <iframe title="Life" class="mb-4" src="https://www.youtube.com/embed/d1HitQ9jTxY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p class="text-sm"><Link href="https://www.youtube.com/watch?v=d1HitQ9jTxY">Watch this video on YouTube</Link>.</p>
 
 <h3>Transcript &amp; Translation</h3>
 

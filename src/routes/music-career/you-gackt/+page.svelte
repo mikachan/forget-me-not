@@ -91,6 +91,12 @@
 	class="mb-4"
 ></iframe>
 
+<p class="text-sm">
+	<Link href="https://www.youtube.com/watch?v=8v2FPRve0S4"
+		>Watch this video on YouTube</Link
+	>.
+</p>
+
 <p>
 	Gackt has also described this night in an interview from <em
 		>Vicious 08.1998</em

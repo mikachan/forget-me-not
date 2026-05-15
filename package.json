@@ -14,10 +14,10 @@
 		"dev:only": "vite dev",
 		"build:only": "vite build",
 		"preview": "vite preview",
-		"lint": "prettier --ignore-path .gitignore --check . && eslint .",
-		"format": "prettier --ignore-path .gitignore --write .",
+		"lint": "prettier --ignore-path .gitignore --ignore-path .prettierignore --check . && eslint .",
+		"format": "prettier --ignore-path .gitignore --ignore-path .prettierignore --write .",
 		"tailwind:watch": "NODE_ENV=development postcss src/styles/tailwind.css -o src/styles/tailwind-output.css -w",
-		"tailwind:build": "NODE_ENV=production postcss src/styles/tailwind.css -o src/styles/tailwind-output.css && prettier --write src/styles/tailwind-output.css",
+		"tailwind:build": "NODE_ENV=production postcss src/styles/tailwind.css -o src/styles/tailwind-output.css",
 		"test": "NODE_OPTIONS=--experimental-vm-modules jest"
 	},
 	"devDependencies": {

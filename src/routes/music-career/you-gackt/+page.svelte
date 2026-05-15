@@ -1,6 +1,6 @@
 <script context="module" lang="ts">
 	import Link from '$lib/Link.svelte';
-	import Image from "svelte-image";
+	import Image from '$lib/Image.svelte';
 
 	import hana from '$lib/images/cains-feel/hana.png';
 

@@ -1,6 +1,6 @@
 <script context="module" lang="ts">
 	import Link from '$lib/Link.svelte';
-	import Image from "svelte-image";
+	import Image from '$lib/Image.svelte';
 
 	import tape from '$lib/images/cains-feel/tape.jpg';
 	import tape2 from '$lib/images/cains-feel/tape-brown.jpg';

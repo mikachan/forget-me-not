@@ -1,6 +1,6 @@
 <script lang="ts">
 	import Link from '$lib/Link.svelte';
-	import Image from "svelte-image";
+	import Image from '$lib/Image.svelte';
 
 	import cake from '$lib/images/you/bdaycake.jpg';
 

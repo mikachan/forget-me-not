@@ -1,5 +1,5 @@
 <script context="module" lang="ts">
-	import Image from "svelte-image";
+	import Image from '$lib/Image.svelte';
 
 	import moonchild from '$lib/images/you/moonchild.jpg';
 

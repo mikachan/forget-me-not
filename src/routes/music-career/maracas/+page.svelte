@@ -1,6 +1,6 @@
 <script lang="ts">
 	import Link from '$lib/Link.svelte';
-	import Image from "svelte-image";
+	import Image from '$lib/Image.svelte';
 
 	import maracas from '$lib/images/you/1996-mm.jpeg';
 

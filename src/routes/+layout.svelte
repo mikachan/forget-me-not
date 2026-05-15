@@ -4,7 +4,7 @@
 	import { GoogleAnalytics } from '@beyonk/svelte-google-analytics';
 	import Nav from '$lib/Nav.svelte';
 	import Link from '$lib/Link.svelte';
-	import Image from 'svelte-image';
+	import Image from '$lib/Image.svelte';
 
 	import '../styles/tailwind-output.css';
 	import '../app.css';
@@ -117,7 +117,6 @@
 					alt="You"
 					class="rounded-none lg:rounded-lg shadow-2xl"
 					ratio="141%"
-					placeholderClass="rounded-none lg:rounded-lg"
 				/>
 			</figure>
 		</div>

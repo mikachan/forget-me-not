@@ -1,9 +1,5 @@
-import { createRequire } from 'node:module';
 import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
 import adapter from '@sveltejs/adapter-netlify';
-
-const require = createRequire(import.meta.url);
-const svelteImage = require('svelte-image');
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
@@ -12,7 +8,6 @@ const config = {
 	preprocess: [
 		vitePreprocess({
 			postcss: true,
-			...svelteImage(),
 		}),
 	],
 	kit: {

@@ -1,5 +1,5 @@
 <script context="module" lang="ts">
-	import Image from "svelte-image";
+	import Image from '$lib/Image.svelte';
 	import Link from '$lib/Link.svelte';
 
 	import cainsFeel from '$lib/images/cains-feel/cainsfeel03.jpeg';

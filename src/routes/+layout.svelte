@@ -1,7 +1,6 @@
 <script lang="ts">
 	import { browser, dev } from '$app/environment';
-	import { page } from '$app/stores';
-	import { onMount } from 'svelte';
+	import { afterNavigate } from '$app/navigation';
 	import { GoogleAnalytics } from '@beyonk/svelte-google-analytics';
 	import Nav from '$lib/Nav.svelte';
 	import Link from '$lib/Link.svelte';
@@ -28,39 +27,38 @@
 	import you15 from '$lib/images/image-rotation/you15.jpg';
 	import you16 from '$lib/images/image-rotation/you16.jpg';
 
+	const youPics: string[] = [
+		you01,
+		you02,
+		you03,
+		you04,
+		you05,
+		you06,
+		you07,
+		you08,
+		you09,
+		you10,
+		you11,
+		you12,
+		you13,
+		you14,
+		you15,
+		you16,
+	];
+
 	let mainImage: string = you01;
-	let mainContent: HTMLElement;
+	let mainContent: HTMLElement | undefined;
 
 	function randomYouImage(): string {
-		const youPics: string[] = [
-			you01,
-			you02,
-			you03,
-			you04,
-			you05,
-			you06,
-			you07,
-			you08,
-			you09,
-			you10,
-			you11,
-			you12,
-			you13,
-			you14,
-			you15,
-			you16,
-		];
 		const randomNum: number = Math.floor(Math.random() * youPics.length);
 		return youPics[randomNum];
 	}
 
-	onMount(() => {
-		mainContent = document.querySelector('.main-content');
-	});
-
-	page.subscribe(({ url, params, status }) => {
+	afterNavigate(() => {
 		mainImage = randomYouImage();
-		if (mainContent) mainContent.scrollTop = 0;
+		if (mainContent) {
+			mainContent.scrollTop = 0;
+		}
 	});
 </script>
 
@@ -78,6 +76,7 @@
 		<Nav />
 
 		<div
+			bind:this={mainContent}
 			class="main-content w-full lg:w-3/5 rounded-lg lg:rounded-l-lg lg:rounded-r-none shadow-2xl bg-white opacity-75 lg:mx-0 lg:h-4/6 lg:overflow-y-scroll"
 		>
 			<div class="p-4 md:p-6">

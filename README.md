@@ -37,6 +37,7 @@ The site is prerendered and should remain usable without client-side JavaScript.
 Useful checks:
 
 ```shell
-npm run build
-rg "<img|<details|<a " build --glob '*.html'
+npm run check:noscript
 ```
+
+This checks the source for the current no-JS baseline: native mobile navigation controls, real image markup, no `javascript:` links, and direct YouTube links beside embedded videos.

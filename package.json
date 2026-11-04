@@ -26,6 +26,7 @@
 		"@beyonk/async-script-loader": "^2.3.0",
 		"@beyonk/svelte-google-analytics": "^2.6.4",
 		"@sinonjs/fake-timers": "^15.4.0",
+		"@sveltejs/kit": "^2.70.3",
 		"@tailwindcss/postcss": "^4.3.0",
 		"@tailwindcss/vite": "^4.3.0",
 		"@testing-library/jest-dom": "^7.0.1",
@@ -50,7 +51,6 @@
 	"dependencies": {
 		"@fontsource/fira-mono": "^5.2.7",
 		"@sveltejs/adapter-netlify": "^6.0.4",
-		"@sveltejs/kit": "^2.60.1",
 		"@sveltejs/vite-plugin-svelte": "^7.1.2",
 		"@testing-library/svelte": "^5.3.1",
 		"@types/jest": "^30.0.0",

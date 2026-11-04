@@ -9,7 +9,7 @@ import { sveltekit } from '@sveltejs/kit/vite';
 		sveltekit({
 			// Consult https://github.com/sveltejs/svelte-preprocess
 			// for more information about preprocessors
-			preprocess: [vitePreprocess({ postcss: true })],
+			preprocess: [vitePreprocess()],
 			adapter: adapter({ edge: false, split: true }),
 			prerender: {
 				handleHttpError: ({ status, message }) => {

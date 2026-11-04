@@ -6,7 +6,7 @@
 	import Link from '#lib/Link.svelte';
 	import Image from '#lib/Image.svelte';
 
-	import '../styles/tailwind-output.css';
+	import '../styles/tailwind.css';
 	import '../app.css';
 
 	import bg from '#lib/images/bg02.jpg';

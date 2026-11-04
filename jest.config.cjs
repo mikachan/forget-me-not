@@ -27,8 +27,8 @@ module.exports = {
 	extensionsToTreatAsEsm: ['.svelte', '.ts'],
 	moduleNameMapper: {
 		'^\\$app/navigation$': '<rootDir>/src/lib/__mocks__/app-navigation.ts',
-		'^\\$app/stores$': '<rootDir>/src/lib/__mocks__/app-stores.ts',
-		'^\\$lib(.*)$': '<rootDir>/src/lib$1',
+		'^\\$app/state$': '<rootDir>/src/lib/__mocks__/app-state.ts',
+		'^#lib/(.*)$': '<rootDir>/src/lib/$1',
 		'^\\$app(.*)$': [
 			'<rootDir>/.svelte-kit/dev/runtime/app$1',
 			'<rootDir>/.svelte-kit/build/runtime/app$1',

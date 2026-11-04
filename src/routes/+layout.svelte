@@ -1,31 +1,31 @@
 <script lang="ts">
-	import { browser, dev } from '$app/environment';
+	import { browser, dev } from '$app/env';
 	import { afterNavigate } from '$app/navigation';
 	import { GoogleAnalytics } from '@beyonk/svelte-google-analytics';
-	import Nav from '$lib/Nav.svelte';
-	import Link from '$lib/Link.svelte';
-	import Image from '$lib/Image.svelte';
+	import Nav from '#lib/Nav.svelte';
+	import Link from '#lib/Link.svelte';
+	import Image from '#lib/Image.svelte';
 
 	import '../styles/tailwind-output.css';
 	import '../app.css';
 
-	import bg from '$lib/images/bg02.jpg';
-	import you01 from '$lib/images/image-rotation/you01.jpg';
-	import you02 from '$lib/images/image-rotation/you02.jpg';
-	import you03 from '$lib/images/image-rotation/you03.jpg';
-	import you04 from '$lib/images/image-rotation/you04.jpg';
-	import you05 from '$lib/images/image-rotation/you05.jpg';
-	import you06 from '$lib/images/image-rotation/you06.jpg';
-	import you07 from '$lib/images/image-rotation/you07.jpg';
-	import you08 from '$lib/images/image-rotation/you08.jpg';
-	import you09 from '$lib/images/image-rotation/you09.jpg';
-	import you10 from '$lib/images/image-rotation/you10.jpg';
-	import you11 from '$lib/images/image-rotation/you11.jpg';
-	import you12 from '$lib/images/image-rotation/you12.jpg';
-	import you13 from '$lib/images/image-rotation/you13.jpg';
-	import you14 from '$lib/images/image-rotation/you14.jpg';
-	import you15 from '$lib/images/image-rotation/you15.jpg';
-	import you16 from '$lib/images/image-rotation/you16.jpg';
+	import bg from '#lib/images/bg02.jpg';
+	import you01 from '#lib/images/image-rotation/you01.jpg';
+	import you02 from '#lib/images/image-rotation/you02.jpg';
+	import you03 from '#lib/images/image-rotation/you03.jpg';
+	import you04 from '#lib/images/image-rotation/you04.jpg';
+	import you05 from '#lib/images/image-rotation/you05.jpg';
+	import you06 from '#lib/images/image-rotation/you06.jpg';
+	import you07 from '#lib/images/image-rotation/you07.jpg';
+	import you08 from '#lib/images/image-rotation/you08.jpg';
+	import you09 from '#lib/images/image-rotation/you09.jpg';
+	import you10 from '#lib/images/image-rotation/you10.jpg';
+	import you11 from '#lib/images/image-rotation/you11.jpg';
+	import you12 from '#lib/images/image-rotation/you12.jpg';
+	import you13 from '#lib/images/image-rotation/you13.jpg';
+	import you14 from '#lib/images/image-rotation/you14.jpg';
+	import you15 from '#lib/images/image-rotation/you15.jpg';
+	import you16 from '#lib/images/image-rotation/you16.jpg';
 
 	const youPics: string[] = [
 		you01,

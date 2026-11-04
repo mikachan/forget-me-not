@@ -1,8 +1,8 @@
 <script context="module" lang="ts">
-	import Link from '$lib/Link.svelte';
-	import Image from '$lib/Image.svelte';
+	import Link from '#lib/Link.svelte';
+	import Image from '#lib/Image.svelte';
 
-	import hana from '$lib/images/cains-feel/hana.png';
+	import hana from '#lib/images/cains-feel/hana.png';
 
 	import { title } from '../../../store';
 	export let pageTitle: string = 'You & Gackt';

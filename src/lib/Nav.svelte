@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { afterNavigate } from '$app/navigation';
-	import NavContent from '$lib/NavContent.svelte';
+	import NavContent from '#lib/NavContent.svelte';
 
 	let mobileNav: HTMLDetailsElement | undefined;
 

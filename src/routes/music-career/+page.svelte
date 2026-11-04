@@ -1,13 +1,13 @@
 <script context="module" lang="ts">
-	import Image from '$lib/Image.svelte';
-	import Link from '$lib/Link.svelte';
+	import Image from '#lib/Image.svelte';
+	import Link from '#lib/Link.svelte';
 
-	import cainsFeel from '$lib/images/cains-feel/cainsfeel03.jpeg';
-	import maracas from '$lib/images/you/1996-mm.jpeg';
-	import gacktjob from '$lib/images/gacktjob/gacktjob01.jpg';
-	import yfc from '$lib/images/yfc/yfc01.jpg';
-	import sqf from '$lib/images/sqf/sqf04.jpg';
-	import luscious from '$lib/images/luscious/luscious03.jpeg';
+	import cainsFeel from '#lib/images/cains-feel/cainsfeel03.jpeg';
+	import maracas from '#lib/images/you/1996-mm.jpeg';
+	import gacktjob from '#lib/images/gacktjob/gacktjob01.jpg';
+	import yfc from '#lib/images/yfc/yfc01.jpg';
+	import sqf from '#lib/images/sqf/sqf04.jpg';
+	import luscious from '#lib/images/luscious/luscious03.jpeg';
 
 	import { title } from "../../store";
 	export let pageTitle: string = 'Music Career';

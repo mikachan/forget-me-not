@@ -1,6 +1,6 @@
 import NavContent from '../NavContent.svelte';
 import { render } from '@testing-library/svelte';
-import { setPage } from '../__mocks__/app-stores';
+import { setPage } from '../__mocks__/app-state';
 
 beforeEach(() => {
 	setPage('/');

@@ -1,8 +1,8 @@
 <script lang="ts">
-	import Link from '$lib/Link.svelte';
-	import Image from '$lib/Image.svelte';
+	import Link from '#lib/Link.svelte';
+	import Image from '#lib/Image.svelte';
 
-	import cake from '$lib/images/you/bdaycake.jpg';
+	import cake from '#lib/images/you/bdaycake.jpg';
 
 	import { title } from '../../../store';
 	export let pageTitle: string = 'Birthday 2003';
